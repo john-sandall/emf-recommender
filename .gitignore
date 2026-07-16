@@ -1,6 +1,8 @@
 # Playwright MCP scratch + local previews
 .playwright-mcp/
 *.png
+# ...but the share card is a real deployed asset
+!site/og-image.png
 
 # OS / editor
 .DS_Store
