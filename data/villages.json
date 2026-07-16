@@ -684,21 +684,6 @@
   "num_members": 12
  },
  {
-  "id": 34,
-  "name": "3t.network",
-  "url": "https://www.emfcamp.org/villages/2026/34-3t-network",
-  "external_url": "https://3t.network/about.html",
-  "description": "",
-  "location": {
-   "type": "Point",
-   "coordinates": [
-    -2.3754141134848226,
-    52.04272664018467
-   ]
-  },
-  "num_members": 1
- },
- {
   "id": 54,
   "name": "Bristol Hackspace",
   "url": "https://www.emfcamp.org/villages/2026/54-bristol-hackspace",
@@ -739,6 +724,21 @@
    "coordinates": [
     -2.375824161437066,
     52.041716026958994
+   ]
+  },
+  "num_members": 1
+ },
+ {
+  "id": 34,
+  "name": "3t.network",
+  "url": "https://www.emfcamp.org/villages/2026/34-3t-network",
+  "external_url": "https://3t.network/about.html",
+  "description": "Group of friends who go for tea or coffee at 3pm",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3754141134848226,
+    52.04272664018467
    ]
   },
   "num_members": 1
@@ -1212,21 +1212,6 @@
   "num_members": 19
  },
  {
-  "id": 158,
-  "name": "kgz.sh",
-  "url": "https://www.emfcamp.org/villages/2026/158-kgz-sh",
-  "external_url": "https://kgz.sh",
-  "description": "",
-  "location": {
-   "type": "Point",
-   "coordinates": [
-    -2.3753487198001437,
-    52.04291118491031
-   ]
-  },
-  "num_members": 1
- },
- {
   "id": 28,
   "name": "! Glastonledburyshire-on-Severn !",
   "url": "https://www.emfcamp.org/villages/2026/28-glastonledburyshire-on-severn",
@@ -1309,6 +1294,21 @@
    ]
   },
   "num_members": 9
+ },
+ {
+  "id": 158,
+  "name": "kgz.sh",
+  "url": "https://www.emfcamp.org/villages/2026/158-kgz-sh",
+  "external_url": "https://kgz.sh",
+  "description": "",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3754563394950594,
+    52.04285943644177
+   ]
+  },
+  "num_members": 1
  },
  {
   "id": 79,
