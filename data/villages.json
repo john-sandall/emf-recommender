@@ -2262,7 +2262,7 @@
     52.04091932755546
    ]
   },
-  "num_members": 1
+  "num_members": 3
  },
  {
   "id": 147,
@@ -2370,6 +2370,21 @@
   "num_members": 17
  },
  {
+  "id": 170,
+  "name": "Manchester Unofficial hacman",
+  "url": "https://www.emfcamp.org/villages/2026/170-manchester-unofficial-hacman",
+  "external_url": "",
+  "description": "It seems our hacman village never actually made it and it was over taken by other villages.",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.37669755135488,
+    52.040634970145675
+   ]
+  },
+  "num_members": 1
+ },
+ {
   "id": 84,
   "name": "Forge & Craft / HackWimbledon",
   "url": "https://www.emfcamp.org/villages/2026/84-forge-craft-hackwimbledon",
@@ -2473,5 +2488,20 @@
    ]
   },
   "num_members": 1
+ },
+ {
+  "id": 169,
+  "name": "Tonbridge Makerspace",
+  "url": "https://www.emfcamp.org/villages/2026/169-tonbridge-makerspace",
+  "external_url": "https://tonbridgemaker.space/",
+  "description": "",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3743678446230376,
+    52.04322496277203
+   ]
+  },
+  "num_members": 2
  }
 ]

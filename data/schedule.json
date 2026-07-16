@@ -11486,8 +11486,8 @@
   "occurrences": [
    {
     "occurrence_num": 1,
-    "start_date": "2026-07-19 10:00:00",
-    "end_date": "2026-07-19 11:00:00",
+    "start_date": "2026-07-19 11:00:00",
+    "end_date": "2026-07-19 12:00:00",
     "venue": "Nottingham Hackspace",
     "latlon": [
      52.04198458781886,
@@ -11497,8 +11497,8 @@
     "uses_lottery": false,
     "video_privacy": "public",
     "recording_lost": false,
-    "start_time": "10:00",
-    "end_time": "11:00"
+    "start_time": "11:00",
+    "end_time": "12:00"
    }
   ]
  },
@@ -12415,6 +12415,72 @@
   "content_note": ""
  },
  {
+  "id": 505,
+  "type": "meetup",
+  "names": "Ash Brockwell",
+  "pronouns": null,
+  "title": "Electropoetic Friends",
+  "description": "TBC",
+  "short_description": "TBC",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "electropoetic-friends",
+  "link": "https://www.emfcamp.org/schedule/2026/505-electropoetic-friends",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-19 09:00:00",
+    "end_date": "2026-07-19 10:50:00",
+    "venue": "Bodgeham-on-Wye",
+    "latlon": [
+     52.04122799874966,
+     -2.3756540184625123
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04122799874966/-2.3756540184625123/m=52.04122799874966,-2.3756540184625123",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "09:00",
+    "end_time": "10:50"
+   }
+  ]
+ },
+ {
+  "id": 506,
+  "type": "talk",
+  "names": "Martin Hamilton",
+  "pronouns": null,
+  "title": "Low Background Information will defeat the Slop Ouroboros",
+  "description": " We're in the midst of a genAI slopocalypse, as the Internet has become permeated with hallucinations from the hungry ghosts that stalk our data centres and swarm our networks. It's not surprising that a lot of people have chosen to batten down the hatches and lock down their websites to deter scrapers and the robber barons of genAI digital enclosure, but paradoxically this can make it even harder to find the quality content online. Fortunately there is a wealth of Low Background Information out there that existed before the resistible rise of the chatterbots. Laser rot notwithstanding, there are the venerable discs of the BBC Domesday Project, which crowdsourced information about the UK from around a million children at 10,000 schools in the early 1980s. We also have the likes of Project Gutenberg's curated library of post-copyright literature, the Internet Archive's Wayback Machine, the CLOCKSS digital preservation network for research outputs, and the Kiwix project's offline version of Wikipedia. This talk will cover the epistemic challenges the Slop Ouroboros creates for the reality-based community, using the totally real and in no way made up EMF Orphan Source Village as an example. I'll also consider how we can satisfy ourselves that these data sources haven't been tampered with. And yes, we will go spelunking in the Domesday Discs to see what we can learn about a certain biennial village fete. There may also be bonus tetrapod content, however it is important to be clear that there is definitely no Tetrapod Cult.",
+  "short_description": "This talk will cover the epistemic challenges the Slop Ouroboros creates for the reality-based community, using the totally real and in no way made up EMF Orphan Source Village as an example",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "low-background-information-will-defeat-the-slop-ouroboros",
+  "link": "https://www.emfcamp.org/schedule/2026/506-low-background-information-will-defeat-the-slop-ouroboros",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-19 13:00:00",
+    "end_date": "2026-07-19 13:30:00",
+    "venue": "Bodgeham-on-Wye",
+    "latlon": [
+     52.04122799874966,
+     -2.3756540184625123
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04122799874966/-2.3756540184625123/m=52.04122799874966,-2.3756540184625123",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "13:00",
+    "end_time": "13:30"
+   }
+  ],
+  "family_friendly": null,
+  "content_note": null
+ },
+ {
   "id": 254,
   "type": "workshop",
   "names": "Selin",
@@ -12453,6 +12519,108 @@
   "content_note": "Depending on preference might involve hydrogen peroxide (diluted) to set the deep blue, but not required if attendees are not comfortable using it."
  },
  {
+  "id": 507,
+  "type": "talk",
+  "names": "James Smith",
+  "pronouns": null,
+  "title": "Manyfold: decentralised 3d models on the Fediverse",
+  "description": " Manyfold is a self-hosted app for managing your collection of 3d print models. It’s also expanded into publishing, sharing and federating that content across the ActivityPub Fediverse. Find out what it can do, how it does it, who’s already running it, and plenty of nerdy details on ActivityPub, metadata standards, and APIs.",
+  "short_description": "Manyfold is a self-hosted app for managing your collection of 3d print models",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "manyfold-decentralised-3d-models-on-the-fediverse",
+  "link": "https://www.emfcamp.org/schedule/2026/507-manyfold-decentralised-3d-models-on-the-fediverse",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-19 13:30:00",
+    "end_date": "2026-07-19 14:00:00",
+    "venue": "Bodgeham-on-Wye",
+    "latlon": [
+     52.04122799874966,
+     -2.3756540184625123
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04122799874966/-2.3756540184625123/m=52.04122799874966,-2.3756540184625123",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "13:30",
+    "end_time": "14:00"
+   }
+  ],
+  "family_friendly": null,
+  "content_note": null
+ },
+ {
+  "id": 508,
+  "type": "talk",
+  "names": "Dee Kitchen",
+  "pronouns": null,
+  "title": "B-Sides and Backends: An Accidental Career in Music and Tech",
+  "description": "Live story telling based on my history in the music industry from 1992-2000. Rough arc: 1. How I got into tech via homelessness and the music industry 2. On \"The Happening\" 3. The best gig I ever went to 4. Britpop and my first retirement 5. Coming out of retirement and how Belle & Sebastian won a Brit award 6. Why Snow Patrol got signed 7. Why the music industry isn't as glamorous as everything I just shared and how I finally got into tech Content warning on: poverty, homelessness, suicide, substance abuse, substance dealing, and fame.",
+  "short_description": "Live story telling based on my history in the music industry from 1992-2000.",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "b-sides-and-backends-an-accidental-career-in-music-and-tech",
+  "link": "https://www.emfcamp.org/schedule/2026/508-b-sides-and-backends-an-accidental-career-in-music-and-tech",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-19 14:00:00",
+    "end_date": "2026-07-19 14:45:00",
+    "venue": "Bodgeham-on-Wye",
+    "latlon": [
+     52.04122799874966,
+     -2.3756540184625123
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04122799874966/-2.3756540184625123/m=52.04122799874966,-2.3756540184625123",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "14:00",
+    "end_time": "14:45"
+   }
+  ],
+  "family_friendly": null,
+  "content_note": null
+ },
+ {
+  "id": 509,
+  "type": "talk",
+  "names": "amran",
+  "pronouns": null,
+  "title": "why emf is, infact, a terrible event",
+  "description": "I will talk, nee, rant about why emf is infact a terrible event",
+  "short_description": "I will talk, nee, rant about why emf is infact a terrible event",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "why-emf-is-infact-a-terrible-event",
+  "link": "https://www.emfcamp.org/schedule/2026/509-why-emf-is-infact-a-terrible-event",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-19 14:45:00",
+    "end_date": "2026-07-19 15:00:00",
+    "venue": "Bodgeham-on-Wye",
+    "latlon": [
+     52.04122799874966,
+     -2.3756540184625123
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04122799874966/-2.3756540184625123/m=52.04122799874966,-2.3756540184625123",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "14:45",
+    "end_time": "15:00"
+   }
+  ],
+  "family_friendly": null,
+  "content_note": null
+ },
+ {
   "id": 279,
   "type": "talk",
   "names": "EMF Team",
@@ -12485,6 +12653,44 @@
   ],
   "family_friendly": false,
   "content_note": ""
+ },
+ {
+  "id": 510,
+  "type": "workshop",
+  "names": "Scott Street",
+  "pronouns": null,
+  "title": "Advanced Shoelace Tying Workshop",
+  "description": "Everything you’ve ever known about yourself is a lie. You have been tying shoelaces sub-optimally this entire time. Please let me help you.",
+  "short_description": "You have been tying shoelaces sub-optimally this entire time. Please let me help you.",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "advanced-shoelace-tying-workshop",
+  "link": "https://www.emfcamp.org/schedule/2026/510-advanced-shoelace-tying-workshop",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-18 09:00:00",
+    "end_date": "2026-07-18 09:45:00",
+    "venue": "Bodgeham-on-Wye",
+    "latlon": [
+     52.04122799874966,
+     -2.3756540184625123
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04122799874966/-2.3756540184625123/m=52.04122799874966,-2.3756540184625123",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "09:00",
+    "end_time": "09:45"
+   }
+  ],
+  "cost": "",
+  "equipment": "Bring your own shoes (with laces)",
+  "age_range": "all",
+  "drop_in": true,
+  "family_friendly": null,
+  "content_note": null
  },
  {
   "id": 282,
@@ -12551,6 +12757,44 @@
   ],
   "family_friendly": false,
   "content_note": "Death, Drugs, Politics, Medical transphobia, etc."
+ },
+ {
+  "id": 511,
+  "type": "workshop",
+  "names": "@casartar",
+  "pronouns": null,
+  "title": "Amateur radio direction finding",
+  "description": "We have distributed five radio transmitters around the site that you can locate using directional antennas and radio receivers.\r\nWe will show you how everything works, and then you're on your own.\r\nWe have five antennas and receivers available. Just come to the ZTL village, and if a set of equipment is not in use, you're good to go.\r\nThe system we use is called Draußenfuchs. You can find more information at https://draussenfuchs.de/. Just use your browser's translation function.\r\nThis experience is free of charge, but if you'd like to donate £1/€1 to help cover our expenses, we'd really appreciate it.",
+  "short_description": "Finding radio transmitters with directional antennas",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "amateur-radio-direction-finding",
+  "link": "https://www.emfcamp.org/schedule/2026/511-amateur-radio-direction-finding",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-17 08:00:00",
+    "end_date": "2026-07-17 22:00:00",
+    "venue": "ZTL",
+    "latlon": [
+     52.043016821432445,
+     -2.373662517151473
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.043016821432445/-2.373662517151473/m=52.043016821432445,-2.373662517151473",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "08:00",
+    "end_time": "22:00"
+   }
+  ],
+  "cost": "",
+  "equipment": "",
+  "age_range": "all",
+  "drop_in": true,
+  "family_friendly": null,
+  "content_note": null
  },
  {
   "id": 293,
