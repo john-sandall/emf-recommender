@@ -579,21 +579,6 @@
   "num_members": 11
  },
  {
-  "id": 161,
-  "name": "Chiltern Badgers",
-  "url": "https://www.emfcamp.org/villages/2026/161-chiltern-badgers",
-  "external_url": "",
-  "description": "A family who live at a house named The Badgers.",
-  "location": {
-   "type": "Point",
-   "coordinates": [
-    -2.3795136630733396,
-    52.03904056554191
-   ]
-  },
-  "num_members": 1
- },
- {
   "id": 104,
   "name": "All your bass are belong to us",
   "url": "https://www.emfcamp.org/villages/2026/104-all-your-bass-are-belong-to-us",
@@ -727,6 +712,21 @@
    ]
   },
   "num_members": 7
+ },
+ {
+  "id": 161,
+  "name": "Chiltern Badgers",
+  "url": "https://www.emfcamp.org/villages/2026/161-chiltern-badgers",
+  "external_url": "",
+  "description": "A family who live at a house named The Badgers. Home of DJ JohnnyOffice.",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3795136630733396,
+    52.03904056554191
+   ]
+  },
+  "num_members": 1
  },
  {
   "id": 47,
@@ -2100,21 +2100,6 @@
   "num_members": 1
  },
  {
-  "id": 146,
-  "name": "IMS Code Club",
-  "url": "https://www.emfcamp.org/villages/2026/146-ims-code-club",
-  "external_url": "https://codeclub.org/en/clubs/6452334b-c6c0-4fe4-8a6a-ff9da1c6ee21",
-  "description": "Volunteers at IMS code club and members past and present",
-  "location": {
-   "type": "Point",
-   "coordinates": [
-    -2.379088725345639,
-    52.040096896935125
-   ]
-  },
-  "num_members": 4
- },
- {
   "id": 139,
   "name": "Manchester HacMan",
   "url": "https://www.emfcamp.org/villages/2026/139-manchester-hacman",
@@ -2175,6 +2160,21 @@
   "num_members": 6
  },
  {
+  "id": 146,
+  "name": "Church of Cathulhu",
+  "url": "https://www.emfcamp.org/villages/2026/146-church-of-cathulhu",
+  "external_url": "https://codeclub.org/en/clubs/6452334b-c6c0-4fe4-8a6a-ff9da1c6ee21",
+  "description": "Volunteers at IMS code club and members past and present",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.379088725345639,
+    52.040096896935125
+   ]
+  },
+  "num_members": 4
+ },
+ {
   "id": 107,
   "name": "Party Pals",
   "url": "https://www.emfcamp.org/villages/2026/107-party-pals",
@@ -2218,21 +2218,6 @@
    ]
   },
   "num_members": 1
- },
- {
-  "id": 140,
-  "name": "Manchampton",
-  "url": "https://www.emfcamp.org/villages/2026/140-manchampton",
-  "external_url": "",
-  "description": "A group of about 15 people from a mixture of Southampton and Manchester.",
-  "location": {
-   "type": "Point",
-   "coordinates": [
-    -2.375603043650159,
-    52.04062067086528
-   ]
-  },
-  "num_members": 10
  },
  {
   "id": 76,
@@ -2293,6 +2278,21 @@
    ]
   },
   "num_members": 1
+ },
+ {
+  "id": 140,
+  "name": "Manchampton",
+  "url": "https://www.emfcamp.org/villages/2026/140-manchampton",
+  "external_url": "",
+  "description": "A group of about 15 people from a mixture of Southampton and Manchester.",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3755874089251847,
+    52.041167088612355
+   ]
+  },
+  "num_members": 10
  },
  {
   "id": 152,
@@ -2385,21 +2385,6 @@
   "num_members": 3
  },
  {
-  "id": 154,
-  "name": "80's Party on Tour",
-  "url": "https://www.emfcamp.org/villages/2026/154-80s-party-on-tour",
-  "external_url": "",
-  "description": "Friends of the original 80's Party, previously attended EMF as Happiness Village",
-  "location": {
-   "type": "Point",
-   "coordinates": [
-    -2.3740896125598567,
-    52.04275066103526
-   ]
-  },
-  "num_members": 1
- },
- {
   "id": 153,
   "name": "Wheelie random weird people",
   "url": "https://www.emfcamp.org/villages/2026/153-wheelie-random-weird-people",
@@ -2460,6 +2445,21 @@
   "num_members": 4
  },
  {
+  "id": 154,
+  "name": "80's Party on Tour",
+  "url": "https://www.emfcamp.org/villages/2026/154-80s-party-on-tour",
+  "external_url": "",
+  "description": "Friends of the original 80's Party, previously attended EMF as Happiness Village",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3738034500089498,
+    52.04296661028545
+   ]
+  },
+  "num_members": 1
+ },
+ {
   "id": 167,
   "name": "NickAshMay",
   "url": "https://www.emfcamp.org/villages/2026/167-nickashmay",
@@ -2468,8 +2468,8 @@
   "location": {
    "type": "Point",
    "coordinates": [
-    -2.3748476247643,
-    52.043624265213396
+    -2.376353084099179,
+    52.04383343743615
    ]
   },
   "num_members": 1
