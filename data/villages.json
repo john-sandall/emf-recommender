@@ -45,6 +45,15 @@
   "num_members": 10
  },
  {
+  "id": 172,
+  "name": "PolyGen HQ",
+  "url": "https://www.emfcamp.org/villages/2026/172-polygen-hq",
+  "external_url": "",
+  "description": "Home of PolyGen ",
+  "location": null,
+  "num_members": 1
+ },
+ {
   "id": 17,
   "name": "Edinburgh Hacklab",
   "url": "https://www.emfcamp.org/villages/2026/17-edinburgh-hacklab",
@@ -1365,6 +1374,21 @@
   "num_members": 8
  },
  {
+  "id": 115,
+  "name": "Girls Club Satellite Campus",
+  "url": "https://www.emfcamp.org/villages/2026/115-girls-club-satellite-campus",
+  "external_url": "",
+  "description": "Just some girls (and Ian)",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.379218856829425,
+    52.0398785798684
+   ]
+  },
+  "num_members": 1
+ },
+ {
   "id": 136,
   "name": "DJ BAPS and friends",
   "url": "https://www.emfcamp.org/villages/2026/136-dj-baps-and-friends",
@@ -1465,21 +1489,6 @@
    "coordinates": [
     -2.375511899896594,
     52.043617537174754
-   ]
-  },
-  "num_members": 1
- },
- {
-  "id": 115,
-  "name": "Girls Club Satellite Campus",
-  "url": "https://www.emfcamp.org/villages/2026/115-girls-club-satellite-campus",
-  "external_url": "",
-  "description": "Just some girls (and Ian)",
-  "location": {
-   "type": "Point",
-   "coordinates": [
-    -2.379507744248258,
-    52.039726967803915
    ]
   },
   "num_members": 1
@@ -2019,6 +2028,21 @@
   "num_members": 2
  },
  {
+  "id": 139,
+  "name": "Manchester HacMan",
+  "url": "https://www.emfcamp.org/villages/2026/139-manchester-hacman",
+  "external_url": "",
+  "description": "Members etc, of Manchester Hackspace. Chill vibes.",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.376707832872029,
+    52.04064918917567
+   ]
+  },
+  "num_members": 3
+ },
+ {
   "id": 70,
   "name": "Irish Embassy",
   "url": "https://www.emfcamp.org/villages/2026/70-irish-embassy",
@@ -2107,21 +2131,6 @@
    ]
   },
   "num_members": 1
- },
- {
-  "id": 139,
-  "name": "Manchester HacMan",
-  "url": "https://www.emfcamp.org/villages/2026/139-manchester-hacman",
-  "external_url": "",
-  "description": "Members etc, of Manchester Hackspace. Chill vibes.",
-  "location": {
-   "type": "Point",
-   "coordinates": [
-    -2.3762523990056934,
-    52.04118365152212
-   ]
-  },
-  "num_members": 3
  },
  {
   "id": 35,

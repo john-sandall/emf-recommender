@@ -12935,6 +12935,44 @@
   ]
  },
  {
+  "id": 515,
+  "type": "workshop",
+  "names": "Stuart Johnson ",
+  "pronouns": null,
+  "title": "Intro to Diabolo",
+  "description": "Come and learn to juggle diabolo with me. No experience needed. All ages welcome. I wasn't going to post this as a workshop, but my thursday jam proved popular.\r\n\r\nHigher difficulty available if you've diabolo'd before.\r\n\r\nBonus: if you know any other circus arts, come and jam.\r\n\r\nNot sure of exact location, I'll find some space near the bar. I can support up to 4 learners at a time.",
+  "short_description": "Learn to juggle diabolo with me. ",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "intro-to-diabolo",
+  "link": "https://www.emfcamp.org/schedule/2026/515-intro-to-diabolo",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-17 12:00:00",
+    "end_date": "2026-07-17 13:30:00",
+    "venue": "Outside the Bar",
+    "latlon": [
+     52.0413622,
+     -2.3780529
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.0413622/-2.3780529/m=52.0413622,-2.3780529",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "12:00",
+    "end_time": "13:30"
+   }
+  ],
+  "cost": "",
+  "equipment": "",
+  "age_range": "all",
+  "drop_in": true,
+  "family_friendly": null,
+  "content_note": null
+ },
+ {
   "id": 343,
   "type": "performance",
   "names": "Field-FX Village",
