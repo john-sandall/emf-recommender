@@ -828,6 +828,21 @@
   "num_members": 8
  },
  {
+  "id": 129,
+  "name": "Deep in thought yet slightly disturbed",
+  "url": "https://www.emfcamp.org/villages/2026/129-deep-in-thought-yet-slightly-disturbed",
+  "external_url": "",
+  "description": "If the name made you interested in meeting us, we're probably going to get along and we'd be happy to meet you. We are a queer and neurodiversity friendly international friend group with diverse interests ranging from the technical to creative arts/handcrafting to the outdoors. And, very importantly, bunnies.",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3782375223639747,
+    52.04065827847799
+   ]
+  },
+  "num_members": 5
+ },
+ {
   "id": 59,
   "name": "Oxford's EOF Hackspace",
   "url": "https://www.emfcamp.org/villages/2026/59-oxfords-eof-hackspace",
@@ -889,21 +904,6 @@
    ]
   },
   "num_members": 15
- },
- {
-  "id": 129,
-  "name": "Deep in thought yet slightly disturbed",
-  "url": "https://www.emfcamp.org/villages/2026/129-deep-in-thought-yet-slightly-disturbed",
-  "external_url": "",
-  "description": "If the name made you interested in meeting us, we're probably going to get along and we'd be happy to meet you. We are a queer and neurodiversity friendly international friend group with diverse interests ranging from the technical to creative arts/handcrafting to the outdoors. And, very importantly, bunnies.",
-  "location": {
-   "type": "Point",
-   "coordinates": [
-    -2.379060247416305,
-    52.04018911735716
-   ]
-  },
-  "num_members": 5
  },
  {
   "id": 60,
@@ -1143,7 +1143,7 @@
     52.03950319734375
    ]
   },
-  "num_members": 8
+  "num_members": 9
  },
  {
   "id": 30,
