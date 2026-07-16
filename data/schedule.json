@@ -10527,44 +10527,6 @@
   "content_note": ""
  },
  {
-  "id": 482,
-  "type": "workshop",
-  "names": "Sai",
-  "pronouns": null,
-  "title": "Sense without sight (venue & time FAKE, see description)",
-  "description": "ACTUAL PLACE: Starting at my tent & moving throughout camp. Look for the conlang flag, see https://s.ai/emf#workshop (will update once on site) \r\nACTUAL TIME: Every day, depending on my stamina. Exact time TBD each morning or the night before, emailed to you, based on my availability and yours. Probably only 1 a day except for people in an exceptional category.\r\nUSE THE SIGN-UP FORM: https://s.ai/emf/ws\r\n\r\n\r\nTake a walk with me through camp — blindfolded, with one of my guide canes — and sense the world like I do: using air currents, heat, sound, echolocation, ground texture, wind shadow, and more. It's a unique, permanent sensory upgrade you can still use when sighted.\r\n\r\nDetails of what to expect: https://s.ai/emf#workshop\r\n\r\n## Mandatory:\r\n\r\n* Sign up using the form at https://s.ai/emf/ws\r\n* Be completely sober.\r\n* Have at least 1.5 hours free (preferably 2).\r\n* Fill out feedback form afterwards: https://s.ai/emf/fb\r\n\r\n## Very strongly encouraged:\r\n\r\n* Watch my CCC talk about this: https://s.ai/ccc You'll learn much more if we can focus on what I can't show in the talk.\r\n* Bring a friend or prior participant to act as your assistant, and sign up as one to pass it on to others. The two experiences are very different, and are both valuable — and I can't teach as many people simultaneously without help.\r\n* Pee, drink, and wash your hands beforehand.\r\n* Wear clothing that leaves head and arms uncovered, and thin shoes that let you feel the ground.\r\n* Use a group coordination code on the sign-up form to get scheduled with your friends etc.\r\n\r\n## Special:\r\n\r\nI may run additional bespoke workshops, at different times, if you:\r\n1. have a current or likely future visual impairment that may benefit from cane use, whether or not you've had O&M;\r\n2. have other disabilities that would benefit from doing this 1-on-1 (e.g. Deaf or wheelchair user);\r\n3. work professionally with cane users or in very low visibility environments;\r\n4. are part of EMF staff, volunteers, etc.;\r\n5. can video record the workshop (e.g. stabilised GoPro), or participate on camera; or\r\n6. have some other good reason for me to do an extra session or in a bespoke manner.\r\n\r\nIf any of that applies to you, please indicate it on the sign-up form, and include all times that could work for you — including day 0 (Thursday).\r\n\r\n## Weather\r\n\r\nIf it's raining, or the ground is still muddy from recent rain, the workshop will be cancelled.\r\n\r\nThere's one exception: if you have visual impairment, it's still on no matter what the conditions are. You need to know how to get around no matter what the weather is.",
-  "short_description": "Learn to sense the world without sight",
-  "video_privacy": "public",
-  "is_fave": false,
-  "official_content": false,
-  "slug": "sense-without-sight-venue-time-fake-see-description",
-  "link": "https://www.emfcamp.org/schedule/2026/482-sense-without-sight-venue-time-fake-see-description",
-  "occurrences": [
-   {
-    "occurrence_num": 1,
-    "start_date": "2026-07-17 12:00:00",
-    "end_date": "2026-07-17 13:30:00",
-    "venue": "Outside the Bar",
-    "latlon": [
-     52.0413622,
-     -2.3780529
-    ],
-    "map_link": "https://map.emfcamp.org/#18.5/52.0413622/-2.3780529/m=52.0413622,-2.3780529",
-    "uses_lottery": false,
-    "video_privacy": "public",
-    "recording_lost": false,
-    "start_time": "12:00",
-    "end_time": "13:30"
-   }
-  ],
-  "cost": "",
-  "equipment": "No equipment as such but see description.",
-  "age_range": "all",
-  "drop_in": null,
-  "family_friendly": null,
-  "content_note": null
- },
- {
   "id": 371,
   "type": "music",
   "names": "John Sandall",
@@ -10595,6 +10557,44 @@
     "end_time": "20:00"
    }
   ]
+ },
+ {
+  "id": 482,
+  "type": "workshop",
+  "names": "Sai",
+  "pronouns": null,
+  "title": "Sense without sight (time FAKE, see description)",
+  "description": "ACTUAL PLACE: Starting at my tent & moving throughout camp. Look for the conlang flag, see https://s.ai/emf#workshop (will update once on site)  https://map.emfcamp.org/#18.5/52.04114905937723/-2.376721780494961/m=52.04114905937723,-2.376721780494961\r\nACTUAL TIME: Every day, depending on my stamina. Exact time TBD each morning or the night before, emailed to you, based on my availability and yours. Probably only 1 a day except for people in an exceptional category.\r\nUSE THE SIGN-UP FORM: https://s.ai/emf/ws\r\n\r\n\r\nTake a walk with me through camp — blindfolded, with one of my guide canes — and sense the world like I do: using air currents, heat, sound, echolocation, ground texture, wind shadow, and more. It's a unique, permanent sensory upgrade you can still use when sighted.\r\n\r\nDetails of what to expect: https://s.ai/emf#workshop\r\n\r\n## Mandatory:\r\n\r\n* Sign up using the form at https://s.ai/emf/ws\r\n* Be completely sober.\r\n* Have at least 1.5 hours free (preferably 2).\r\n* Fill out feedback form afterwards: https://s.ai/emf/fb\r\n\r\n## Very strongly encouraged:\r\n\r\n* Watch my CCC talk about this: https://s.ai/ccc You'll learn much more if we can focus on what I can't show in the talk.\r\n* Bring a friend or prior participant to act as your assistant, and sign up as one to pass it on to others. The two experiences are very different, and are both valuable — and I can't teach as many people simultaneously without help.\r\n* Pee, drink, and wash your hands beforehand.\r\n* Wear clothing that leaves head and arms uncovered, and thin shoes that let you feel the ground.\r\n* Use a group coordination code on the sign-up form to get scheduled with your friends etc.\r\n\r\n## Special:\r\n\r\nI may run additional bespoke workshops, at different times, if you:\r\n1. have a current or likely future visual impairment that may benefit from cane use, whether or not you've had O&M;\r\n2. have other disabilities that would benefit from doing this 1-on-1 (e.g. Deaf or wheelchair user);\r\n3. work professionally with cane users or in very low visibility environments;\r\n4. are part of EMF staff, volunteers, etc.;\r\n5. can video record the workshop (e.g. stabilised GoPro), or participate on camera; or\r\n6. have some other good reason for me to do an extra session or in a bespoke manner.\r\n\r\nIf any of that applies to you, please indicate it on the sign-up form, and include all times that could work for you — including day 0 (Thursday).\r\n\r\n## Weather\r\n\r\nIf it's raining, or the ground is still muddy from recent rain, the workshop will be cancelled.\r\n\r\nThere's one exception: if you have visual impairment, it's still on no matter what the conditions are. You need to know how to get around no matter what the weather is.",
+  "short_description": "Learn to sense the world without sight",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "sense-without-sight-time-fake-see-description",
+  "link": "https://www.emfcamp.org/schedule/2026/482-sense-without-sight-time-fake-see-description",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-17 12:00:00",
+    "end_date": "2026-07-17 13:30:00",
+    "venue": "Sense Without Sight (Sai's tent)",
+    "latlon": [
+     52.04114905937723,
+     -2.376721780494961
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04114905937723/-2.376721780494961/m=52.04114905937723,-2.376721780494961",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "12:00",
+    "end_time": "13:30"
+   }
+  ],
+  "cost": "",
+  "equipment": "No equipment as such but see description.",
+  "age_range": "16+",
+  "drop_in": null,
+  "family_friendly": null,
+  "content_note": null
  },
  {
   "id": 61,
@@ -10751,88 +10751,12 @@
   ]
  },
  {
-  "id": 481,
-  "type": "workshop",
-  "names": "Sai",
-  "pronouns": null,
-  "title": "Sense without sight (venue & time FAKE, see description)",
-  "description": "ACTUAL PLACE: Starting at my tent & moving throughout camp. Look for the conlang flag, see https://s.ai/emf#workshop (will update once on site) \r\nACTUAL TIME: Every day, depending on my stamina. Exact time TBD each morning or the night before, emailed to you, based on my availability and yours. Probably only 1 a day except for people in an exceptional category.\r\nUSE THE SIGN-UP FORM: https://s.ai/emf/ws\r\n\r\n\r\nTake a walk with me through camp — blindfolded, with one of my guide canes — and sense the world like I do: using air currents, heat, sound, echolocation, ground texture, wind shadow, and more. It's a unique, permanent sensory upgrade you can still use when sighted.\r\n\r\nDetails of what to expect: https://s.ai/emf#workshop\r\n\r\n## Mandatory:\r\n\r\n* Sign up using the form at https://s.ai/emf/ws\r\n* Be completely sober.\r\n* Have at least 1.5 hours free (preferably 2).\r\n* Fill out feedback form afterwards: https://s.ai/emf/fb\r\n\r\n## Very strongly encouraged:\r\n\r\n* Watch my CCC talk about this: https://s.ai/ccc You'll learn much more if we can focus on what I can't show in the talk.\r\n* Bring a friend or prior participant to act as your assistant, and sign up as one to pass it on to others. The two experiences are very different, and are both valuable — and I can't teach as many people simultaneously without help.\r\n* Pee, drink, and wash your hands beforehand.\r\n* Wear clothing that leaves head and arms uncovered, and thin shoes that let you feel the ground.\r\n* Use a group coordination code on the sign-up form to get scheduled with your friends etc.\r\n\r\n## Special:\r\n\r\nI may run additional bespoke workshops, at different times, if you:\r\n1. have a current or likely future visual impairment that may benefit from cane use, whether or not you've had O&M;\r\n2. have other disabilities that would benefit from doing this 1-on-1 (e.g. Deaf or wheelchair user);\r\n3. work professionally with cane users or in very low visibility environments;\r\n4. are part of EMF staff, volunteers, etc.;\r\n5. can video record the workshop (e.g. stabilised GoPro), or participate on camera; or\r\n6. have some other good reason for me to do an extra session or in a bespoke manner.\r\n\r\nIf any of that applies to you, please indicate it on the sign-up form, and include all times that could work for you — including day 0 (Thursday).\r\n\r\n## Weather\r\n\r\nIf it's raining, or the ground is still muddy from recent rain, the workshop will be cancelled.\r\n\r\nThere's one exception: if you have visual impairment, it's still on no matter what the conditions are. You need to know how to get around no matter what the weather is.",
-  "short_description": "Learn to sense the world without sight",
-  "video_privacy": "public",
-  "is_fave": false,
-  "official_content": false,
-  "slug": "sense-without-sight-venue-time-fake-see-description",
-  "link": "https://www.emfcamp.org/schedule/2026/481-sense-without-sight-venue-time-fake-see-description",
-  "occurrences": [
-   {
-    "occurrence_num": 1,
-    "start_date": "2026-07-16 12:00:00",
-    "end_date": "2026-07-16 13:30:00",
-    "venue": "Outside the Bar",
-    "latlon": [
-     52.0413622,
-     -2.3780529
-    ],
-    "map_link": "https://map.emfcamp.org/#18.5/52.0413622/-2.3780529/m=52.0413622,-2.3780529",
-    "uses_lottery": false,
-    "video_privacy": "public",
-    "recording_lost": false,
-    "start_time": "12:00",
-    "end_time": "13:30"
-   }
-  ],
-  "cost": "",
-  "equipment": "No equipment as such but see description.",
-  "age_range": "16+",
-  "drop_in": null,
-  "family_friendly": null,
-  "content_note": null
- },
- {
-  "id": 483,
-  "type": "workshop",
-  "names": "Sai",
-  "pronouns": null,
-  "title": "Sense without sight (venue & time FAKE, see description)",
-  "description": "ACTUAL PLACE: Starting at my tent & moving throughout camp. Look for the conlang flag, see https://s.ai/emf#workshop (will update once on site) \r\nACTUAL TIME: Every day, depending on my stamina. Exact time TBD each morning or the night before, emailed to you, based on my availability and yours. Probably only 1 a day except for people in an exceptional category.\r\nUSE THE SIGN-UP FORM: https://s.ai/emf/ws\r\n\r\n\r\nTake a walk with me through camp — blindfolded, with one of my guide canes — and sense the world like I do: using air currents, heat, sound, echolocation, ground texture, wind shadow, and more. It's a unique, permanent sensory upgrade you can still use when sighted.\r\n\r\nDetails of what to expect: https://s.ai/emf#workshop\r\n\r\n## Mandatory:\r\n\r\n* Sign up using the form at https://s.ai/emf/ws\r\n* Be completely sober.\r\n* Have at least 1.5 hours free (preferably 2).\r\n* Fill out feedback form afterwards: https://s.ai/emf/fb\r\n\r\n## Very strongly encouraged:\r\n\r\n* Watch my CCC talk about this: https://s.ai/ccc You'll learn much more if we can focus on what I can't show in the talk.\r\n* Bring a friend or prior participant to act as your assistant, and sign up as one to pass it on to others. The two experiences are very different, and are both valuable — and I can't teach as many people simultaneously without help.\r\n* Pee, drink, and wash your hands beforehand.\r\n* Wear clothing that leaves head and arms uncovered, and thin shoes that let you feel the ground.\r\n* Use a group coordination code on the sign-up form to get scheduled with your friends etc.\r\n\r\n## Special:\r\n\r\nI may run additional bespoke workshops, at different times, if you:\r\n1. have a current or likely future visual impairment that may benefit from cane use, whether or not you've had O&M;\r\n2. have other disabilities that would benefit from doing this 1-on-1 (e.g. Deaf or wheelchair user);\r\n3. work professionally with cane users or in very low visibility environments;\r\n4. are part of EMF staff, volunteers, etc.;\r\n5. can video record the workshop (e.g. stabilised GoPro), or participate on camera; or\r\n6. have some other good reason for me to do an extra session or in a bespoke manner.\r\n\r\nIf any of that applies to you, please indicate it on the sign-up form, and include all times that could work for you — including day 0 (Thursday).\r\n\r\n## Weather\r\n\r\nIf it's raining, or the ground is still muddy from recent rain, the workshop will be cancelled.\r\n\r\nThere's one exception: if you have visual impairment, it's still on no matter what the conditions are. You need to know how to get around no matter what the weather is.",
-  "short_description": "Learn to sense the world without sight",
-  "video_privacy": "public",
-  "is_fave": false,
-  "official_content": false,
-  "slug": "sense-without-sight-venue-time-fake-see-description",
-  "link": "https://www.emfcamp.org/schedule/2026/483-sense-without-sight-venue-time-fake-see-description",
-  "occurrences": [
-   {
-    "occurrence_num": 1,
-    "start_date": "2026-07-18 12:00:00",
-    "end_date": "2026-07-18 13:30:00",
-    "venue": "Outside the Bar",
-    "latlon": [
-     52.0413622,
-     -2.3780529
-    ],
-    "map_link": "https://map.emfcamp.org/#18.5/52.0413622/-2.3780529/m=52.0413622,-2.3780529",
-    "uses_lottery": false,
-    "video_privacy": "public",
-    "recording_lost": false,
-    "start_time": "12:00",
-    "end_time": "13:30"
-   }
-  ],
-  "cost": "",
-  "equipment": "No equipment as such but see description.",
-  "age_range": "16+",
-  "drop_in": null,
-  "family_friendly": null,
-  "content_note": null
- },
- {
   "id": 480,
   "type": "talk",
   "names": "Ren @jaklyn.hyde.ink",
   "pronouns": null,
   "title": "I’m a tattoo artist: tips for apprentices, tattoo goers and home tattoo turkeys. ",
-  "description": " Hi! \r\n\r\nMy name is Ren and my artist name is @jaklyn.hyde.ink. I would like to host a proper workshop and a pop-up tattoo stall next EMF, so I thought I would start out with scheduling this talk and drinks!. I wanted to share some tips with anyone hoping to be an apprentice in the industry, help answer some questions for any tattoo wanters or first timers and  show some good industry tips and tricks. Anyone is welcome and feel free to bring portfolios, tattoo ideas and tattoos that you want someone to give you an honest opinion about.\r\n\r\n Ill try and get a space or something for us and put a cat plushy on it or hold it so you know where to find me :) \r\nAnyone who comes to the talk Ill also give a discount on any tattoos they might want  to celebrate EMF. Please also messege me on the instagram if you are struggling to find me and  by \"outside the bar\" I assume Robot Arms so that is where I will set up/ find people.",
+  "description": " Hi!  \r\nFind me by the trees and seats around robot arms with my maskot , most likely drawing on an ipad\r\n\r\nMy name is Ren and my artist name is @jaklyn.hyde.ink. I would like to host a proper workshop and a pop-up tattoo stall next EMF, so I thought I would start out with scheduling this talk and drinks!. I wanted to share some tips with anyone hoping to be an apprentice in the industry, help answer some questions for any tattoo wanters or first timers and  show some good industry tips and tricks. Anyone is welcome and feel free to bring portfolios, tattoo ideas and tattoos that you want someone to give you an honest opinion about.\r\n\r\n Ill try and get a space or something for us and put a cat plushy on it or hold it so you know where to find me :) \r\nAnyone who comes to the talk Ill also give a discount on any tattoos they might want  to celebrate EMF. Please also messege me on the instagram if you are struggling to find me and  by \"outside the bar\" I assume Robot Arms so that is where I will set up/ find people.",
   "short_description": "Tips, tricks and secrets for apprentices or enthusiasts. Bring your ideas , tattoos and questions.",
   "video_privacy": "public",
   "is_fave": false,
@@ -10857,6 +10781,44 @@
     "end_time": "20:00"
    }
   ],
+  "family_friendly": null,
+  "content_note": null
+ },
+ {
+  "id": 483,
+  "type": "workshop",
+  "names": "Sai",
+  "pronouns": null,
+  "title": "Sense without sight (time FAKE, see description)",
+  "description": "ACTUAL PLACE: Starting at my tent & moving throughout camp. Look for the conlang flag, see https://s.ai/emf#workshop (will update once on site) https://map.emfcamp.org/#18.5/52.04114905937723/-2.376721780494961/m=52.04114905937723,-2.376721780494961\r\nACTUAL TIME: Every day, depending on my stamina. Exact time TBD each morning or the night before, emailed to you, based on my availability and yours. Probably only 1 a day except for people in an exceptional category.\r\nUSE THE SIGN-UP FORM: https://s.ai/emf/ws\r\n\r\n\r\nTake a walk with me through camp — blindfolded, with one of my guide canes — and sense the world like I do: using air currents, heat, sound, echolocation, ground texture, wind shadow, and more. It's a unique, permanent sensory upgrade you can still use when sighted.\r\n\r\nDetails of what to expect: https://s.ai/emf#workshop\r\n\r\n## Mandatory:\r\n\r\n* Sign up using the form at https://s.ai/emf/ws\r\n* Be completely sober.\r\n* Have at least 1.5 hours free (preferably 2).\r\n* Fill out feedback form afterwards: https://s.ai/emf/fb\r\n\r\n## Very strongly encouraged:\r\n\r\n* Watch my CCC talk about this: https://s.ai/ccc You'll learn much more if we can focus on what I can't show in the talk.\r\n* Bring a friend or prior participant to act as your assistant, and sign up as one to pass it on to others. The two experiences are very different, and are both valuable — and I can't teach as many people simultaneously without help.\r\n* Pee, drink, and wash your hands beforehand.\r\n* Wear clothing that leaves head and arms uncovered, and thin shoes that let you feel the ground.\r\n* Use a group coordination code on the sign-up form to get scheduled with your friends etc.\r\n\r\n## Special:\r\n\r\nI may run additional bespoke workshops, at different times, if you:\r\n1. have a current or likely future visual impairment that may benefit from cane use, whether or not you've had O&M;\r\n2. have other disabilities that would benefit from doing this 1-on-1 (e.g. Deaf or wheelchair user);\r\n3. work professionally with cane users or in very low visibility environments;\r\n4. are part of EMF staff, volunteers, etc.;\r\n5. can video record the workshop (e.g. stabilised GoPro), or participate on camera; or\r\n6. have some other good reason for me to do an extra session or in a bespoke manner.\r\n\r\nIf any of that applies to you, please indicate it on the sign-up form, and include all times that could work for you — including day 0 (Thursday).\r\n\r\n## Weather\r\n\r\nIf it's raining, or the ground is still muddy from recent rain, the workshop will be cancelled.\r\n\r\nThere's one exception: if you have visual impairment, it's still on no matter what the conditions are. You need to know how to get around no matter what the weather is.",
+  "short_description": "Learn to sense the world without sight",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "sense-without-sight-time-fake-see-description",
+  "link": "https://www.emfcamp.org/schedule/2026/483-sense-without-sight-time-fake-see-description",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-18 12:00:00",
+    "end_date": "2026-07-18 13:30:00",
+    "venue": "Sense Without Sight (Sai's tent)",
+    "latlon": [
+     52.04114905937723,
+     -2.376721780494961
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04114905937723/-2.376721780494961/m=52.04114905937723,-2.376721780494961",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "12:00",
+    "end_time": "13:30"
+   }
+  ],
+  "cost": "",
+  "equipment": "No equipment as such but see description.",
+  "age_range": "16+",
+  "drop_in": null,
   "family_friendly": null,
   "content_note": null
  },
@@ -10899,39 +10861,39 @@
   "content_note": null
  },
  {
-  "id": 484,
+  "id": 481,
   "type": "workshop",
   "names": "Sai",
   "pronouns": null,
-  "title": "Sense without sight (venue & time FAKE, see description)",
-  "description": "ACTUAL PLACE: Starting at my tent & moving throughout camp. Look for the conlang flag, see https://s.ai/emf#workshop (will update once on site) \r\nACTUAL TIME: Every day, depending on my stamina. Exact time TBD each morning or the night before, emailed to you, based on my availability and yours. Probably only 1 a day except for people in an exceptional category.\r\nUSE THE SIGN-UP FORM: https://s.ai/emf/ws\r\n\r\n\r\nTake a walk with me through camp — blindfolded, with one of my guide canes — and sense the world like I do: using air currents, heat, sound, echolocation, ground texture, wind shadow, and more. It's a unique, permanent sensory upgrade you can still use when sighted.\r\n\r\nDetails of what to expect: https://s.ai/emf#workshop\r\n\r\n## Mandatory:\r\n\r\n* Sign up using the form at https://s.ai/emf/ws\r\n* Be completely sober.\r\n* Have at least 1.5 hours free (preferably 2).\r\n* Fill out feedback form afterwards: https://s.ai/emf/fb\r\n\r\n## Very strongly encouraged:\r\n\r\n* Watch my CCC talk about this: https://s.ai/ccc You'll learn much more if we can focus on what I can't show in the talk.\r\n* Bring a friend or prior participant to act as your assistant, and sign up as one to pass it on to others. The two experiences are very different, and are both valuable — and I can't teach as many people simultaneously without help.\r\n* Pee, drink, and wash your hands beforehand.\r\n* Wear clothing that leaves head and arms uncovered, and thin shoes that let you feel the ground.\r\n* Use a group coordination code on the sign-up form to get scheduled with your friends etc.\r\n\r\n## Special:\r\n\r\nI may run additional bespoke workshops, at different times, if you:\r\n1. have a current or likely future visual impairment that may benefit from cane use, whether or not you've had O&M;\r\n2. have other disabilities that would benefit from doing this 1-on-1 (e.g. Deaf or wheelchair user);\r\n3. work professionally with cane users or in very low visibility environments;\r\n4. are part of EMF staff, volunteers, etc.;\r\n5. can video record the workshop (e.g. stabilised GoPro), or participate on camera; or\r\n6. have some other good reason for me to do an extra session or in a bespoke manner.\r\n\r\nIf any of that applies to you, please indicate it on the sign-up form, and include all times that could work for you — including day 0 (Thursday).\r\n\r\n## Weather\r\n\r\nIf it's raining, or the ground is still muddy from recent rain, the workshop will be cancelled.\r\n\r\nThere's one exception: if you have visual impairment, it's still on no matter what the conditions are. You need to know how to get around no matter what the weather is.",
+  "title": "Sense without sight (time FAKE, see description)",
+  "description": "ACTUAL PLACE: Starting at my tent & moving throughout camp. Look for the conlang flag, see https://s.ai/emf#workshop (will update once on site) https://map.emfcamp.org/#18.5/52.04114905937723/-2.376721780494961/m=52.04114905937723,-2.376721780494961\r\nACTUAL TIME: Every day, depending on my stamina. Exact time TBD each morning or the night before, emailed to you, based on my availability and yours. Probably only 1 a day except for people in an exceptional category.\r\nUSE THE SIGN-UP FORM: https://s.ai/emf/ws\r\n\r\n\r\nTake a walk with me through camp — blindfolded, with one of my guide canes — and sense the world like I do: using air currents, heat, sound, echolocation, ground texture, wind shadow, and more. It's a unique, permanent sensory upgrade you can still use when sighted.\r\n\r\nDetails of what to expect: https://s.ai/emf#workshop\r\n\r\n## Mandatory:\r\n\r\n* Sign up using the form at https://s.ai/emf/ws\r\n* Be completely sober.\r\n* Have at least 1.5 hours free (preferably 2).\r\n* Fill out feedback form afterwards: https://s.ai/emf/fb\r\n\r\n## Very strongly encouraged:\r\n\r\n* Watch my CCC talk about this: https://s.ai/ccc You'll learn much more if we can focus on what I can't show in the talk.\r\n* Bring a friend or prior participant to act as your assistant, and sign up as one to pass it on to others. The two experiences are very different, and are both valuable — and I can't teach as many people simultaneously without help.\r\n* Pee, drink, and wash your hands beforehand.\r\n* Wear clothing that leaves head and arms uncovered, and thin shoes that let you feel the ground.\r\n* Use a group coordination code on the sign-up form to get scheduled with your friends etc.\r\n\r\n## Special:\r\n\r\nI may run additional bespoke workshops, at different times, if you:\r\n1. have a current or likely future visual impairment that may benefit from cane use, whether or not you've had O&M;\r\n2. have other disabilities that would benefit from doing this 1-on-1 (e.g. Deaf or wheelchair user);\r\n3. work professionally with cane users or in very low visibility environments;\r\n4. are part of EMF staff, volunteers, etc.;\r\n5. can video record the workshop (e.g. stabilised GoPro), or participate on camera; or\r\n6. have some other good reason for me to do an extra session or in a bespoke manner.\r\n\r\nIf any of that applies to you, please indicate it on the sign-up form, and include all times that could work for you — including day 0 (Thursday).\r\n\r\n## Weather\r\n\r\nIf it's raining, or the ground is still muddy from recent rain, the workshop will be cancelled.\r\n\r\nThere's one exception: if you have visual impairment, it's still on no matter what the conditions are. You need to know how to get around no matter what the weather is.",
   "short_description": "Learn to sense the world without sight",
   "video_privacy": "public",
   "is_fave": false,
   "official_content": false,
-  "slug": "sense-without-sight-venue-time-fake-see-description",
-  "link": "https://www.emfcamp.org/schedule/2026/484-sense-without-sight-venue-time-fake-see-description",
+  "slug": "sense-without-sight-time-fake-see-description",
+  "link": "https://www.emfcamp.org/schedule/2026/481-sense-without-sight-time-fake-see-description",
   "occurrences": [
    {
     "occurrence_num": 1,
-    "start_date": "2026-07-19 09:00:00",
-    "end_date": "2026-07-19 10:30:00",
-    "venue": "Outside the Bar",
+    "start_date": "2026-07-16 12:00:00",
+    "end_date": "2026-07-16 13:30:00",
+    "venue": "Sense Without Sight (Sai's tent)",
     "latlon": [
-     52.0413622,
-     -2.3780529
+     52.04114905937723,
+     -2.376721780494961
     ],
-    "map_link": "https://map.emfcamp.org/#18.5/52.0413622/-2.3780529/m=52.0413622,-2.3780529",
+    "map_link": "https://map.emfcamp.org/#18.5/52.04114905937723/-2.376721780494961/m=52.04114905937723,-2.376721780494961",
     "uses_lottery": false,
     "video_privacy": "public",
     "recording_lost": false,
-    "start_time": "09:00",
-    "end_time": "10:30"
+    "start_time": "12:00",
+    "end_time": "13:30"
    }
   ],
   "cost": "",
   "equipment": "No equipment as such but see description.",
-  "age_range": "all",
+  "age_range": "16+",
   "drop_in": null,
   "family_friendly": null,
   "content_note": null
@@ -10999,6 +10961,44 @@
     "end_time": "09:10"
    }
   ]
+ },
+ {
+  "id": 484,
+  "type": "workshop",
+  "names": "Sai",
+  "pronouns": null,
+  "title": "Sense without sight (time FAKE, see description)",
+  "description": "ACTUAL PLACE: Starting at my tent & moving throughout camp. Look for the conlang flag, see https://s.ai/emf#workshop (will update once on site) https://map.emfcamp.org/#18.5/52.04114905937723/-2.376721780494961/m=52.04114905937723,-2.376721780494961\r\nACTUAL TIME: Every day, depending on my stamina. Exact time TBD each morning or the night before, emailed to you, based on my availability and yours. Probably only 1 a day except for people in an exceptional category.\r\nUSE THE SIGN-UP FORM: https://s.ai/emf/ws\r\n\r\n\r\nTake a walk with me through camp — blindfolded, with one of my guide canes — and sense the world like I do: using air currents, heat, sound, echolocation, ground texture, wind shadow, and more. It's a unique, permanent sensory upgrade you can still use when sighted.\r\n\r\nDetails of what to expect: https://s.ai/emf#workshop\r\n\r\n## Mandatory:\r\n\r\n* Sign up using the form at https://s.ai/emf/ws\r\n* Be completely sober.\r\n* Have at least 1.5 hours free (preferably 2).\r\n* Fill out feedback form afterwards: https://s.ai/emf/fb\r\n\r\n## Very strongly encouraged:\r\n\r\n* Watch my CCC talk about this: https://s.ai/ccc You'll learn much more if we can focus on what I can't show in the talk.\r\n* Bring a friend or prior participant to act as your assistant, and sign up as one to pass it on to others. The two experiences are very different, and are both valuable — and I can't teach as many people simultaneously without help.\r\n* Pee, drink, and wash your hands beforehand.\r\n* Wear clothing that leaves head and arms uncovered, and thin shoes that let you feel the ground.\r\n* Use a group coordination code on the sign-up form to get scheduled with your friends etc.\r\n\r\n## Special:\r\n\r\nI may run additional bespoke workshops, at different times, if you:\r\n1. have a current or likely future visual impairment that may benefit from cane use, whether or not you've had O&M;\r\n2. have other disabilities that would benefit from doing this 1-on-1 (e.g. Deaf or wheelchair user);\r\n3. work professionally with cane users or in very low visibility environments;\r\n4. are part of EMF staff, volunteers, etc.;\r\n5. can video record the workshop (e.g. stabilised GoPro), or participate on camera; or\r\n6. have some other good reason for me to do an extra session or in a bespoke manner.\r\n\r\nIf any of that applies to you, please indicate it on the sign-up form, and include all times that could work for you — including day 0 (Thursday).\r\n\r\n## Weather\r\n\r\nIf it's raining, or the ground is still muddy from recent rain, the workshop will be cancelled.\r\n\r\nThere's one exception: if you have visual impairment, it's still on no matter what the conditions are. You need to know how to get around no matter what the weather is.",
+  "short_description": "Learn to sense the world without sight",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "sense-without-sight-time-fake-see-description",
+  "link": "https://www.emfcamp.org/schedule/2026/484-sense-without-sight-time-fake-see-description",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-19 09:00:00",
+    "end_date": "2026-07-19 10:30:00",
+    "venue": "Sense Without Sight (Sai's tent)",
+    "latlon": [
+     52.04114905937723,
+     -2.376721780494961
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04114905937723/-2.376721780494961/m=52.04114905937723,-2.376721780494961",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "09:00",
+    "end_time": "10:30"
+   }
+  ],
+  "cost": "",
+  "equipment": "No equipment as such but see description.",
+  "age_range": "16+",
+  "drop_in": null,
+  "family_friendly": null,
+  "content_note": null
  },
  {
   "id": 131,
@@ -12256,7 +12256,7 @@
   "names": "🐈‍⬛ James & Georgina Heath 🐈‍⬛",
   "pronouns": "",
   "title": "🏮Paper Lantern Making drop-in workshop for all ages🏮",
-  "description": "Every year, on 21st December, 1000s of Brighton residents make lanterns lit with LEDs, then walk them through town in the Burning the Clocks Parade. The parade ends with a large bonfire on the beach, marking the shortest day of the year, and the beginning of the days getting longer.\r\n\r\nWe're bringing the parade to EMF!\r\n\r\nThis will be a sticky, crafty workshop, where you can make a weird alien lantern. \r\n\r\nWe can provide kits (includes materials for TWO lanterns) or raw materials, you bring your creative flair and at the end of the workshop you’ll have a lovely (if slightly damp) lantern to take away. \r\n\r\nThe lanterns are made by bending and taping together lengths of willow to form a frame. Then comes the messy bit - you wet sheets of tissue paper with watered down PVA glue, and cover the frame. As this dries, it tightens to form a rigid and surprisingly robust lantern.\r\n\r\nOnce your lantern is made, you can leave it plain and simple, or decorate it - you can add black shapes whilst it's wet, or add stuff later at your leisure (we’ll give you the stuff you need).\r\n\r\nThen join the lantern parade on Saturday evening, adding a new memorable event to EMF!\r\n",
+  "description": "Every year, on 21st December, 1000s of Brighton residents make lanterns lit with LEDs, then walk them through town in the Burning the Clocks Parade. The parade ends with a large bonfire on the beach, marking the shortest day of the year, and the beginning of the days getting longer.\r\n\r\nWe're bringing the parade to EMF!\r\n\r\nThis will be a sticky, crafty workshop, where you can make a weird alien lantern. \r\n\r\nWe can provide kits (includes materials for TWO lanterns) or raw materials, you bring your creative flair and at the end of the workshop you’ll have a lovely (if slightly damp) lantern to take away. \r\n\r\nThe lanterns are made by bending and taping together lengths of willow to form a frame. Then comes the messy bit - you wet sheets of tissue paper with watered down PVA glue, and cover the frame. As this dries, it tightens to form a rigid and surprisingly robust lantern.\r\n\r\nOnce your lantern is made, you can leave it plain and simple, or decorate it - you can add black shapes whilst it's wet, or add stuff later at your leisure (we’ll give you the stuff you need).\r\n\r\nThen join the lantern parade on Saturday evening, 5:45pm at Stage D, adding a new memorable event to EMF!\r\n",
   "short_description": "Make & decorate a paper lantern, and join us in a parade on Saturday evening.",
   "video_privacy": "public",
   "is_fave": false,
@@ -12338,6 +12338,44 @@
   "cost": "",
   "equipment": "A functioning brain.",
   "age_range": "all",
+  "drop_in": true,
+  "family_friendly": null,
+  "content_note": null
+ },
+ {
+  "id": 504,
+  "type": "workshop",
+  "names": "Devon, Alex",
+  "pronouns": null,
+  "title": "Red Recitals",
+  "description": "Come and have a good ol' sing along at the Moose Village with Devon and Alex. \r\n\r\nNo singing talent needed, lyrics provided, just bring your passion for the workers' struggle or just a nice time with some cool people. Drop in over the session, if you miss it drop by Moose and we'll likely be up for a song :-)\r\n\r\nThere may be sharks.",
+  "short_description": "Singalonga Socialism!",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "red-recitals",
+  "link": "https://www.emfcamp.org/schedule/2026/504-red-recitals",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-17 16:00:00",
+    "end_date": "2026-07-17 17:00:00",
+    "venue": "Moose",
+    "latlon": [
+     52.04076169907955,
+     -2.3757182776476213
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04076169907955/-2.3757182776476213/m=52.04076169907955,-2.3757182776476213",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "16:00",
+    "end_time": "17:00"
+   }
+  ],
+  "cost": "£0",
+  "equipment": "Voice, water, maybe a mask if you have one? It will be open air.",
+  "age_range": "12+",
   "drop_in": true,
   "family_friendly": null,
   "content_note": null
