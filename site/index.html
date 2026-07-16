@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>EMF 2026 — your festival, in one prompt</title>
+<meta name="description" content="Paste one prompt into Claude or ChatGPT and get a personalised Electromagnetic Field 2026 schedule — built from the live programme, tuned to who you actually are.">
+<meta property="og:title" content="EMF 2026 — your festival, in one prompt">
+<meta property="og:description" content="Point your LLM at the field. A personalised EMF 2026 schedule from the live programme.">
+<meta property="og:type" content="website">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%93%A1%3C/text%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@500;600;700&family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --night:#0a130f;         /* deep field-at-night */
+    --night-2:#0f1c16;       /* raised surface */
+    --panel:#122720;         /* card */
+    --line:rgba(120,196,160,.16);
+    --line-strong:rgba(120,196,160,.32);
+    --ink:#e9f3ec;           /* primary text */
+    --muted:#8fa89b;         /* secondary text */
+    --faint:#5f7568;         /* captions */
+    --signal:#ff8a3d;        /* EMF signal amber — primary accent */
+    --signal-soft:#ffb27a;
+    --phosphor:#54e6c0;      /* live/phosphor mint — used sparingly */
+    --display:"Chakra Petch",system-ui,sans-serif;
+    --body:"IBM Plex Sans",system-ui,sans-serif;
+    --mono:"IBM Plex Mono",ui-monospace,monospace;
+  }
+  *{box-sizing:border-box}
+  html{scroll-behavior:smooth}
+  body{
+    margin:0;background:var(--night);color:var(--ink);font-family:var(--body);
+    line-height:1.6;-webkit-font-smoothing:antialiased;overflow-x:hidden;
+  }
+  /* faint contour/topographic wash — nods to the deer park field */
+  body::before{
+    content:"";position:fixed;inset:0;z-index:0;pointer-events:none;opacity:.5;
+    background:
+      radial-gradient(1100px 600px at 78% -8%, rgba(255,138,61,.10), transparent 60%),
+      radial-gradient(900px 620px at 12% 108%, rgba(84,230,192,.07), transparent 60%);
+  }
+  .wrap{position:relative;z-index:1;max-width:1080px;margin:0 auto;padding:0 24px}
+  a{color:inherit}
+
+  /* ---- top bar ---- */
+  header{display:flex;align-items:center;justify-content:space-between;padding:22px 0;font-family:var(--mono)}
+  .brand{display:flex;align-items:center;gap:10px;font-weight:600;letter-spacing:.02em}
+  .brand .dot{width:9px;height:9px;border-radius:50%;background:var(--phosphor);box-shadow:0 0 12px var(--phosphor);animation:pulse 2.4s ease-in-out infinite}
+  @keyframes pulse{0%,100%{opacity:.45;transform:scale(.85)}50%{opacity:1;transform:scale(1.15)}}
+  header nav{display:flex;gap:22px;font-size:13px;color:var(--muted)}
+  header nav a{text-decoration:none}
+  header nav a:hover{color:var(--signal)}
+  @media(max-width:640px){header nav{display:none}}
+
+  /* ---- hero ---- */
+  .hero{padding:40px 0 28px;position:relative}
+  .eyebrow{font-family:var(--mono);font-size:12.5px;letter-spacing:.28em;text-transform:uppercase;color:var(--signal);margin:0 0 20px}
+  h1{
+    font-family:var(--display);font-weight:700;font-size:clamp(2.7rem,7.5vw,5.2rem);
+    line-height:.98;letter-spacing:-.01em;margin:0 0 22px;
+  }
+  h1 .glow{color:var(--signal);text-shadow:0 0 34px rgba(255,138,61,.45)}
+  .lede{font-size:clamp(1.05rem,2.2vw,1.32rem);color:var(--muted);max-width:38ch;margin:0 0 30px}
+  .lede b{color:var(--ink);font-weight:600}
+
+  /* animated EM waveform signature */
+  .scope{width:100%;height:96px;margin:6px 0 30px;display:block;opacity:.9}
+  .scope path{fill:none;stroke-linecap:round}
+  .scope .grid{stroke:var(--line);stroke-width:1}
+  .scope .wave{stroke:var(--signal);stroke-width:2.5;filter:drop-shadow(0 0 6px rgba(255,138,61,.5))}
+  .scope .wave2{stroke:var(--phosphor);stroke-width:1.5;opacity:.6}
+
+  .stats{display:flex;flex-wrap:wrap;gap:0;font-family:var(--mono);border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+  .stats div{padding:16px 26px 16px 0;margin-right:26px;border-right:1px solid var(--line)}
+  .stats div:last-child{border-right:0}
+  .stats b{display:block;font-size:1.5rem;color:var(--ink);font-weight:600;line-height:1}
+  .stats span{font-size:11.5px;letter-spacing:.14em;text-transform:uppercase;color:var(--faint)}
+
+  /* ---- prompt terminal (the centrepiece) ---- */
+  .transmit{margin:44px 0 10px}
+  .transmit .cap{font-family:var(--mono);font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--faint);margin-bottom:12px}
+  .term{
+    background:linear-gradient(180deg,var(--panel),var(--night-2));
+    border:1px solid var(--line-strong);border-radius:14px;overflow:hidden;
+    box-shadow:0 24px 60px -30px rgba(0,0,0,.8),0 0 0 1px rgba(255,138,61,.04) inset;
+  }
+  .term-bar{display:flex;align-items:center;gap:8px;padding:12px 16px;border-bottom:1px solid var(--line);background:rgba(255,255,255,.015);font-family:var(--mono);font-size:12px;color:var(--faint)}
+  .term-bar i{width:11px;height:11px;border-radius:50%;background:#2c3d34;display:inline-block}
+  .term-bar i:nth-child(1){background:var(--signal)}
+  .term-bar .file{margin-left:8px}
+  .term-body{padding:22px;font-family:var(--mono);font-size:14.5px;line-height:1.75;color:var(--signal-soft)}
+  .term-body .p{color:var(--ink)}
+  .term-body .u{color:var(--phosphor);word-break:break-all}
+  .term-actions{display:flex;flex-wrap:wrap;gap:10px;padding:0 22px 22px}
+  .btn{
+    font-family:var(--mono);font-size:13.5px;font-weight:500;border-radius:9px;
+    padding:11px 16px;border:1px solid var(--line-strong);background:transparent;color:var(--ink);
+    cursor:pointer;text-decoration:none;display:inline-flex;align-items:center;gap:8px;transition:all .15s ease;
+  }
+  .btn:hover{border-color:var(--signal);color:var(--signal);transform:translateY(-1px)}
+  .btn.primary{background:var(--signal);border-color:var(--signal);color:#1a0d03;font-weight:600}
+  .btn.primary:hover{background:var(--signal-soft);border-color:var(--signal-soft);color:#1a0d03}
+  .btn.ok{border-color:var(--phosphor);color:var(--phosphor)}
+  .hint{font-family:var(--mono);font-size:12px;color:var(--faint);margin-top:14px}
+  .hint a{color:var(--muted)}
+
+  /* ---- sections ---- */
+  section{padding:70px 0;border-top:1px solid var(--line)}
+  .kicker{font-family:var(--mono);font-size:12px;letter-spacing:.22em;text-transform:uppercase;color:var(--signal);margin:0 0 14px}
+  h2{font-family:var(--display);font-weight:600;font-size:clamp(1.7rem,4vw,2.5rem);line-height:1.05;margin:0 0 34px;letter-spacing:-.01em}
+
+  .steps{display:grid;grid-template-columns:repeat(3,1fr);gap:20px}
+  @media(max-width:760px){.steps{grid-template-columns:1fr}}
+  .step{background:var(--night-2);border:1px solid var(--line);border-radius:12px;padding:24px}
+  .step .n{font-family:var(--mono);font-size:12px;color:var(--signal);letter-spacing:.1em}
+  .step h3{font-family:var(--display);font-weight:600;font-size:1.15rem;margin:12px 0 8px}
+  .step p{margin:0;color:var(--muted);font-size:14.5px}
+
+  .tiers{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+  @media(max-width:680px){.tiers{grid-template-columns:1fr}}
+  .tier{display:flex;gap:16px;padding:20px;border:1px solid var(--line);border-radius:12px;background:var(--night-2)}
+  .tier .em{font-size:1.5rem;line-height:1;flex-shrink:0}
+  .tier h3{font-family:var(--display);font-weight:600;font-size:1.05rem;margin:0 0 5px}
+  .tier p{margin:0;color:var(--muted);font-size:14px}
+  .tier.wide{grid-column:1/-1}
+
+  .faq{display:grid;gap:2px}
+  details{background:var(--night-2);border:1px solid var(--line);border-radius:10px;padding:2px 20px}
+  details+details{margin-top:10px}
+  summary{font-family:var(--display);font-weight:600;font-size:1.05rem;padding:18px 0;cursor:pointer;list-style:none;display:flex;justify-content:space-between;align-items:center}
+  summary::-webkit-details-marker{display:none}
+  summary::after{content:"+";color:var(--signal);font-family:var(--mono);font-size:1.4rem;transition:transform .2s}
+  details[open] summary::after{transform:rotate(45deg)}
+  details p{margin:0 0 20px;color:var(--muted);font-size:14.5px}
+  details a{color:var(--signal-soft)}
+
+  footer{padding:50px 0 70px;border-top:1px solid var(--line);color:var(--faint);font-family:var(--mono);font-size:12.5px}
+  footer a{color:var(--muted);text-decoration:none}
+  footer a:hover{color:var(--signal)}
+  footer .row{display:flex;flex-wrap:wrap;gap:8px 20px;justify-content:space-between}
+
+  .toast{position:fixed;left:50%;bottom:28px;transform:translate(-50%,20px);opacity:0;background:var(--phosphor);color:#052018;font-family:var(--mono);font-weight:600;font-size:13.5px;padding:11px 20px;border-radius:9px;pointer-events:none;transition:all .25s ease;z-index:10}
+  .toast.show{opacity:1;transform:translate(-50%,0)}
+
+  @media(prefers-reduced-motion:reduce){
+    *{animation:none!important;transition:none!important}
+    html{scroll-behavior:auto}
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header>
+    <div class="brand"><span class="dot"></span>emf.quest</div>
+    <nav>
+      <a href="#how">How it works</a>
+      <a href="#get">What you get</a>
+      <a href="#faq">FAQ</a>
+      <a href="https://www.emfcamp.org/schedule/2026" target="_blank" rel="noopener">Official schedule ↗</a>
+    </nav>
+  </header>
+
+  <main class="hero">
+    <p class="eyebrow">Electromagnetic Field · 16–19 July 2026 · Eastnor</p>
+    <h1>Point your LLM<br>at the <span class="glow">field</span>.</h1>
+    <p class="lede">EMF runs <b>hundreds of things at once</b>. Paste one prompt into Claude or ChatGPT and get a schedule tuned to who <b>you</b> actually are — from the live programme.</p>
+
+    <svg class="scope" viewBox="0 0 1000 120" preserveAspectRatio="none" aria-hidden="true">
+      <path class="grid" d="M0 60 H1000"/>
+      <path class="wave2" id="w2" d=""/>
+      <path class="wave" id="w1" d=""/>
+    </svg>
+
+    <div class="stats">
+      <div><b id="stat-events">431</b><span>sessions</span></div>
+      <div><b>164</b><span>villages</span></div>
+      <div><b>4</b><span>days</span></div>
+      <div><b>1</b><span>prompt</span></div>
+    </div>
+
+    <div class="transmit" id="get-started">
+      <p class="cap">// paste this into any LLM that can browse the web</p>
+      <div class="term">
+        <div class="term-bar"><i></i><i></i><i></i><span class="file">emf-2026-recommender.md</span></div>
+        <div class="term-body" id="prompt-text"><span class="p">Fetch</span> <span class="u">https://raw.githubusercontent.com/john-sandall/emf-recommender/main/skill/emf-2026-recommender.md</span> <span class="p">and follow the instructions to build me a personalised EMF 2026 schedule — use what you already know about me, and quiz me if you need to.</span></div>
+        <div class="term-actions">
+          <button class="btn primary" id="copy">⧉ Copy prompt</button>
+          <a class="btn" id="open-claude" target="_blank" rel="noopener">Open in Claude ↗</a>
+          <a class="btn" id="open-gpt" target="_blank" rel="noopener">Open in ChatGPT ↗</a>
+          <a class="btn" href="https://raw.githubusercontent.com/john-sandall/emf-recommender/main/skill/emf-2026-recommender.md" target="_blank" rel="noopener">View raw .md ↗</a>
+        </div>
+      </div>
+      <p class="hint">No web access in your LLM? <a href="https://raw.githubusercontent.com/john-sandall/emf-recommender/main/skill/emf-2026-recommender.md" target="_blank" rel="noopener">Open the raw file</a>, copy the whole thing, and paste it — it carries the full schedule inside.</p>
+    </div>
+  </main>
+
+  <section id="how">
+    <p class="kicker">// how it works</p>
+    <h2>Three steps, sixty seconds.</h2>
+    <div class="steps">
+      <div class="step"><div class="n">01</div><h3>Open an LLM</h3><p>Claude or ChatGPT — anything that can read a URL. On your phone in a field is exactly the point.</p></div>
+      <div class="step"><div class="n">02</div><h3>Paste the prompt</h3><p>It reads the live EMF programme, then works out who you are from what it already knows — and asks a couple of quick questions if it needs to.</p></div>
+      <div class="step"><div class="n">03</div><h3>Get your plan</h3><p>Your unmissables, a slot-by-slot itinerary with the clashes resolved for you, villages to wander, and a few curveballs.</p></div>
+    </div>
+  </section>
+
+  <section id="get">
+    <p class="kicker">// what you get</p>
+    <h2>Not a list. A plan for <em>you</em>.</h2>
+    <div class="tiers">
+      <div class="tier"><span class="em">🔥</span><div><h3>Unmissable for you</h3><p>The handful of things worth rearranging your day for — with a line on why <em>you</em> specifically.</p></div></div>
+      <div class="tier"><span class="em">📅</span><div><h3>Slot-by-slot plan</h3><p>Thu→Sun, one pick per time block, parallel tracks resolved so you never stand in a field deciding.</p></div></div>
+      <div class="tier"><span class="em">🎪</span><div><h3>Villages to wander</h3><p>The camps that match your vibe — because EMF's soul is turning up and chatting, not just the talks.</p></div></div>
+      <div class="tier"><span class="em">🌶️</span><div><h3>Stretch picks</h3><p>Two things deliberately outside your lane. Wandering into the unexpected is the whole point of EMF.</p></div></div>
+      <div class="tier wide"><span class="em">🟢</span><div><h3>If you've got a free slot</h3><p>A clearly second-tier fallback list — the difference between "clear the calendar" and "wander in if you're free". It also flags 🎟️ lottery sign-ups, 👪 family-friendly sessions, and content notes.</p></div></div>
+    </div>
+  </section>
+
+  <section id="faq">
+    <p class="kicker">// questions</p>
+    <h2>The fine print.</h2>
+    <div class="faq">
+      <details open><summary>How fresh is the schedule?</summary><p>The file is rebuilt automatically from EMF's official programme, and its timestamp is printed at the top. If your LLM can browse, it's told to pull the <a href="https://www.emfcamp.org/schedule/2026.json" target="_blank" rel="noopener">live feed</a> and the “now &amp; next” endpoint too — so it stays current as rooms move and self-organised sessions appear during the event.</p></details>
+      <details><summary>What does it actually do?</summary><p>The linked <code>.md</code> is both instructions and data: it tells the LLM to work out who you are (from its memory of you, or a quick optional quiz), then build a tiered, personalised plan from the real EMF programme. It only ever recommends sessions that genuinely exist — no invented talks.</p></details>
+      <details><summary>What if it doesn't know anything about me?</summary><p>Then it runs a short quiz — a few one-line multiple-choice questions about what pulls you to EMF, how hands-on you are, and your rhythm — and tunes from there. Or just say “pick for me” and it'll give you a strong generalist plan.</p></details>
+      <details><summary>Is my data going anywhere?</summary><p>No. Everything happens inside your own chat with your own LLM. This site is static, there's no account, no tracking, and nothing is sent to us — there is no “us” collecting anything.</p></details>
+      <details><summary>Is this official?</summary><p>No — it's a community side-project by an attendee, built on EMF's public schedule API. Huge thanks to the EMF crew for publishing open data. The <a href="https://www.emfcamp.org/schedule/2026" target="_blank" rel="noopener">official schedule</a> is always the source of truth.</p></details>
+    </div>
+  </section>
+
+  <footer>
+    <div class="row">
+      <span>Built for the EMF 2026 community · not affiliated with Electromagnetic Field.</span>
+      <span><a href="https://github.com/john-sandall/emf-recommender" target="_blank" rel="noopener">Source on GitHub ↗</a></span>
+    </div>
+  </footer>
+</div>
+
+<div class="toast" id="toast">Copied — now paste it into your LLM</div>
+
+<script>
+  // Build the pasteable prompt text once, reuse for copy + deep links.
+  var PROMPT = document.getElementById('prompt-text').innerText.replace(/\s+/g,' ').trim();
+  var enc = encodeURIComponent(PROMPT);
+  document.getElementById('open-claude').href = 'https://claude.ai/new?q=' + enc;
+  document.getElementById('open-gpt').href = 'https://chatgpt.com/?q=' + enc;
+
+  var toast = document.getElementById('toast');
+  function ping(msg){ toast.textContent = msg; toast.classList.add('show'); setTimeout(function(){toast.classList.remove('show')}, 2200); }
+  var copyBtn = document.getElementById('copy');
+  copyBtn.addEventListener('click', function(){
+    navigator.clipboard.writeText(PROMPT).then(function(){
+      copyBtn.textContent = '✓ Copied';
+      copyBtn.classList.add('ok');
+      ping('Copied — now paste it into your LLM');
+      setTimeout(function(){ copyBtn.textContent='⧉ Copy prompt'; copyBtn.classList.remove('ok'); }, 2200);
+    }, function(){ ping('Press ⌘/Ctrl+C to copy'); });
+  });
+
+  // Animated oscilloscope waveform — an electromagnetic signal across the field.
+  (function(){
+    var reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    var w1 = document.getElementById('w1'), w2 = document.getElementById('w2');
+    var W = 1000, H = 120, mid = 60, t = 0;
+    function build(phase, amp, k, damp){
+      var d = 'M0 ' + mid, x;
+      for(x=0; x<=W; x+=8){
+        var env = Math.exp(-Math.pow((x-500)/520,2)*damp); // envelope: signal swells mid-field
+        var y = mid - Math.sin(x*k + phase) * amp * env - Math.sin(x*k*2.7 + phase*1.6) * amp*0.28 * env;
+        d += ' L' + x + ' ' + y.toFixed(1);
+      }
+      return d;
+    }
+    function frame(){
+      w1.setAttribute('d', build(t, 30, 0.019, 1.1));
+      w2.setAttribute('d', build(-t*0.7 + 1.5, 20, 0.026, 0.7));
+      t += 0.05;
+      if(!reduce) requestAnimationFrame(frame);
+    }
+    frame();
+  })();
+</script>
+</body>
+</html>

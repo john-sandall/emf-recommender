@@ -1,0 +1,40 @@
+name: Refresh schedule
+
+# Rebuild the skill file from the live EMF feed. Runs hourly during the event
+# so rooms/times/new sessions stay current, on push, and on demand.
+on:
+  schedule:
+    - cron: "17 * * * *"   # hourly, at :17
+  push:
+    branches: [main]
+    paths: [build.py, .github/workflows/refresh.yml]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Build skill file
+        run: python3 build.py
+      - name: Commit if changed
+        run: |
+          git config user.name "emf-quest-bot"
+          git config user.email "actions@github.com"
+          if [ -n "$(git status --porcelain skill/ data/)" ]; then
+            git add skill/ data/
+            git commit -m "chore: refresh schedule ($(date -u +'%Y-%m-%d %H:%M UTC'))"
+            git push
+          else
+            echo "No schedule changes."
+          fi

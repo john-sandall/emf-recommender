@@ -1,0 +1,6 @@
+# Playwright MCP scratch + local previews
+.playwright-mcp/
+*.png
+
+# OS / editor
+.DS_Store

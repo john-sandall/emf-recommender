@@ -1,0 +1,2432 @@
+[
+ {
+  "id": 15,
+  "name": "ERR_NAME_NOT_RESOLVED",
+  "url": "https://www.emfcamp.org/villages/2026/15-err-name-not-resolved",
+  "external_url": "",
+  "description": "The description you have requested is not available. Please refresh and try again.",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3760060943237704,
+    52.042269109754415
+   ]
+  },
+  "num_members": 1
+ },
+ {
+  "id": 142,
+  "name": "just another village",
+  "url": "https://www.emfcamp.org/villages/2026/142-just-another-village",
+  "external_url": "",
+  "description": "",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.375409256459477,
+    52.04169208371965
+   ]
+  },
+  "num_members": 2
+ },
+ {
+  "id": 78,
+  "name": "Village of Certain Doom",
+  "url": "https://www.emfcamp.org/villages/2026/78-village-of-certain-doom",
+  "external_url": "https://www.strangeprojects.co.uk",
+  "description": "A whole bunch of techies who had originally planned to make some cool stuff but completely failed to shall gather together for much merriment.\r\n\r\nWe may offer snacks.",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.378006143214492,
+    52.03998170142839
+   ]
+  },
+  "num_members": 10
+ },
+ {
+  "id": 17,
+  "name": "Edinburgh Hacklab",
+  "url": "https://www.emfcamp.org/villages/2026/17-edinburgh-hacklab",
+  "external_url": "https://edinburghhacklab.com",
+  "description": "Edinburgh Hacklab will be back again for 2026! Looking forward to see anyone that comes to visit us",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.374653652174487,
+    52.042542659739524
+   ]
+  },
+  "num_members": 13
+ },
+ {
+  "id": 26,
+  "name": "York Hackspace",
+  "url": "https://www.emfcamp.org/villages/2026/26-york-hackspace",
+  "external_url": "https://york.hackspace.org.uk/",
+  "description": "Members, friends, and loose associates of York Hackspace.",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.379074383112709,
+    52.040348185222854
+   ]
+  },
+  "num_members": 28
+ },
+ {
+  "id": 8,
+  "name": "EMF CTF",
+  "url": "https://www.emfcamp.org/villages/2026/8-emf-ctf",
+  "external_url": "https://www.emfctf.org/",
+  "description": "Per normal, we will be about.",
+  "location": null,
+  "num_members": 1
+ },
+ {
+  "id": 97,
+  "name": "Dreamcat & Friends",
+  "url": "https://www.emfcamp.org/villages/2026/97-dreamcat-friends",
+  "external_url": "https://dreamcat.uk/",
+  "description": "",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3764700161055146,
+    52.04126368458358
+   ]
+  },
+  "num_members": 31
+ },
+ {
+  "id": 16,
+  "name": "Moose",
+  "url": "https://www.emfcamp.org/villages/2026/16-moose",
+  "external_url": "https://trouble.is/moose/",
+  "description": "We are just a bunch of people that got connected by crazy and various circumstances Just a bunch of geeks sharing a story about moose (or possibly meese) who connected by crazy and various circumstances, in a spontaneous and still very dynamic way. Come and visit, we can tell you about all the mosses.",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3757182776476213,
+    52.04076169907955
+   ]
+  },
+  "num_members": 14
+ },
+ {
+  "id": 103,
+  "name": "Brum and Besties (& Sheffield) [BABS]",
+  "url": "https://www.emfcamp.org/villages/2026/103-brum-and-besties-sheffield-babs",
+  "external_url": "",
+  "description": "friends and more friends from Birmingham and Sheffield !",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3765686175389646,
+    52.0411438451992
+   ]
+  },
+  "num_members": 14
+ },
+ {
+  "id": 3,
+  "name": "rLab - Reading Hackspace",
+  "url": "https://www.emfcamp.org/villages/2026/3-rlab-reading-hackspace",
+  "external_url": "https://wiki.rlab.org.uk",
+  "description": "rLab is Reading's hackspace. Founded in 2010 and moving into our current building in 2014, we're one of the longest running spaces in the UK. \r\n\r\nWe'll be doing all manner of making and hacking during EMF and we'll be keen to show off what we've been working on and even run some demos! ",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3759886362119005,
+    52.041527200927334
+   ]
+  },
+  "num_members": 10
+ },
+ {
+  "id": 108,
+  "name": "Flame 🔥 village",
+  "url": "https://www.emfcamp.org/villages/2026/108-flame-village",
+  "external_url": "",
+  "description": "Demonstrations of Project Firewall as shown on WHY2025.",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.377264302771664,
+    52.0432240846047
+   ]
+  },
+  "num_members": 1
+ },
+ {
+  "id": 10,
+  "name": "Nottingham Hackspace",
+  "url": "https://www.emfcamp.org/villages/2026/10-nottingham-hackspace",
+  "external_url": "https://wiki.nottinghack.org.uk/wiki/EMF_Camp_2026",
+  "description": "For members and friends of Nottingham Hackspace. Come hang out.  🍹 We are bringing a slushy machine 🍹\r\n\r\n",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3755091779832753,
+    52.04198458781886
+   ]
+  },
+  "num_members": 23
+ },
+ {
+  "id": 134,
+  "name": "Maidstone Hackspace",
+  "url": "https://www.emfcamp.org/villages/2026/134-maidstone-hackspace",
+  "external_url": "https://maidstone-hackspace.org.uk/",
+  "description": "",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.373634944652565,
+    52.042580183179496
+   ]
+  },
+  "num_members": 1
+ },
+ {
+  "id": 29,
+  "name": "Cheltenham Hackspace",
+  "url": "https://www.emfcamp.org/villages/2026/29-cheltenham-hackspace",
+  "external_url": "https://www.cheltenhamhackspace.org/",
+  "description": "Better than East Essex Hackspace.",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.375212420080146,
+    52.04296818894582
+   ]
+  },
+  "num_members": 11
+ },
+ {
+  "id": 31,
+  "name": "Shonkbot",
+  "url": "https://www.emfcamp.org/villages/2026/31-shonkbot",
+  "external_url": "",
+  "description": "A collection of people loosely associated with Bristol Hackspace or other Bristolian tech malarkey.\r\n\r\nWe'll be providing field support services for the World'O'Techno, and tinkering with all kinds of nonsense. Expect robots, LoRa, modular synthesis, and flipdots.",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.377199648569615,
+    52.04038931269656
+   ]
+  },
+  "num_members": 22
+ },
+ {
+  "id": 21,
+  "name": "ZTL",
+  "url": "https://www.emfcamp.org/villages/2026/21-ztl",
+  "external_url": "https://ztl.space",
+  "description": "Zentrum für Technikkultur Landau \r\n\r\nA Makerspace in Landau (Pfalz), Germany\r\n\r\nWe bring friendly people (at least from a German perspective), Radio-Stuff and Hardware-Hacks.",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.373662517151473,
+    52.043016821432445
+   ]
+  },
+  "num_members": 6
+ },
+ {
+  "id": 7,
+  "name": "IGNORE ALL PRIOR VILLAGES",
+  "url": "https://www.emfcamp.org/villages/2026/7-ignore-all-prior-villages",
+  "external_url": "",
+  "description": "giv root",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.376798491570497,
+    52.04094808486002
+   ]
+  },
+  "num_members": 19
+ },
+ {
+  "id": 124,
+  "name": "milliways_dome",
+  "url": "https://www.emfcamp.org/villages/2026/124-milliways-dome",
+  "external_url": "https://wiki.milliways.info/index.php?title=Dome",
+  "description": "Dome Of Disinformation",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.376410024012472,
+    52.04262822089592
+   ]
+  },
+  "num_members": 1
+ },
+ {
+  "id": 25,
+  "name": "Field-FX",
+  "url": "https://www.emfcamp.org/villages/2026/25-field-fx",
+  "external_url": "https://field-fx.party/",
+  "description": "A Demoparty at EMF! Come see demo compos, workshops on the demoscene and live coding with TIC-80 and shaders. ",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3759826162232685,
+    52.0429604557047
+   ]
+  },
+  "num_members": 14
+ },
+ {
+  "id": 4,
+  "name": "The Hacking Hamlet 🕹️",
+  "url": "https://www.emfcamp.org/villages/2026/4-the-hacking-hamlet",
+  "external_url": "",
+  "description": "We're too small to be a village. \r\nBuilding things, breaking things. fixing things, cooking & eating things, and a LOT of lights.",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.376775925925699,
+    52.040303501456236
+   ]
+  },
+  "num_members": 6
+ },
+ {
+  "id": 160,
+  "name": "AstralShip & RandomKitchen",
+  "url": "https://www.emfcamp.org/villages/2026/160-astralship-randomkitchen",
+  "external_url": "https://astralship.org/",
+  "description": "AstralShip Crew hideout\r\njoined by the manifestation of RandomKitchen\r\n",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3758636397302553,
+    52.04311238510621
+   ]
+  },
+  "num_members": 1
+ },
+ {
+  "id": 23,
+  "name": "Maths Village",
+  "url": "https://www.emfcamp.org/villages/2026/23-maths-village",
+  "external_url": "https://mathsvilla.ge/",
+  "description": "A village for people interested in any kind of maths, particularly recreational maths.",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.374975935438556,
+    52.04323517880556
+   ]
+  },
+  "num_members": 4
+ },
+ {
+  "id": 119,
+  "name": "Nix Camp",
+  "url": "https://www.emfcamp.org/villages/2026/119-nix-camp",
+  "external_url": "https://nix.camp",
+  "description": "Co-located with BirkenHack, Nix Camp is a yearly ad-hoc event in the North West of England, where attendees learn, teach and generally share knowledge about Nix/NixOS!",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3758405004800807,
+    52.04308256534338
+   ]
+  },
+  "num_members": 1
+ },
+ {
+  "id": 12,
+  "name": "Lock Picking Village",
+  "url": "https://www.emfcamp.org/villages/2026/12-lock-picking-village",
+  "external_url": "",
+  "description": "Come and learn how locks work and how to pick locks. More descriptive description coming soon....maybe",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3782719475608474,
+    52.03995156285009
+   ]
+  },
+  "num_members": 3
+ },
+ {
+  "id": 141,
+  "name": "SHOW ME YOUR DECK ON TOUR",
+  "url": "https://www.emfcamp.org/villages/2026/141-show-me-your-deck-on-tour",
+  "external_url": "",
+  "description": "",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3750487413440453,
+    52.0418407787775
+   ]
+  },
+  "num_members": 3
+ },
+ {
+  "id": 32,
+  "name": "NADHack",
+  "url": "https://www.emfcamp.org/villages/2026/32-nadhack",
+  "external_url": "https://nadhack.org.uk/",
+  "description": "",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3796696309773324,
+    52.038996596763155
+   ]
+  },
+  "num_members": 1
+ },
+ {
+  "id": 22,
+  "name": "Furry High Commission",
+  "url": "https://www.emfcamp.org/villages/2026/22-furry-high-commission",
+  "external_url": "",
+  "description": "\r\n\"OwO What's this?? EMF's central hub for all things furry, that's what! \r\n",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3751908859429136,
+    52.042565988104656
+   ]
+  },
+  "num_members": 16
+ },
+ {
+  "id": 155,
+  "name": "Halfmeta Industries",
+  "url": "https://www.emfcamp.org/villages/2026/155-halfmeta-industries",
+  "external_url": "",
+  "description": "A few people from Cambridge in live-in vehicles. ",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.377698045716272,
+    52.039782325881674
+   ]
+  },
+  "num_members": 3
+ },
+ {
+  "id": 135,
+  "name": "Floofers",
+  "url": "https://www.emfcamp.org/villages/2026/135-floofers",
+  "external_url": "",
+  "description": "🐾",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.375422702749205,
+    52.041217848753746
+   ]
+  },
+  "num_members": 4
+ },
+ {
+  "id": 20,
+  "name": "Hack Club",
+  "url": "https://www.emfcamp.org/villages/2026/20-hack-club",
+  "external_url": "https://hackclub.com",
+  "description": "We are a community of international teenage hackers, and some of us are coming to EMF!",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.375381093607814,
+    52.042347150821826
+   ]
+  },
+  "num_members": 10
+ },
+ {
+  "id": 11,
+  "name": "Guild of (Bread) Makers",
+  "url": "https://www.emfcamp.org/villages/2026/11-guild-of-bread-makers",
+  "external_url": "http://www.lucyrogers.com",
+  "description": "Random group associated with people who were members of the Guild of Makers. AKA friends of and friends of friends of Lucy.",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3743096245700315,
+    52.04271111823914
+   ]
+  },
+  "num_members": 5
+ },
+ {
+  "id": 50,
+  "name": "Habville",
+  "url": "https://www.emfcamp.org/villages/2026/50-habville",
+  "external_url": "",
+  "description": "Habville is a loose group of high altitude ballooning enthusiasts, enjoying launching balloons, rockets but also just about anything that glows in RGB too.",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3756611804614067,
+    52.04085713710077
+   ]
+  },
+  "num_members": 5
+ },
+ {
+  "id": 46,
+  "name": "🥞 CrepesCampingClub",
+  "url": "https://www.emfcamp.org/villages/2026/46-crepescampingclub",
+  "external_url": "",
+  "description": "A group of like-minded tinkerer friends from the plains of Brittany, France.",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3737739491340903,
+    52.04270002668278
+   ]
+  },
+  "num_members": 7
+ },
+ {
+  "id": 56,
+  "name": "Non-Virtual Infraclub",
+  "url": "https://www.emfcamp.org/villages/2026/56-non-virtual-infraclub",
+  "external_url": "http://infrastructureclub.org/",
+  "description": "Some folks who hang out in the Infrastructure Club slack are going to be at EMF. Come and hang out with us, and talk about tetrapods.",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3741977778168177,
+    52.04298733016313
+   ]
+  },
+  "num_members": 9
+ },
+ {
+  "id": 95,
+  "name": "Hackalot",
+  "url": "https://www.emfcamp.org/villages/2026/95-hackalot",
+  "external_url": "https://hackalot.nl",
+  "description": "Folks from Hackerspace Hackalot, Eindhoven, The Netherlands.",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3762778718269715,
+    52.041588048044815
+   ]
+  },
+  "num_members": 6
+ },
+ {
+  "id": 156,
+  "name": "Kitchen Crew",
+  "url": "https://www.emfcamp.org/villages/2026/156-kitchen-crew",
+  "external_url": "",
+  "description": "We run the volunteer kitchen. Find us where there's food! ",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3760812112437577,
+    52.04027990210315
+   ]
+  },
+  "num_members": 1
+ },
+ {
+  "id": 48,
+  "name": "Biohackers",
+  "url": "https://www.emfcamp.org/villages/2026/48-biohackers",
+  "external_url": "https://biohack.me",
+  "description": "Biohacking – The art of modifying your body and transcending biological limits. Learn to feel magnetic fields, make your skin glow, become a walking Wi-Fi router.\r\n\r\nWe explain everything from tattoos and glow cutting to implants and surgery, and we’ll answer every question we can :3\r\n\r\nPlease note: we have little interest in supplements and longevity or whatever else it is that Silicon Valley cishets think biohacking is.",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.378877855075501,
+    52.04020969715077
+   ]
+  },
+  "num_members": 2
+ },
+ {
+  "id": 45,
+  "name": "Unnamed Village",
+  "url": "https://www.emfcamp.org/villages/2026/45-unnamed-village",
+  "external_url": "https://unnamedVilla.ge",
+  "description": "A group of losely connected friends from across the UK. In previous years, ran a small programme of techy workshops for kids and teens.",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3794896173922666,
+    52.040106897055466
+   ]
+  },
+  "num_members": 21
+ },
+ {
+  "id": 14,
+  "name": "Leigh Hackspace",
+  "url": "https://www.emfcamp.org/villages/2026/14-leigh-hackspace",
+  "external_url": "https://www.leighhack.org/",
+  "description": "Hi folks, we're Leigh Hackspace - a makerspace based in Leigh, Wigan.",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.376190690458543,
+    52.041337828989725
+   ]
+  },
+  "num_members": 11
+ },
+ {
+  "id": 104,
+  "name": "All your bass are belong to us",
+  "url": "https://www.emfcamp.org/villages/2026/104-all-your-bass-are-belong-to-us",
+  "external_url": "",
+  "description": "Some friends from Edinburgh and their speakers. If the music's playing, then come for a dance.",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3750194972198244,
+    52.04341425333203
+   ]
+  },
+  "num_members": 7
+ },
+ {
+  "id": 125,
+  "name": "milliways_kitchen",
+  "url": "https://www.emfcamp.org/villages/2026/125-milliways-kitchen",
+  "external_url": "https://milliways.info",
+  "description": "",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3764617593384685,
+    52.04257152549238
+   ]
+  },
+  "num_members": 1
+ },
+ {
+  "id": 52,
+  "name": "Content Creators Village",
+  "url": "https://www.emfcamp.org/villages/2026/52-content-creators-village",
+  "external_url": "",
+  "description": "James Bruton and Matt Denton will be joined by various other Content Creator Professionals to showcase some projects.",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3780536454988805,
+    52.04014881732917
+   ]
+  },
+  "num_members": 5
+ },
+ {
+  "id": 38,
+  "name": "Freeside",
+  "url": "https://www.emfcamp.org/villages/2026/38-freeside",
+  "external_url": "https://freeside.ltd",
+  "description": "Freeside is a loose conglomerate of hackers from around the globe. Cyberpunks, Stirner enthusiasts, beer drinkers, hedgehog admirers,  and victims of the programming language Go.",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3762760230927995,
+    52.042649740824004
+   ]
+  },
+  "num_members": 8
+ },
+ {
+  "id": 161,
+  "name": "Chiltern Badgers",
+  "url": "https://www.emfcamp.org/villages/2026/161-chiltern-badgers",
+  "external_url": "",
+  "description": "A family who live at a house named The Badgers.",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3795749513761564,
+    52.03961284844931
+   ]
+  },
+  "num_members": 1
+ },
+ {
+  "id": 111,
+  "name": "Gold Members' Lounge",
+  "url": "https://www.emfcamp.org/villages/2026/111-gold-members-lounge",
+  "external_url": "",
+  "description": "We’re the Gold Members' Lounge!",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.375586362519357,
+    52.04166879492368
+   ]
+  },
+  "num_members": 2
+ },
+ {
+  "id": 43,
+  "name": "Koala Makers",
+  "url": "https://www.emfcamp.org/villages/2026/43-koala-makers",
+  "external_url": "",
+  "description": "A small group of friends hanging out together",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.377640895540253,
+    52.03887662742818
+   ]
+  },
+  "num_members": 5
+ },
+ {
+  "id": 82,
+  "name": "&nbsp;",
+  "url": "https://www.emfcamp.org/villages/2026/82-nbsp",
+  "external_url": "https://nbsp.group",
+  "description": "Being soft is a revolutionary act. A tapestry of transfeminine-leaning internet communities. Formerly known as the Cuddly Catgirl Collective and femcamp.\r\n\r\nNow with more domes and more meowing ",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.375323697646195,
+    52.040576246326
+   ]
+  },
+  "num_members": 12
+ },
+ {
+  "id": 34,
+  "name": "3t.network",
+  "url": "https://www.emfcamp.org/villages/2026/34-3t-network",
+  "external_url": "https://3t.network/about.html",
+  "description": "",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3754141134848226,
+    52.04272664018467
+   ]
+  },
+  "num_members": 1
+ },
+ {
+  "id": 54,
+  "name": "Bristol Hackspace",
+  "url": "https://www.emfcamp.org/villages/2026/54-bristol-hackspace",
+  "external_url": "https://bristolhackspace.org/",
+  "description": "Bristol Hackspace and friends ",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3769563234484963,
+    52.04040320510049
+   ]
+  },
+  "num_members": 7
+ },
+ {
+  "id": 47,
+  "name": "GCHQ.NET",
+  "url": "https://www.emfcamp.org/villages/2026/47-gchq-net",
+  "external_url": "https://gchq.net",
+  "description": "Error 403 - You have insufficient security clearance to access this information",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.375824161437066,
+    52.041716026958994
+   ]
+  },
+  "num_members": 1
+ },
+ {
+  "id": 44,
+  "name": "London Aerospace",
+  "url": "https://www.emfcamp.org/villages/2026/44-london-aerospace",
+  "external_url": "",
+  "description": "The ever increasingly misnamed and geographically disparate London Aerospace village. Swing by if you'd like to learn more about drone building, drone flying, drone crashing, and drone repairing.",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.376049358148265,
+    52.04047510342522
+   ]
+  },
+  "num_members": 5
+ },
+ {
+  "id": 49,
+  "name": "Shrubbery",
+  "url": "https://www.emfcamp.org/villages/2026/49-shrubbery",
+  "external_url": "https://wiki.emfcamp.org/2024/w/images/d/d6/Village-Shrubbery.jpeg",
+  "description": "A group of friends who demand a shrubbery!",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3785315307519,
+    52.04017004415928
+   ]
+  },
+  "num_members": 5
+ },
+ {
+  "id": 39,
+  "name": "EMF-IX",
+  "url": "https://www.emfcamp.org/villages/2026/39-emf-ix",
+  "external_url": "https://emf-ix.benjojo.co.uk",
+  "description": "A BGP Internet Exchange Point (IXP) at EMF, Enjoy a collection of network engineers both professional and hobby",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.375691202198766,
+    52.04155603128831
+   ]
+  },
+  "num_members": 2
+ },
+ {
+  "id": 42,
+  "name": "Håck ma's village",
+  "url": "https://www.emfcamp.org/villages/2026/42-h%C3%A5ck-mas-village",
+  "external_url": "https://hack-mas.at/",
+  "description": "We are a group of people from different hackspaces in Austria. Some of us also organize the Austrian Camp called Håck ma's Castle later in August. We're bringing some Austrian Gemütlichkeit.",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3765793001059308,
+    52.04092740881501
+   ]
+  },
+  "num_members": 6
+ },
+ {
+  "id": 63,
+  "name": "Friends of the Moon",
+  "url": "https://www.emfcamp.org/villages/2026/63-friends-of-the-moon",
+  "external_url": "",
+  "description": "FOTM is a loosely Southampton associated group of contraptioneers, makers and friends with interests ranging from 3D printing to infosec, and selfhosting to model making.",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3756379552964972,
+    52.04233013444053
+   ]
+  },
+  "num_members": 8
+ },
+ {
+  "id": 59,
+  "name": "Oxford's EOF Hackspace",
+  "url": "https://www.emfcamp.org/villages/2026/59-oxfords-eof-hackspace",
+  "external_url": "https://eof.org.uk",
+  "description": "",
+  "location": null,
+  "num_members": 1
+ },
+ {
+  "id": 61,
+  "name": "KnobsVille",
+  "url": "https://www.emfcamp.org/villages/2026/61-knobsville",
+  "external_url": "",
+  "description": "",
+  "location": null,
+  "num_members": 1
+ },
+ {
+  "id": 94,
+  "name": "Sheffield-by-the-Sea",
+  "url": "https://www.emfcamp.org/villages/2026/94-sheffield-by-the-sea",
+  "external_url": "",
+  "description": "A group of friends bringing their smallest friend to his first EMF in the world. Expect colourful, reactive jellyfish on display round the camp. ",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.378832599398436,
+    52.0389019876215
+   ]
+  },
+  "num_members": 5
+ },
+ {
+  "id": 157,
+  "name": "Old Skool B3tans",
+  "url": "https://www.emfcamp.org/villages/2026/157-old-skool-b3tans",
+  "external_url": "https://www.b3ta.com",
+  "description": "The puerile digital arts community is sort of here. Well a couple of us at least",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3752886375408764,
+    52.04047306545843
+   ]
+  },
+  "num_members": 1
+ },
+ {
+  "id": 65,
+  "name": "Hat village",
+  "url": "https://www.emfcamp.org/villages/2026/65-hat-village",
+  "external_url": "https://hat-village.codeberg.page/",
+  "description": "The lore behind the name Hat Village will be explained to those who ask",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.374318743763297,
+    52.042543427309624
+   ]
+  },
+  "num_members": 15
+ },
+ {
+  "id": 129,
+  "name": "Deep in thought yet slightly disturbed",
+  "url": "https://www.emfcamp.org/villages/2026/129-deep-in-thought-yet-slightly-disturbed",
+  "external_url": "",
+  "description": "If the name made you interested in meeting us, we're probably going to get along and we'd be happy to meet you. We are a queer and neurodiversity friendly international friend group with diverse interests ranging from the technical to creative arts/handcrafting to the outdoors. And, very importantly, bunnies.",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.379060247416305,
+    52.04018911735716
+   ]
+  },
+  "num_members": 5
+ },
+ {
+  "id": 60,
+  "name": "Sibermerdeka",
+  "url": "https://www.emfcamp.org/villages/2026/60-sibermerdeka",
+  "external_url": "http://sibermerdeka.net",
+  "description": "A hackerspace from the other side of the world, based in Kuala Lumpur, Malaysia! We have members and friends from all over the world, and we'd like to have you along too!",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.376130288980818,
+    52.04108136779618
+   ]
+  },
+  "num_members": 3
+ },
+ {
+  "id": 99,
+  "name": "D.I.B.S.",
+  "url": "https://www.emfcamp.org/villages/2026/99-d-i-b-s",
+  "external_url": "",
+  "description": "Dibs Is Baggsy Synonym",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.375220815618917,
+    52.04154810561329
+   ]
+  },
+  "num_members": 3
+ },
+ {
+  "id": 69,
+  "name": "Cambridge Makespace",
+  "url": "https://www.emfcamp.org/villages/2026/69-cambridge-makespace",
+  "external_url": "https://web.makespace.org/",
+  "description": "collection of makespacers from the Cambrdige Makespace",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.376024206695746,
+    52.04123303694905
+   ]
+  },
+  "num_members": 8
+ },
+ {
+  "id": 62,
+  "name": "Ministry of Chaos",
+  "url": "https://www.emfcamp.org/villages/2026/62-ministry-of-chaos",
+  "external_url": "https://chaos.social/@ministryofchaos",
+  "description": "A UK-wide hacking community focused on maintaining chaos between events.",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3756102125883842,
+    52.042497987731224
+   ]
+  },
+  "num_members": 9
+ },
+ {
+  "id": 58,
+  "name": "Leeds Hackspace",
+  "url": "https://www.emfcamp.org/villages/2026/58-leeds-hackspace",
+  "external_url": "https://leedshackspace.org.uk/",
+  "description": "We're Leeds Hackspace! A workshop and craft space for people who like making things, are curious about how stuff works, or would like to learn new skills based in lovely Leeds.",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3782488771123838,
+    52.04006957477526
+   ]
+  },
+  "num_members": 5
+ },
+ {
+  "id": 101,
+  "name": "Tricky Disco",
+  "url": "https://www.emfcamp.org/villages/2026/101-tricky-disco",
+  "external_url": "",
+  "description": "A long-lived collection of friends and hackers. Music, civic hacking, occasionally fire art.",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3762302047066157,
+    52.04078295391196
+   ]
+  },
+  "num_members": 6
+ },
+ {
+  "id": 73,
+  "name": "SeriousCamp",
+  "url": "https://www.emfcamp.org/villages/2026/73-seriouscamp",
+  "external_url": "http://seriouscat.com/",
+  "description": "We're very serious",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3786725015262107,
+    52.0403137341041
+   ]
+  },
+  "num_members": 1
+ },
+ {
+  "id": 27,
+  "name": "South London MakerVillage",
+  "url": "https://www.emfcamp.org/villages/2026/27-south-london-makervillage",
+  "external_url": "https://southlondonmakerspace.org",
+  "description": "South London Makerspace is a social community workshop in the heart of Herne Hill, South London. It's owned, run and maintained by the members; there are no paid staff.\r\n\r\nHome to the £free MakerBreakfast - 8:30 to 9:30, Fri to Sun during EMF",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.375680762025837,
+    52.04180622077425
+   ]
+  },
+  "num_members": 8
+ },
+ {
+  "id": 71,
+  "name": "NoobSpace",
+  "url": "https://www.emfcamp.org/villages/2026/71-noobspace",
+  "external_url": "",
+  "description": "A group of EMF Seniors with some noobs. ",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3788046477521902,
+    52.040059684972874
+   ]
+  },
+  "num_members": 11
+ },
+ {
+  "id": 113,
+  "name": "MathWorks",
+  "url": "https://www.emfcamp.org/villages/2026/113-mathworks",
+  "external_url": "",
+  "description": "A group of people working for MathWorks in Cambridge - come say hi",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.375488484729601,
+    52.04109281072425
+   ]
+  },
+  "num_members": 8
+ },
+ {
+  "id": 64,
+  "name": "Axov Village",
+  "url": "https://www.emfcamp.org/villages/2026/64-axov-village",
+  "external_url": "",
+  "description": "your friendly neighbourhood consultancy company at emfcamp 2026",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.375219794150553,
+    52.041642786252055
+   ]
+  },
+  "num_members": 1
+ },
+ {
+  "id": 72,
+  "name": "Loitering Within Tent",
+  "url": "https://www.emfcamp.org/villages/2026/72-loitering-within-tent",
+  "external_url": "",
+  "description": "A collection of like-minded individuals with interests in all sorts! Expect a 3D printer going camping, mask painting workshops, a talk about cryptids in culture, an electromechanical owl hat, scientifically-perfect mojito, and an amazing 750 mil telescope for everyone to enjoy!\r\n\r\nCall us on our duck phones!",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3782872140040183,
+    52.03988232283791
+   ]
+  },
+  "num_members": 23
+ },
+ {
+  "id": 66,
+  "name": "Teesside Hackspace",
+  "url": "https://www.emfcamp.org/villages/2026/66-teesside-hackspace",
+  "external_url": "https://www.teessidehackspace.org.uk/",
+  "description": "Members, friends, imposters and gatecrashers of Teesside Hackspace (North East England)",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3763695470027812,
+    52.04107965251893
+   ]
+  },
+  "num_members": 6
+ },
+ {
+  "id": 143,
+  "name": "Flamin' Galahs!",
+  "url": "https://www.emfcamp.org/villages/2026/143-flamin-galahs",
+  "external_url": "",
+  "description": "An outback BBQ outpost - we're Australians* and we will have a BBQ. Not commin' the raw prawn at all. That's about it really. Fellow foodies and BBQers welcome, there may be chillies (though fruiting in time seems dubious), chilli sauces, cremated meat, IDK, it's a go with the flow scenario. *AKA Yvan & Kat",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.375841899702692,
+    52.04209851527651
+   ]
+  },
+  "num_members": 2
+ },
+ {
+  "id": 137,
+  "name": "Flamingo Frontier",
+  "url": "https://www.emfcamp.org/villages/2026/137-flamingo-frontier",
+  "external_url": "",
+  "description": "Flamingos make the world go round.\r\n\r\nLGBTQIA+ and disability friendly.\r\n\r\nWe have RADAR keys if you need them.",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.378702069975219,
+    52.040586836983465
+   ]
+  },
+  "num_members": 4
+ },
+ {
+  "id": 24,
+  "name": "Test Village",
+  "url": "https://www.emfcamp.org/villages/2026/24-test-village",
+  "external_url": "https://harwellmakers.com",
+  "description": "Not actually a test! A group of people from Harwell Makers, STFC, South Oxfordshire and friends. You’re most welcome to join us! \r\nWe will be camping in a very quiet/family area.",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3794481515984955,
+    52.03950319734375
+   ]
+  },
+  "num_members": 8
+ },
+ {
+  "id": 30,
+  "name": "AMSAT-UK",
+  "url": "https://www.emfcamp.org/villages/2026/30-amsat-uk",
+  "external_url": "https://emf2026.philcrump.co.uk",
+  "description": "AMSAT-UK, the British Amateur Television Club (BATC), and the UK Microwave Group (UKuG) are teaming up to showcase satellite communications, amateur television, and microwave radio experimentation.",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3760065182676726,
+    52.04074595832975
+   ]
+  },
+  "num_members": 1
+ },
+ {
+  "id": 9,
+  "name": "Tekhnē-cal Village",
+  "url": "https://www.emfcamp.org/villages/2026/9-tekhn%C4%93-cal-village",
+  "external_url": "https://discord.gg/e9GaUHtjbU",
+  "description": "A village for people who like playing with string. \r\nLoosely organised fibrecrafts themed village, with a central marquee with places to sit, tea/coffee, and free craft materials. All crafting ability levels welcome! We will run drop-in crafting sessions for all ages and another fibrecraft materials swap again this year. The village will be very family and LGBTQ+ friendly, and we will do our best to be a calm sensory space for anyone who needs a break away from the main areas. ",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.378171671045834,
+    52.04028161496325
+   ]
+  },
+  "num_members": 5
+ },
+ {
+  "id": 2,
+  "name": "com:LAAG",
+  "url": "https://www.emfcamp.org/villages/2026/2-com-laag",
+  "external_url": "https://comlaag.cc",
+  "description": "Comm(un(e|ity)|ittee) of London And A(ffil|ssoc)iated Gays. \r\n\r\nPreviously: TWASK, Apologies in Advance.\r\n\r\nA group of individuals (some friends, some foes), brought together by social fabric and shared interests.\r\n\r\nwoof",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.375319064727364,
+    52.04328480344839
+   ]
+  },
+  "num_members": 9
+ },
+ {
+  "id": 130,
+  "name": "Coffee Queers",
+  "url": "https://www.emfcamp.org/villages/2026/130-coffee-queers",
+  "external_url": "",
+  "description": "Just a group of friends camping together",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3759729166731063,
+    52.04023499312504
+   ]
+  },
+  "num_members": 6
+ },
+ {
+  "id": 80,
+  "name": "Gothic Valley",
+  "url": "https://www.emfcamp.org/villages/2026/80-gothic-valley",
+  "external_url": "",
+  "description": "A disorganised bunch of goths and goth-adjacent folk",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.376130976419205,
+    52.040371017825805
+   ]
+  },
+  "num_members": 19
+ },
+ {
+  "id": 158,
+  "name": "kgz.sh",
+  "url": "https://www.emfcamp.org/villages/2026/158-kgz-sh",
+  "external_url": "https://kgz.sh",
+  "description": "",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3753487198001437,
+    52.04291118491031
+   ]
+  },
+  "num_members": 1
+ },
+ {
+  "id": 28,
+  "name": "! Glastonledburyshire-on-Severn !",
+  "url": "https://www.emfcamp.org/villages/2026/28-glastonledburyshire-on-severn",
+  "external_url": "https://glastonledburyshire-on-severn-gov.uk",
+  "description": "The sovereign nation state of Glastonledburyshire-on-Severn. In pint we drink.\r\n\r\nhttps://glastonledburyshire-on-severn-gov.uk",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3749057673506684,
+    52.0428256138884
+   ]
+  },
+  "num_members": 33
+ },
+ {
+  "id": 51,
+  "name": "Traditional Crafts",
+  "url": "https://www.emfcamp.org/villages/2026/51-traditional-crafts",
+  "external_url": "",
+  "description": "A collection of traditional craft enthusiasts and workshops, focusing on handcrafts and handwork.\r\n\r\nIf you're interested in joining, message YetiFiasco on EMFCamp IRC",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.378190036110169,
+    52.04021573219916
+   ]
+  },
+  "num_members": 1
+ },
+ {
+  "id": 5,
+  "name": "East Essex Hackspace",
+  "url": "https://www.emfcamp.org/villages/2026/5-east-essex-hackspace",
+  "external_url": "Https://eehack.space",
+  "description": "East Essex Hackspace returns to EMF with organised chaos, questionable engineering, a TARDIS, K9, a Dalek, the VelociRacer, LAN gaming, Minecraft, antweight robots, paper rockets, pancakes, homebrew and the revised Potato of the Infinite. Come and join the nonsense.",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3765305593728385,
+    52.04036331122549
+   ]
+  },
+  "num_members": 12
+ },
+ {
+  "id": 144,
+  "name": "Codemyriad and family",
+  "url": "https://www.emfcamp.org/villages/2026/144-codemyriad-and-family",
+  "external_url": "https://codemyriad.io",
+  "description": "There are a myriad possible descriptions for this village - we couldn't settle on any...",
+  "location": null,
+  "num_members": 2
+ },
+ {
+  "id": 114,
+  "name": "UKLEM",
+  "url": "https://www.emfcamp.org/villages/2026/114-uklem",
+  "external_url": "",
+  "description": "The UK Laser* Enthusiasts Meet",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.373910716990764,
+    52.04253697140041
+   ]
+  },
+  "num_members": 2
+ },
+ {
+  "id": 100,
+  "name": "Motley Crew",
+  "url": "https://www.emfcamp.org/villages/2026/100-motley-crew",
+  "external_url": "",
+  "description": "Miscellaneous family and friends.",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3763354594706527,
+    52.04072983077623
+   ]
+  },
+  "num_members": 9
+ },
+ {
+  "id": 79,
+  "name": "Clockwork Bods",
+  "url": "https://www.emfcamp.org/villages/2026/79-clockwork-bods",
+  "external_url": "",
+  "description": "The wider Clockwork Dog family and friends.",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.379012187035954,
+    52.03913683410863
+   ]
+  },
+  "num_members": 1
+ },
+ {
+  "id": 74,
+  "name": "Friends of the Fractal Fern",
+  "url": "https://www.emfcamp.org/villages/2026/74-friends-of-the-fractal-fern",
+  "external_url": "",
+  "description": "We are a group of friends hailing from Scotland. We like electronics, gardening, arts & crafts, DIY and Bamzooki.",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3768986135517594,
+    52.04056173052692
+   ]
+  },
+  "num_members": 3
+ },
+ {
+  "id": 77,
+  "name": "MK Makerspace",
+  "url": "https://www.emfcamp.org/villages/2026/77-mk-makerspace",
+  "external_url": "https://mkmakerspace.co.uk/",
+  "description": "A group of makers from the metropolis of the concrete cows.\r\n",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.376600903071335,
+    52.040731739515024
+   ]
+  },
+  "num_members": 8
+ },
+ {
+  "id": 136,
+  "name": "DJ BAPS and friends",
+  "url": "https://www.emfcamp.org/villages/2026/136-dj-baps-and-friends",
+  "external_url": "",
+  "description": "A village surprising unrelated to either DJs or burger buns. Just some friends who are all makers, creators and techies at heart together with their mini EMF’ers",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3796412313231485,
+    52.039060542381094
+   ]
+  },
+  "num_members": 1
+ },
+ {
+  "id": 89,
+  "name": "Tented Vias",
+  "url": "https://www.emfcamp.org/villages/2026/89-tented-vias",
+  "external_url": "",
+  "description": "A group of friends who share common interests in electronics, making, and hacking.",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.377815542695572,
+    52.03897222976539
+   ]
+  },
+  "num_members": 1
+ },
+ {
+  "id": 149,
+  "name": "[tbd]",
+  "url": "https://www.emfcamp.org/villages/2026/149-tbd",
+  "external_url": "https://tbd.camp",
+  "description": "[tbd] is an ongoing series of camps, festivals and hacker events in Amsterdam",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3745277090147283,
+    52.04308793482255
+   ]
+  },
+  "num_members": 3
+ },
+ {
+  "id": 87,
+  "name": "Hackeriet & Friends",
+  "url": "https://www.emfcamp.org/villages/2026/87-hackeriet-friends",
+  "external_url": "https://Hackeriet.no",
+  "description": "Hackeriet is the Oslo hackerspace. We welcome all creatrues.",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.376166766141665,
+    52.042648131647724
+   ]
+  },
+  "num_members": 6
+ },
+ {
+  "id": 121,
+  "name": "tilde.friends",
+  "url": "https://www.emfcamp.org/villages/2026/121-tilde-friends",
+  "external_url": "https://tilde.industries/",
+  "description": "tilde.industries + friends from the UK, France, the Netherlands, Finland, Poland, and more! ",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3752475897860847,
+    52.0420455451864
+   ]
+  },
+  "num_members": 1
+ },
+ {
+  "id": 131,
+  "name": "VLC Village",
+  "url": "https://www.emfcamp.org/villages/2026/131-vlc-village",
+  "external_url": "https://films.emfcamp.org/",
+  "description": "Some of the folks that help run the films at EMF.",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3762099456512544,
+    52.04013161603086
+   ]
+  },
+  "num_members": 3
+ },
+ {
+  "id": 148,
+  "name": "cside security village",
+  "url": "https://www.emfcamp.org/villages/2026/148-cside-security-village",
+  "external_url": "https://cside.com",
+  "description": "A scavenger hunt teaching you the essentials of browser-level security. Teaching you the ins and outs of how browsers can help detect threat actors. As seen in our session \"North Korean agent looking for a job\"",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.375511899896594,
+    52.043617537174754
+   ]
+  },
+  "num_members": 1
+ },
+ {
+  "id": 115,
+  "name": "Girls Club Satellite Campus",
+  "url": "https://www.emfcamp.org/villages/2026/115-girls-club-satellite-campus",
+  "external_url": "",
+  "description": "Just some girls (and Ian)",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.379507744248258,
+    52.039726967803915
+   ]
+  },
+  "num_members": 1
+ },
+ {
+  "id": 96,
+  "name": ".shhhh",
+  "url": "https://www.emfcamp.org/villages/2026/96-shhhh",
+  "external_url": "",
+  "description": "A small group of friends from around the world who happened to meet in Fife. Cursed shell scripts and hacked-together UIs, and occasionally a quieter corner to hang out",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.375579550422316,
+    52.04037994251746
+   ]
+  },
+  "num_members": 2
+ },
+ {
+  "id": 90,
+  "name": "Poorly Located Progesterone",
+  "url": "https://www.emfcamp.org/villages/2026/90-poorly-located-progesterone",
+  "external_url": "",
+  "description": "Miscellaneous queers from Cambridge. Come write GLSL in our ~~~Shader Dome~~~. Sorry no prog music this time!",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3751057246095115,
+    52.041754064221095
+   ]
+  },
+  "num_members": 8
+ },
+ {
+  "id": 85,
+  "name": "Maker Space (Newcastle upon Tyne)",
+  "url": "https://www.emfcamp.org/villages/2026/85-maker-space-newcastle-upon-tyne",
+  "external_url": "https://www.makerspace.org.uk/",
+  "description": "Formerly known as The Northern Quarter, this is home of Maker Space members (of Newcastle upon Tyne and Gateshead) and friends.",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.376342207608104,
+    52.04099209331747
+   ]
+  },
+  "num_members": 5
+ },
+ {
+  "id": 91,
+  "name": "LOC",
+  "url": "https://www.emfcamp.org/villages/2026/91-loc",
+  "external_url": "https://power.emf.camp",
+  "description": "A small village for the lovely people on the EMF lighting team",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.375159915466014,
+    52.04116259121977
+   ]
+  },
+  "num_members": 1
+ },
+ {
+  "id": 88,
+  "name": "2016's Worst Village",
+  "url": "https://www.emfcamp.org/villages/2026/88-2016s-worst-village",
+  "external_url": "",
+  "description": "In 2016, someone told us we were the worst village. You be the judge. ",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3753422619030005,
+    52.041925243194356
+   ]
+  },
+  "num_members": 6
+ },
+ {
+  "id": 86,
+  "name": "meow meow village",
+  "url": "https://www.emfcamp.org/villages/2026/86-meow-meow-village",
+  "external_url": "",
+  "description": "take me down to the meow meow village, where the women go nyaa and the projects aren’t finished",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3751680538622395,
+    52.04133980769234
+   ]
+  },
+  "num_members": 7
+ },
+ {
+  "id": 1,
+  "name": "Cardiff Makerspace",
+  "url": "https://www.emfcamp.org/villages/2026/1-cardiff-makerspace",
+  "external_url": "https://cardiffmakerspace.com/",
+  "description": "Cardiff Makerspace is a shared workspace in Cardiff for people who like to learn and make stuff. A bunch of us will be at EMF, so come along and say hi to our lovely group of people! Our members interests include electronics, robotics, woodwork, metalwork, photography, music, jewellery making, paper craft and textiles.",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.377149551379034,
+    52.04057182937612
+   ]
+  },
+  "num_members": 4
+ },
+ {
+  "id": 93,
+  "name": "Shonkbot-sur-les-roues",
+  "url": "https://www.emfcamp.org/villages/2026/93-shonkbot-sur-les-roues",
+  "external_url": "",
+  "description": "The wheeled contingent of Shonkbot village, mostly for navigational purposes",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.377284163581521,
+    52.040254207895174
+   ]
+  },
+  "num_members": 1
+ },
+ {
+  "id": 19,
+  "name": "Bodgeham-on-Wye",
+  "url": "https://www.emfcamp.org/villages/2026/19-bodgeham-on-wye",
+  "external_url": "https://www.bodgeham-on-wye-gov.uk/",
+  "description": "Bodgeham-on-Wye is a village and civil parish, in Herefordshire, England, near the border with Wales. It has exhibited rapid growth, more than doubling in size since 2024[1], with a 2026 population of 30. It lies in the south-east of the county, on the River Wye[citation needed], and adjacent to the Eastnor Deer Park. Bodgeham-on-Wye is upside-down.",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3756540184625123,
+    52.04122799874966
+   ]
+  },
+  "num_members": 21
+ },
+ {
+  "id": 92,
+  "name": "Hacky Racers",
+  "url": "https://www.emfcamp.org/villages/2026/92-hacky-racers",
+  "external_url": "https://www.hackyracers.co.uk",
+  "description": "Zero Emissions. Maximum Mayhem.",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3763662348284527,
+    52.04320202201097
+   ]
+  },
+  "num_members": 2
+ },
+ {
+  "id": 57,
+  "name": "ECHQ",
+  "url": "https://www.emfcamp.org/villages/2026/57-echq",
+  "external_url": "https://echq.org.uk/",
+  "description": "We're ECHQ and we ❤️ communications things",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3758930777917726,
+    52.04159654206683
+   ]
+  },
+  "num_members": 15
+ },
+ {
+  "id": 132,
+  "name": "Kingstonian",
+  "url": "https://www.emfcamp.org/villages/2026/132-kingstonian",
+  "external_url": "",
+  "description": "Friends from Kingston upon Thames",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3769261652691966,
+    52.040770387457115
+   ]
+  },
+  "num_members": 4
+ },
+ {
+  "id": 13,
+  "name": "DogsbodyHQ",
+  "url": "https://www.emfcamp.org/villages/2026/13-dogsbodyhq",
+  "external_url": "https://github.com/dogsbodytech/thunderdome",
+  "description": "Not all infrastructure is invisible",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3757528830583396,
+    52.04142410225799
+   ]
+  },
+  "num_members": 5
+ },
+ {
+  "id": 83,
+  "name": "Stroopwafels & Oatcakes",
+  "url": "https://www.emfcamp.org/villages/2026/83-stroopwafels-oatcakes",
+  "external_url": "",
+  "description": "Stroopwafels, the delicious snack from The Netherlands.. Just like some of us!\r\nOatcakes (the Staffordshire one), the delicous snack from Staffordshire.. Just like some more of us!\r\n\r\nWe just like snacks, okay?",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3753544881236337,
+    52.04143226867998
+   ]
+  },
+  "num_members": 17
+ },
+ {
+  "id": 120,
+  "name": "Spargle 🥦",
+  "url": "https://www.emfcamp.org/villages/2026/120-spargle",
+  "external_url": "",
+  "description": "Ich bin ein Übergemüse mit Übergemüsequalitäten.",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3763716666430525,
+    52.04265909900326
+   ]
+  },
+  "num_members": 1
+ },
+ {
+  "id": 150,
+  "name": "Lindow bees",
+  "url": "https://www.emfcamp.org/villages/2026/150-lindow-bees",
+  "external_url": "",
+  "description": "A group of people who like bees in Lindow. ",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3783399815932853,
+    52.04014571503964
+   ]
+  },
+  "num_members": 1
+ },
+ {
+  "id": 18,
+  "name": "pilk",
+  "url": "https://www.emfcamp.org/villages/2026/18-pilk",
+  "external_url": "https://pilk.uk/blogs/emf/2026.htm",
+  "description": "The Royal Society of Pepsi and Milk Drinkers\r\nCome round for some Pepsi and milk! (lacto free/plant based alternatives available)",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3759544888171433,
+    52.0418933811512
+   ]
+  },
+  "num_members": 5
+ },
+ {
+  "id": 138,
+  "name": "Lasertag",
+  "url": "https://www.emfcamp.org/villages/2026/138-lasertag",
+  "external_url": "",
+  "description": "Free games of lasertag using open hardware and 3D printed gear.\r\n",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3761647324126045,
+    52.04352193271029
+   ]
+  },
+  "num_members": 1
+ },
+ {
+  "id": 106,
+  "name": "#EMFCamp",
+  "url": "https://www.emfcamp.org/villages/2026/106-emfcamp",
+  "external_url": "https://emfcamp.org",
+  "description": "A meta-village which contains the entirety of EMF and all its villages, except there's a twist!",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.385142279496449,
+    52.02966446186562
+   ]
+  },
+  "num_members": 2
+ },
+ {
+  "id": 98,
+  "name": "Hove, actually",
+  "url": "https://www.emfcamp.org/villages/2026/98-hove-actually",
+  "external_url": "",
+  "description": "Brighton’s quieter neighbours",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3759170684991204,
+    52.04053021628434
+   ]
+  },
+  "num_members": 2
+ },
+ {
+  "id": 116,
+  "name": "Green Lantern(s)",
+  "url": "https://www.emfcamp.org/villages/2026/116-green-lantern-s",
+  "external_url": "https://greenlanterns.uk",
+  "description": "We have LED lanterns (most of which aren't green)",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.375607697564732,
+    52.04281749302896
+   ]
+  },
+  "num_members": 5
+ },
+ {
+  "id": 68,
+  "name": "Duck Armada",
+  "url": "https://www.emfcamp.org/villages/2026/68-duck-armada",
+  "external_url": "https://duckarmada.moe",
+  "description": "A group of friends that are into (retro) gaming and (ham) radio. Also music.",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3756833155965182,
+    52.042964121208655
+   ]
+  },
+  "num_members": 3
+ },
+ {
+  "id": 117,
+  "name": "Lucia Collective",
+  "url": "https://www.emfcamp.org/villages/2026/117-lucia-collective",
+  "external_url": "https://ott.lucia.network",
+  "description": "Flatlanders",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3742241478286132,
+    52.04316873524735
+   ]
+  },
+  "num_members": 1
+ },
+ {
+  "id": 105,
+  "name": "Bench",
+  "url": "https://www.emfcamp.org/villages/2026/105-bench",
+  "external_url": "",
+  "description": "Feeling tired? That bench may be iron, but I assure you it's quite comfortable. There's no better place to collect your thoughts before heading below. Plus I enjoy the company. Not that you seem the talkative sort.",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3755373730148506,
+    52.040525822108805
+   ]
+  },
+  "num_members": 9
+ },
+ {
+  "id": 163,
+  "name": "GooseCamp",
+  "url": "https://www.emfcamp.org/villages/2026/163-goosecamp",
+  "external_url": "",
+  "description": "HONK!",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.375738687155774,
+    52.040446495898436
+   ]
+  },
+  "num_members": 1
+ },
+ {
+  "id": 118,
+  "name": "BirkenHack",
+  "url": "https://www.emfcamp.org/villages/2026/118-birkenhack",
+  "external_url": "https://birkenhack.org/",
+  "description": "Hackerspace in Birkenhead, Merseyside.\r\nOur interests: Nix, SCION, ipv6, radio, self-hosting, cats, buckwheat.\r\n",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3758857879045934,
+    52.04308442979391
+   ]
+  },
+  "num_members": 2
+ },
+ {
+  "id": 6,
+  "name": "Swansea Hackspace",
+  "url": "https://www.emfcamp.org/villages/2026/6-swansea-hackspace",
+  "external_url": "https://swansea.hackspace.org.uk",
+  "description": "Swansea Hackspace is a community-run space in Swansea where enthusiasts in electronics, textiles, science, digital art, crafting and just hacking on stuff can meet, share, learn, and work. A bunch of us will be attending EMF as a village, and we may have some interesting projects to show off! Come and say hello!",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3763600498724884,
+    52.04054581542405
+   ]
+  },
+  "num_members": 2
+ },
+ {
+  "id": 164,
+  "name": "Robin Rotor",
+  "url": "https://www.emfcamp.org/villages/2026/164-robin-rotor",
+  "external_url": "https://www.robinrotor.no",
+  "description": "",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3767876847557545,
+    52.04019533359187
+   ]
+  },
+  "num_members": 1
+ },
+ {
+  "id": 75,
+  "name": "The Deerdog Domain",
+  "url": "https://www.emfcamp.org/villages/2026/75-the-deerdog-domain",
+  "external_url": "",
+  "description": "A chaotic collection of university friends and family blindly lead by their fuzzy antlered companion. Mixture of experienced campers, new attendees, furries, and whoever else randomly decided to tag along!",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.374489165897188,
+    52.04286541433274
+   ]
+  },
+  "num_members": 5
+ },
+ {
+  "id": 33,
+  "name": "Threadz 'n' Webz",
+  "url": "https://www.emfcamp.org/villages/2026/33-threadz-n-webz",
+  "external_url": "",
+  "description": "We are a bunch of misfits, herded together by one fabric crazed lady. Blending webby nerdy things and thready oddball crafts. Step back in time and (cyber) space to 199x dial up era to find PC and landline phone fun. Or perhaps following the strings of fate to find weaving, fabric and craft madness. Extremely LGBTQ+ friendly. May contain ducks, bats, hackers and spiders. With thanks to ECHQ/CuTel for landlines and Tekhnē-cal for even more thready crafts.",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.378446191688738,
+    52.04030229363161
+   ]
+  },
+  "num_members": 1
+ },
+ {
+  "id": 122,
+  "name": "Nationwide village",
+  "url": "https://www.emfcamp.org/villages/2026/122-nationwide-village",
+  "external_url": "https://www.nationwide.co.uk",
+  "description": "Welcome to the Nationwide Village, a friendly corner of EMF where creativity, curiosity, and community come to life. Home of the Cosmic Bot Forge, this is your destination for hands-on robot building adventures, where makers of all ages can tinker, invent, and launch their own creations into the unknown.",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3766409584789585,
+    52.040627864924176
+   ]
+  },
+  "num_members": 6
+ },
+ {
+  "id": 36,
+  "name": "Spark Life (HV Village)",
+  "url": "https://www.emfcamp.org/villages/2026/36-spark-life-hv-village",
+  "external_url": "https://www.extremeelectronics.co.uk/spark-life-village-emf-camp-2026/",
+  "description": "A collection of high voltage equipment, \r\nTesla Coils, Van De Graff, Dirod, Wimshurst Machines and some old electrotherapy machines. \r\n\r\nOpen to ALL EMF Villagers with High voltage interests\r\n\r\nContact me tesla@extremeelectronics.co.uk if you want to bring something to show/demonstrate.",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3756292327682615,
+    52.04330080625482
+   ]
+  },
+  "num_members": 4
+ },
+ {
+  "id": 145,
+  "name": "EMF-NatureNet",
+  "url": "https://www.emfcamp.org/villages/2026/145-emf-naturenet",
+  "external_url": "",
+  "description": "A Virtual Village for monitoring the wildlife at and around EMF.\r\n\r\nWhile most of our activities are virtual we will have a spiritual home in a corner of the GreenHouse called the BatCave\r\n\r\nNB This is an extension of the similarly named installation.\r\n",
+  "location": null,
+  "num_members": 1
+ },
+ {
+  "id": 40,
+  "name": "Model Village",
+  "url": "https://www.emfcamp.org/villages/2026/40-model-village",
+  "external_url": "https://modelvillage.camp/",
+  "description": "🤖 Model Village 🦾 is for anyone interested in AI, machine learning, data science, deep learning, open data, GenAI, and everything in between.\r\n\r\nAll are welcome to join us to camp and chat about:\r\n1. 🤖🧠📊 AI, machine learning, DL, statistics, whatever you call it.\r\n2. 📊📈⚖️ Data science, open data, data storytelling, algo bias, AI ethics.\r\n3. 🐍🦀✨ Python, Rust, R, or whatever you dig to dig into data.\r\n4. 🎵🎻🎷 Bring instruments (and/or jokes)! We'd love to have some live music jams in the evenings.\r\n\r\nWhether you go deep or just dipping your toes into the world of AI, you're welcome to join us. Let's hang out, share insights, and enjoy some tunes together under the stars. 🚀🎸🌌",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.375717252966723,
+    52.041719758332135
+   ]
+  },
+  "num_members": 1
+ },
+ {
+  "id": 126,
+  "name": "woof",
+  "url": "https://www.emfcamp.org/villages/2026/126-woof",
+  "external_url": "",
+  "description": "woof",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3750542487697146,
+    52.04190513080562
+   ]
+  },
+  "num_members": 1
+ },
+ {
+  "id": 127,
+  "name": "The Nightcore Collective",
+  "url": "https://www.emfcamp.org/villages/2026/127-the-nightcore-collective",
+  "external_url": "",
+  "description": "Nightcore (noun): A plunderphonic style of music based on taking an original track and speeding it up, increasing its pitch. Usually associated with visuals of anime-style artwork.",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3752511293550356,
+    52.042804901166164
+   ]
+  },
+  "num_members": 2
+ },
+ {
+  "id": 70,
+  "name": "Irish Embassy",
+  "url": "https://www.emfcamp.org/villages/2026/70-irish-embassy",
+  "external_url": "https://chaos.social/@irishembassy",
+  "description": "Loose collective of people with some connection to / interest in Ireland, who travel to hacker/maker events and pool resources to create shared spaces while there.\r\n\r\n(Not government-related, mostly power adaptors and cups of tea. As well as micro-controllers.)",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.375355265776193,
+    52.042066542255355
+   ]
+  },
+  "num_members": 5
+ },
+ {
+  "id": 112,
+  "name": "Hitchin Hackspace",
+  "url": "https://www.emfcamp.org/villages/2026/112-hitchin-hackspace",
+  "external_url": "https://hackhitchin.org.uk/",
+  "description": "The little hackspace that likes to build big things",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.375855450800316,
+    52.04086701591308
+   ]
+  },
+  "num_members": 5
+ },
+ {
+  "id": 102,
+  "name": "Astro Observability (stargazing things)",
+  "url": "https://www.emfcamp.org/villages/2026/102-astro-observability-stargazing-things",
+  "external_url": "https://social.treehouse.systems/@dee/116701963900767326",
+  "description": "Telescopes are fun, obviously more an evening / night thing but pending the weather on Friday the moon should be amazing around dusk and on Saturday the moon and Venus should both be visible through dusk and until around 10pm. Maybe someone will bring a solar scope for sun viewing too? Super happy for folk to join this village ♥️🔭\r\n\r\nYou're welcome to bring a scope, do not touch other people's scopes without consent, but you can go down a rabbit hole of visual and photographic astronomy.",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3794209178353185,
+    52.03958269986131
+   ]
+  },
+  "num_members": 5
+ },
+ {
+  "id": 128,
+  "name": "I just wanted to be on the map",
+  "url": "https://www.emfcamp.org/villages/2026/128-i-just-wanted-to-be-on-the-map",
+  "external_url": "",
+  "description": "A group of people, some of whom have been known to shout \"Hi Mark\" during previous EMFs",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3785398736836214,
+    52.04001143262974
+   ]
+  },
+  "num_members": 5
+ },
+ {
+  "id": 67,
+  "name": "Homebrew, Historical and Retro Computing",
+  "url": "https://www.emfcamp.org/villages/2026/67-homebrew-historical-and-retro-computing",
+  "external_url": "https://discord.gg/M9Zf3TJAnn",
+  "description": "Homebrew, Historical and Retro Computing is for anyone who enjoys tinkering with classic machines, building their own, or just chatting about the history of computing. We should have a selection of classic machines and some home builds with us to try out",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.374629153989275,
+    52.04279093675456
+   ]
+  },
+  "num_members": 3
+ },
+ {
+  "id": 110,
+  "name": "Ominous Systems",
+  "url": "https://www.emfcamp.org/villages/2026/110-ominous-systems",
+  "external_url": "https://ominous.systems",
+  "description": "Nothing suspicious.",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.379321632086544,
+    52.03982706896767
+   ]
+  },
+  "num_members": 5
+ },
+ {
+  "id": 123,
+  "name": "Antimemetics Division",
+  "url": "https://www.emfcamp.org/villages/2026/123-antimemetics-division",
+  "external_url": "https://wat.da.fffff.uk",
+  "description": "This is a non-existent division of one of the major Unknown Organizations.",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3753050627895504,
+    52.04262680695754
+   ]
+  },
+  "num_members": 1
+ },
+ {
+  "id": 146,
+  "name": "IMS Code Club",
+  "url": "https://www.emfcamp.org/villages/2026/146-ims-code-club",
+  "external_url": "https://codeclub.org/en/clubs/6452334b-c6c0-4fe4-8a6a-ff9da1c6ee21",
+  "description": "Volunteers at IMS code club and members past and present",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.379088725345639,
+    52.040096896935125
+   ]
+  },
+  "num_members": 4
+ },
+ {
+  "id": 139,
+  "name": "Manchester HacMan",
+  "url": "https://www.emfcamp.org/villages/2026/139-manchester-hacman",
+  "external_url": "",
+  "description": "Members etc, of Manchester Hackspace. Chill vibes.",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3762523990056934,
+    52.04118365152212
+   ]
+  },
+  "num_members": 3
+ },
+ {
+  "id": 35,
+  "name": "Milliways",
+  "url": "https://www.emfcamp.org/villages/2026/35-milliways",
+  "external_url": "https://wiki.milliways.info/",
+  "description": "Milliways is a group of information security specialists, which has appeared at several hacker camps in Europe and North America since 2003. We plan and build large installations and infrastructure, where we feed and host hundreds of hackers, providing a space for discussions and networking.\r\n\r\nCome hangout in our disinformation dome, hack on your projects, meet new people and stay for the leaks!",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.376155388881557,
+    52.042549545934605
+   ]
+  },
+  "num_members": 9
+ },
+ {
+  "id": 165,
+  "name": "Attiny Arcade",
+  "url": "https://www.emfcamp.org/villages/2026/165-attiny-arcade",
+  "external_url": "https://webboggles.com/attiny85-game-kit-assembly-instructions/",
+  "description": "Attiny Arcade Village. Play the games in the arcade, drop by the village if you would like a soldering kit. ",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.376762542348189,
+    52.0407441947641
+   ]
+  },
+  "num_members": 1
+ },
+ {
+  "id": 107,
+  "name": "Party Pals",
+  "url": "https://www.emfcamp.org/villages/2026/107-party-pals",
+  "external_url": "",
+  "description": "an assorted bunch of London Area folx (majority transfem) that love to dance. \r\n\r\nBy day come chat to us about niche subgenres of electronic music, and by night, see you front left?\r\n\r\nA fair few of us have DJ sets in null sector and performances elsewhere across the weekend! \r\n\r\n\r\n Outside of EMF we come from many walks of life,\r\n\r\nWe aim to bring bits of EMF to everyday life as much as possible ",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3756050248964584,
+    52.042645771694225
+   ]
+  },
+  "num_members": 14
+ },
+ {
+  "id": 37,
+  "name": "Scottish Consulate",
+  "url": "https://www.emfcamp.org/villages/2026/37-scottish-consulate",
+  "external_url": "https://consulate.scot",
+  "description": "The original and best, a right bunch of Fannies",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.375312869894657,
+    52.04217658855947
+   ]
+  },
+  "num_members": 8
+ },
+ {
+  "id": 133,
+  "name": "Temple of Containment",
+  "url": "https://www.emfcamp.org/villages/2026/133-temple-of-containment",
+  "external_url": "",
+  "description": "The Atomic Priesthood welcomes you, one and all to visit the \"Temple of Containment\" - A space dedicated to the mission of the Atomic Priesthood. \r\n\r\nAn Art instillation, a ceremonial space, a place of atomic guardianship, a place of ritual - but not a place of honour. ",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3768816551338148,
+    52.04347010696338
+   ]
+  },
+  "num_members": 1
+ },
+ {
+  "id": 140,
+  "name": "Manchampton",
+  "url": "https://www.emfcamp.org/villages/2026/140-manchampton",
+  "external_url": "",
+  "description": "A group of about 15 people from a mixture of Southampton and Manchester.",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.375603043650159,
+    52.04062067086528
+   ]
+  },
+  "num_members": 10
+ },
+ {
+  "id": 41,
+  "name": "Brighton Consulate",
+  "url": "https://www.emfcamp.org/villages/2026/41-brighton-consulate",
+  "external_url": "",
+  "description": "A dozen or so people from Brighton, their friends, and their hobbies. ",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.375946009297593,
+    52.04062532230671
+   ]
+  },
+  "num_members": 17
+ },
+ {
+  "id": 147,
+  "name": "Welcome to your perfect village",
+  "url": "https://www.emfcamp.org/villages/2026/147-welcome-to-your-perfect-village",
+  "external_url": "",
+  "description": "Board Game Nerds",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.378667958129313,
+    52.04068849924997
+   ]
+  },
+  "num_members": 1
+ },
+ {
+  "id": 76,
+  "name": "Foundry Zero",
+  "url": "https://www.emfcamp.org/villages/2026/76-foundry-zero",
+  "external_url": "https://foundryzero.co.uk/",
+  "description": "We are Foundry Zero. We love making things and taking things apart, and we're delighted to be sponsoring EMF 2026! We're running a small reverse engineering CTF, a radio challenge and a set of challenges for kids at our village. If you're interested in careers in Cyber Security, or just messing around in some binary challenges, come see us any time over the weekend.",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3771225134481995,
+    52.040685174287376
+   ]
+  },
+  "num_members": 11
+ },
+ {
+  "id": 151,
+  "name": "QTC",
+  "url": "https://www.emfcamp.org/villages/2026/151-qtc",
+  "external_url": "",
+  "description": "Nerds united.",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3772071373512347,
+    52.04007250901657
+   ]
+  },
+  "num_members": 2
+ },
+ {
+  "id": 152,
+  "name": "West London Hackspace",
+  "url": "https://www.emfcamp.org/villages/2026/152-west-london-hackspace",
+  "external_url": "",
+  "description": "A group of hackers from West London that might one day have a hackspace :)",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.376229656288075,
+    52.0422836766688
+   ]
+  },
+  "num_members": 1
+ },
+ {
+  "id": 55,
+  "name": "Glasgow Hackerspace",
+  "url": "https://www.emfcamp.org/villages/2026/55-glasgow-hackerspace",
+  "external_url": "https://glashack.space",
+  "description": "we're new here >_< \r\n\r\ncome talk to us about huge plotters, tasty coffee, or furry hackerspace mascots",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.375299956134171,
+    52.04225450312194
+   ]
+  },
+  "num_members": 6
+ },
+ {
+  "id": 109,
+  "name": "Hardware Hacking Area",
+  "url": "https://www.emfcamp.org/villages/2026/109-hardware-hacking-area",
+  "external_url": "",
+  "description": "A space for makers of all ages and skill levels to build, teach, and learn through hands-on workshops and tools for making and fixing things.",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3754179856323105,
+    52.04181590640579
+   ]
+  },
+  "num_members": 10
+ },
+ {
+  "id": 84,
+  "name": "Forge & Craft / HackWimbledon",
+  "url": "https://www.emfcamp.org/villages/2026/84-forge-craft-hackwimbledon",
+  "external_url": "https://www.forgeandcraft.co.uk",
+  "description": "Forge & Craft is a husband-and-wife team with a studio at Wimbledon Art Studios in London. We explore art and design using technology (primarily pen plotters), and also tinker with electronics, 3D printing, and crafting machines between us.\r\n\r\nWe're part of HackWimbledon, a pop-up hackspace in south-west London.",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.374558309851807,
+    52.04324498273803
+   ]
+  },
+  "num_members": 3
+ },
+ {
+  "id": 154,
+  "name": "80's Party on Tour",
+  "url": "https://www.emfcamp.org/villages/2026/154-80s-party-on-tour",
+  "external_url": "",
+  "description": "Friends of the original 80's Party, previously attended EMF as Happiness Village",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3740896125598567,
+    52.04275066103526
+   ]
+  },
+  "num_members": 1
+ },
+ {
+  "id": 153,
+  "name": "Wheelie random weird people",
+  "url": "https://www.emfcamp.org/villages/2026/153-wheelie-random-weird-people",
+  "external_url": "",
+  "description": "A small group of completely normal people ",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3783184630024437,
+    52.04044729036778
+   ]
+  },
+  "num_members": 3
+ },
+ {
+  "id": 159,
+  "name": "SHM  Game Dome - Surrey and Hampshire MakerSpace",
+  "url": "https://www.emfcamp.org/villages/2026/159-shm-game-dome-surrey-and-hampshire-makerspace",
+  "external_url": "https://forum.shmakerspace.org/",
+  "description": "A home for the makers from the Surrey and Hampshire areas, hosting GameDome a pleasurable space filled with pub and bar games from around the world: Shove Ha'penny, Sjoelen, Molkky, Toad in the Hole, Northamptonshire Pins and Cheeses, Carrom - come and compare your skills with your friends!",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3753305046948583,
+    52.043515132192766
+   ]
+  },
+  "num_members": 1
+ },
+ {
+  "id": 53,
+  "name": "Unaffiliated Village",
+  "url": "https://www.emfcamp.org/villages/2026/53-unaffiliated-village",
+  "external_url": "",
+  "description": "New to EMF or come without friends? Join the unaffiliated village and meet some people.",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3766290342586274,
+    52.04103264079478
+   ]
+  },
+  "num_members": 26
+ },
+ {
+  "id": 162,
+  "name": "Church of Plob",
+  "url": "https://www.emfcamp.org/villages/2026/162-church-of-plob",
+  "external_url": "",
+  "description": "We're a cult, and we have stickers for you!",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3755316543606,
+    52.040620888981806
+   ]
+  },
+  "num_members": 4
+ }
+]
