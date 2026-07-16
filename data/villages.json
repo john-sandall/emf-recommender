@@ -2295,6 +2295,21 @@
   "num_members": 2
  },
  {
+  "id": 166,
+  "name": "Federation of the Unaligned",
+  "url": "https://www.emfcamp.org/villages/2026/166-federation-of-the-unaligned",
+  "external_url": "",
+  "description": "We met our neighbours on-site at the event and decided to declare our existence!",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3761970743503014,
+    52.04091932755546
+   ]
+  },
+  "num_members": 1
+ },
+ {
   "id": 152,
   "name": "West London Hackspace",
   "url": "https://www.emfcamp.org/villages/2026/152-west-london-hackspace",
