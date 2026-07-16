@@ -12869,6 +12869,72 @@
   "content_note": null
  },
  {
+  "id": 513,
+  "type": "talk",
+  "names": "Ren @jaklyn.hyde.ink",
+  "pronouns": null,
+  "title": " I’m a tattoo artist: tips  for apprentices, tattoo goers and home tattoo turkeys.",
+  "description": "Hi everyone .\r\nFirst talk was great but some people couldnt find us.\r\n\r\nI am hosting a second session  for anyone who missed out :)",
+  "short_description": "Re-do session of my talk for those who couldnt find us.",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "i-m-a-tattoo-artist-tips-for-apprentices-tattoo-goers",
+  "link": "https://www.emfcamp.org/schedule/2026/513-i-m-a-tattoo-artist-tips-for-apprentices-tattoo-goers",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-16 18:00:00",
+    "end_date": "2026-07-16 20:00:00",
+    "venue": "Outside the Bar",
+    "latlon": [
+     52.0413622,
+     -2.3780529
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.0413622/-2.3780529/m=52.0413622,-2.3780529",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "18:00",
+    "end_time": "20:00"
+   }
+  ],
+  "family_friendly": null,
+  "content_note": null
+ },
+ {
+  "id": 514,
+  "type": "meetup",
+  "names": "Brighton Consulate",
+  "pronouns": null,
+  "title": "Brighton Consulate Tuaca Tasting ",
+  "description": "Come and taste a Brighton delicacy. A mysterious spirit imported from Italy, but they got as far as Brighton and decided it was too nice to go any further.\r\n\r\nEveryone welcome, with shots for those over 18 while Tuaca lasts.",
+  "short_description": "Come drink Tuaca;",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "brighton-consulate-tuaca-tasting",
+  "link": "https://www.emfcamp.org/schedule/2026/514-brighton-consulate-tuaca-tasting",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-18 16:00:00",
+    "end_date": "2026-07-18 17:00:00",
+    "venue": "Brighton Consulate",
+    "latlon": [
+     52.04062532230671,
+     -2.375946009297593
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04062532230671/-2.375946009297593/m=52.04062532230671,-2.375946009297593",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "16:00",
+    "end_time": "17:00"
+   }
+  ]
+ },
+ {
   "id": 343,
   "type": "performance",
   "names": "Field-FX Village",
