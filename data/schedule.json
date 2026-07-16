@@ -12790,7 +12790,7 @@
    }
   ],
   "cost": "",
-  "equipment": "",
+  "equipment": "You may optionally bring a pair of 3.5 mm jack (3.5 mm plug) headphones if you would like to use them.",
   "age_range": "all",
   "drop_in": true,
   "family_friendly": null,
@@ -12829,6 +12829,44 @@
   ],
   "family_friendly": true,
   "content_note": ""
+ },
+ {
+  "id": 512,
+  "type": "workshop",
+  "names": "cpresser",
+  "pronouns": null,
+  "title": "3D modeling with FreeCAD - Beginner Workshop",
+  "description": "3D-Printers are quite accessible now, every hackerspace has one and most\r\nhackers have one at home. Models can be downloaded for free, but we also\r\nwant to draw our own. For that 3D-Modeling software like FreeCAD is used.\r\n\r\nAt the end of the workshop you will have learned to create a 3D-Model in\r\nFreeCad. I will provide an examples items for you to model, and a paper\r\nhandout with the most important steps you can follow.\r\n\r\nThere are two major problems in that space I want to address with this\r\nworkshop: Many designs are made with closed-source software, trapping\r\nusers in a vendor cloud ecosystem. Effectively limiting access to those\r\ndesigns. And second, FreeCAD has a bad reputation for being to\r\ncomplicated. That has vastly improved since version 1.0.",
+  "short_description": "",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "3d-modeling-with-freecad-beginner-workshop",
+  "link": "https://www.emfcamp.org/schedule/2026/512-3d-modeling-with-freecad-beginner-workshop",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-17 22:15:00",
+    "end_date": "2026-07-17 23:45:00",
+    "venue": "Workshop 3 (Hardware Hacking Area)",
+    "latlon": [
+     52.04179935,
+     -2.37539965
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04179935/-2.37539965/m=52.04179935,-2.37539965",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "22:15",
+    "end_time": "23:45"
+   }
+  ],
+  "cost": "",
+  "equipment": "Please pre-install FreeCad 1.1.x before the workshop.\r\nWe don't want to lose time with setup.\r\nPlease bring a regular mouse or trackball. Using CAD software with a\r\ntouchpad is possible, but not ideal.",
+  "age_range": "all",
+  "drop_in": null,
+  "family_friendly": null,
+  "content_note": null
  },
  {
   "id": 343,
