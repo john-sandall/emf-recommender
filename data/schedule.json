@@ -6776,38 +6776,6 @@
   ]
  },
  {
-  "id": 390,
-  "type": "performance",
-  "names": "Stormcaller",
-  "pronouns": null,
-  "title": "Vapor Cinema",
-  "description": "Stormcaller's second nightly selection of re-edited, re-coloured, re-scored, glitched out and deep fried cinema classics. Strobe warning.",
-  "short_description": "Re-edited and glitched-out movies",
-  "video_privacy": "public",
-  "is_fave": false,
-  "official_content": false,
-  "slug": "vapor-cinema",
-  "link": "https://www.emfcamp.org/schedule/2026/390-vapor-cinema",
-  "occurrences": [
-   {
-    "occurrence_num": 1,
-    "start_date": "2026-07-18 22:00:00",
-    "end_date": "2026-07-19 00:00:00",
-    "venue": "Workshop 2 (Field-FX)",
-    "latlon": [
-     52.04292731,
-     -2.37594559
-    ],
-    "map_link": "https://map.emfcamp.org/#18.5/52.04292731/-2.37594559/m=52.04292731,-2.37594559",
-    "uses_lottery": false,
-    "video_privacy": "public",
-    "recording_lost": false,
-    "start_time": "22:00",
-    "end_time": "00:00"
-   }
-  ]
- },
- {
   "id": 364,
   "type": "talk",
   "names": "Stephen Slater",
@@ -6954,6 +6922,38 @@
   "drop_in": true,
   "family_friendly": null,
   "content_note": null
+ },
+ {
+  "id": 390,
+  "type": "performance",
+  "names": "Stormcaller",
+  "pronouns": null,
+  "title": "Vapor Cinema",
+  "description": "Stormcaller's second nightly selection of re-edited, re-coloured, re-scored, glitched out and deep fried cinema classics. \r\n\r\nWavydelights - The Wavetrix\r\nRacertrash - H4CK3RS\r\n\r\nStrobe warning.",
+  "short_description": "Re-edited and glitched-out movies",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "vapor-cinema",
+  "link": "https://www.emfcamp.org/schedule/2026/390-vapor-cinema",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-18 22:00:00",
+    "end_date": "2026-07-19 00:00:00",
+    "venue": "Workshop 2 (Field-FX)",
+    "latlon": [
+     52.04292731,
+     -2.37594559
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04292731/-2.37594559/m=52.04292731,-2.37594559",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "22:00",
+    "end_time": "00:00"
+   }
+  ]
  },
  {
   "id": 69,
@@ -7172,38 +7172,6 @@
   "content_note": null
  },
  {
-  "id": 386,
-  "type": "performance",
-  "names": "Stormcaller",
-  "pronouns": null,
-  "title": "Vapor Cinema",
-  "description": "Stormcaller takes over the FieldFX workshop for a nightly selection of re-edited, re-coloured, re-scored, glitched out and deep fried cinema classics. Strobe warning.",
-  "short_description": "Re-edited and glitched-out movies",
-  "video_privacy": "public",
-  "is_fave": false,
-  "official_content": false,
-  "slug": "vapor-cinema",
-  "link": "https://www.emfcamp.org/schedule/2026/386-vapor-cinema",
-  "occurrences": [
-   {
-    "occurrence_num": 1,
-    "start_date": "2026-07-17 22:00:00",
-    "end_date": "2026-07-18 00:00:00",
-    "venue": "Workshop 2 (Field-FX)",
-    "latlon": [
-     52.04292731,
-     -2.37594559
-    ],
-    "map_link": "https://map.emfcamp.org/#18.5/52.04292731/-2.37594559/m=52.04292731,-2.37594559",
-    "uses_lottery": false,
-    "video_privacy": "public",
-    "recording_lost": false,
-    "start_time": "22:00",
-    "end_time": "00:00"
-   }
-  ]
- },
- {
   "id": 70,
   "type": "talk",
   "names": "Kliment",
@@ -7410,6 +7378,38 @@
   "drop_in": null,
   "family_friendly": null,
   "content_note": null
+ },
+ {
+  "id": 386,
+  "type": "performance",
+  "names": "Stormcaller",
+  "pronouns": null,
+  "title": "Vapor Cinema",
+  "description": "Stormcaller takes over the FieldFX workshop for a nightly selection of re-edited, re-coloured, re-scored, glitched out and deep fried cinema classics.\r\n\r\nGrimy Ghost - Fury Road\r\nRacertrash - Speed Vapor 2\r\n\r\nStrobe warning.",
+  "short_description": "Re-edited and glitched-out movies",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "vapor-cinema",
+  "link": "https://www.emfcamp.org/schedule/2026/386-vapor-cinema",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-17 22:00:00",
+    "end_date": "2026-07-18 00:00:00",
+    "venue": "Workshop 2 (Field-FX)",
+    "latlon": [
+     52.04292731,
+     -2.37594559
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04292731/-2.37594559/m=52.04292731,-2.37594559",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "22:00",
+    "end_time": "00:00"
+   }
+  ]
  },
  {
   "id": 395,
@@ -9183,44 +9183,6 @@
   ],
   "family_friendly": true,
   "content_note": ""
- },
- {
-  "id": 470,
-  "type": "workshop",
-  "names": "Marc Andre Lam, Simon Wijckmans, Jovian Hayden, Aarnav Koushik",
-  "pronouns": null,
-  "title": "Scavenger Hunt: Find the Creatures Attacking the Web (Enter raffle upon completion!)  ",
-  "description": "Go on an educational scavenger hunt for four mythical creatures, each representing a different client-side security attack. Catch all four creatures and enter our raffle, where you could win an Anbernic RG28XX handheld console, perfect for emulating and playing retro games. \r\n\r\nThis scavenger hunt is sequential, with the first card leading to the second, etc. Once you find the final card, you’ll be able to fill out a form and enter the raffle. To get your first clue, scan one of the flyers at the cside village. The hunt will end at 4:00 PM, at which point we will draw for a winner!",
-  "short_description": "Go on an educational scavenger hunt for four mythical creatures, each representing a different client-side security attack. Catch all four creatures and enter our raffle, where you could win an Anbernic RG28XX handheld console, perfect for emulating and playing retro games.   This scavenger hunt is sequential, with the first card leading to the second, etc. Once you find the final card, you’ll be able to fill out a form and enter the raffle. To get your first clue, scan one of the flyers at the cside village. The hunt will end at 4:00 PM, at which point we will draw for a winner!",
-  "video_privacy": "public",
-  "is_fave": false,
-  "official_content": false,
-  "slug": "scavenger-hunt",
-  "link": "https://www.emfcamp.org/schedule/2026/470-scavenger-hunt",
-  "occurrences": [
-   {
-    "occurrence_num": 1,
-    "start_date": "2026-07-16 18:00:00",
-    "end_date": "2026-07-16 19:40:00",
-    "venue": "cside security village",
-    "latlon": [
-     52.043617537174754,
-     -2.375511899896594
-    ],
-    "map_link": "https://map.emfcamp.org/#18.5/52.043617537174754/-2.375511899896594/m=52.043617537174754,-2.375511899896594",
-    "uses_lottery": false,
-    "video_privacy": "public",
-    "recording_lost": false,
-    "start_time": "18:00",
-    "end_time": "19:40"
-   }
-  ],
-  "cost": "",
-  "equipment": "A functioning brain.",
-  "age_range": "all",
-  "drop_in": null,
-  "family_friendly": null,
-  "content_note": null
  },
  {
   "id": 281,
@@ -12341,6 +12303,44 @@
   "drop_in": true,
   "family_friendly": true,
   "content_note": ""
+ },
+ {
+  "id": 470,
+  "type": "workshop",
+  "names": "Marc Andre Lam, Simon Wijckmans, Jovian Hayden, Aarnav Koushik",
+  "pronouns": null,
+  "title": "Scavenger Hunt: Find the Creatures Attacking the Web (Enter raffle upon completion!)  ",
+  "description": "Go on an educational scavenger hunt for four mythical creatures, each representing a different client-side security attack. Catch all four creatures and enter our raffle, where you could win an R36S Retro Video Game Console handheld console running Linux, perfect for emulating and playing retro games. \r\n\r\nThis scavenger hunt is sequential, with the first card leading to the second, etc. Once you find the final card, you’ll be able to fill out a form and enter the raffle. To get your first clue, scan one of the flyers at the cside village. The hunt will start at 10:00 AM on Saturday end at 4:00 PM on Sunday, at which point we will draw for a winner!",
+  "short_description": "Go on an educational scavenger hunt for four mythical creatures, each representing a different client-side security attack. Catch all four creatures and enter our raffle, where you could win an Anbernic RG28XX handheld console, perfect for emulating and playing retro games.   This scavenger hunt is sequential, with the first card leading to the second, etc. Once you find the final card, you’ll be able to fill out a form and enter the raffle. To get your first clue, scan one of the flyers at the cside village. The hunt will end at 4:00 PM, at which point we will draw for a winner!",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "scavenger-hunt",
+  "link": "https://www.emfcamp.org/schedule/2026/470-scavenger-hunt",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-17 10:00:00",
+    "end_date": "2026-07-19 22:00:00",
+    "venue": "cside security village",
+    "latlon": [
+     52.043617537174754,
+     -2.375511899896594
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.043617537174754/-2.375511899896594/m=52.043617537174754,-2.375511899896594",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "10:00",
+    "end_time": "22:00"
+   }
+  ],
+  "cost": "",
+  "equipment": "A functioning brain.",
+  "age_range": "all",
+  "drop_in": true,
+  "family_friendly": null,
+  "content_note": null
  },
  {
   "id": 242,

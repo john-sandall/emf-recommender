@@ -114,21 +114,6 @@
   "num_members": 14
  },
  {
-  "id": 103,
-  "name": "Brum and Besties (& Sheffield) [BABS]",
-  "url": "https://www.emfcamp.org/villages/2026/103-brum-and-besties-sheffield-babs",
-  "external_url": "",
-  "description": "friends and more friends from Birmingham and Sheffield !",
-  "location": {
-   "type": "Point",
-   "coordinates": [
-    -2.3765686175389646,
-    52.0411438451992
-   ]
-  },
-  "num_members": 14
- },
- {
   "id": 3,
   "name": "rLab - Reading Hackspace",
   "url": "https://www.emfcamp.org/villages/2026/3-rlab-reading-hackspace",
@@ -2055,21 +2040,6 @@
   "num_members": 5
  },
  {
-  "id": 128,
-  "name": "I just wanted to be on the map",
-  "url": "https://www.emfcamp.org/villages/2026/128-i-just-wanted-to-be-on-the-map",
-  "external_url": "",
-  "description": "A group of people, some of whom have been known to shout \"Hi Mark\" during previous EMFs",
-  "location": {
-   "type": "Point",
-   "coordinates": [
-    -2.3785398736836214,
-    52.04001143262974
-   ]
-  },
-  "num_members": 5
- },
- {
   "id": 67,
   "name": "Homebrew, Historical and Retro Computing",
   "url": "https://www.emfcamp.org/villages/2026/67-homebrew-historical-and-retro-computing",
@@ -2175,6 +2145,21 @@
   "num_members": 1
  },
  {
+  "id": 128,
+  "name": "I just wanted to be on the map",
+  "url": "https://www.emfcamp.org/villages/2026/128-i-just-wanted-to-be-on-the-map",
+  "external_url": "",
+  "description": "A group of people, some of whom have been known to shout \"Hi Mark\" during previous EMFs",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.378431929771409,
+    52.040011200513845
+   ]
+  },
+  "num_members": 5
+ },
+ {
   "id": 107,
   "name": "Party Pals",
   "url": "https://www.emfcamp.org/villages/2026/107-party-pals",
@@ -2250,21 +2235,6 @@
   "num_members": 17
  },
  {
-  "id": 147,
-  "name": "Welcome to your perfect village",
-  "url": "https://www.emfcamp.org/villages/2026/147-welcome-to-your-perfect-village",
-  "external_url": "",
-  "description": "Board Game Nerds",
-  "location": {
-   "type": "Point",
-   "coordinates": [
-    -2.378667958129313,
-    52.04068849924997
-   ]
-  },
-  "num_members": 1
- },
- {
   "id": 76,
   "name": "Foundry Zero",
   "url": "https://www.emfcamp.org/villages/2026/76-foundry-zero",
@@ -2305,6 +2275,21 @@
    "coordinates": [
     -2.3761970743503014,
     52.04091932755546
+   ]
+  },
+  "num_members": 1
+ },
+ {
+  "id": 147,
+  "name": "Welcome to your perfect village",
+  "url": "https://www.emfcamp.org/villages/2026/147-welcome-to-your-perfect-village",
+  "external_url": "",
+  "description": "Board Game Nerds",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3787311886102884,
+    52.040445032712256
    ]
   },
   "num_members": 1
@@ -2353,6 +2338,21 @@
    ]
   },
   "num_members": 10
+ },
+ {
+  "id": 103,
+  "name": "Brum and Besties (& Sheffield) [BABS]",
+  "url": "https://www.emfcamp.org/villages/2026/103-brum-and-besties-sheffield-babs",
+  "external_url": "",
+  "description": "friends and more friends from Birmingham and Sheffield !",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.37647691288646,
+    52.041357552698116
+   ]
+  },
+  "num_members": 14
  },
  {
   "id": 84,
