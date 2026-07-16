@@ -189,7 +189,7 @@
         <div class="term-body" id="prompt-text"><span class="p">Fetch</span> <span class="u">https://raw.githubusercontent.com/john-sandall/emf-recommender/main/skill/emf-2026-recommender.md</span> <span class="p">and follow the instructions to build me a personalised EMF 2026 schedule — use what you already know about me, and quiz me if you need to.</span></div>
         <div class="term-actions">
           <button class="btn primary" id="copy">⧉ Copy prompt</button>
-          <a class="btn" id="open-claude" target="_blank" rel="noopener">Open in Claude ↗</a>
+          <a class="btn" id="open-claude" href="https://claude.ai/new" target="_blank" rel="noopener">Copy &amp; open Claude ↗</a>
           <a class="btn" id="open-gpt" target="_blank" rel="noopener">Open in ChatGPT ↗</a>
           <a class="btn" href="https://raw.githubusercontent.com/john-sandall/emf-recommender/main/skill/emf-2026-recommender.md" target="_blank" rel="noopener">View raw .md ↗</a>
         </div>
@@ -246,11 +246,17 @@
   // Build the pasteable prompt text once, reuse for copy + deep links.
   var PROMPT = document.getElementById('prompt-text').innerText.replace(/\s+/g,' ').trim();
   var enc = encodeURIComponent(PROMPT);
-  document.getElementById('open-claude').href = 'https://claude.ai/new?q=' + enc;
+  // ChatGPT still accepts ?q= (it pre-fills and auto-submits). Claude's browser
+  // ?q= pre-fill was removed in 2025, so for Claude we copy + open a fresh chat.
   document.getElementById('open-gpt').href = 'https://chatgpt.com/?q=' + enc;
 
   var toast = document.getElementById('toast');
   function ping(msg){ toast.textContent = msg; toast.classList.add('show'); setTimeout(function(){toast.classList.remove('show')}, 2200); }
+
+  document.getElementById('open-claude').addEventListener('click', function(){
+    if (navigator.clipboard) { navigator.clipboard.writeText(PROMPT).catch(function(){}); }
+    ping('Prompt copied — paste it into Claude (⌘/Ctrl+V)');
+  });
   var copyBtn = document.getElementById('copy');
   copyBtn.addEventListener('click', function(){
     navigator.clipboard.writeText(PROMPT).then(function(){

@@ -13,6 +13,7 @@ from __future__ import annotations
 import datetime as dt
 import json
 import os
+import re
 import sys
 import urllib.request
 from pathlib import Path
@@ -30,7 +31,7 @@ REPO_RAW = os.environ.get(
 
 SCHEDULE_URL = "https://www.emfcamp.org/schedule/2026.json"
 VILLAGES_URL = "https://www.emfcamp.org/api/villages"
-NOW_NEXT_URL = "https://emfcamp.org/schedule/now-and-next.json"
+NOW_NEXT_URL = "https://www.emfcamp.org/schedule/now-and-next.json"
 UA = "emf-recommender/1.0 (+https://www.emfcamp.org)"
 
 TYPE_LABEL = {
@@ -94,13 +95,15 @@ def event_block(e: dict) -> str:
     if cn:
         flags.append(f"⚠️ content note: {trim(cn, 120)}")
 
-    times = " · ".join(fmt_occurrence(o) for o in e.get("occurrences", []))
+    occ = e.get("occurrences", [])
+    times = " · ".join(fmt_occurrence(o) for o in occ)
+    when = times if times else "⏳ time & venue TBC — check the live schedule"
     label = TYPE_LABEL.get(e.get("type"), e.get("type", "?"))
     names = e.get("names") or "—"
     pron = f" ({e['pronouns']})" if e.get("pronouns") else ""
 
     lines = [f"[{e['id']}] {e['title']} — {label}"]
-    lines.append(f"  by {names}{pron} · {times}")
+    lines.append(f"  by {names}{pron} · {when}")
     if flags:
         lines.append("  " + " · ".join(flags))
     blurb = (e.get("short_description") or "").strip() or trim(e.get("description", ""))
@@ -158,6 +161,15 @@ def build() -> None:
         schedule_block=schedule_md,
         villages_block=villages_md,
     )
+    # Idempotency: don't rewrite (and don't trigger an hourly CI commit) unless
+    # the actual schedule changed. Compare with the freshness stamp neutralised.
+    def unstamp(text: str) -> str:
+        return re.sub(r"generated \*\*.*?\*\* from the \*\*.*?\*\*", "STAMP", text)
+
+    if SKILL_OUT.exists() and unstamp(SKILL_OUT.read_text(encoding="utf-8")) == unstamp(doc):
+        print("\n= schedule unchanged — leaving existing file (timestamp not bumped)")
+        return
+
     SKILL_OUT.write_text(doc, encoding="utf-8")
     kb = len(doc.encode("utf-8")) / 1024
     print(f"\n✓ wrote {SKILL_OUT} — {len(schedule)} events, {kb:.0f} KB")
