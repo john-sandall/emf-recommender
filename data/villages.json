@@ -2358,21 +2358,6 @@
   "num_members": 10
  },
  {
-  "id": 41,
-  "name": "Brighton Consulate",
-  "url": "https://www.emfcamp.org/villages/2026/41-brighton-consulate",
-  "external_url": "",
-  "description": "A dozen or so people from Brighton, their friends, and their hobbies. ",
-  "location": {
-   "type": "Point",
-   "coordinates": [
-    -2.375946009297593,
-    52.04062532230671
-   ]
-  },
-  "num_members": 17
- },
- {
   "id": 152,
   "name": "West London Hackspace",
   "url": "https://www.emfcamp.org/villages/2026/152-west-london-hackspace",
@@ -2416,6 +2401,21 @@
    ]
   },
   "num_members": 10
+ },
+ {
+  "id": 41,
+  "name": "Brighton Consulate",
+  "url": "https://www.emfcamp.org/villages/2026/41-brighton-consulate",
+  "external_url": "",
+  "description": "A dozen or so people from Brighton, their friends, and their hobbies. ",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.375946009297593,
+    52.04062532230671
+   ]
+  },
+  "num_members": 17
  },
  {
   "id": 103,

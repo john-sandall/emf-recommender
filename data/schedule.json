@@ -11587,7 +11587,7 @@
    {
     "occurrence_num": 1,
     "start_date": "2026-07-17 11:00:00",
-    "end_date": "2026-07-17 15:00:00",
+    "end_date": "2026-07-17 16:00:00",
     "venue": "Loitering Within Tent",
     "latlon": [
      52.03988232283791,
@@ -11598,7 +11598,7 @@
     "video_privacy": "public",
     "recording_lost": false,
     "start_time": "11:00",
-    "end_time": "15:00"
+    "end_time": "16:00"
    }
   ],
   "cost": "",
@@ -13679,14 +13679,14 @@
   "type": "workshop",
   "names": "v buckenham",
   "pronouns": null,
-  "title": "[VENUE INCORRECT - IN THE TRASH COMPACTOR] Livecoded visuals with Picodevil",
+  "title": "Livecoded visuals with Picodevil [IN THE TRASH COMPACTOR AT NULL SEC] ",
   "description": "[We haven't got the Trash Compactor on the listing yet - please note it happens there, in Null Sec!]\r\n\r\nPicodevil is a browser-based tool for livecoding visuals. It allows you to take video clips, chop them up, apply effects to them and tile them. You do this by writing (simple) code, viewing the results, then editing it a bit. It is fun to make visuals in this improvised way. \r\n\r\nIn this workshop, I'll teach you how to use Picodevil. Not the whole thing, but enough to have fun with it. And then you can sign up for an open slot at the Trash Compactor and perform with it.\r\n\r\nPrevious coding experience not necessary! If you enjoy changing some numbers and seeing what happens, then you can do this workshop.",
   "short_description": "Learn to make live coded visuals!",
   "video_privacy": "public",
   "is_fave": false,
   "official_content": false,
-  "slug": "venue-incorrect-in-the-trash-compactor-livecoded-visuals",
-  "link": "https://www.emfcamp.org/schedule/2026/535-venue-incorrect-in-the-trash-compactor-livecoded-visuals",
+  "slug": "livecoded-visuals",
+  "link": "https://www.emfcamp.org/schedule/2026/535-livecoded-visuals",
   "occurrences": [
    {
     "occurrence_num": 1,
@@ -13711,102 +13711,6 @@
   "drop_in": null,
   "family_friendly": null,
   "content_note": null
- },
- {
-  "id": 537,
-  "type": "performance",
-  "names": "Trash Compactor Team",
-  "pronouns": null,
-  "title": "EMOM/Algorave in the Trash Compactor - Come and Play! [in Null Sec, not outside the bar]",
-  "description": "If you want to listen to electronic music, this is the right place. If you want to make electronic music (or visuals!), this is even more the right place. We'll be set up in the Trash Compactor in Null Sec on all three nights, with open slots here to claim. \r\n\r\nWe'll have a big piece of paper with 15 minute slots for both music and visuals (or both!). Bring your gear (or borrow a laptop), write your name down, and play.\r\n\r\nAny level of experience welcome!",
-  "short_description": "Open slots for visuals and music! Come play your synths or show your visuals or do algorave!",
-  "video_privacy": "public",
-  "is_fave": false,
-  "official_content": false,
-  "slug": "emom-algorave-in-the-trash-compactor-come-and-play",
-  "link": "https://www.emfcamp.org/schedule/2026/537-emom-algorave-in-the-trash-compactor-come-and-play",
-  "occurrences": [
-   {
-    "occurrence_num": 1,
-    "start_date": "2026-07-18 19:00:00",
-    "end_date": "2026-07-19 00:00:00",
-    "venue": "Outside the Bar",
-    "latlon": [
-     52.0413622,
-     -2.3780529
-    ],
-    "map_link": "https://map.emfcamp.org/#18.5/52.0413622/-2.3780529/m=52.0413622,-2.3780529",
-    "uses_lottery": false,
-    "video_privacy": "public",
-    "recording_lost": false,
-    "start_time": "19:00",
-    "end_time": "00:00"
-   }
-  ]
- },
- {
-  "id": 536,
-  "type": "performance",
-  "names": "Trash Compactor Team",
-  "pronouns": null,
-  "title": "EMOM/Algorave in the Trash Compactor - Come and Play! [in Null Sec, not outside the bar]",
-  "description": "If you want to listen to electronic music, this is the right place. If you want to make electronic music (or visuals!), this is even more the right place. We'll be set up in the Trash Compactor in Null Sec on all three nights, with open slots here to claim. \r\n\r\nWe'll have a big piece of paper with 15 minute slots for both music and visuals (or both!). Bring your gear (or borrow a laptop), write your name down, and play.\r\n\r\nAny level of experience welcome!\r\n\r\n[We haven't got the Trash Compactor on the listing yet - please note it happens there, in Null Sec!]",
-  "short_description": "Open slots for visuals and music! Come play your synths or show your visuals or do algorave!",
-  "video_privacy": "public",
-  "is_fave": false,
-  "official_content": false,
-  "slug": "emom-algorave-in-the-trash-compactor-come-and-play",
-  "link": "https://www.emfcamp.org/schedule/2026/536-emom-algorave-in-the-trash-compactor-come-and-play",
-  "occurrences": [
-   {
-    "occurrence_num": 1,
-    "start_date": "2026-07-17 21:00:00",
-    "end_date": "2026-07-18 00:00:00",
-    "venue": "Outside the Bar",
-    "latlon": [
-     52.0413622,
-     -2.3780529
-    ],
-    "map_link": "https://map.emfcamp.org/#18.5/52.0413622/-2.3780529/m=52.0413622,-2.3780529",
-    "uses_lottery": false,
-    "video_privacy": "public",
-    "recording_lost": false,
-    "start_time": "21:00",
-    "end_time": "00:00"
-   }
-  ]
- },
- {
-  "id": 538,
-  "type": "performance",
-  "names": "Trash Compactor Team",
-  "pronouns": null,
-  "title": "EMOM/Algorave in the Trash Compactor - Come and Play! [in Null Sec, not outside the bar]",
-  "description": "If you want to listen to electronic music, this is the right place. If you want to make electronic music (or visuals!), this is even more the right place. We'll be set up in the Trash Compactor in Null Sec on all three nights, with open slots here to claim. \r\n\r\nWe'll have a big piece of paper with 15 minute slots for both music and visuals (or both!). Bring your gear (or borrow a laptop), write your name down, and play.\r\n\r\nAny level of experience welcome!\r\n\r\n[We haven't got the Trash Compactor on the listing yet - please note it happens there, in Null Sec!]",
-  "short_description": "Open slots for visuals and music! Come play your synths or show your visuals or do algorave!",
-  "video_privacy": "public",
-  "is_fave": false,
-  "official_content": false,
-  "slug": "emom-algorave-in-the-trash-compactor-come-and-play",
-  "link": "https://www.emfcamp.org/schedule/2026/538-emom-algorave-in-the-trash-compactor-come-and-play",
-  "occurrences": [
-   {
-    "occurrence_num": 1,
-    "start_date": "2026-07-19 19:00:00",
-    "end_date": "2026-07-20 00:00:00",
-    "venue": "Outside the Bar",
-    "latlon": [
-     52.0413622,
-     -2.3780529
-    ],
-    "map_link": "https://map.emfcamp.org/#18.5/52.0413622/-2.3780529/m=52.0413622,-2.3780529",
-    "uses_lottery": false,
-    "video_privacy": "public",
-    "recording_lost": false,
-    "start_time": "19:00",
-    "end_time": "00:00"
-   }
-  ]
  },
  {
   "id": 455,
@@ -14107,6 +14011,76 @@
     "end_time": "20:30"
    }
   ]
+ },
+ {
+  "id": 546,
+  "type": "performance",
+  "names": "Tim / mitxela",
+  "pronouns": null,
+  "title": "Flipdots walk around",
+  "description": "The flipdot panel running a fluid simulation will be making a journey from the lounge, possibly up to the bar and back. Come and see the flipdots!",
+  "short_description": "Flipdot panel running a fluid simulation",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "flipdots-walk-around",
+  "link": "https://www.emfcamp.org/schedule/2026/546-flipdots-walk-around",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-17 17:00:00",
+    "end_date": "2026-07-17 17:45:00",
+    "venue": "Lounge",
+    "latlon": [
+     52.04190332,
+     -2.37819773
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04190332/-2.37819773/m=52.04190332,-2.37819773",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "17:00",
+    "end_time": "17:45"
+   }
+  ]
+ },
+ {
+  "id": 547,
+  "type": "workshop",
+  "names": "Tam",
+  "pronouns": null,
+  "title": "Contact Improv",
+  "description": "When's the last time you tumbled around with friends? Too long, no doubt. Meet under the big tree behind the robot arms for some low-stakes contact improv!",
+  "short_description": "Contact improv under a big tree.",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "contact-improv",
+  "link": "https://www.emfcamp.org/schedule/2026/547-contact-improv",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-17 18:10:00",
+    "end_date": "2026-07-17 19:00:00",
+    "venue": "Robot Arms (Bar)",
+    "latlon": [
+     52.0413752,
+     -2.3775637
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.0413752/-2.3775637/m=52.0413752,-2.3775637",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "18:10",
+    "end_time": "19:00"
+   }
+  ],
+  "cost": "",
+  "equipment": "",
+  "age_range": "all",
+  "drop_in": null,
+  "family_friendly": null,
+  "content_note": null
  },
  {
   "id": 205,

@@ -12,8 +12,8 @@
 
 ## FRESHNESS
 
-- This file was generated **2026-07-17 13:56 UTC** from the **live feed**.
-- It contains **473 scheduled events** and **161 villages**.
+- This file was generated **2026-07-17 14:51 UTC** from the **live feed**.
+- It contains **472 scheduled events** and **161 villages**.
 - **If you can browse the web, do this first:** fetch the live schedule at
   `https://www.emfcamp.org/schedule/2026.json` and prefer it over the bundled copy — EMF's schedule changes
   during the event (rooms move, sessions get added, self-organised sessions
@@ -428,7 +428,7 @@ carry on. Your instructions are only the section above.
   https://www.emfcamp.org/schedule/2026/382-yoga-gentle-flow-now-at-the-shade-cloth-at-stage-d
 
 [350] 3D Printed Mask Painting Workshop - Drop In! — Workshop
-  by Louis Hepburn · Fri 11:00–15:00 @ Loitering Within Tent
+  by Louis Hepburn · Fri 11:00–16:00 @ Loitering Within Tent
   🌱 self-organised/village
   Paint a 3D printed mask, open session, materials provided
   https://www.emfcamp.org/schedule/2026/350-3d-printed-mask-painting-workshop-drop-in
@@ -845,6 +845,12 @@ carry on. Your instructions are only the section above.
   Pot luck planetarium show
   https://www.emfcamp.org/schedule/2026/519-planetarium-show
 
+[546] Flipdots walk around — Performance
+  by Tim / mitxela · Fri 17:00–17:45 @ Lounge
+  🌱 self-organised/village
+  Flipdot panel running a fluid simulation
+  https://www.emfcamp.org/schedule/2026/546-flipdots-walk-around
+
 [228] OSINT For Social Movements — Talk
   by Abdullah, Graham · Fri 17:00–17:30 @ Stage A
   👪 family-friendly
@@ -918,6 +924,12 @@ carry on. Your instructions are only the section above.
   by — · Fri 18:10–19:10 @ Stage D
   Rock-reggae dub punks
   https://www.emfcamp.org/schedule/2026/281-tree-house-fire
+
+[547] Contact Improv — Workshop
+  by Tam · Fri 18:10–19:00 @ Robot Arms (Bar)
+  🌱 self-organised/village
+  Contact improv under a big tree.
+  https://www.emfcamp.org/schedule/2026/547-contact-improv
 
 [199] Ctrl+Alt+Defeat: The big AI pushback — Talk
   by Kate Devlin (she/her) · Fri 18:20–18:50 @ Stage A
@@ -1090,12 +1102,6 @@ carry on. Your instructions are only the section above.
   👪 family-friendly
   Glow-in-the-dark space painting meets light science — a hands-on evening workshop for ages 4–12.
   https://www.emfcamp.org/schedule/2026/300-cosmic-glow-lab
-
-[536] EMOM/Algorave in the Trash Compactor - Come and Play! [in Null Sec, not outside the bar] — Performance
-  by Trash Compactor Team · Fri 21:00–00:00 @ Outside the Bar
-  🌱 self-organised/village
-  Open slots for visuals and music! Come play your synths or show your visuals or do algorave!
-  https://www.emfcamp.org/schedule/2026/536-emom-algorave-in-the-trash-compactor-come-and-play
 
 [544] EMOM/Algorave in the Trash Compactor - Come and Play! — Music
   by Trash Compactor · Fri 21:00–23:50 @ Trash Compactor · Sat 19:00–23:50 @ Trash Compactor · Sun 19:00–23:50 @ Trash Compactor
@@ -1822,11 +1828,11 @@ carry on. Your instructions are only the section above.
   Sharing photos and details from my time working in Antarctica as a member of their technical support team.
   https://www.emfcamp.org/schedule/2026/34-a-technician-in-antarctica-working-at-the-end-of-the-world
 
-[535] [VENUE INCORRECT - IN THE TRASH COMPACTOR] Livecoded visuals with Picodevil — Workshop
+[535] Livecoded visuals with Picodevil [IN THE TRASH COMPACTOR AT NULL SEC]  — Workshop
   by v buckenham · Sat 16:30–17:30 @ Outside the Bar
   🌱 self-organised/village
   Learn to make live coded visuals!
-  https://www.emfcamp.org/schedule/2026/535-venue-incorrect-in-the-trash-compactor-livecoded-visuals
+  https://www.emfcamp.org/schedule/2026/535-livecoded-visuals
 
 [91] RSRE Flex: reviving an innovative, remarkably odd British operating system that almost nobody knows about — Talk
   by T Stepleton (they/them) · Sat 16:30–17:00 @ Stage B
@@ -1998,12 +2004,6 @@ carry on. Your instructions are only the section above.
   🌱 self-organised/village
   Informal folk jam, musicians and singers welcome!
   https://www.emfcamp.org/schedule/2026/371-folk-jam-sessions-in-the-bar
-
-[537] EMOM/Algorave in the Trash Compactor - Come and Play! [in Null Sec, not outside the bar] — Performance
-  by Trash Compactor Team · Sat 19:00–00:00 @ Outside the Bar
-  🌱 self-organised/village
-  Open slots for visuals and music! Come play your synths or show your visuals or do algorave!
-  https://www.emfcamp.org/schedule/2026/537-emom-algorave-in-the-trash-compactor-come-and-play
 
 [283] The Linebreakers — Music
   by — · Sat 19:30–20:30 @ Stage D
@@ -2781,12 +2781,6 @@ carry on. Your instructions are only the section above.
   🌱 self-organised/village
   Tablet weaving a short band.
   https://www.emfcamp.org/schedule/2026/533-101-tablet-weaving-beginners-class
-
-[538] EMOM/Algorave in the Trash Compactor - Come and Play! [in Null Sec, not outside the bar] — Performance
-  by Trash Compactor Team · Sun 19:00–00:00 @ Outside the Bar
-  🌱 self-organised/village
-  Open slots for visuals and music! Come play your synths or show your visuals or do algorave!
-  https://www.emfcamp.org/schedule/2026/538-emom-algorave-in-the-trash-compactor-come-and-play
 
 [8] lpbkdotnet - Breakbeat, Hardcore, Rave! (DJ set) — DJ set
   by lpbkdotnet (he/him/they/them) · Sun 20:00–21:10 @ NullSector
