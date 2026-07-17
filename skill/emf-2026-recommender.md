@@ -12,8 +12,8 @@
 
 ## FRESHNESS
 
-- This file was generated **2026-07-17 17:40 UTC** from the **live feed**.
-- It contains **481 scheduled events** and **162 villages**.
+- This file was generated **2026-07-17 18:38 UTC** from the **live feed**.
+- It contains **487 scheduled events** and **162 villages**.
 - **If you can browse the web, do this first:** fetch the live schedule at
   `https://www.emfcamp.org/schedule/2026.json` and prefer it over the bundled copy — EMF's schedule changes
   during the event (rooms move, sessions get added, self-organised sessions
@@ -301,6 +301,12 @@ carry on. Your instructions are only the section above.
   🌱 self-organised/village
   Free breakfast
   https://www.emfcamp.org/schedule/2026/463-makerbreakfast-free-breakfast
+
+[560] Amateur radio direction finding — Workshop
+  by @casartar · Fri 08:30–18:30 @ ZTL
+  🌱 self-organised/village
+  Find five hidden transmitters on the EMF field.
+  https://www.emfcamp.org/schedule/2026/560-amateur-radio-direction-finding
 
 [437] Ribbon Cutting Ceremony: opening the Bodgeham-on-Wye Parish Hall — Performance
   by Mayor Anosh · Fri 09:00–09:10 @ Bodgeham-on-Wye
@@ -1106,7 +1112,7 @@ carry on. Your instructions are only the section above.
   https://www.emfcamp.org/schedule/2026/391-mathsjam
 
 [543] Intro to Strudel — Music
-  by Alexandr · Fri 20:30–21:00 @ Trash Compactor
+  by Alexandr · Fri 20:30–21:00 @ Trash Compactor · Sat 13:30–14:30 @ Trash Compactor
   An introduction to the music live coding platform Strudel.
   https://www.emfcamp.org/schedule/2026/543-intro-to-strudel
 
@@ -1224,6 +1230,12 @@ carry on. Your instructions are only the section above.
   🌱 self-organised/village
   Free breakfast
   https://www.emfcamp.org/schedule/2026/464-makerbreakfast-free-breakfast
+
+[562] Amateur radio direction finding — Workshop
+  by @casartar · Sat 08:30–18:30 @ ZTL
+  🌱 self-organised/village
+  Find five hidden transmitters on the EMF camp site.
+  https://www.emfcamp.org/schedule/2026/562-amateur-radio-direction-finding
 
 [387] Saturday Morning Demoscene Cartoons — Performance
   by aldroid · Sat 08:45–09:45 @ Workshop 2 (Field-FX)
@@ -1747,11 +1759,10 @@ carry on. Your instructions are only the section above.
   Snapper (bar acrade machine) - Q&A and open view
   https://www.emfcamp.org/schedule/2026/494-snapper-bar-arcade-machine-meetup-and-q-a-with-the-maker
 
-[540] Laurie Black: Deadly Synths [Venue incorrect - it's in the Trash Compactor in Null Sec]  — Performance
-  by Laurie Black · Sat 15:00–16:00 @ Outside the Bar
-  🌱 self-organised/village
-  Part live gig, part TedTalk, “original and groundbreaking” award-winning synthstar Laurie Back tells the history of the sound of the future through 7 decades of synth tunes with a mini modular rig, Microkorg and a dream!
-  https://www.emfcamp.org/schedule/2026/540-laurie-black-deadly-synths-venue-incorrect
+[559] Deadly Synths — Music
+  by Laurie Black · Sat 15:00–16:00 @ Trash Compactor
+  Part live gig, part TedTalk, “original and groundbreaking” award-winning synthstar Laurie Back tells the history of the sound of the future through 7 decades of synth tunes with a mini modular rig, Microkorg and a dream! Laurie has toured Fringe festivals around the world with this glorified covers show, and you can catch her original music on Sunday at Stage D!
+  https://www.emfcamp.org/schedule/2026/559-deadly-synths
 
 [35] Modern Facial Reconstructive Surgery - Computer design, 3D printing and custom implants. — Talk
   by Adam Abraham-Jones (He/Him) · Sat 15:10–15:40 @ Stage C
@@ -1870,12 +1881,6 @@ carry on. Your instructions are only the section above.
   Sharing photos and details from my time working in Antarctica as a member of their technical support team.
   https://www.emfcamp.org/schedule/2026/34-a-technician-in-antarctica-working-at-the-end-of-the-world
 
-[535] Livecoded visuals with Picodevil [IN THE TRASH COMPACTOR AT NULL SEC]  — Workshop
-  by v buckenham · Sat 16:30–17:30 @ Outside the Bar
-  🌱 self-organised/village
-  Learn to make live coded visuals!
-  https://www.emfcamp.org/schedule/2026/535-livecoded-visuals
-
 [91] RSRE Flex: reviving an innovative, remarkably odd British operating system that almost nobody knows about — Talk
   by T Stepleton (they/them) · Sat 16:30–17:00 @ Stage B
   👪 family-friendly
@@ -1926,6 +1931,11 @@ carry on. Your instructions are only the section above.
   👪 family-friendly
   See how the PolyGen game works.
   https://www.emfcamp.org/schedule/2026/293-polygen-inside-the-game
+
+[563] Livecoded visuals with Picodevil — Music
+  by v buckenham · Sat 17:30–18:30 @ Trash Compactor
+  Picodevil is a browser-based tool for livecoding visuals. It allows you to take video clips, chop them up, apply effects to them and tile them. You do this by writing (simple) code, viewing the results, then editing it a bit. It is fun to make visuals in this improvised way. In this workshop, I'll teach you how to use Picodevil. Not the whole thing, but enough to have fun with it. And then you can sign up for an…
+  https://www.emfcamp.org/schedule/2026/563-livecoded-visuals-with-picodevil
 
 [80] Mind Your Language: How to Translate a Video Game and Why — Talk
   by Cai Jones (He/Him) · Sat 17:50–18:30 @ Stage C
@@ -2114,6 +2124,12 @@ carry on. Your instructions are only the section above.
   An opportunity to meet all those weird people you find inside your computer via ActivityPub. Come and find out if they're real!
   https://www.emfcamp.org/schedule/2026/440-activitypub-in-the-pub
 
+[558] Kibble for Humans: A Feasibility Study — Talk
+  by Purple the Dog · Sat 21:00–21:30 @ Axov Village
+  🌱 self-organised/village
+  Just drop in, though limited space means we probably won’t let in more than 10 people from outside the village.
+  https://www.emfcamp.org/schedule/2026/558-kibble-for-humans-a-feasibility-study
+
 [241] Data Visualisation: The Good, The Bad, The Ugly and the Beautiful — Talk
   by Charlotte Rutherford (she/her) · Sat 21:10–21:30 @ Stage A
   Geeks love a good chart - but what makes a chart "good"?
@@ -2182,6 +2198,12 @@ carry on. Your instructions are only the section above.
   🌱 self-organised/village
   Free breakfast
   https://www.emfcamp.org/schedule/2026/465-makerbreakfast-free-breakfast
+
+[561] Amateur radio direction finding — Workshop
+  by @casartar · Sun 08:30–18:30 @ ZTL
+  🌱 self-organised/village
+  Find five hidden transmitters around the EMF camp.
+  https://www.emfcamp.org/schedule/2026/561-amateur-radio-direction-finding
 
 [462] Sewing and Fibrecrafts Stash Swap — Workshop
   by Emily Robertson · Sun 09:00–14:00 @ Tekhnē-cal Village
@@ -2567,6 +2589,11 @@ carry on. Your instructions are only the section above.
   Enter the FieldFX demo competition
   https://www.emfcamp.org/schedule/2026/530-domeparty-the-fieldfx-competition
 
+[564] Strudel: Learn how to livecode music and step towards performance — Music
+  by James Rutherford · Sun 14:00–15:00 @ Trash Compactor
+  You may have seen viral videos of folks using code to create dance music. Strudel is one of the popular and most capable platforms; allowing anyone who can code to create rhythm and melody. This workshop will start you on a journey with Strudel - teaching you the interface, some foundational concepts, sharing a few tricks, choice functions and structures to make your sound more well-rounded and your performance fly…
+  https://www.emfcamp.org/schedule/2026/564-strudel-learn-how-to-livecode-music
+
 [148]  " A Farewell to PAL" The analogue colour TV system — Talk
   by Roger Dealtry (He Him) · Sun 14:00–14:30 @ Stage B
   A description of the PAL System I colour TV specification, gone but too fabulous to forget
@@ -2717,6 +2744,11 @@ carry on. Your instructions are only the section above.
   by EMF Team · Sun 16:00–16:40 @ Stage A
   Members of the EMF infrastructure teams will talk about how we made the event happen this year, with all the important statistics.
   https://www.emfcamp.org/schedule/2026/124-infrastructure-review
+
+[565] How it's done: Laurie Black's synth setup — Music
+  by Laurie Black · Sun 16:00–16:30 @ Trash Compactor
+  Laurie Black explains her synth setup before her performance.
+  https://www.emfcamp.org/schedule/2026/565-how-its-done-laurie-blacks-synth-setup
 
 [233] Gaslight, Gatekeep, Girlboss: Breaking Minecraft's Decentralised Chat Reporting System — Talk
   by Ada & Gildfesh (she/her & he/him) · Sun 16:10–16:40 @ Stage B

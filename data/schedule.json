@@ -13637,44 +13637,6 @@
   ]
  },
  {
-  "id": 535,
-  "type": "workshop",
-  "names": "v buckenham",
-  "pronouns": null,
-  "title": "Livecoded visuals with Picodevil [IN THE TRASH COMPACTOR AT NULL SEC] ",
-  "description": "[We haven't got the Trash Compactor on the listing yet - please note it happens there, in Null Sec!]\r\n\r\nPicodevil is a browser-based tool for livecoding visuals. It allows you to take video clips, chop them up, apply effects to them and tile them. You do this by writing (simple) code, viewing the results, then editing it a bit. It is fun to make visuals in this improvised way. \r\n\r\nIn this workshop, I'll teach you how to use Picodevil. Not the whole thing, but enough to have fun with it. And then you can sign up for an open slot at the Trash Compactor and perform with it.\r\n\r\nPrevious coding experience not necessary! If you enjoy changing some numbers and seeing what happens, then you can do this workshop.",
-  "short_description": "Learn to make live coded visuals!",
-  "video_privacy": "public",
-  "is_fave": false,
-  "official_content": false,
-  "slug": "livecoded-visuals",
-  "link": "https://www.emfcamp.org/schedule/2026/535-livecoded-visuals",
-  "occurrences": [
-   {
-    "occurrence_num": 1,
-    "start_date": "2026-07-18 16:30:00",
-    "end_date": "2026-07-18 17:30:00",
-    "venue": "Outside the Bar",
-    "latlon": [
-     52.0413622,
-     -2.3780529
-    ],
-    "map_link": "https://map.emfcamp.org/#18.5/52.0413622/-2.3780529/m=52.0413622,-2.3780529",
-    "uses_lottery": false,
-    "video_privacy": "public",
-    "recording_lost": false,
-    "start_time": "16:30",
-    "end_time": "17:30"
-   }
-  ],
-  "cost": "",
-  "equipment": "Bring a laptop! Also any videos you might wanna play with. The tool runs in the browser.",
-  "age_range": "all",
-  "drop_in": null,
-  "family_friendly": null,
-  "content_note": null
- },
- {
   "id": 455,
   "type": "workshop",
   "names": "Jeffrey Roe",
@@ -13741,6 +13703,22 @@
     "recording_lost": false,
     "start_time": "20:30",
     "end_time": "21:00"
+   },
+   {
+    "occurrence_num": 2,
+    "start_date": "2026-07-18 13:30:00",
+    "end_date": "2026-07-18 14:30:00",
+    "venue": "Trash Compactor",
+    "latlon": [
+     52.04341,
+     -2.376704
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04341/-2.376704/m=52.04341,-2.376704",
+    "uses_lottery": false,
+    "video_privacy": "none",
+    "recording_lost": false,
+    "start_time": "13:30",
+    "end_time": "14:30"
    }
   ]
  },
@@ -13875,38 +13853,6 @@
     "recording_lost": false,
     "start_time": "14:00",
     "end_time": "14:05"
-   }
-  ]
- },
- {
-  "id": 540,
-  "type": "performance",
-  "names": "Laurie Black",
-  "pronouns": null,
-  "title": "Laurie Black: Deadly Synths [Venue incorrect - it's in the Trash Compactor in Null Sec] ",
-  "description": "Part live gig, part TedTalk, “original and groundbreaking” award-winning synthstar Laurie Back tells the history of the sound of the future through 7 decades of synth tunes with a mini modular rig, Microkorg and a dream!  Laurie has toured Fringe festivals around the world with this glorified covers show, and you can catch her original music on Sunday at Stage D ;)\r\n\r\n[Please note - it's not outside the bar, it's at the Trash Compactor in Null Sec!]",
-  "short_description": "Part live gig, part TedTalk, “original and groundbreaking” award-winning synthstar Laurie Back tells the history of the sound of the future through 7 decades of synth tunes with a mini modular rig, Microkorg and a dream!",
-  "video_privacy": "public",
-  "is_fave": false,
-  "official_content": false,
-  "slug": "laurie-black-deadly-synths-venue-incorrect",
-  "link": "https://www.emfcamp.org/schedule/2026/540-laurie-black-deadly-synths-venue-incorrect",
-  "occurrences": [
-   {
-    "occurrence_num": 1,
-    "start_date": "2026-07-18 15:00:00",
-    "end_date": "2026-07-18 16:00:00",
-    "venue": "Outside the Bar",
-    "latlon": [
-     52.0413622,
-     -2.3780529
-    ],
-    "map_link": "https://map.emfcamp.org/#18.5/52.0413622/-2.3780529/m=52.0413622,-2.3780529",
-    "uses_lottery": false,
-    "video_privacy": "public",
-    "recording_lost": false,
-    "start_time": "15:00",
-    "end_time": "16:00"
    }
   ]
  },
@@ -14175,6 +14121,76 @@
   ]
  },
  {
+  "id": 561,
+  "type": "workshop",
+  "names": "@casartar",
+  "pronouns": null,
+  "title": "Amateur radio direction finding",
+  "description": "We have distributed five radio transmitters around the site that you can locate using directional antennas and radio receivers.\r\nWe will show you how everything works, and then you're on your own.\r\n\r\nWe have five antennas and receivers available. Just come to the ZTL village, and if a set of equipment is not in use, you're good to go.\r\n\r\nThe system we use is called Draußenfuchs. You can find more information at https://draussenfuchs.de/. Just use your browser's translation function.\r\n\r\nThis experience is free of charge, but if you'd like to donate £1/€1 to help cover our expenses, we'd really appreciate it.",
+  "short_description": "Find five hidden transmitters around the EMF camp.",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "amateur-radio-direction-finding",
+  "link": "https://www.emfcamp.org/schedule/2026/561-amateur-radio-direction-finding",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-19 08:30:00",
+    "end_date": "2026-07-19 18:30:00",
+    "venue": "ZTL",
+    "latlon": [
+     52.043016821432445,
+     -2.373662517151473
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.043016821432445/-2.373662517151473/m=52.043016821432445,-2.373662517151473",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "08:30",
+    "end_time": "18:30"
+   }
+  ],
+  "cost": "",
+  "equipment": "A bottle of water and patience.\r\nFinding all five transmitters takes between 20 minutes and one hour.",
+  "age_range": "all",
+  "drop_in": true,
+  "family_friendly": null,
+  "content_note": null
+ },
+ {
+  "id": 563,
+  "type": "music",
+  "names": "v buckenham",
+  "pronouns": "",
+  "title": "Livecoded visuals with Picodevil",
+  "description": "Picodevil is a browser-based tool for livecoding visuals. It allows you to take video clips, chop them up, apply effects to them and tile them. You do this by writing (simple) code, viewing the results, then editing it a bit. It is fun to make visuals in this improvised way. In this workshop, I'll teach you how to use Picodevil. Not the whole thing, but enough to have fun with it. And then you can sign up for an open slot at the Trash Compactor and perform with it. Previous coding experience not necessary! If you enjoy changing some numbers and seeing what happens, then you can do this workshop.",
+  "short_description": "",
+  "video_privacy": "none",
+  "is_fave": false,
+  "official_content": true,
+  "slug": "livecoded-visuals-with-picodevil",
+  "link": "https://www.emfcamp.org/schedule/2026/563-livecoded-visuals-with-picodevil",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-18 17:30:00",
+    "end_date": "2026-07-18 18:30:00",
+    "venue": "Trash Compactor",
+    "latlon": [
+     52.04341,
+     -2.376704
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04341/-2.376704/m=52.04341,-2.376704",
+    "uses_lottery": false,
+    "video_privacy": "none",
+    "recording_lost": false,
+    "start_time": "17:30",
+    "end_time": "18:30"
+   }
+  ]
+ },
+ {
   "id": 550,
   "type": "performance",
   "names": "David Johnson & AMSAT-UK",
@@ -14275,6 +14291,180 @@
   "drop_in": true,
   "family_friendly": null,
   "content_note": null
+ },
+ {
+  "id": 558,
+  "type": "talk",
+  "names": "Purple the Dog",
+  "pronouns": null,
+  "title": "Kibble for Humans: A Feasibility Study",
+  "description": "Imagine if a product equivalent to dry pet food existed, which was affordable, healthy and didn’t taste like gritty sawdust? This study attempts to answer if such a product could exist, and what would be necessary to make it a commercially viable business model. This was only a partial failure.",
+  "short_description": "Just drop in, though limited space means we probably won’t let in more than 10 people from outside the village.",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "kibble-for-humans-a-feasibility-study",
+  "link": "https://www.emfcamp.org/schedule/2026/558-kibble-for-humans-a-feasibility-study",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-18 21:00:00",
+    "end_date": "2026-07-18 21:30:00",
+    "venue": "Axov Village",
+    "latlon": [
+     52.041642786252055,
+     -2.375219794150553
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.041642786252055/-2.375219794150553/m=52.041642786252055,-2.375219794150553",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "21:00",
+    "end_time": "21:30"
+   }
+  ],
+  "family_friendly": null,
+  "content_note": null
+ },
+ {
+  "id": 559,
+  "type": "music",
+  "names": "Laurie Black",
+  "pronouns": "",
+  "title": "Deadly Synths",
+  "description": "Part live gig, part TedTalk, “original and groundbreaking” award-winning synthstar Laurie Back tells the history of the sound of the future through 7 decades of synth tunes with a mini modular rig, Microkorg and a dream! Laurie has toured Fringe festivals around the world with this glorified covers show, and you can catch her original music on Sunday at Stage D!",
+  "short_description": "",
+  "video_privacy": "none",
+  "is_fave": false,
+  "official_content": true,
+  "slug": "deadly-synths",
+  "link": "https://www.emfcamp.org/schedule/2026/559-deadly-synths",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-18 15:00:00",
+    "end_date": "2026-07-18 16:00:00",
+    "venue": "Trash Compactor",
+    "latlon": [
+     52.04341,
+     -2.376704
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04341/-2.376704/m=52.04341,-2.376704",
+    "uses_lottery": false,
+    "video_privacy": "none",
+    "recording_lost": false,
+    "start_time": "15:00",
+    "end_time": "16:00"
+   }
+  ]
+ },
+ {
+  "id": 560,
+  "type": "workshop",
+  "names": "@casartar",
+  "pronouns": null,
+  "title": "Amateur radio direction finding",
+  "description": "We have distributed five radio transmitters around the site that you can locate using directional antennas and radio receivers.\r\nWe will show you how everything works, and then you're on your own.\r\n\r\nWe have five antennas and receivers available. Just come to the ZTL village, and if a set of equipment is not in use, you're good to go.\r\n\r\nThe system we use is called Draußenfuchs. You can find more information at https://draussenfuchs.de/. Just use your browser's translation function.\r\n\r\nThis experience is free of charge, but if you'd like to donate £1/€1 to help cover our expenses, we'd really appreciate it.",
+  "short_description": "Find five hidden transmitters on the EMF field.",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "amateur-radio-direction-finding",
+  "link": "https://www.emfcamp.org/schedule/2026/560-amateur-radio-direction-finding",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-17 08:30:00",
+    "end_date": "2026-07-17 18:30:00",
+    "venue": "ZTL",
+    "latlon": [
+     52.043016821432445,
+     -2.373662517151473
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.043016821432445/-2.373662517151473/m=52.043016821432445,-2.373662517151473",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "08:30",
+    "end_time": "18:30"
+   }
+  ],
+  "cost": "",
+  "equipment": "A water bottle and patience. Finding all 5 transmitters takes betwen 20 Minutes and 1 hour.",
+  "age_range": "all",
+  "drop_in": true,
+  "family_friendly": null,
+  "content_note": null
+ },
+ {
+  "id": 562,
+  "type": "workshop",
+  "names": "@casartar",
+  "pronouns": null,
+  "title": "Amateur radio direction finding",
+  "description": "We have distributed five radio transmitters around the site that you can locate using directional antennas and radio receivers.\r\nWe will show you how everything works, and then you're on your own.\r\n\r\nWe have five antennas and receivers available. Just come to the ZTL village, and if a set of equipment is not in use, you're good to go.\r\n\r\nThe system we use is called Draußenfuchs. You can find more information at https://draussenfuchs.de/. Just use your browser's translation function.\r\n\r\nThis experience is free of charge, but if you'd like to donate £1/€1 to help cover our expenses, we'd really appreciate it.",
+  "short_description": "Find five hidden transmitters on the EMF camp site.",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "amateur-radio-direction-finding",
+  "link": "https://www.emfcamp.org/schedule/2026/562-amateur-radio-direction-finding",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-18 08:30:00",
+    "end_date": "2026-07-18 18:30:00",
+    "venue": "ZTL",
+    "latlon": [
+     52.043016821432445,
+     -2.373662517151473
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.043016821432445/-2.373662517151473/m=52.043016821432445,-2.373662517151473",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "08:30",
+    "end_time": "18:30"
+   }
+  ],
+  "cost": "",
+  "equipment": "A bottle of water and patirnce.\r\nFinding all five transmitters takes between 20 minutes and one hour.",
+  "age_range": "all",
+  "drop_in": true,
+  "family_friendly": null,
+  "content_note": null
+ },
+ {
+  "id": 565,
+  "type": "music",
+  "names": "Laurie Black",
+  "pronouns": "",
+  "title": "How it's done: Laurie Black's synth setup",
+  "description": "Laurie Black explains her synth setup before her performance.",
+  "short_description": "",
+  "video_privacy": "none",
+  "is_fave": false,
+  "official_content": true,
+  "slug": "how-its-done-laurie-blacks-synth-setup",
+  "link": "https://www.emfcamp.org/schedule/2026/565-how-its-done-laurie-blacks-synth-setup",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-19 16:00:00",
+    "end_date": "2026-07-19 16:30:00",
+    "venue": "Trash Compactor",
+    "latlon": [
+     52.04341,
+     -2.376704
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04341/-2.376704/m=52.04341,-2.376704",
+    "uses_lottery": false,
+    "video_privacy": "none",
+    "recording_lost": false,
+    "start_time": "16:00",
+    "end_time": "16:30"
+   }
+  ]
  },
  {
   "id": 551,
@@ -14379,6 +14569,38 @@
   "drop_in": true,
   "family_friendly": null,
   "content_note": null
+ },
+ {
+  "id": 564,
+  "type": "music",
+  "names": "James Rutherford",
+  "pronouns": "",
+  "title": "Strudel: Learn how to livecode music and step towards performance",
+  "description": "You may have seen viral videos of folks using code to create dance music.\r\n\r\nStrudel is one of the popular and most capable platforms; allowing anyone who can code to create rhythm and melody.\r\n\r\nThis workshop will start you on a journey with Strudel - teaching you the interface, some foundational concepts, sharing a few tricks, choice functions and structures to make your sound more well-rounded and your performance fly higher.\r\n\r\nThe aim will be to inspire, so we'll aim to move quickly.\r\n\r\nWorkshop notes will be provided afterwards for you to consider at leisure.\r\n\r\nSuitable for anyone with some code-writing experience who is willing to make music with maths!\r\n\r\nBring headphones and a laptop. ",
+  "short_description": "",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": true,
+  "slug": "strudel-learn-how-to-livecode-music",
+  "link": "https://www.emfcamp.org/schedule/2026/564-strudel-learn-how-to-livecode-music",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-19 14:00:00",
+    "end_date": "2026-07-19 15:00:00",
+    "venue": "Trash Compactor",
+    "latlon": [
+     52.04341,
+     -2.376704
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04341/-2.376704/m=52.04341,-2.376704",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "14:00",
+    "end_time": "15:00"
+   }
+  ]
  },
  {
   "id": 205,

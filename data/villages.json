@@ -1779,21 +1779,6 @@
   "num_members": 1
  },
  {
-  "id": 106,
-  "name": "#EMFCamp",
-  "url": "https://www.emfcamp.org/villages/2026/106-emfcamp",
-  "external_url": "https://emfcamp.org",
-  "description": "A meta-village which contains the entirety of EMF and all its villages, except there's a twist!",
-  "location": {
-   "type": "Point",
-   "coordinates": [
-    -2.385142279496449,
-    52.02966446186562
-   ]
-  },
-  "num_members": 2
- },
- {
   "id": 98,
   "name": "Hove, actually",
   "url": "https://www.emfcamp.org/villages/2026/98-hove-actually",
@@ -1867,6 +1852,21 @@
    ]
   },
   "num_members": 9
+ },
+ {
+  "id": 106,
+  "name": "#EMFCamp",
+  "url": "https://www.emfcamp.org/villages/2026/106-emfcamp",
+  "external_url": "https://emfcamp.org",
+  "description": "A meta-village which contains the entirety of EMF and all its villages, except there's a twist!",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.376802838126963,
+    52.04338662673439
+   ]
+  },
+  "num_members": 2
  },
  {
   "id": 163,
