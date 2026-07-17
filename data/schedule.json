@@ -10826,15 +10826,15 @@
   "id": 382,
   "type": "workshop",
   "names": "Naomi",
-  "pronouns": null,
-  "title": "Yoga: gentle flow",
-  "description": "Join for a gentle flow yoga lesson. An easy and soft set of asana's (yoga poses). Starting with a body check in and ending in savasana (with opt in touching)",
+  "pronouns": "",
+  "title": "Yoga: gentle flow: now at the shade cloth at Stage D",
+  "description": "Moved to the star shelter!! Next to stage D!!\r\n\r\nJoin for a gentle flow yoga lesson. An easy and soft set of asana's (yoga poses). Starting with a body check in and ending in savasana (with opt in touching)",
   "short_description": "Yoga: gentle flow",
   "video_privacy": "public",
   "is_fave": false,
   "official_content": false,
-  "slug": "yoga-gentle-flow",
-  "link": "https://www.emfcamp.org/schedule/2026/382-yoga-gentle-flow",
+  "slug": "yoga-gentle-flow-now-at-the-shade-cloth-at-stage-d",
+  "link": "https://www.emfcamp.org/schedule/2026/382-yoga-gentle-flow-now-at-the-shade-cloth-at-stage-d",
   "occurrences": [
    {
     "occurrence_num": 1,
@@ -10858,7 +10858,7 @@
   "age_range": "all",
   "drop_in": null,
   "family_friendly": null,
-  "content_note": null
+  "content_note": ""
  },
  {
   "id": 485,
@@ -13107,6 +13107,70 @@
   "content_note": ""
  },
  {
+  "id": 518,
+  "type": "performance",
+  "names": "Bryony Lanigan",
+  "pronouns": "",
+  "title": "Planetarium Show",
+  "description": "Pot luck choice of “Solar System Deep Dive”, “A Live Tour of the Solar System”, “Sun, Moon and Earth”, “The Infinite Universe”, “The Life of Stars” or “The Sky Tonight”.",
+  "short_description": "Pot luck planetarium show",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": true,
+  "slug": "planetarium-show",
+  "link": "https://www.emfcamp.org/schedule/2026/518-planetarium-show",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-17 15:30:00",
+    "end_date": "2026-07-17 16:10:00",
+    "venue": "Planetarium",
+    "latlon": [
+     52.0415249,
+     -2.3769239
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.0415249/-2.3769239/m=52.0415249,-2.3769239",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "15:30",
+    "end_time": "16:10"
+   }
+  ]
+ },
+ {
+  "id": 527,
+  "type": "performance",
+  "names": "Daniel Wehner",
+  "pronouns": "",
+  "title": "Planetarium Show",
+  "description": "Pot luck choice of “Solar System Deep Dive”, “A Live Tour of the Solar System”, “Sun, Moon and Earth”, “The Infinite Universe”, “The Life of Stars” or “The Sky Tonight”.",
+  "short_description": "Pot luck planetarium show",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": true,
+  "slug": "planetarium-show",
+  "link": "https://www.emfcamp.org/schedule/2026/527-planetarium-show",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-19 11:00:00",
+    "end_date": "2026-07-19 11:40:00",
+    "venue": "Planetarium",
+    "latlon": [
+     52.0415249,
+     -2.3769239
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.0415249/-2.3769239/m=52.0415249,-2.3769239",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "11:00",
+    "end_time": "11:40"
+   }
+  ]
+ },
+ {
   "id": 391,
   "type": "workshop",
   "names": "Various mathematicians",
@@ -13143,6 +13207,478 @@
   "drop_in": true,
   "family_friendly": null,
   "content_note": null
+ },
+ {
+  "id": 519,
+  "type": "performance",
+  "names": "Daniel Wehner",
+  "pronouns": "",
+  "title": "Planetarium Show",
+  "description": "Pot luck choice of “Solar System Deep Dive”, “A Live Tour of the Solar System”, “Sun, Moon and Earth”, “The Infinite Universe”, “The Life of Stars” or “The Sky Tonight”.",
+  "short_description": "Pot luck planetarium show",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": true,
+  "slug": "planetarium-show",
+  "link": "https://www.emfcamp.org/schedule/2026/519-planetarium-show",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-17 17:00:00",
+    "end_date": "2026-07-17 17:40:00",
+    "venue": "Planetarium",
+    "latlon": [
+     52.0415249,
+     -2.3769239
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.0415249/-2.3769239/m=52.0415249,-2.3769239",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "17:00",
+    "end_time": "17:40"
+   }
+  ]
+ },
+ {
+  "id": 525,
+  "type": "performance",
+  "names": "Footleg",
+  "pronouns": "",
+  "title": "Hidden Underground",
+  "description": "Wild caves and mines, a 360 panoramic tour.",
+  "short_description": "Wild caves and mines, a 360 panoramic tour",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": true,
+  "slug": "hidden-underground",
+  "link": "https://www.emfcamp.org/schedule/2026/525-hidden-underground",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-18 18:30:00",
+    "end_date": "2026-07-18 19:10:00",
+    "venue": "Planetarium",
+    "latlon": [
+     52.0415249,
+     -2.3769239
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.0415249/-2.3769239/m=52.0415249,-2.3769239",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "18:30",
+    "end_time": "19:10"
+   }
+  ]
+ },
+ {
+  "id": 530,
+  "type": "performance",
+  "names": "FieldFX",
+  "pronouns": "",
+  "title": "Domeparty, the FieldFX competition",
+  "description": "Unusual hardware? We've got you. How about a 6-metre diameter planetarium dome! We welcome real-time demos, individual effects, animations, still images, and 360° photography, provided they have been prepared for dome projection. Space-themed entries are especially welcome. https://field-fx.party/",
+  "short_description": "Enter the FieldFX demo competition",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": true,
+  "slug": "domeparty-the-fieldfx-competition",
+  "link": "https://www.emfcamp.org/schedule/2026/530-domeparty-the-fieldfx-competition",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-19 14:00:00",
+    "end_date": "2026-07-19 14:40:00",
+    "venue": "Planetarium",
+    "latlon": [
+     52.0415249,
+     -2.3769239
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.0415249/-2.3769239/m=52.0415249,-2.3769239",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "14:00",
+    "end_time": "14:40"
+   }
+  ]
+ },
+ {
+  "id": 532,
+  "type": "workshop",
+  "names": "Shadowed One",
+  "pronouns": null,
+  "title": "101 Tablet Weaving beginners class",
+  "description": "Tablet weaving a short band. ",
+  "short_description": "Tablet weaving a short band. ",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "101-tablet-weaving-beginners-class",
+  "link": "https://www.emfcamp.org/schedule/2026/532-101-tablet-weaving-beginners-class",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-19 10:00:00",
+    "end_date": "2026-07-19 11:30:00",
+    "venue": "Threadz 'n' Webz",
+    "latlon": [
+     52.04030229363161,
+     -2.378446191688738
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04030229363161/-2.378446191688738/m=52.04030229363161,-2.378446191688738",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "10:00",
+    "end_time": "11:30"
+   }
+  ],
+  "cost": "",
+  "equipment": "",
+  "age_range": "12+",
+  "drop_in": null,
+  "family_friendly": null,
+  "content_note": null
+ },
+ {
+  "id": 520,
+  "type": "performance",
+  "names": "FieldFX",
+  "pronouns": "",
+  "title": "Demoscene Planetarium Screening",
+  "description": "We have a planetarium dome on site and you can make visuals for it! Check out the compos page for details. You will be able to vote for your favourites at the demoparty on Saturday. https://field-fx.party/",
+  "short_description": "We have a planetarium dome on site and you can make visuals for it!",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": true,
+  "slug": "demoscene-planetarium-screening",
+  "link": "https://www.emfcamp.org/schedule/2026/520-demoscene-planetarium-screening",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-17 18:30:00",
+    "end_date": "2026-07-17 19:10:00",
+    "venue": "Planetarium",
+    "latlon": [
+     52.0415249,
+     -2.3769239
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.0415249/-2.3769239/m=52.0415249,-2.3769239",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "18:30",
+    "end_time": "19:10"
+   }
+  ]
+ },
+ {
+  "id": 521,
+  "type": "performance",
+  "names": "Jon Woodcock",
+  "pronouns": "",
+  "title": "Planetarium Show",
+  "description": "Pot luck choice of “Solar System Deep Dive”, “A Live Tour of the Solar System”, “Sun, Moon and Earth”, “The Infinite Universe”, “The Life of Stars” or “The Sky Tonight”.",
+  "short_description": "Pot luck planetarium show",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": true,
+  "slug": "planetarium-show",
+  "link": "https://www.emfcamp.org/schedule/2026/521-planetarium-show",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-17 20:00:00",
+    "end_date": "2026-07-17 20:40:00",
+    "venue": "Planetarium",
+    "latlon": [
+     52.0415249,
+     -2.3769239
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.0415249/-2.3769239/m=52.0415249,-2.3769239",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "20:00",
+    "end_time": "20:40"
+   }
+  ]
+ },
+ {
+  "id": 522,
+  "type": "performance",
+  "names": "Affelia",
+  "pronouns": "",
+  "title": "Planetarium Show",
+  "description": "Pot luck choice of “Solar System Deep Dive”, “A Live Tour of the Solar System”, “Sun, Moon and Earth”, “The Infinite Universe”, “The Life of Stars” or “The Sky Tonight”.",
+  "short_description": "Pot luck planetarium show",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": true,
+  "slug": "planetarium-show",
+  "link": "https://www.emfcamp.org/schedule/2026/522-planetarium-show",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-18 14:00:00",
+    "end_date": "2026-07-18 14:40:00",
+    "venue": "Planetarium",
+    "latlon": [
+     52.0415249,
+     -2.3769239
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.0415249/-2.3769239/m=52.0415249,-2.3769239",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "14:00",
+    "end_time": "14:40"
+   }
+  ]
+ },
+ {
+  "id": 523,
+  "type": "performance",
+  "names": "Simon C",
+  "pronouns": "",
+  "title": "Planetarium Show",
+  "description": "Pot luck choice of “Solar System Deep Dive”, “A Live Tour of the Solar System”, “Sun, Moon and Earth”, “The Infinite Universe”, “The Life of Stars” or “The Sky Tonight”.",
+  "short_description": "Pot luck planetarium show",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": true,
+  "slug": "planetarium-show",
+  "link": "https://www.emfcamp.org/schedule/2026/523-planetarium-show",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-18 15:30:00",
+    "end_date": "2026-07-18 16:10:00",
+    "venue": "Planetarium",
+    "latlon": [
+     52.0415249,
+     -2.3769239
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.0415249/-2.3769239/m=52.0415249,-2.3769239",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "15:30",
+    "end_time": "16:10"
+   }
+  ]
+ },
+ {
+  "id": 528,
+  "type": "performance",
+  "names": "Farhan Wallace, Ben C, Mex",
+  "pronouns": "",
+  "title": "Navigating the Night Sky, EMF Sky Survey, Kids Drawing in Space",
+  "description": "How to find more than the pole star in the Heavens, and zooming in on the treasures hidden in the constellations. The results of the EMF Sky Survey, and drawings animated across the sky.",
+  "short_description": "A mix of different shows",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": true,
+  "slug": "navigating-the-night-sky-emf-sky-survey",
+  "link": "https://www.emfcamp.org/schedule/2026/528-navigating-the-night-sky-emf-sky-survey",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-19 12:30:00",
+    "end_date": "2026-07-19 13:10:00",
+    "venue": "Planetarium",
+    "latlon": [
+     52.0415249,
+     -2.3769239
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.0415249/-2.3769239/m=52.0415249,-2.3769239",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "12:30",
+    "end_time": "13:10"
+   }
+  ]
+ },
+ {
+  "id": 531,
+  "type": "workshop",
+  "names": "Shadowed One",
+  "pronouns": null,
+  "title": "101 Tablet Weaving beginners class",
+  "description": "Tablet weaving a short band. ",
+  "short_description": "Tablet weaving a short band",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "101-tablet-weaving-beginners-class",
+  "link": "https://www.emfcamp.org/schedule/2026/531-101-tablet-weaving-beginners-class",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-18 14:00:00",
+    "end_date": "2026-07-18 16:00:00",
+    "venue": "Threadz 'n' Webz",
+    "latlon": [
+     52.04030229363161,
+     -2.378446191688738
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04030229363161/-2.378446191688738/m=52.04030229363161,-2.378446191688738",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "14:00",
+    "end_time": "16:00"
+   }
+  ],
+  "cost": "",
+  "equipment": "",
+  "age_range": "12+",
+  "drop_in": null,
+  "family_friendly": null,
+  "content_note": null
+ },
+ {
+  "id": 529,
+  "type": "workshop",
+  "names": "Shadowed One",
+  "pronouns": null,
+  "title": "Simple cloth Bag making",
+  "description": "We are making simple bags that will carry water and other small essentials (DECT phone, sunglasses), using sewing machine and/or hand sewing. ",
+  "short_description": "We are making simple bags that will carry water and other small essentials (DECT phone, sunglasses). ",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "simple-cloth-bag-making",
+  "link": "https://www.emfcamp.org/schedule/2026/529-simple-cloth-bag-making",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-17 14:00:00",
+    "end_date": "2026-07-17 15:00:00",
+    "venue": "Threadz 'n' Webz",
+    "latlon": [
+     52.04030229363161,
+     -2.378446191688738
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04030229363161/-2.378446191688738/m=52.04030229363161,-2.378446191688738",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "14:00",
+    "end_time": "15:00"
+   }
+  ],
+  "cost": "",
+  "equipment": "",
+  "age_range": "all",
+  "drop_in": null,
+  "family_friendly": null,
+  "content_note": null
+ },
+ {
+  "id": 524,
+  "type": "performance",
+  "names": "Emily S",
+  "pronouns": "",
+  "title": "Planetarium Show",
+  "description": "Pot luck choice of “Solar System Deep Dive”, “A Live Tour of the Solar System”, “Sun, Moon and Earth”, “The Infinite Universe”, “The Life of Stars” or “The Sky Tonight”.",
+  "short_description": "Pot luck planetarium show",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": true,
+  "slug": "planetarium-show",
+  "link": "https://www.emfcamp.org/schedule/2026/524-planetarium-show",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-18 17:00:00",
+    "end_date": "2026-07-18 17:40:00",
+    "venue": "Planetarium",
+    "latlon": [
+     52.0415249,
+     -2.3769239
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.0415249/-2.3769239/m=52.0415249,-2.3769239",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "17:00",
+    "end_time": "17:40"
+   }
+  ]
+ },
+ {
+  "id": 533,
+  "type": "workshop",
+  "names": "Shadowed One",
+  "pronouns": null,
+  "title": "101 Tablet Weaving beginners class",
+  "description": "Tablet weaving a short band. ",
+  "short_description": "Tablet weaving a short band. ",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "101-tablet-weaving-beginners-class",
+  "link": "https://www.emfcamp.org/schedule/2026/533-101-tablet-weaving-beginners-class",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-19 19:00:00",
+    "end_date": "2026-07-19 20:30:00",
+    "venue": "Threadz 'n' Webz",
+    "latlon": [
+     52.04030229363161,
+     -2.378446191688738
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04030229363161/-2.378446191688738/m=52.04030229363161,-2.378446191688738",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "19:00",
+    "end_time": "20:30"
+   }
+  ],
+  "cost": "",
+  "equipment": "",
+  "age_range": "12+",
+  "drop_in": null,
+  "family_friendly": null,
+  "content_note": null
+ },
+ {
+  "id": 526,
+  "type": "performance",
+  "names": "Ben Cartwright",
+  "pronouns": "",
+  "title": "Planetarium Show",
+  "description": "Pot luck choice of “Solar System Deep Dive”, “A Live Tour of the Solar System”, “Sun, Moon and Earth”, “The Infinite Universe”, “The Life of Stars” or “The Sky Tonight”.",
+  "short_description": "Pot luck planetarium show",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": true,
+  "slug": "planetarium-show",
+  "link": "https://www.emfcamp.org/schedule/2026/526-planetarium-show",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-18 20:00:00",
+    "end_date": "2026-07-18 20:40:00",
+    "venue": "Planetarium",
+    "latlon": [
+     52.0415249,
+     -2.3769239
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.0415249/-2.3769239/m=52.0415249,-2.3769239",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "20:00",
+    "end_time": "20:40"
+   }
+  ]
  },
  {
   "id": 205,
