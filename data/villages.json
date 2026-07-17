@@ -507,6 +507,21 @@
   "num_members": 1
  },
  {
+  "id": 174,
+  "name": "Hardware hobbyists",
+  "url": "https://www.emfcamp.org/villages/2026/174-hardware-hobbyists",
+  "external_url": "",
+  "description": "We pretend we know something about hardware",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3757078921776156,
+    52.04316904282581
+   ]
+  },
+  "num_members": 1
+ },
+ {
   "id": 46,
   "name": "🥞 CrepesCampingClub",
   "url": "https://www.emfcamp.org/villages/2026/46-crepescampingclub",
