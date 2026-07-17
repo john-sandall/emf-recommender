@@ -4447,8 +4447,8 @@
   "occurrences": [
    {
     "occurrence_num": 1,
-    "start_date": "2026-07-17 17:00:00",
-    "end_date": "2026-07-17 18:00:00",
+    "start_date": "2026-07-17 17:30:00",
+    "end_date": "2026-07-17 18:30:00",
     "venue": "Workshop 1 (Furry High Commission)",
     "latlon": [
      52.04259,
@@ -4458,8 +4458,8 @@
     "uses_lottery": false,
     "video_privacy": "public",
     "recording_lost": false,
-    "start_time": "17:00",
-    "end_time": "18:00"
+    "start_time": "17:30",
+    "end_time": "18:30"
    }
   ],
   "family_friendly": null,
@@ -6988,44 +6988,6 @@
   "content_note": null
  },
  {
-  "id": 455,
-  "type": "workshop",
-  "names": "Jeffrey Roe",
-  "pronouns": null,
-  "title": "How to Make Your Own Extension Lead (type-G)",
-  "description": "Ever wanted to fix a broken plug, wire up your own extension lead, or just feel more confident around household electrics? This workshop is for you. We’ll guide you through the entire process of safely wiring a 13A plug and connecting it to a 4-gang extension lead. No prior experience needed.\r\n\r\nEach participant will:\r\n\r\n-    Wire up their own 3-core cable into a standard plug\r\n-    Connect that cable to a 4-way socket block\r\n-    Learn about fuses, cable strain relief, and wiring safety\r\n-    Get their work PAT tested so it’s ready and safe to use at home\r\n-    Take home a functional, tested extension lead they built themselves!\r\n\r\nAll tools and materials will be provided.\r\n\r\nLimited to 12 attendees.\r\n\r\nTickets can be pre-booked from Jeffrey Roe (natural habitats include Hardware Hacking Area/Workshop 3 and Irish Embassy). Payment via cash, paypal, or revolut.\r\n\r\nContact via mastodon: https://chaos.social/@tdr112",
-  "short_description": "Energise your life, make your own extension lead (type-G)",
-  "video_privacy": "public",
-  "is_fave": false,
-  "official_content": false,
-  "slug": "how-to-make-your-own-extension-lead-type-g",
-  "link": "https://www.emfcamp.org/schedule/2026/455-how-to-make-your-own-extension-lead-type-g",
-  "occurrences": [
-   {
-    "occurrence_num": 1,
-    "start_date": "2026-07-17 14:30:00",
-    "end_date": "2026-07-17 16:00:00",
-    "venue": "Irish Embassy",
-    "latlon": [
-     52.042066542255355,
-     -2.375355265776193
-    ],
-    "map_link": "https://map.emfcamp.org/#18.5/52.042066542255355/-2.375355265776193/m=52.042066542255355,-2.375355265776193",
-    "uses_lottery": false,
-    "video_privacy": "public",
-    "recording_lost": false,
-    "start_time": "14:30",
-    "end_time": "16:00"
-   }
-  ],
-  "cost": "",
-  "equipment": "",
-  "age_range": "",
-  "drop_in": null,
-  "family_friendly": null,
-  "content_note": null
- },
- {
   "id": 385,
   "type": "music",
   "names": "Gasman",
@@ -8471,7 +8433,7 @@
   "id": 85,
   "type": "talk",
   "names": "Bash",
-  "pronouns": "they/them",
+  "pronouns": "he/they",
   "title": "Introduction to Urban Exploration",
   "description": "Urban Exploration or ‘Urbexing’ is exploration of manmade structures – predominantly abandoned or derelict buildings.\r\n\r\nThis talk will introduce you Urban Exploration, aimed at novices who want to start or those just curious about the practicalities of the hobby. \r\n\r\nAmong other things I’ll cover how to prepare, what to bring, how to scout and find locations and a frank discussion of the legality and safety (or lackthereof). The latter two points especially, much as I enjoy Urbexing I think it's important that anyone seeing this stuff on social media (teenagers especially) has a realistic view of what's involved and how when things do go wrong it's really not funny.\r\n\r\nThe talk will dip in and out of explores I've done over the years to give practical examples ranging from derelict Australian Power Plants to spending 36 hours in the Paris Catacombs.",
   "short_description": "An introduction to urbexing, what’s involved and some of the interesting and cool things you'll find along the way.",
@@ -13843,6 +13805,140 @@
     "recording_lost": false,
     "start_time": "19:00",
     "end_time": "00:00"
+   }
+  ]
+ },
+ {
+  "id": 455,
+  "type": "workshop",
+  "names": "Jeffrey Roe",
+  "pronouns": null,
+  "title": "How to Make Your Own Extension Lead (type-G)",
+  "description": "Ever wanted to fix a broken plug, wire up your own extension lead, or just feel more confident around household electrics? This workshop is for you. We’ll guide you through the entire process of safely wiring a 13A plug and connecting it to a 4-gang extension lead. No prior experience needed.\r\n\r\nEach participant will:\r\n\r\n-    Wire up their own 3-core cable into a standard plug\r\n-    Connect that cable to a 4-way socket block\r\n-    Learn about fuses, cable strain relief, and wiring safety\r\n-    Get their work PAT tested so it’s ready and safe to use at home\r\n-    Take home a functional, tested extension lead they built themselves!\r\n\r\nAll tools and materials will be provided.\r\n\r\nLimited to 12 attendees.\r\n\r\nTickets can be pre-booked from Jeffrey Roe (natural habitats include Hardware Hacking Area/Workshop 3 and Irish Embassy). Payment via cash, paypal, or revolut.\r\n\r\nContact via mastodon: https://chaos.social/@tdr112",
+  "short_description": "Energise your life, make your own extension lead (type-G)",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "how-to-make-your-own-extension-lead-type-g",
+  "link": "https://www.emfcamp.org/schedule/2026/455-how-to-make-your-own-extension-lead-type-g",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-17 14:30:00",
+    "end_date": "2026-07-17 16:00:00",
+    "venue": "Irish Embassy",
+    "latlon": [
+     52.042066542255355,
+     -2.375355265776193
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.042066542255355/-2.375355265776193/m=52.042066542255355,-2.375355265776193",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "14:30",
+    "end_time": "16:00"
+   }
+  ],
+  "cost": "£10",
+  "equipment": "",
+  "age_range": "12+",
+  "drop_in": null,
+  "family_friendly": null,
+  "content_note": null
+ },
+ {
+  "id": 539,
+  "type": "performance",
+  "names": "Hacky Racers",
+  "pronouns": null,
+  "title": "Hacky Racers!",
+  "description": "Hacky Racers 2pm race, come join us at at our track! ",
+  "short_description": "Zero emissions, maximum mayhem! ",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "hacky-racers",
+  "link": "https://www.emfcamp.org/schedule/2026/539-hacky-racers",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-17 14:00:00",
+    "end_date": "2026-07-17 14:05:00",
+    "venue": "Hacky Racers",
+    "latlon": [
+     52.04320202201097,
+     -2.3763662348284527
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04320202201097/-2.3763662348284527/m=52.04320202201097,-2.3763662348284527",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "14:00",
+    "end_time": "14:05"
+   }
+  ]
+ },
+ {
+  "id": 540,
+  "type": "performance",
+  "names": "Laurie Black",
+  "pronouns": null,
+  "title": "Laurie Black: Deadly Synths [Venue incorrect - it's in the Trash Compactor in Null Sec] ",
+  "description": "Part live gig, part TedTalk, “original and groundbreaking” award-winning synthstar Laurie Back tells the history of the sound of the future through 7 decades of synth tunes with a mini modular rig, Microkorg and a dream!  Laurie has toured Fringe festivals around the world with this glorified covers show, and you can catch her original music on Sunday at Stage D ;)\r\n\r\n[Please note - it's not outside the bar, it's at the Trash Compactor in Null Sec!]",
+  "short_description": "Part live gig, part TedTalk, “original and groundbreaking” award-winning synthstar Laurie Back tells the history of the sound of the future through 7 decades of synth tunes with a mini modular rig, Microkorg and a dream!",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "laurie-black-deadly-synths-venue-incorrect",
+  "link": "https://www.emfcamp.org/schedule/2026/540-laurie-black-deadly-synths-venue-incorrect",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-18 15:00:00",
+    "end_date": "2026-07-18 16:00:00",
+    "venue": "Outside the Bar",
+    "latlon": [
+     52.0413622,
+     -2.3780529
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.0413622/-2.3780529/m=52.0413622,-2.3780529",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "15:00",
+    "end_time": "16:00"
+   }
+  ]
+ },
+ {
+  "id": 541,
+  "type": "meetup",
+  "names": "Chris Dell",
+  "pronouns": null,
+  "title": "Let's Chat Embedded Rust",
+  "description": "We can talk the pros and cons, the learning curve, and where it works best. Also (hopefully!) a demo of Rust on the Tildagon with WebAssembly.",
+  "short_description": "",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "lets-chat-embedded-rust",
+  "link": "https://www.emfcamp.org/schedule/2026/541-lets-chat-embedded-rust",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-19 15:00:00",
+    "end_date": "2026-07-19 16:00:00",
+    "venue": "Leigh Hackspace",
+    "latlon": [
+     52.041337828989725,
+     -2.376190690458543
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.041337828989725/-2.376190690458543/m=52.041337828989725,-2.376190690458543",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "15:00",
+    "end_time": "16:00"
    }
   ]
  },
