@@ -14707,6 +14707,44 @@
   ]
  },
  {
+  "id": 568,
+  "type": "workshop",
+  "names": "Andrew",
+  "pronouns": null,
+  "title": "Relaxing Model Painting",
+  "description": "Model painting is pretty relaxing so why not try it in a field painting with a beginner! I'll have a few spare models and brushes if you want to chill and paint.",
+  "short_description": "Relax and paint with a beginner",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "relaxing-model-painting",
+  "link": "https://www.emfcamp.org/schedule/2026/568-relaxing-model-painting",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-18 12:00:00",
+    "end_date": "2026-07-18 13:30:00",
+    "venue": "Nottingham Hackspace",
+    "latlon": [
+     52.04198458781886,
+     -2.3755091779832753
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04198458781886/-2.3755091779832753/m=52.04198458781886,-2.3755091779832753",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "12:00",
+    "end_time": "13:30"
+   }
+  ],
+  "cost": "",
+  "equipment": "",
+  "age_range": "all",
+  "drop_in": true,
+  "family_friendly": null,
+  "content_note": null
+ },
+ {
   "id": 205,
   "type": "talk",
   "names": "Tim Jacobs (aka mitxela)",
