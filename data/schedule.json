@@ -14149,6 +14149,38 @@
   ]
  },
  {
+  "id": 552,
+  "type": "performance",
+  "names": "Dimitri aka Hobbybob",
+  "pronouns": null,
+  "title": "Liquid Flames firing at the lakeside",
+  "description": "Dimitri will fire 10 self build liquid flames and burn through 100L of Isopropanol",
+  "short_description": "Liquid flames firing.at 2200 at the lake",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "liquid-flames-firing-at-the-lakeside",
+  "link": "https://www.emfcamp.org/schedule/2026/552-liquid-flames-firing-at-the-lakeside",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-17 22:00:00",
+    "end_date": "2026-07-17 23:30:00",
+    "venue": "Flame 🔥 village",
+    "latlon": [
+     52.0432240846047,
+     -2.377264302771664
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.0432240846047/-2.377264302771664/m=52.0432240846047,-2.377264302771664",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "22:00",
+    "end_time": "23:30"
+   }
+  ]
+ },
+ {
   "id": 550,
   "type": "performance",
   "names": "David Johnson & AMSAT-UK",
@@ -14181,6 +14213,76 @@
   ]
  },
  {
+  "id": 553,
+  "type": "performance",
+  "names": "Dimitri",
+  "pronouns": null,
+  "title": "Liquid flames firing at the lakeside",
+  "description": "Dimitri is burning off 100L of Isopropanol per night.\r\n",
+  "short_description": "Liquid flames firing at 2200 at the lake",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "liquid-flames-firing-at-the-lakeside",
+  "link": "https://www.emfcamp.org/schedule/2026/553-liquid-flames-firing-at-the-lakeside",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-18 22:00:00",
+    "end_date": "2026-07-18 23:30:00",
+    "venue": "Flame 🔥 village",
+    "latlon": [
+     52.0432240846047,
+     -2.377264302771664
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.0432240846047/-2.377264302771664/m=52.0432240846047,-2.377264302771664",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "22:00",
+    "end_time": "23:30"
+   }
+  ]
+ },
+ {
+  "id": 556,
+  "type": "workshop",
+  "names": "Susz Fleming",
+  "pronouns": null,
+  "title": "Drop-in CPR Session",
+  "description": "Drop-in opportunity to learn CPR and how to use a defibrillator. Find us just behind the main Maths Village workshop tent.",
+  "short_description": "Learn CPR and how to use a defibrillator in this drop-in session",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "drop-in-cpr-session",
+  "link": "https://www.emfcamp.org/schedule/2026/556-drop-in-cpr-session",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-18 19:00:00",
+    "end_date": "2026-07-18 20:00:00",
+    "venue": "Maths Village",
+    "latlon": [
+     52.04323517880556,
+     -2.374975935438556
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04323517880556/-2.374975935438556/m=52.04323517880556,-2.374975935438556",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "19:00",
+    "end_time": "20:00"
+   }
+  ],
+  "cost": "Free",
+  "equipment": "",
+  "age_range": "all",
+  "drop_in": true,
+  "family_friendly": null,
+  "content_note": null
+ },
+ {
   "id": 551,
   "type": "performance",
   "names": "David Johnson & AMSAT-UK",
@@ -14211,6 +14313,78 @@
     "end_time": "23:05"
    }
   ]
+ },
+ {
+  "id": 554,
+  "type": "talk",
+  "names": "Sharon Kinsella",
+  "pronouns": "Dr / Miss",
+  "title": "Infrastructure and Light",
+  "description": "A talk about the core ideas in my oil paintings of East Asian city landscape.",
+  "short_description": "A talk about the core ideas in my oil paintings of East Asian city landscape",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": true,
+  "slug": "infrastructure-and-light",
+  "link": "https://www.emfcamp.org/schedule/2026/554-infrastructure-and-light",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-19 16:40:00",
+    "end_date": "2026-07-19 17:10:00",
+    "venue": "Arts",
+    "latlon": [
+     52.041029,
+     -2.377984
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.041029/-2.377984/m=52.041029,-2.377984",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "16:40",
+    "end_time": "17:10"
+   }
+  ],
+  "family_friendly": false,
+  "content_note": ""
+ },
+ {
+  "id": 555,
+  "type": "workshop",
+  "names": "Susz Fleming",
+  "pronouns": null,
+  "title": "Drop-in CPR Session",
+  "description": "Drop-in opportunity to learn CPR and how to use a defibrillator. Find us just behind the main Maths Village workshop tent.",
+  "short_description": "Learn CPR and how to use a defibrillator in this drop-in session",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "drop-in-cpr-session",
+  "link": "https://www.emfcamp.org/schedule/2026/555-drop-in-cpr-session",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-17 19:00:00",
+    "end_date": "2026-07-17 20:00:00",
+    "venue": "Maths Village",
+    "latlon": [
+     52.04323517880556,
+     -2.374975935438556
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04323517880556/-2.374975935438556/m=52.04323517880556,-2.374975935438556",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "19:00",
+    "end_time": "20:00"
+   }
+  ],
+  "cost": "Free",
+  "equipment": "",
+  "age_range": "all",
+  "drop_in": true,
+  "family_friendly": null,
+  "content_note": null
  },
  {
   "id": 205,
