@@ -12973,6 +12973,38 @@
   "content_note": null
  },
  {
+  "id": 516,
+  "type": "meetup",
+  "names": "Andrew",
+  "pronouns": null,
+  "title": "Boardgames at Nottinghack",
+  "description": "Come play some board games! ",
+  "short_description": "Come play some board games! ",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "boardgames-at-nottinghack",
+  "link": "https://www.emfcamp.org/schedule/2026/516-boardgames-at-nottinghack",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-17 16:00:00",
+    "end_date": "2026-07-17 19:00:00",
+    "venue": "Nottingham Hackspace",
+    "latlon": [
+     52.04198458781886,
+     -2.3755091779832753
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04198458781886/-2.3755091779832753/m=52.04198458781886,-2.3755091779832753",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "16:00",
+    "end_time": "19:00"
+   }
+  ]
+ },
+ {
   "id": 343,
   "type": "performance",
   "names": "Field-FX Village",
@@ -13041,6 +13073,38 @@
   "drop_in": true,
   "family_friendly": true,
   "content_note": ""
+ },
+ {
+  "id": 517,
+  "type": "performance",
+  "names": "Alex Bennett ",
+  "pronouns": null,
+  "title": "Screaming Mushrooms",
+  "description": "home grown bio-piezoelectric demonstration, come see the RnD on bio plastics happening at leigh hackspace now with more synths",
+  "short_description": "",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "screaming-mushrooms",
+  "link": "https://www.emfcamp.org/schedule/2026/517-screaming-mushrooms",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-17 14:00:00",
+    "end_date": "2026-07-17 15:00:00",
+    "venue": "Leigh Hackspace",
+    "latlon": [
+     52.041337828989725,
+     -2.376190690458543
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.041337828989725/-2.376190690458543/m=52.041337828989725,-2.376190690458543",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "14:00",
+    "end_time": "15:00"
+   }
+  ]
  },
  {
   "id": 391,
@@ -15163,44 +15227,6 @@
   "content_note": "This session will not teach you all the skills you need to take part in extreme sports like climbing, caving or sailing: please don't try them without further instruction. The session will include discussion of knots and their uses, which may include mention of dangerous situations or accidents, and some of the knots tied may resemble nooses."
  },
  {
-  "id": 141,
-  "type": "workshop",
-  "names": "Laurence Walshe",
-  "pronouns": "He/him",
-  "title": "Taste Coffee Like A Q Grader",
-  "description": "Be guided through a coffee tasting, including the step by step process of a professional quality 'Q' Grader. Come with an open mind and a spoon, and learn how to evaluate aroma, flavor, acidity, body, and balance using industry techniques. Along the way we'll demystify the q graders score sheet and slurp some, hopefully, tasty coffees! All interest levels welcome. ",
-  "short_description": "Slurp coffee like a pro through a guided professional coffee tasting",
-  "video_privacy": "public",
-  "is_fave": false,
-  "official_content": true,
-  "slug": "taste-coffee-like-a-q-grader",
-  "link": "https://www.emfcamp.org/schedule/2026/141-taste-coffee-like-a-q-grader",
-  "occurrences": [
-   {
-    "occurrence_num": 1,
-    "start_date": "2026-07-17 11:00:00",
-    "end_date": "2026-07-17 12:30:00",
-    "venue": "Workshop 1 (Furry High Commission)",
-    "latlon": [
-     52.04259,
-     -2.37515
-    ],
-    "map_link": "https://map.emfcamp.org/#18.5/52.04259/-2.37515/m=52.04259,-2.37515",
-    "uses_lottery": true,
-    "video_privacy": "public",
-    "recording_lost": false,
-    "start_time": "11:00",
-    "end_time": "12:30"
-   }
-  ],
-  "cost": "£5 (pay-what-you-can)",
-  "equipment": "Large spoon, small cup (will have tasting spoons on hand)",
-  "age_range": "16+",
-  "drop_in": false,
-  "family_friendly": false,
-  "content_note": ""
- },
- {
   "id": 142,
   "type": "workshop",
   "names": "sam pikesley",
@@ -15290,6 +15316,44 @@
   "age_range": "10+",
   "drop_in": false,
   "family_friendly": true,
+  "content_note": ""
+ },
+ {
+  "id": 141,
+  "type": "workshop",
+  "names": "Laurence Walshe",
+  "pronouns": "He/him",
+  "title": "Taste Coffee Like A Q Grader",
+  "description": "Be guided through a coffee tasting, including the step by step process of a professional quality 'Q' Grader. Come with an open mind and a spoon, and learn how to evaluate aroma, flavor, acidity, body, and balance using industry techniques. Along the way we'll demystify the q graders score sheet and slurp some, hopefully, tasty coffees! All interest levels welcome. ",
+  "short_description": "Slurp coffee like a pro through a guided professional coffee tasting",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": true,
+  "slug": "taste-coffee-like-a-q-grader",
+  "link": "https://www.emfcamp.org/schedule/2026/141-taste-coffee-like-a-q-grader",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-17 11:00:00",
+    "end_date": "2026-07-17 12:30:00",
+    "venue": "Workshop 1 (Furry High Commission)",
+    "latlon": [
+     52.04259,
+     -2.37515
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04259/-2.37515/m=52.04259,-2.37515",
+    "uses_lottery": true,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "11:00",
+    "end_time": "12:30"
+   }
+  ],
+  "cost": "£5 (pay-what-you-can)",
+  "equipment": "Something sturdy to write on (clipboard, book, laptop)",
+  "age_range": "16+",
+  "drop_in": false,
+  "family_friendly": false,
   "content_note": ""
  },
  {

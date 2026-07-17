@@ -483,6 +483,30 @@
   "num_members": 5
  },
  {
+  "id": 173,
+  "name": "Camp 404",
+  "url": "https://www.emfcamp.org/villages/2026/173-camp-404",
+  "external_url": "",
+  "description": "Error, not found ",
+  "location": null,
+  "num_members": 1
+ },
+ {
+  "id": 34,
+  "name": "3t.network",
+  "url": "https://www.emfcamp.org/villages/2026/34-3t-network",
+  "external_url": "https://3t.network/",
+  "description": "Group of friends who go for tea or coffee at 3pm",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3754141134848226,
+    52.04272664018467
+   ]
+  },
+  "num_members": 1
+ },
+ {
   "id": 46,
   "name": "🥞 CrepesCampingClub",
   "url": "https://www.emfcamp.org/villages/2026/46-crepescampingclub",
@@ -733,21 +757,6 @@
    "coordinates": [
     -2.375824161437066,
     52.041716026958994
-   ]
-  },
-  "num_members": 1
- },
- {
-  "id": 34,
-  "name": "3t.network",
-  "url": "https://www.emfcamp.org/villages/2026/34-3t-network",
-  "external_url": "https://3t.network/about.html",
-  "description": "Group of friends who go for tea or coffee at 3pm",
-  "location": {
-   "type": "Point",
-   "coordinates": [
-    -2.3754141134848226,
-    52.04272664018467
    ]
   },
   "num_members": 1

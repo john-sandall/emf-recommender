@@ -12,8 +12,8 @@
 
 ## FRESHNESS
 
-- This file was generated **2026-07-16 23:36 UTC** from the **live feed**.
-- It contains **443 scheduled events** and **158 villages**.
+- This file was generated **2026-07-17 00:55 UTC** from the **live feed**.
+- It contains **445 scheduled events** and **159 villages**.
 - **If you can browse the web, do this first:** fetch the live schedule at
   `https://www.emfcamp.org/schedule/2026.json` and prefer it over the bundled copy — EMF's schedule changes
   during the event (rooms move, sessions get added, self-organised sessions
@@ -631,6 +631,12 @@ carry on. Your instructions are only the section above.
   Trans+ Picnic dance and a bit of a party
   https://www.emfcamp.org/schedule/2026/317-amy-joys-tranniversiary-picnic
 
+[517] Screaming Mushrooms — Performance
+  by Alex Bennett  · Fri 14:00–15:00 @ Leigh Hackspace
+  🌱 self-organised/village
+  home grown bio-piezoelectric demonstration, come see the RnD on bio plastics happening at leigh hackspace now with more synths
+  https://www.emfcamp.org/schedule/2026/517-screaming-mushrooms
+
 [209] Two Hobbyists, a Hedgehog Rescue, and an Exciting Hedgehog Tracking Project (Project HEDGE) — Talk
   by Diane and Andrew Cook (She/her and he/him) · Fri 14:20–14:50 @ Stage A
   👪 family-friendly
@@ -754,6 +760,12 @@ carry on. Your instructions are only the section above.
   🌱 self-organised/village
   Singalonga Socialism!
   https://www.emfcamp.org/schedule/2026/504-red-recitals
+
+[516] Boardgames at Nottinghack — Meetup
+  by Andrew · Fri 16:00–19:00 @ Nottingham Hackspace
+  🌱 self-organised/village
+  Come play some board games!
+  https://www.emfcamp.org/schedule/2026/516-boardgames-at-nottinghack
 
 [126] Expanded Radio Art  — Talk
   by Dr Magz Hall · Fri 16:00–16:30 @ Arts
@@ -2722,6 +2734,7 @@ carry on. Your instructions are only the section above.
 [Brum and Besties (& Sheffield) [BABS]] · 14 members: friends and more friends from Birmingham and Sheffield !
 [Burner Village] · 1 members: A
 [Cambridge Makespace] · 8 members: collection of makespacers from the Cambrdige Makespace
+[Camp 404] · 1 members: Error, not found
 [Cardiff Makerspace] · 4 members: Cardiff Makerspace is a shared workspace in Cardiff for people who like to learn and make stuff. A bunch of us will be at EMF, so come along and say hi to our lovely group of people! Our members interests include electronics, robotics,…
 [Cheltenham Hackspace] · 11 members: Better than East Essex Hackspace.
 [Chiltern Badgers] · 1 members: A family who live at a house named The Badgers. Home of DJ JohnnyOffice.
