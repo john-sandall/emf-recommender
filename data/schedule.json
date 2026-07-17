@@ -2712,38 +2712,6 @@
   ]
  },
  {
-  "id": 372,
-  "type": "performance",
-  "names": "Tony Goacher",
-  "pronouns": null,
-  "title": "Lasertag",
-  "description": "Friday session is very popular. Please consider Sat or Sun sessions!\r\n\r\nFree games of laser tag using 3d printed gear. \r\nAges 7+.  \r\nNo need to book,just turn up. \r\nWe'll be running several game types. \r\nUp to 10 players per game.\r\nWeather permitting.",
-  "short_description": "Lasertag using 3D printed gear",
-  "video_privacy": "public",
-  "is_fave": false,
-  "official_content": false,
-  "slug": "lasertag",
-  "link": "https://www.emfcamp.org/schedule/2026/372-lasertag",
-  "occurrences": [
-   {
-    "occurrence_num": 1,
-    "start_date": "2026-07-17 14:00:00",
-    "end_date": "2026-07-17 15:00:00",
-    "venue": "Lasertag",
-    "latlon": [
-     52.04352193271029,
-     -2.3761647324126045
-    ],
-    "map_link": "https://map.emfcamp.org/#18.5/52.04352193271029/-2.3761647324126045/m=52.04352193271029,-2.3761647324126045",
-    "uses_lottery": false,
-    "video_privacy": "public",
-    "recording_lost": false,
-    "start_time": "14:00",
-    "end_time": "15:00"
-   }
-  ]
- },
- {
   "id": 128,
   "type": "performance",
   "names": "Froggy",
@@ -2838,6 +2806,38 @@
     "recording_lost": false,
     "start_time": "16:00",
     "end_time": "17:00"
+   }
+  ]
+ },
+ {
+  "id": 372,
+  "type": "performance",
+  "names": "Tony Goacher",
+  "pronouns": null,
+  "title": "Lasertag",
+  "description": "Postponed until 7 due to weather\r\n\r\nFriday session is very popular. Please consider Sat or Sun sessions!\r\n\r\nFree games of laser tag using 3d printed gear. \r\nAges 7+.  \r\nNo need to book,just turn up. \r\nWe'll be running several game types. \r\nUp to 10 players per game.\r\nWeather permitting.",
+  "short_description": "Lasertag using 3D printed gear",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "lasertag",
+  "link": "https://www.emfcamp.org/schedule/2026/372-lasertag",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-17 19:00:00",
+    "end_date": "2026-07-17 20:00:00",
+    "venue": "Lasertag",
+    "latlon": [
+     52.04352193271029,
+     -2.3761647324126045
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04352193271029/-2.3761647324126045/m=52.04352193271029,-2.3761647324126045",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "19:00",
+    "end_time": "20:00"
    }
   ]
  },
@@ -3882,38 +3882,6 @@
   ]
  },
  {
-  "id": 373,
-  "type": "performance",
-  "names": "Tony Goacher",
-  "pronouns": null,
-  "title": "Lasertag",
-  "description": "Free games of laser tag using 3d printed gear. \r\nAges 7+.  \r\nNo need to book,just turn up. \r\nWe'll be running several game types. \r\nUp to 10 players per game.\r\nWeather permitting.",
-  "short_description": "Lasertag using 3D printed gear",
-  "video_privacy": "public",
-  "is_fave": false,
-  "official_content": false,
-  "slug": "lasertag",
-  "link": "https://www.emfcamp.org/schedule/2026/373-lasertag",
-  "occurrences": [
-   {
-    "occurrence_num": 1,
-    "start_date": "2026-07-18 14:00:00",
-    "end_date": "2026-07-18 15:00:00",
-    "venue": "Lasertag",
-    "latlon": [
-     52.04352193271029,
-     -2.3761647324126045
-    ],
-    "map_link": "https://map.emfcamp.org/#18.5/52.04352193271029/-2.3761647324126045/m=52.04352193271029,-2.3761647324126045",
-    "uses_lottery": false,
-    "video_privacy": "public",
-    "recording_lost": false,
-    "start_time": "14:00",
-    "end_time": "15:00"
-   }
-  ]
- },
- {
   "id": 324,
   "type": "djset",
   "names": "Johnny Office",
@@ -4134,6 +4102,38 @@
     "recording_lost": false,
     "start_time": "12:00",
     "end_time": "13:00"
+   }
+  ]
+ },
+ {
+  "id": 373,
+  "type": "performance",
+  "names": "Tony Goacher",
+  "pronouns": null,
+  "title": "Lasertag",
+  "description": "Postponed until 7pm\r\n\r\nFree games of laser tag using 3d printed gear. \r\nAges 7+.  \r\nNo need to book,just turn up. \r\nWe'll be running several game types. \r\nUp to 10 players per game.\r\nWeather permitting.",
+  "short_description": "Lasertag using 3D printed gear",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "lasertag",
+  "link": "https://www.emfcamp.org/schedule/2026/373-lasertag",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-18 19:00:00",
+    "end_date": "2026-07-18 20:00:00",
+    "venue": "Lasertag",
+    "latlon": [
+     52.04352193271029,
+     -2.3761647324126045
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04352193271029/-2.3761647324126045/m=52.04352193271029,-2.3761647324126045",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "19:00",
+    "end_time": "20:00"
    }
   ]
  },
@@ -13847,6 +13847,140 @@
   "content_note": null
  },
  {
+  "id": 543,
+  "type": "music",
+  "names": "Alexandr",
+  "pronouns": "",
+  "title": "Intro to Strudel",
+  "description": "An introduction to the music live coding platform Strudel. ",
+  "short_description": "",
+  "video_privacy": "none",
+  "is_fave": false,
+  "official_content": true,
+  "slug": "intro-to-strudel",
+  "link": "https://www.emfcamp.org/schedule/2026/543-intro-to-strudel",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-17 20:30:00",
+    "end_date": "2026-07-17 21:00:00",
+    "venue": "Trash Compactor",
+    "latlon": [
+     52.04341,
+     -2.376704
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04341/-2.376704/m=52.04341,-2.376704",
+    "uses_lottery": false,
+    "video_privacy": "none",
+    "recording_lost": false,
+    "start_time": "20:30",
+    "end_time": "21:00"
+   }
+  ]
+ },
+ {
+  "id": 544,
+  "type": "music",
+  "names": "Trash Compactor",
+  "pronouns": "",
+  "title": "EMOM/Algorave in the Trash Compactor - Come and Play!",
+  "description": "If you want to listen to electronic music, this is the right place. If you want to make electronic music (or visuals!), this is even more the right place. We'll be set up in the Trash Compactor in NullSec on all three nights, with open slots here to claim. \r\n\r\nWe'll have a big piece of paper with 15 minute slots for both music and visuals (or both!). Bring your gear (or borrow a laptop), write your name down, and play.\r\n\r\nAny level welcome!",
+  "short_description": "",
+  "video_privacy": "none",
+  "is_fave": false,
+  "official_content": true,
+  "slug": "emom-algorave-in-the-trash-compactor-come-and-play",
+  "link": "https://www.emfcamp.org/schedule/2026/544-emom-algorave-in-the-trash-compactor-come-and-play",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-17 21:00:00",
+    "end_date": "2026-07-17 23:50:00",
+    "venue": "Trash Compactor",
+    "latlon": [
+     52.04341,
+     -2.376704
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04341/-2.376704/m=52.04341,-2.376704",
+    "uses_lottery": false,
+    "video_privacy": "none",
+    "recording_lost": false,
+    "start_time": "21:00",
+    "end_time": "23:50"
+   },
+   {
+    "occurrence_num": 2,
+    "start_date": "2026-07-18 19:00:00",
+    "end_date": "2026-07-18 23:50:00",
+    "venue": "Trash Compactor",
+    "latlon": [
+     52.04341,
+     -2.376704
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04341/-2.376704/m=52.04341,-2.376704",
+    "uses_lottery": false,
+    "video_privacy": "none",
+    "recording_lost": false,
+    "start_time": "19:00",
+    "end_time": "23:50"
+   },
+   {
+    "occurrence_num": 3,
+    "start_date": "2026-07-19 19:00:00",
+    "end_date": "2026-07-19 23:50:00",
+    "venue": "Trash Compactor",
+    "latlon": [
+     52.04341,
+     -2.376704
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04341/-2.376704/m=52.04341,-2.376704",
+    "uses_lottery": false,
+    "video_privacy": "none",
+    "recording_lost": false,
+    "start_time": "19:00",
+    "end_time": "23:50"
+   }
+  ]
+ },
+ {
+  "id": 545,
+  "type": "workshop",
+  "names": "josie",
+  "pronouns": null,
+  "title": "linocut print making",
+  "description": "come make prints, stamps, and other stuff out of lino with the freesiders!\r\n\r\nbring your ideas, we have all the required materials :D\r\n\r\nmeeting point is the miliways dome",
+  "short_description": "",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "linocut-print-making",
+  "link": "https://www.emfcamp.org/schedule/2026/545-linocut-print-making",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-17 20:00:00",
+    "end_date": "2026-07-17 22:00:00",
+    "venue": "Freeside",
+    "latlon": [
+     52.042649740824004,
+     -2.3762760230927995
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.042649740824004/-2.3762760230927995/m=52.042649740824004,-2.3762760230927995",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "20:00",
+    "end_time": "22:00"
+   }
+  ],
+  "cost": "",
+  "equipment": "",
+  "age_range": "18+",
+  "drop_in": true,
+  "family_friendly": null,
+  "content_note": null
+ },
+ {
   "id": 539,
   "type": "performance",
   "names": "Hacky Racers",
@@ -13939,6 +14073,38 @@
     "recording_lost": false,
     "start_time": "15:00",
     "end_time": "16:00"
+   }
+  ]
+ },
+ {
+  "id": 542,
+  "type": "music",
+  "names": "Martin Hamilton",
+  "pronouns": "",
+  "title": "Algorave For Terrified Beginners",
+  "description": "Imagine live coding music and visuals, with a bunch of other people, in a tent. Except you have no idea what you are doing, but that's OK because nobody else really knows either. Become more pastagang with every passing moment as you accidentally deafen everyone with a misplaced airhorn, or inadvertently build up a polyrhythmic crow concerto.\r\n\r\nOn the big screen, perhaps there are cheeky cartoon spiders creeping up on unsuspecting ducks, while kaleidoscopic tetrapod rituals occur. A live feed of Interplanetary Magnetic Field data turned into trippy graphics? A giant black monolith with biblically accurate googly eyes? It's more likely than you'd think!\r\n\r\nA temporary autonomous AI-free zone. May contain traces of Strudel and Nudel. Safe if used as directed. Bad code only. All creatures welcome. Remember to Hydra-te.",
+  "short_description": "",
+  "video_privacy": "none",
+  "is_fave": false,
+  "official_content": true,
+  "slug": "algorave-for-terrified-beginners",
+  "link": "https://www.emfcamp.org/schedule/2026/542-algorave-for-terrified-beginners",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-17 20:00:00",
+    "end_date": "2026-07-17 20:30:00",
+    "venue": "Trash Compactor",
+    "latlon": [
+     52.04341,
+     -2.376704
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04341/-2.376704/m=52.04341,-2.376704",
+    "uses_lottery": false,
+    "video_privacy": "none",
+    "recording_lost": false,
+    "start_time": "20:00",
+    "end_time": "20:30"
    }
   ]
  },

@@ -1464,6 +1464,21 @@
   "num_members": 3
  },
  {
+  "id": 132,
+  "name": "Lifting Village",
+  "url": "https://www.emfcamp.org/villages/2026/132-lifting-village",
+  "external_url": "",
+  "description": "Friends from Kingston upon Thames",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3769261652691966,
+    52.040770387457115
+   ]
+  },
+  "num_members": 4
+ },
+ {
   "id": 87,
   "name": "Hackeriet & Friends",
   "url": "https://www.emfcamp.org/villages/2026/87-hackeriet-friends",
@@ -1687,21 +1702,6 @@
    ]
   },
   "num_members": 15
- },
- {
-  "id": 132,
-  "name": "Kingstonian",
-  "url": "https://www.emfcamp.org/villages/2026/132-kingstonian",
-  "external_url": "",
-  "description": "Friends from Kingston upon Thames",
-  "location": {
-   "type": "Point",
-   "coordinates": [
-    -2.3769261652691966,
-    52.040770387457115
-   ]
-  },
-  "num_members": 4
  },
  {
   "id": 13,
@@ -1941,7 +1941,7 @@
     52.04019533359187
    ]
   },
-  "num_members": 1
+  "num_members": 2
  },
  {
   "id": 75,
