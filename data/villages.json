@@ -2163,21 +2163,6 @@
   "num_members": 5
  },
  {
-  "id": 123,
-  "name": "Antimemetics Division",
-  "url": "https://www.emfcamp.org/villages/2026/123-antimemetics-division",
-  "external_url": "https://wat.da.fffff.uk",
-  "description": "This is a non-existent division of one of the major Unknown Organizations.",
-  "location": {
-   "type": "Point",
-   "coordinates": [
-    -2.3753050627895504,
-    52.04262680695754
-   ]
-  },
-  "num_members": 1
- },
- {
   "id": 35,
   "name": "Milliways",
   "url": "https://www.emfcamp.org/villages/2026/35-milliways",
@@ -2266,6 +2251,21 @@
    ]
   },
   "num_members": 8
+ },
+ {
+  "id": 123,
+  "name": "Antimemetics Division",
+  "url": "https://www.emfcamp.org/villages/2026/123-antimemetics-division",
+  "external_url": "https://wat.da.fffff.uk",
+  "description": "This is a non-existent division of one of the major Unknown Organizations.",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3753400698676046,
+    52.041785793621216
+   ]
+  },
+  "num_members": 1
  },
  {
   "id": 133,
