@@ -10785,38 +10785,6 @@
   "content_note": null
  },
  {
-  "id": 485,
-  "type": "meetup",
-  "names": "Laura James ",
-  "pronouns": null,
-  "title": "Chat about maintaining things",
-  "description": "Join us to chat about all things maintenance: maintaining different parts of our world, recognising the often hidden work done in repair, custodianship, stewardship, tending and caring for the things that matter. Casual chat, no agenda, all welcome. \r\n\r\n(Maintain.community was a non-profit, volunteer-run community of people interested in maintenance. For a number of years, we ran The Festival of Maintenance. We're still fascinated and intrigued by maintenance commonalities and differences. So a meetup seems a good idea. we'll have a sign, if you don't know us) \r\n\r\n",
-  "short_description": "chat about all things maintenance: maintaining different parts of our world, repair, stewardship, and more",
-  "video_privacy": "public",
-  "is_fave": false,
-  "official_content": false,
-  "slug": "chat-about-maintaining-things",
-  "link": "https://www.emfcamp.org/schedule/2026/485-chat-about-maintaining-things",
-  "occurrences": [
-   {
-    "occurrence_num": 1,
-    "start_date": "2026-07-18 11:15:00",
-    "end_date": "2026-07-18 12:00:00",
-    "venue": "Lounge",
-    "latlon": [
-     52.04190332,
-     -2.37819773
-    ],
-    "map_link": "https://map.emfcamp.org/#18.5/52.04190332/-2.37819773/m=52.04190332,-2.37819773",
-    "uses_lottery": false,
-    "video_privacy": "public",
-    "recording_lost": false,
-    "start_time": "11:15",
-    "end_time": "12:00"
-   }
-  ]
- },
- {
   "id": 377,
   "type": "meetup",
   "names": "Michael Erskine",
@@ -10919,6 +10887,38 @@
   ],
   "family_friendly": false,
   "content_note": ""
+ },
+ {
+  "id": 485,
+  "type": "meetup",
+  "names": "Laura James ",
+  "pronouns": null,
+  "title": "Chat about maintaining things",
+  "description": "Join us to chat about all things maintenance: maintaining different parts of our world, recognising the often hidden work done in repair, custodianship, stewardship, tending and caring for the things that matter. Casual chat, no agenda, all welcome. \r\n\r\nProbably just outside the Lounge, unless it's still cool inside! I will have a \"Maintain\" sign and a blue hat.\r\n\r\n(Maintain.community was a non-profit, volunteer-run community of people interested in maintenance. For a number of years, we ran The Festival of Maintenance. We're still fascinated and intrigued by maintenance commonalities and differences. So a meetup seems a good idea. we'll have a sign, if you don't know us) \r\n\r\n",
+  "short_description": "chat about all things maintenance: maintaining different parts of our world, repair, stewardship, and more",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "chat-about-maintaining-things",
+  "link": "https://www.emfcamp.org/schedule/2026/485-chat-about-maintaining-things",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-18 11:15:00",
+    "end_date": "2026-07-18 12:00:00",
+    "venue": "Lounge",
+    "latlon": [
+     52.04190332,
+     -2.37819773
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04190332/-2.37819773/m=52.04190332,-2.37819773",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "11:15",
+    "end_time": "12:00"
+   }
+  ]
  },
  {
   "id": 486,
@@ -13792,7 +13792,7 @@
   "names": "josie",
   "pronouns": null,
   "title": "linocut print making",
-  "description": "come make prints, stamps, and other stuff out of lino with the freesiders!\r\n\r\nbring your ideas, we have all the required materials :D\r\n\r\nmeeting point is the miliways dome",
+  "description": "come make prints, stamps, and other stuff out of lino with the freesiders!\r\n\r\nbring your ideas, we have all the required materials :D\r\n\r\nmeeting point is ~~the miliways dome~~ FREESIDE",
   "short_description": "",
   "video_privacy": "public",
   "is_fave": false,
