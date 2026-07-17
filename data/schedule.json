@@ -5180,38 +5180,6 @@
   "content_note": ""
  },
  {
-  "id": 393,
-  "type": "meetup",
-  "names": "Bevis Halsey-Perry",
-  "pronouns": null,
-  "title": "Pub Quiz @ The Caught Try",
-  "description": "Visit Bodgeham-on-Wye's historic country pub, The Caught Try, for a pub quiz. Participants will be able to enjoy exclusive beer brewed for Bodgeham-on-Wye by Charlton's Choice: \"Chug the Rich\", a classic English ale, and the \"Badger's Fur\" porter. Max team size is 5.",
-  "short_description": "C'mpn then if you think you're smart enough. Pub Quiz in Bodgeham-on-Wye with exclusive beer!",
-  "video_privacy": "public",
-  "is_fave": false,
-  "official_content": false,
-  "slug": "pub-quiz-the-caught-try",
-  "link": "https://www.emfcamp.org/schedule/2026/393-pub-quiz-the-caught-try",
-  "occurrences": [
-   {
-    "occurrence_num": 1,
-    "start_date": "2026-07-18 19:00:00",
-    "end_date": "2026-07-18 20:00:00",
-    "venue": "Bodgeham-on-Wye",
-    "latlon": [
-     52.04122799874966,
-     -2.3756540184625123
-    ],
-    "map_link": "https://map.emfcamp.org/#18.5/52.04122799874966/-2.3756540184625123/m=52.04122799874966,-2.3756540184625123",
-    "uses_lottery": false,
-    "video_privacy": "public",
-    "recording_lost": false,
-    "start_time": "19:00",
-    "end_time": "20:00"
-   }
-  ]
- },
- {
   "id": 405,
   "type": "workshop",
   "names": "Heidi Blanton",
@@ -5316,6 +5284,38 @@
     "recording_lost": false,
     "start_time": "16:00",
     "end_time": "16:55"
+   }
+  ]
+ },
+ {
+  "id": 393,
+  "type": "meetup",
+  "names": "Bevis Halsey-Perry",
+  "pronouns": null,
+  "title": "Pub Quiz @ The Caught Try",
+  "description": "Visit Bodgeham-on-Wye's historic country pub, The Caught Try, for a pub quiz. Participants will be able to enjoy exclusive beer homebrewed for Bodgeham-on-Wye: \"Chug the Rich\", a classic English ale, and the \"Badger's Fur\" porter. Max team size is 5.",
+  "short_description": "C'mpn then if you think you're smart enough. Pub Quiz in Bodgeham-on-Wye with exclusive beer!",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "pub-quiz-the-caught-try",
+  "link": "https://www.emfcamp.org/schedule/2026/393-pub-quiz-the-caught-try",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-18 19:00:00",
+    "end_date": "2026-07-18 20:00:00",
+    "venue": "Bodgeham-on-Wye",
+    "latlon": [
+     52.04122799874966,
+     -2.3756540184625123
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04122799874966/-2.3756540184625123/m=52.04122799874966,-2.3756540184625123",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "19:00",
+    "end_time": "20:00"
    }
   ]
  },
@@ -14465,6 +14465,44 @@
     "end_time": "16:30"
    }
   ]
+ },
+ {
+  "id": 23,
+  "type": "workshop",
+  "names": "Derek Woodroffe",
+  "pronouns": "",
+  "title": "Build a Lightning Detector",
+  "description": "Build a fully working Extreme Kits Lightning detector capable of detecting lightning from up to 10 miles away, giving an audible and visual alarm. The visual alarm has a flash and a storm LED and an acrylic edge lit display, which gives both an instantiations lightning indication, and an indication that lightning has occurred in the last few minutes.\r\n\r\nThis lightning detector kit will also pick up other sources of electrical discharge, like a piezo or electronic gas lighter, and old car ignition, and electrostatic discharge or sparks.\r\n\r\nBecause of this, it can be used as a demonstration of early spark based radio transmitters.\r\n\r\nThe lightning detector kit is made using through hole components and so is an easy kit to solder and comes complete with an acrylic base and etched edge lit display.  It also features a 400mm telescopic ariel for enhanced reception. The kit is powered from 3 AAA cells (provided) and can work for than 6 months running in standby so can be sat monitoring for lightning 24/7.\r\n",
+  "short_description": "Build a Lightning detector capable of detecting lightning from 5+miles away giving a visual and audible alarm",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": true,
+  "slug": "build-a-lightning-detector",
+  "link": "https://www.emfcamp.org/schedule/2026/23-build-a-lightning-detector",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-19 10:00:00",
+    "end_date": "2026-07-19 11:30:00",
+    "venue": "Workshop 3 (Hardware Hacking Area)",
+    "latlon": [
+     52.04179935,
+     -2.37539965
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04179935/-2.37539965/m=52.04179935,-2.37539965",
+    "uses_lottery": true,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "10:00",
+    "end_time": "11:30"
+   }
+  ],
+  "cost": "£22",
+  "equipment": "",
+  "age_range": "12+",
+  "drop_in": false,
+  "family_friendly": false,
+  "content_note": ""
  },
  {
   "id": 551,
