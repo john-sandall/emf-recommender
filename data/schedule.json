@@ -8475,7 +8475,7 @@
   "title": "Introduction to Urban Exploration",
   "description": "Urban Exploration or ‘Urbexing’ is exploration of manmade structures – predominantly abandoned or derelict buildings.\r\n\r\nThis talk will introduce you Urban Exploration, aimed at novices who want to start or those just curious about the practicalities of the hobby. \r\n\r\nAmong other things I’ll cover how to prepare, what to bring, how to scout and find locations and a frank discussion of the legality and safety (or lackthereof). The latter two points especially, much as I enjoy Urbexing I think it's important that anyone seeing this stuff on social media (teenagers especially) has a realistic view of what's involved and how when things do go wrong it's really not funny.\r\n\r\nThe talk will dip in and out of explores I've done over the years to give practical examples ranging from derelict Australian Power Plants to spending 36 hours in the Paris Catacombs.",
   "short_description": "An introduction to urbexing, what’s involved and some of the interesting and cool things you'll find along the way.",
-  "video_privacy": "none",
+  "video_privacy": "review",
   "is_fave": false,
   "official_content": true,
   "slug": "introduction-to-urban-exploration",
@@ -8492,7 +8492,7 @@
     ],
     "map_link": "https://map.emfcamp.org/#18.5/52.0395553/-2.3786758/m=52.0395553,-2.3786758",
     "uses_lottery": false,
-    "video_privacy": "none",
+    "video_privacy": "review",
     "recording_lost": false,
     "start_time": "11:00",
     "end_time": "11:40"
@@ -10525,19 +10525,19 @@
   "type": "workshop",
   "names": "Sai",
   "pronouns": null,
-  "title": "Sense without sight (time FAKE, see description)",
+  "title": "Sense without sight (Fri. time ACCURATE, see description)",
   "description": "ACTUAL PLACE: Starting at my tent & moving throughout camp. Look for the conlang flag. See: \r\n* https://s.ai/emf#workshop\r\n* https://map.emfcamp.org/#18.5/52.04114905937723/-2.376721780494961/m=52.04114905937723,-2.376721780494961\r\n* https://bsky.app/profile/s.ai/post/3mqronkgu5s2z\r\n\r\nACTUAL TIME: Every day, depending on my stamina. Exact time TBD each morning or the night before, emailed to you, based on my availability and yours. Probably only 1 a day except for people in an exceptional category.\r\n\r\nUSE THE SIGN-UP FORM: https://s.ai/emf/ws\r\n\r\n\r\nTake a walk with me through camp — blindfolded, with one of my guide canes — and sense the world like I do: using air currents, heat, sound, echolocation, ground texture, wind shadow, and more. It's a unique, permanent sensory upgrade you can still use when sighted.\r\n\r\nDetails of what to expect: https://s.ai/emf#workshop\r\n\r\n## Mandatory:\r\n\r\n* Sign up using the form at https://s.ai/emf/ws\r\n* Be completely sober.\r\n* Have at least 1.5 hours free (preferably 2).\r\n* Fill out feedback form afterwards: https://s.ai/emf/fb\r\n\r\n## Very strongly encouraged:\r\n\r\n* Watch my CCC talk about this: https://s.ai/ccc You'll learn much more if we can focus on what I can't show in the talk.\r\n* Bring a friend or prior participant to act as your assistant, and sign up as one to pass it on to others. The two experiences are very different, and are both valuable — and I can't teach as many people simultaneously without help.\r\n* Pee, drink, and wash your hands beforehand.\r\n* Wear clothing that leaves head and arms uncovered, and thin shoes that let you feel the ground.\r\n* Use a group coordination code on the sign-up form to get scheduled with your friends etc.\r\n\r\n## Special:\r\n\r\nI may run additional bespoke workshops, at different times, if you:\r\n1. have a current or likely future visual impairment that may benefit from cane use, whether or not you've had O&M;\r\n2. have other disabilities that would benefit from doing this 1-on-1 (e.g. Deaf or wheelchair user);\r\n3. work professionally with cane users or in very low visibility environments;\r\n4. are part of EMF staff, volunteers, etc.;\r\n5. can video record the workshop (e.g. stabilised GoPro), or participate on camera; or\r\n6. have some other good reason for me to do an extra session or in a bespoke manner.\r\n\r\nIf any of that applies to you, please indicate it on the sign-up form, and include all times that could work for you — including day 0 (Thursday).\r\n\r\n## Weather\r\n\r\nIf it's raining, or the ground is still muddy from recent rain, the workshop will be cancelled.\r\n\r\nThere's one exception: if you have visual impairment, it's still on no matter what the conditions are. You need to know how to get around no matter what the weather is.",
   "short_description": "Learn to sense the world without sight",
   "video_privacy": "public",
   "is_fave": false,
   "official_content": false,
-  "slug": "sense-without-sight-time-fake-see-description",
-  "link": "https://www.emfcamp.org/schedule/2026/482-sense-without-sight-time-fake-see-description",
+  "slug": "sense-without-sight-fri-time-accurate-see-description",
+  "link": "https://www.emfcamp.org/schedule/2026/482-sense-without-sight-fri-time-accurate-see-description",
   "occurrences": [
    {
     "occurrence_num": 1,
-    "start_date": "2026-07-17 12:00:00",
-    "end_date": "2026-07-17 13:30:00",
+    "start_date": "2026-07-17 15:00:00",
+    "end_date": "2026-07-17 17:00:00",
     "venue": "Sense Without Sight (Sai's tent)",
     "latlon": [
      52.04114905937723,
@@ -10547,8 +10547,8 @@
     "uses_lottery": false,
     "video_privacy": "public",
     "recording_lost": false,
-    "start_time": "12:00",
-    "end_time": "13:30"
+    "start_time": "15:00",
+    "end_time": "17:00"
    }
   ],
   "cost": "",
@@ -10747,44 +10747,6 @@
   "content_note": null
  },
  {
-  "id": 481,
-  "type": "workshop",
-  "names": "Sai",
-  "pronouns": null,
-  "title": "Sense without sight (time FAKE, see description)",
-  "description": "ACTUAL PLACE: Starting at my tent & moving throughout camp. Look for the conlang flag. See: \r\n* https://s.ai/emf#workshop\r\n* https://map.emfcamp.org/#18.5/52.04114905937723/-2.376721780494961/m=52.04114905937723,-2.376721780494961\r\n* https://bsky.app/profile/s.ai/post/3mqronkgu5s2z\r\n\r\nACTUAL TIME: Every day, depending on my stamina. Exact time TBD each morning or the night before, emailed to you, based on my availability and yours. Probably only 1 a day except for people in an exceptional category.\r\n\r\nUSE THE SIGN-UP FORM: https://s.ai/emf/ws\r\n\r\n\r\nTake a walk with me through camp — blindfolded, with one of my guide canes — and sense the world like I do: using air currents, heat, sound, echolocation, ground texture, wind shadow, and more. It's a unique, permanent sensory upgrade you can still use when sighted.\r\n\r\nDetails of what to expect: https://s.ai/emf#workshop\r\n\r\n## Mandatory:\r\n\r\n* Sign up using the form at https://s.ai/emf/ws\r\n* Be completely sober.\r\n* Have at least 1.5 hours free (preferably 2).\r\n* Fill out feedback form afterwards: https://s.ai/emf/fb\r\n\r\n## Very strongly encouraged:\r\n\r\n* Watch my CCC talk about this: https://s.ai/ccc You'll learn much more if we can focus on what I can't show in the talk.\r\n* Bring a friend or prior participant to act as your assistant, and sign up as one to pass it on to others. The two experiences are very different, and are both valuable — and I can't teach as many people simultaneously without help.\r\n* Pee, drink, and wash your hands beforehand.\r\n* Wear clothing that leaves head and arms uncovered, and thin shoes that let you feel the ground.\r\n* Use a group coordination code on the sign-up form to get scheduled with your friends etc.\r\n\r\n## Special:\r\n\r\nI may run additional bespoke workshops, at different times, if you:\r\n1. have a current or likely future visual impairment that may benefit from cane use, whether or not you've had O&M;\r\n2. have other disabilities that would benefit from doing this 1-on-1 (e.g. Deaf or wheelchair user);\r\n3. work professionally with cane users or in very low visibility environments;\r\n4. are part of EMF staff, volunteers, etc.;\r\n5. can video record the workshop (e.g. stabilised GoPro), or participate on camera; or\r\n6. have some other good reason for me to do an extra session or in a bespoke manner.\r\n\r\nIf any of that applies to you, please indicate it on the sign-up form, and include all times that could work for you — including day 0 (Thursday).\r\n\r\n## Weather\r\n\r\nIf it's raining, or the ground is still muddy from recent rain, the workshop will be cancelled.\r\n\r\nThere's one exception: if you have visual impairment, it's still on no matter what the conditions are. You need to know how to get around no matter what the weather is.",
-  "short_description": "Learn to sense the world without sight",
-  "video_privacy": "public",
-  "is_fave": false,
-  "official_content": false,
-  "slug": "sense-without-sight-time-fake-see-description",
-  "link": "https://www.emfcamp.org/schedule/2026/481-sense-without-sight-time-fake-see-description",
-  "occurrences": [
-   {
-    "occurrence_num": 1,
-    "start_date": "2026-07-16 12:00:00",
-    "end_date": "2026-07-16 13:30:00",
-    "venue": "Sense Without Sight (Sai's tent)",
-    "latlon": [
-     52.04114905937723,
-     -2.376721780494961
-    ],
-    "map_link": "https://map.emfcamp.org/#18.5/52.04114905937723/-2.376721780494961/m=52.04114905937723,-2.376721780494961",
-    "uses_lottery": false,
-    "video_privacy": "public",
-    "recording_lost": false,
-    "start_time": "12:00",
-    "end_time": "13:30"
-   }
-  ],
-  "cost": "",
-  "equipment": "No equipment as such but see description.",
-  "age_range": "16+",
-  "drop_in": null,
-  "family_friendly": null,
-  "content_note": null
- },
- {
   "id": 483,
   "type": "workshop",
   "names": "Sai",
@@ -10859,6 +10821,44 @@
   "drop_in": null,
   "family_friendly": null,
   "content_note": ""
+ },
+ {
+  "id": 481,
+  "type": "workshop",
+  "names": "Sai",
+  "pronouns": null,
+  "title": "Sense without sight (Thurs. cancelled, see description)",
+  "description": "ACTUAL PLACE: Starting at my tent & moving throughout camp. Look for the conlang flag. See: \r\n* https://s.ai/emf#workshop\r\n* https://map.emfcamp.org/#18.5/52.04114905937723/-2.376721780494961/m=52.04114905937723,-2.376721780494961\r\n* https://bsky.app/profile/s.ai/post/3mqronkgu5s2z\r\n\r\nACTUAL TIME: Every day, depending on my stamina. Exact time TBD each morning or the night before, emailed to you, based on my availability and yours. Probably only 1 a day except for people in an exceptional category.\r\n\r\nUSE THE SIGN-UP FORM: https://s.ai/emf/ws\r\n\r\n\r\nTake a walk with me through camp — blindfolded, with one of my guide canes — and sense the world like I do: using air currents, heat, sound, echolocation, ground texture, wind shadow, and more. It's a unique, permanent sensory upgrade you can still use when sighted.\r\n\r\nDetails of what to expect: https://s.ai/emf#workshop\r\n\r\n## Mandatory:\r\n\r\n* Sign up using the form at https://s.ai/emf/ws\r\n* Be completely sober.\r\n* Have at least 1.5 hours free (preferably 2).\r\n* Fill out feedback form afterwards: https://s.ai/emf/fb\r\n\r\n## Very strongly encouraged:\r\n\r\n* Watch my CCC talk about this: https://s.ai/ccc You'll learn much more if we can focus on what I can't show in the talk.\r\n* Bring a friend or prior participant to act as your assistant, and sign up as one to pass it on to others. The two experiences are very different, and are both valuable — and I can't teach as many people simultaneously without help.\r\n* Pee, drink, and wash your hands beforehand.\r\n* Wear clothing that leaves head and arms uncovered, and thin shoes that let you feel the ground.\r\n* Use a group coordination code on the sign-up form to get scheduled with your friends etc.\r\n\r\n## Special:\r\n\r\nI may run additional bespoke workshops, at different times, if you:\r\n1. have a current or likely future visual impairment that may benefit from cane use, whether or not you've had O&M;\r\n2. have other disabilities that would benefit from doing this 1-on-1 (e.g. Deaf or wheelchair user);\r\n3. work professionally with cane users or in very low visibility environments;\r\n4. are part of EMF staff, volunteers, etc.;\r\n5. can video record the workshop (e.g. stabilised GoPro), or participate on camera; or\r\n6. have some other good reason for me to do an extra session or in a bespoke manner.\r\n\r\nIf any of that applies to you, please indicate it on the sign-up form, and include all times that could work for you — including day 0 (Thursday).\r\n\r\n## Weather\r\n\r\nIf it's raining, or the ground is still muddy from recent rain, the workshop will be cancelled.\r\n\r\nThere's one exception: if you have visual impairment, it's still on no matter what the conditions are. You need to know how to get around no matter what the weather is.",
+  "short_description": "Learn to sense the world without sight",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "sense-without-sight-thurs-cancelled-see-description",
+  "link": "https://www.emfcamp.org/schedule/2026/481-sense-without-sight-thurs-cancelled-see-description",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-16 12:00:00",
+    "end_date": "2026-07-16 13:30:00",
+    "venue": "Sense Without Sight (Sai's tent)",
+    "latlon": [
+     52.04114905937723,
+     -2.376721780494961
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04114905937723/-2.376721780494961/m=52.04114905937723,-2.376721780494961",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "12:00",
+    "end_time": "13:30"
+   }
+  ],
+  "cost": "",
+  "equipment": "No equipment as such but see description.",
+  "age_range": "16+",
+  "drop_in": null,
+  "family_friendly": null,
+  "content_note": null
  },
  {
   "id": 485,
@@ -12808,8 +12808,8 @@
   "occurrences": [
    {
     "occurrence_num": 1,
-    "start_date": "2026-07-17 22:15:00",
-    "end_date": "2026-07-17 23:45:00",
+    "start_date": "2026-07-19 18:15:00",
+    "end_date": "2026-07-19 19:45:00",
     "venue": "Workshop 3 (Hardware Hacking Area)",
     "latlon": [
      52.04179935,
@@ -12819,8 +12819,8 @@
     "uses_lottery": false,
     "video_privacy": "public",
     "recording_lost": false,
-    "start_time": "22:15",
-    "end_time": "23:45"
+    "start_time": "18:15",
+    "end_time": "19:45"
    }
   ],
   "cost": "",
@@ -13677,6 +13677,172 @@
     "recording_lost": false,
     "start_time": "20:00",
     "end_time": "20:40"
+   }
+  ]
+ },
+ {
+  "id": 534,
+  "type": "performance",
+  "names": "Look Mum No Computer",
+  "pronouns": "",
+  "title": "Flamethrower organ mk3 being towed by a road legal ride on lawnmower",
+  "description": "Hey it’s LMNC show and tell, come along!",
+  "short_description": "Hey it’s LMNC show and tell, come along!",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": true,
+  "slug": "flamethrower-organ-mk3-being-towed-by-a-road-legal-ride-on",
+  "link": "https://www.emfcamp.org/schedule/2026/534-flamethrower-organ-mk3-being-towed-by-a-road-legal-ride-on",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-17 16:00:00",
+    "end_date": "2026-07-17 16:50:00",
+    "venue": "Stage D",
+    "latlon": [
+     52.0422,
+     -2.377592
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.0422/-2.377592/m=52.0422,-2.377592",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "16:00",
+    "end_time": "16:50"
+   }
+  ]
+ },
+ {
+  "id": 535,
+  "type": "workshop",
+  "names": "v buckenham",
+  "pronouns": null,
+  "title": "[VENUE INCORRECT - IN THE TRASH COMPACTOR] Livecoded visuals with Picodevil",
+  "description": "[We haven't got the Trash Compactor on the listing yet - please note it happens there, in Null Sec!]\r\n\r\nPicodevil is a browser-based tool for livecoding visuals. It allows you to take video clips, chop them up, apply effects to them and tile them. You do this by writing (simple) code, viewing the results, then editing it a bit. It is fun to make visuals in this improvised way. \r\n\r\nIn this workshop, I'll teach you how to use Picodevil. Not the whole thing, but enough to have fun with it. And then you can sign up for an open slot at the Trash Compactor and perform with it.\r\n\r\nPrevious coding experience not necessary! If you enjoy changing some numbers and seeing what happens, then you can do this workshop.",
+  "short_description": "Learn to make live coded visuals!",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "venue-incorrect-in-the-trash-compactor-livecoded-visuals",
+  "link": "https://www.emfcamp.org/schedule/2026/535-venue-incorrect-in-the-trash-compactor-livecoded-visuals",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-18 16:30:00",
+    "end_date": "2026-07-18 17:30:00",
+    "venue": "Outside the Bar",
+    "latlon": [
+     52.0413622,
+     -2.3780529
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.0413622/-2.3780529/m=52.0413622,-2.3780529",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "16:30",
+    "end_time": "17:30"
+   }
+  ],
+  "cost": "",
+  "equipment": "Bring a laptop! Also any videos you might wanna play with. The tool runs in the browser.",
+  "age_range": "all",
+  "drop_in": null,
+  "family_friendly": null,
+  "content_note": null
+ },
+ {
+  "id": 537,
+  "type": "performance",
+  "names": "Trash Compactor Team",
+  "pronouns": null,
+  "title": "EMOM/Algorave in the Trash Compactor - Come and Play! [in Null Sec, not outside the bar]",
+  "description": "If you want to listen to electronic music, this is the right place. If you want to make electronic music (or visuals!), this is even more the right place. We'll be set up in the Trash Compactor in Null Sec on all three nights, with open slots here to claim. \r\n\r\nWe'll have a big piece of paper with 15 minute slots for both music and visuals (or both!). Bring your gear (or borrow a laptop), write your name down, and play.\r\n\r\nAny level of experience welcome!",
+  "short_description": "Open slots for visuals and music! Come play your synths or show your visuals or do algorave!",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "emom-algorave-in-the-trash-compactor-come-and-play",
+  "link": "https://www.emfcamp.org/schedule/2026/537-emom-algorave-in-the-trash-compactor-come-and-play",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-18 19:00:00",
+    "end_date": "2026-07-19 00:00:00",
+    "venue": "Outside the Bar",
+    "latlon": [
+     52.0413622,
+     -2.3780529
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.0413622/-2.3780529/m=52.0413622,-2.3780529",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "19:00",
+    "end_time": "00:00"
+   }
+  ]
+ },
+ {
+  "id": 536,
+  "type": "performance",
+  "names": "Trash Compactor Team",
+  "pronouns": null,
+  "title": "EMOM/Algorave in the Trash Compactor - Come and Play! [in Null Sec, not outside the bar]",
+  "description": "If you want to listen to electronic music, this is the right place. If you want to make electronic music (or visuals!), this is even more the right place. We'll be set up in the Trash Compactor in Null Sec on all three nights, with open slots here to claim. \r\n\r\nWe'll have a big piece of paper with 15 minute slots for both music and visuals (or both!). Bring your gear (or borrow a laptop), write your name down, and play.\r\n\r\nAny level of experience welcome!\r\n\r\n[We haven't got the Trash Compactor on the listing yet - please note it happens there, in Null Sec!]",
+  "short_description": "Open slots for visuals and music! Come play your synths or show your visuals or do algorave!",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "emom-algorave-in-the-trash-compactor-come-and-play",
+  "link": "https://www.emfcamp.org/schedule/2026/536-emom-algorave-in-the-trash-compactor-come-and-play",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-17 21:00:00",
+    "end_date": "2026-07-18 00:00:00",
+    "venue": "Outside the Bar",
+    "latlon": [
+     52.0413622,
+     -2.3780529
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.0413622/-2.3780529/m=52.0413622,-2.3780529",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "21:00",
+    "end_time": "00:00"
+   }
+  ]
+ },
+ {
+  "id": 538,
+  "type": "performance",
+  "names": "Trash Compactor Team",
+  "pronouns": null,
+  "title": "EMOM/Algorave in the Trash Compactor - Come and Play! [in Null Sec, not outside the bar]",
+  "description": "If you want to listen to electronic music, this is the right place. If you want to make electronic music (or visuals!), this is even more the right place. We'll be set up in the Trash Compactor in Null Sec on all three nights, with open slots here to claim. \r\n\r\nWe'll have a big piece of paper with 15 minute slots for both music and visuals (or both!). Bring your gear (or borrow a laptop), write your name down, and play.\r\n\r\nAny level of experience welcome!\r\n\r\n[We haven't got the Trash Compactor on the listing yet - please note it happens there, in Null Sec!]",
+  "short_description": "Open slots for visuals and music! Come play your synths or show your visuals or do algorave!",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "emom-algorave-in-the-trash-compactor-come-and-play",
+  "link": "https://www.emfcamp.org/schedule/2026/538-emom-algorave-in-the-trash-compactor-come-and-play",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-19 19:00:00",
+    "end_date": "2026-07-20 00:00:00",
+    "venue": "Outside the Bar",
+    "latlon": [
+     52.0413622,
+     -2.3780529
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.0413622/-2.3780529/m=52.0413622,-2.3780529",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "19:00",
+    "end_time": "00:00"
    }
   ]
  },
@@ -16213,44 +16379,6 @@
   "content_note": "Warning: kits contain small parts as well as strong magnets."
  },
  {
-  "id": 274,
-  "type": "workshop",
-  "names": "Andries Lohmeijer",
-  "pronouns": "he/him",
-  "title": "Demystifying Microwaves,  a fascinating part of the Electromagnetic Spectrum",
-  "description": "During this workshop I will tell, show and demonstrate the fascinating behaviour of cm and mm waves. I will bring a bunch of modern and vintage equipment and components running from 1 GHz up to over the 100 GHz. Participants will be able to explore the equipment and ask questions. What is a wave guide? How does my own Doppler reflection sound? \r\n\r\nTogether we can improvise setups to answer your questions and demonstrate microwave related phenomena.\r\n",
-  "short_description": "Interactive and hands on workshop exploring a fascinating part of the Electromagnetic Spectrum: Microwaves",
-  "video_privacy": "public",
-  "is_fave": false,
-  "official_content": true,
-  "slug": "demystifying-microwaves",
-  "link": "https://www.emfcamp.org/schedule/2026/274-demystifying-microwaves",
-  "occurrences": [
-   {
-    "occurrence_num": 1,
-    "start_date": "2026-07-19 13:00:00",
-    "end_date": "2026-07-19 14:30:00",
-    "venue": "Workshop 1 (Furry High Commission)",
-    "latlon": [
-     52.04259,
-     -2.37515
-    ],
-    "map_link": "https://map.emfcamp.org/#18.5/52.04259/-2.37515/m=52.04259,-2.37515",
-    "uses_lottery": true,
-    "video_privacy": "public",
-    "recording_lost": false,
-    "start_time": "13:00",
-    "end_time": "14:30"
-   }
-  ],
-  "cost": "free",
-  "equipment": "Attendees may bring an unidentified, mysterious  \"radio\" component, an unlabeled antenna which may be measured....",
-  "age_range": "All ages",
-  "drop_in": false,
-  "family_friendly": true,
-  "content_note": "Radiophobia may be an issue, but not likely at EMF :-)"
- },
- {
   "id": 140,
   "type": "workshop",
   "names": "Robert Nicoll",
@@ -16363,6 +16491,44 @@
   "drop_in": false,
   "family_friendly": false,
   "content_note": ""
+ },
+ {
+  "id": 274,
+  "type": "workshop",
+  "names": "Andries Lohmeijer",
+  "pronouns": "he/him",
+  "title": "Demystifying Microwaves,  a fascinating part of the Electromagnetic Spectrum",
+  "description": "During this workshop I will tell, show and demonstrate the fascinating behaviour of cm and mm waves. \r\nProgram:\r\n- Introduction talk about microwaves.\r\n- Some prepared demonstrations where I need some assistance.\r\n- Interactive part of the workshop,\r\nQuestions allowed all through the workshop!\r\n\r\nI will bring a bunch of modern and vintage equipment and components running from 1 GHz up to over the 100 GHz. Participants will be able to explore the equipment and ask questions. What is a wave guide? How does my own Doppler reflection sound? \r\n\r\nTogether we can improvise setups to answer your questions and demonstrate microwave related phenomena.\r\n",
+  "short_description": "Interactive and hands on workshop exploring a fascinating part of the Electromagnetic Spectrum: Microwaves",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": true,
+  "slug": "demystifying-microwaves",
+  "link": "https://www.emfcamp.org/schedule/2026/274-demystifying-microwaves",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-19 13:00:00",
+    "end_date": "2026-07-19 14:30:00",
+    "venue": "Workshop 1 (Furry High Commission)",
+    "latlon": [
+     52.04259,
+     -2.37515
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04259/-2.37515/m=52.04259,-2.37515",
+    "uses_lottery": true,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "13:00",
+    "end_time": "14:30"
+   }
+  ],
+  "cost": "free",
+  "equipment": "Attendees may bring an unidentified, mysterious  \"radio\" component, an unlabeled antenna which may be measured....",
+  "age_range": "All ages",
+  "drop_in": false,
+  "family_friendly": true,
+  "content_note": "Radiophobia may be an issue, but not likely at EMF :-)"
  },
  {
   "id": 264,
