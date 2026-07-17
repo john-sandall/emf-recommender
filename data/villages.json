@@ -50,7 +50,13 @@
   "url": "https://www.emfcamp.org/villages/2026/172-polygen-hq",
   "external_url": "",
   "description": "Home of PolyGen ",
-  "location": null,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3758232812381834,
+    52.04320740382258
+   ]
+  },
   "num_members": 1
  },
  {
@@ -165,7 +171,7 @@
     52.04198458781886
    ]
   },
-  "num_members": 23
+  "num_members": 24
  },
  {
   "id": 134,
@@ -2352,6 +2358,21 @@
   "num_members": 10
  },
  {
+  "id": 41,
+  "name": "Brighton Consulate",
+  "url": "https://www.emfcamp.org/villages/2026/41-brighton-consulate",
+  "external_url": "",
+  "description": "A dozen or so people from Brighton, their friends, and their hobbies. ",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.375946009297593,
+    52.04062532230671
+   ]
+  },
+  "num_members": 17
+ },
+ {
   "id": 152,
   "name": "West London Hackspace",
   "url": "https://www.emfcamp.org/villages/2026/152-west-london-hackspace",
@@ -2410,21 +2431,6 @@
    ]
   },
   "num_members": 14
- },
- {
-  "id": 41,
-  "name": "Brighton Consulate",
-  "url": "https://www.emfcamp.org/villages/2026/41-brighton-consulate",
-  "external_url": "",
-  "description": "A dozen or so people from Brighton, their friends, and their hobbies. ",
-  "location": {
-   "type": "Point",
-   "coordinates": [
-    -2.375946009297593,
-    52.04062532230671
-   ]
-  },
-  "num_members": 17
  },
  {
   "id": 170,
