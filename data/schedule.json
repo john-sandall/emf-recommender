@@ -584,44 +584,6 @@
   ]
  },
  {
-  "id": 23,
-  "type": "workshop",
-  "names": "Derek Woodroffe",
-  "pronouns": "",
-  "title": "Build a Lightning Detector",
-  "description": "Build a fully working Extreme Kits Lightning detector capable of detecting lightning from up to 10 miles away, giving an audible and visual alarm. The visual alarm has a flash and a storm LED and an acrylic edge lit display, which gives both an instantiations lightning indication, and an indication that lightning has occurred in the last few minutes.\r\n\r\nThis lightning detector kit will also pick up other sources of electrical discharge, like a piezo or electronic gas lighter, and old car ignition, and electrostatic discharge or sparks.\r\n\r\nBecause of this, it can be used as a demonstration of early spark based radio transmitters.\r\n\r\nThe lightning detector kit is made using through hole components and so is an easy kit to solder and comes complete with an acrylic base and etched edge lit display.  It also features a 400mm telescopic ariel for enhanced reception. The kit is powered from 3 AAA cells (provided) and can work for than 6 months running in standby so can be sat monitoring for lightning 24/7.\r\n",
-  "short_description": "Build a Lightning detector capable of detecting lightning from 5+miles away giving a visual and audible alarm",
-  "video_privacy": "public",
-  "is_fave": false,
-  "official_content": true,
-  "slug": "build-a-lightning-detector",
-  "link": "https://www.emfcamp.org/schedule/2026/23-build-a-lightning-detector",
-  "occurrences": [
-   {
-    "occurrence_num": 1,
-    "start_date": "2026-07-19 10:00:00",
-    "end_date": "2026-07-19 11:30:00",
-    "venue": "Workshop 3 (Hardware Hacking Area)",
-    "latlon": [
-     52.04179935,
-     -2.37539965
-    ],
-    "map_link": "https://map.emfcamp.org/#18.5/52.04179935/-2.37539965/m=52.04179935,-2.37539965",
-    "uses_lottery": true,
-    "video_privacy": "public",
-    "recording_lost": false,
-    "start_time": "10:00",
-    "end_time": "11:30"
-   }
-  ],
-  "cost": "£22",
-  "equipment": "",
-  "age_range": "12+",
-  "drop_in": false,
-  "family_friendly": false,
-  "content_note": ""
- },
- {
   "id": 98,
   "type": "talk",
   "names": "Johanna",
@@ -3897,7 +3859,7 @@
   "occurrences": [
    {
     "occurrence_num": 1,
-    "start_date": "2026-07-17 18:00:00",
+    "start_date": "2026-07-17 18:30:00",
     "end_date": "2026-07-17 19:30:00",
     "venue": "NullSector",
     "latlon": [
@@ -3908,7 +3870,7 @@
     "uses_lottery": false,
     "video_privacy": "public",
     "recording_lost": false,
-    "start_time": "18:00",
+    "start_time": "18:30",
     "end_time": "19:30"
    }
   ]
@@ -4202,38 +4164,6 @@
   ]
  },
  {
-  "id": 310,
-  "type": "meetup",
-  "names": "Milliways",
-  "pronouns": null,
-  "title": "Whiskyleaks",
-  "description": "Whiskyleaks is the galaxy's most relaxed whisky-sharing event. Bring a whisk(e)y, share a dram, and chat with fellow hackers about life, the universe, and everything.",
-  "short_description": "",
-  "video_privacy": "public",
-  "is_fave": false,
-  "official_content": false,
-  "slug": "whiskyleaks",
-  "link": "https://www.emfcamp.org/schedule/2026/310-whiskyleaks",
-  "occurrences": [
-   {
-    "occurrence_num": 1,
-    "start_date": "2026-07-18 20:00:00",
-    "end_date": "2026-07-18 22:00:00",
-    "venue": "Milliways",
-    "latlon": [
-     52.042549545934605,
-     -2.376155388881557
-    ],
-    "map_link": "https://map.emfcamp.org/#18.5/52.042549545934605/-2.376155388881557/m=52.042549545934605,-2.376155388881557",
-    "uses_lottery": false,
-    "video_privacy": "public",
-    "recording_lost": false,
-    "start_time": "20:00",
-    "end_time": "22:00"
-   }
-  ]
- },
- {
   "id": 347,
   "type": "music",
   "names": "Gavin Starks",
@@ -4262,38 +4192,6 @@
     "recording_lost": false,
     "start_time": "23:00",
     "end_time": "00:00"
-   }
-  ]
- },
- {
-  "id": 311,
-  "type": "meetup",
-  "names": "Milliways",
-  "pronouns": null,
-  "title": "CIDRleaks",
-  "description": "In the spirit of Whiskyleaks, we're hosting a Ciderleaks! Bring all your regional ciders for an open bottle tasting. Share a drink, and chat with fellow hackers about life, the universe, and everything.",
-  "short_description": "",
-  "video_privacy": "public",
-  "is_fave": false,
-  "official_content": false,
-  "slug": "cidrleaks",
-  "link": "https://www.emfcamp.org/schedule/2026/311-cidrleaks",
-  "occurrences": [
-   {
-    "occurrence_num": 1,
-    "start_date": "2026-07-17 20:00:00",
-    "end_date": "2026-07-17 22:00:00",
-    "venue": "Milliways",
-    "latlon": [
-     52.042549545934605,
-     -2.376155388881557
-    ],
-    "map_link": "https://map.emfcamp.org/#18.5/52.042549545934605/-2.376155388881557/m=52.042549545934605,-2.376155388881557",
-    "uses_lottery": false,
-    "video_privacy": "public",
-    "recording_lost": false,
-    "start_time": "20:00",
-    "end_time": "22:00"
    }
   ]
  },
@@ -4364,6 +4262,70 @@
     "recording_lost": false,
     "start_time": "17:00",
     "end_time": "18:00"
+   }
+  ]
+ },
+ {
+  "id": 311,
+  "type": "meetup",
+  "names": "Milliways",
+  "pronouns": null,
+  "title": "CIDRleaks",
+  "description": "In the spirit of Whiskyleaks, we're hosting a Ciderleaks! Bring all your regional ciders for an open bottle tasting. Share a drink, and chat with fellow hackers about life, the universe, and everything.\r\n\r\nBring your own drinking container!",
+  "short_description": "",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "cidrleaks",
+  "link": "https://www.emfcamp.org/schedule/2026/311-cidrleaks",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-17 20:00:00",
+    "end_date": "2026-07-17 22:00:00",
+    "venue": "Milliways",
+    "latlon": [
+     52.042549545934605,
+     -2.376155388881557
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.042549545934605/-2.376155388881557/m=52.042549545934605,-2.376155388881557",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "20:00",
+    "end_time": "22:00"
+   }
+  ]
+ },
+ {
+  "id": 310,
+  "type": "meetup",
+  "names": "Milliways",
+  "pronouns": null,
+  "title": "Whiskyleaks",
+  "description": "Whiskyleaks is the galaxy's most relaxed whisky-sharing event. Bring a whisk(e)y, share a dram, and chat with fellow hackers about life, the universe, and everything.\r\n\r\nBring your own drinking container!",
+  "short_description": "",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "whiskyleaks",
+  "link": "https://www.emfcamp.org/schedule/2026/310-whiskyleaks",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-18 20:00:00",
+    "end_date": "2026-07-18 22:00:00",
+    "venue": "Milliways",
+    "latlon": [
+     52.042549545934605,
+     -2.376155388881557
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.042549545934605/-2.376155388881557/m=52.042549545934605,-2.376155388881557",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "20:00",
+    "end_time": "22:00"
    }
   ]
  },
@@ -12808,14 +12770,14 @@
   "occurrences": [
    {
     "occurrence_num": 1,
-    "start_date": "2026-07-16 18:00:00",
-    "end_date": "2026-07-16 20:00:00",
-    "venue": "Outside the Bar",
+    "start_date": "2026-07-17 18:00:00",
+    "end_date": "2026-07-17 20:00:00",
+    "venue": "Lounge",
     "latlon": [
-     52.0413622,
-     -2.3780529
+     52.04190332,
+     -2.37819773
     ],
-    "map_link": "https://map.emfcamp.org/#18.5/52.0413622/-2.3780529/m=52.0413622,-2.3780529",
+    "map_link": "https://map.emfcamp.org/#18.5/52.04190332/-2.37819773/m=52.04190332,-2.37819773",
     "uses_lottery": false,
     "video_privacy": "public",
     "recording_lost": false,
@@ -14177,6 +14139,38 @@
     "recording_lost": false,
     "start_time": "22:00",
     "end_time": "23:30"
+   }
+  ]
+ },
+ {
+  "id": 557,
+  "type": "meetup",
+  "names": "Jenny Mulholland",
+  "pronouns": null,
+  "title": "Chess",
+  "description": "Just turn up and play. Beginners welcome to come and learn how to play - ask for Jenny. Boards kindly lent by Hammersmith Chess Club https://hammerchess.co.uk/",
+  "short_description": "Chess in the bar",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "chess",
+  "link": "https://www.emfcamp.org/schedule/2026/557-chess",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-17 18:00:00",
+    "end_date": "2026-07-17 22:30:00",
+    "venue": "Robot Arms (Bar)",
+    "latlon": [
+     52.0413752,
+     -2.3775637
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.0413752/-2.3775637/m=52.0413752,-2.3775637",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "18:00",
+    "end_time": "22:30"
    }
   ]
  },

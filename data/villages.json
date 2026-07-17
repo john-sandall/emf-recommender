@@ -2448,6 +2448,21 @@
   "num_members": 1
  },
  {
+  "id": 176,
+  "name": "Gothic Heights",
+  "url": "https://www.emfcamp.org/villages/2026/176-gothic-heights",
+  "external_url": "",
+  "description": "Far corner of the north camping field",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3730576469729954,
+    52.04333859386037
+   ]
+  },
+  "num_members": 1
+ },
+ {
   "id": 84,
   "name": "Forge & Craft / HackWimbledon",
   "url": "https://www.emfcamp.org/villages/2026/84-forge-craft-hackwimbledon",
