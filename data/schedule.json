@@ -14745,6 +14745,38 @@
   "content_note": null
  },
  {
+  "id": 569,
+  "type": "meetup",
+  "names": "Duck Marshall ",
+  "pronouns": null,
+  "title": "EMF Quaker Meeting",
+  "description": "Meet in the green opposite the volunteer kitchen, near Stage D. Grab a chair and join our silent circle! It's ok if you're late, better late than not at all! \r\n\r\n--- Who are Quakers? ---\r\nQuakers have no dogmas or creeds and no paid ministers.  Each participant seeks to experience and learn about the religious life for themself.  We have the conviction that there is something of God in everyone. \r\n\r\n--- What happens in Meeting for Worship? ---\r\n\r\nA Quaker Meeting is a way of worship based on silence, a silence of expectancy in which we seek to come nearer to God and each other as we share the stillness of the Meeting.  \r\n\r\nOn entering the Meeting Room (or gathering in a field!), feel free to sit anywhere.\r\n\r\nParticipants are not expected to say or do anything other than join in this seeking.  Do not be concerned if the silence seems strange at first.  We rarely experience silence in everyday life so it is not unusual to be distracted by the things around us or roving thoughts.  There is no fixed structure to the Meeting.  There are no creeds, hymns or set prayers.  There is no minister in charge and no formal service.\r\n\r\nIf someone feels compelled by the Spirit to speak, pray or read, the silence will be broken.  Such ministry, which normally has not been planned before worship begins, seeks to enrich the gathered worship.  If something is said that does not seem to make sense, try to reach behind the words to the Spirit which inspired them or allow them to be absorbed into the silence.\r\n\r\nMeeting for Worship is not a debate so it is inappropriate to respond directly to spoken ministry, although it is not unusual for other ministry to build on what has been said before.\r\n\r\nOccasionally a Meeting will pass with no words spoken.\r\n\r\nNo two Quaker Meetings are the same.  A Meeting can embrace a wide range of experience.  Some people may experience a profound sense of awe or an awareness of the presence of God.  Others may have a less certain sense of an indefinable spiritual dimension.\r\n\r\nAfter about an hour, two of the members will shake hands, signalling the end of worship; others present may also shake hands.",
+  "short_description": "Quakers (and the Quaker-curious) Meeting for Worship at EMF",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "emf-quaker-meeting",
+  "link": "https://www.emfcamp.org/schedule/2026/569-emf-quaker-meeting",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-19 10:30:00",
+    "end_date": "2026-07-19 11:30:00",
+    "venue": "Outside the Bar",
+    "latlon": [
+     52.0413622,
+     -2.3780529
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.0413622/-2.3780529/m=52.0413622,-2.3780529",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "10:30",
+    "end_time": "11:30"
+   }
+  ]
+ },
+ {
   "id": 205,
   "type": "talk",
   "names": "Tim Jacobs (aka mitxela)",
