@@ -5218,38 +5218,6 @@
   "content_note": ""
  },
  {
-  "id": 443,
-  "type": "meetup",
-  "names": "Laura James, Sam Tygier, & friends",
-  "pronouns": null,
-  "title": "ClimateAction.Tech meetup",
-  "description": "ClimateAction.Tech CATs are workers in the tech industry seeding climate action at work and beyond. We hang out online in Slack and meet face to face when we can - including at EMF! Drop in for a chat about climate related tech and adjacent topics. All welcome, you don't have to be a CAT :) ",
-  "short_description": "Meet up for ClimateAction.Tech: workers in the tech industry seeding climate action at work and beyond",
-  "video_privacy": "public",
-  "is_fave": false,
-  "official_content": false,
-  "slug": "climateaction-tech-meetup",
-  "link": "https://www.emfcamp.org/schedule/2026/443-climateaction-tech-meetup",
-  "occurrences": [
-   {
-    "occurrence_num": 1,
-    "start_date": "2026-07-17 16:00:00",
-    "end_date": "2026-07-17 16:55:00",
-    "venue": "Lounge",
-    "latlon": [
-     52.04190332,
-     -2.37819773
-    ],
-    "map_link": "https://map.emfcamp.org/#18.5/52.04190332/-2.37819773/m=52.04190332,-2.37819773",
-    "uses_lottery": false,
-    "video_privacy": "public",
-    "recording_lost": false,
-    "start_time": "16:00",
-    "end_time": "16:55"
-   }
-  ]
- },
- {
   "id": 393,
   "type": "meetup",
   "names": "Bevis Halsey-Perry",
@@ -5356,6 +5324,38 @@
   "drop_in": true,
   "family_friendly": null,
   "content_note": null
+ },
+ {
+  "id": 443,
+  "type": "meetup",
+  "names": "Laura James, Sam Tygier, & friends",
+  "pronouns": null,
+  "title": "ClimateAction.Tech meetup",
+  "description": "JUST OUTSIDE THE LOUNGE\r\n\r\nClimateAction.Tech CATs are workers in the tech industry seeding climate action at work and beyond. We hang out online in Slack and meet face to face when we can - including at EMF! Drop in for a chat about climate related tech and adjacent topics. All welcome, you don't have to be a CAT :) ",
+  "short_description": "Meet up for ClimateAction.Tech: workers in the tech industry seeding climate action at work and beyond",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "climateaction-tech-meetup",
+  "link": "https://www.emfcamp.org/schedule/2026/443-climateaction-tech-meetup",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-17 16:00:00",
+    "end_date": "2026-07-17 16:55:00",
+    "venue": "Lounge",
+    "latlon": [
+     52.04190332,
+     -2.37819773
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04190332/-2.37819773/m=52.04190332,-2.37819773",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "16:00",
+    "end_time": "16:55"
+   }
+  ]
  },
  {
   "id": 31,
@@ -14081,6 +14081,136 @@
   "drop_in": null,
   "family_friendly": null,
   "content_note": null
+ },
+ {
+  "id": 548,
+  "type": "talk",
+  "names": "Andries Lohmeijer",
+  "pronouns": null,
+  "title": "3D Printing to assist antenna construction",
+  "description": "How 3D printing can be used to help in antenna construction; for ham radio, microwave, or anything else that needs an antenna! (everything)\r\n\r\nJust turn up and we'll aim to sort out as much space(!) as we need!\r\n",
+  "short_description": "Just turn up, and find out how 3D printing can be used to help in antenna construction; for ham radio, satellites, or anything else!",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "3d-printing-to-assist-antenna-construction",
+  "link": "https://www.emfcamp.org/schedule/2026/548-3d-printing-to-assist-antenna-construction",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-16 19:00:00",
+    "end_date": "2026-07-16 19:30:00",
+    "venue": "AMSAT-UK",
+    "latlon": [
+     52.04074595832975,
+     -2.3760065182676726
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04074595832975/-2.3760065182676726/m=52.04074595832975,-2.3760065182676726",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "19:00",
+    "end_time": "19:30"
+   }
+  ],
+  "family_friendly": null,
+  "content_note": null
+ },
+ {
+  "id": 549,
+  "type": "performance",
+  "names": "David Johnson & AMSAT-UK",
+  "pronouns": null,
+  "title": "AMSAT-UK ISS pass #1 of the night",
+  "description": "We'll watch the International Space Station (ISS) go over (if it's visible) but also track it with several large antennas and see if we can talk to other people on earth through the onboard amateur radio repeater",
+  "short_description": "Watch, track, listen, and talk through the ISS (space station) as it goes over EMF!",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "amsat-uk-iss-pass-1-of-the-night",
+  "link": "https://www.emfcamp.org/schedule/2026/549-amsat-uk-iss-pass-1-of-the-night",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-16 19:35:00",
+    "end_date": "2026-07-16 19:50:00",
+    "venue": "AMSAT-UK",
+    "latlon": [
+     52.04074595832975,
+     -2.3760065182676726
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04074595832975/-2.3760065182676726/m=52.04074595832975,-2.3760065182676726",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "19:35",
+    "end_time": "19:50"
+   }
+  ]
+ },
+ {
+  "id": 550,
+  "type": "performance",
+  "names": "David Johnson & AMSAT-UK",
+  "pronouns": null,
+  "title": "AMSAT-UK ISS pass #2 of the night - the best one!",
+  "description": "We'll watch the International Space Station (ISS) go over but also track it with several large antennas and see if we can talk to other people on earth through the onboard amateur radio repeater.",
+  "short_description": "Watch, track, listen, and talk through the ISS (space station) as it goes over EMF!",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "amsat-uk-iss-pass-2-of-the-night-the-best-one",
+  "link": "https://www.emfcamp.org/schedule/2026/550-amsat-uk-iss-pass-2-of-the-night-the-best-one",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-16 21:10:00",
+    "end_date": "2026-07-16 21:30:00",
+    "venue": "AMSAT-UK",
+    "latlon": [
+     52.04074595832975,
+     -2.3760065182676726
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04074595832975/-2.3760065182676726/m=52.04074595832975,-2.3760065182676726",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "21:10",
+    "end_time": "21:30"
+   }
+  ]
+ },
+ {
+  "id": 551,
+  "type": "performance",
+  "names": "David Johnson & AMSAT-UK",
+  "pronouns": null,
+  "title": "AMSAT-UK ISS pass #3 of the night",
+  "description": "We'll watch the International Space Station (ISS) go over but also track it with several large antennas and see if we can talk to other people on earth through the onboard amateur radio repeater.",
+  "short_description": "Watch, track, listen, and talk through the ISS (space station) as it goes over EMF!",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "amsat-uk-iss-pass-3-of-the-night",
+  "link": "https://www.emfcamp.org/schedule/2026/551-amsat-uk-iss-pass-3-of-the-night",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-16 22:50:00",
+    "end_date": "2026-07-16 23:05:00",
+    "venue": "AMSAT-UK",
+    "latlon": [
+     52.04074595832975,
+     -2.3760065182676726
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04074595832975/-2.3760065182676726/m=52.04074595832975,-2.3760065182676726",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "22:50",
+    "end_time": "23:05"
+   }
+  ]
  },
  {
   "id": 205,

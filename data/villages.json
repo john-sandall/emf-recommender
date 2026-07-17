@@ -1185,21 +1185,6 @@
   "num_members": 9
  },
  {
-  "id": 30,
-  "name": "AMSAT-UK",
-  "url": "https://www.emfcamp.org/villages/2026/30-amsat-uk",
-  "external_url": "https://emf2026.philcrump.co.uk",
-  "description": "AMSAT-UK, the British Amateur Television Club (BATC), and the UK Microwave Group (UKuG) are teaming up to showcase satellite communications, amateur television, and microwave radio experimentation.",
-  "location": {
-   "type": "Point",
-   "coordinates": [
-    -2.3760065182676726,
-    52.04074595832975
-   ]
-  },
-  "num_members": 1
- },
- {
   "id": 9,
   "name": "Tekhnē-cal Village",
   "url": "https://www.emfcamp.org/villages/2026/9-tekhn%C4%93-cal-village",
@@ -2356,6 +2341,21 @@
    ]
   },
   "num_members": 10
+ },
+ {
+  "id": 30,
+  "name": "AMSAT-UK",
+  "url": "https://www.emfcamp.org/villages/2026/30-amsat-uk",
+  "external_url": "https://emf2026.philcrump.co.uk",
+  "description": "AMSAT-UK, the British Amateur Television Club (BATC), and the UK Microwave Group (UKuG) are teaming up to showcase satellite communications, amateur television, and microwave radio experimentation.",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3760065182676726,
+    52.04074595832975
+   ]
+  },
+  "num_members": 1
  },
  {
   "id": 152,
