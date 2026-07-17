@@ -567,8 +567,8 @@
   "occurrences": [
    {
     "occurrence_num": 1,
-    "start_date": "2026-07-17 18:00:00",
-    "end_date": "2026-07-17 20:00:00",
+    "start_date": "2026-07-18 20:00:00",
+    "end_date": "2026-07-18 22:00:00",
     "venue": "Workshop 1 (Furry High Commission)",
     "latlon": [
      52.04259,
@@ -578,8 +578,8 @@
     "uses_lottery": false,
     "video_privacy": "public",
     "recording_lost": false,
-    "start_time": "18:00",
-    "end_time": "20:00"
+    "start_time": "20:00",
+    "end_time": "22:00"
    }
   ]
  },
@@ -802,44 +802,6 @@
   "drop_in": false,
   "family_friendly": true,
   "content_note": "Will discuss death and serious illness."
- },
- {
-  "id": 273,
-  "type": "workshop",
-  "names": "Bastiaan Slee",
-  "pronouns": "he/him",
-  "title": "Battlesnake workshop",
-  "description": "Snake like on the Nokia 3310! But this time YOU program your own Battlesnake and let it make decisions on it's own to beat each level.\r\n\r\nI participated in a Battlesnake workshop during EMF 2022, and it struck me as a simple and fun way to learn some logical thinking. After the workshop, I continued to build my Battlesnake to achieve more levels. It is kind of addictive (in a good way)! This EMF I will pay forward what I learned: the battle continues!\r\n\r\nIn this workshop, we will follow the instructions that Battlesnake provides on their website; setting up your server and building your very own snake. Doing it together and see if your result matches that of other participants is a fun way to get started with this.\r\n\r\nIf we have time, we'll also build Battlesnake on the EMF badge!\r\n\r\nWe may organise a tournament the next day to give people a chance to try out their Battlesnakes against each other.",
-  "short_description": "",
-  "video_privacy": "public",
-  "is_fave": false,
-  "official_content": true,
-  "slug": "battlesnake-workshop",
-  "link": "https://www.emfcamp.org/schedule/2026/273-battlesnake-workshop",
-  "occurrences": [
-   {
-    "occurrence_num": 1,
-    "start_date": "2026-07-17 11:00:00",
-    "end_date": "2026-07-17 13:00:00",
-    "venue": "Arcade Workshop",
-    "latlon": [
-     52.042864,
-     -2.376695
-    ],
-    "map_link": "https://map.emfcamp.org/#18.5/52.042864/-2.376695/m=52.042864,-2.376695",
-    "uses_lottery": true,
-    "video_privacy": "public",
-    "recording_lost": false,
-    "start_time": "11:00",
-    "end_time": "13:00"
-   }
-  ],
-  "cost": "",
-  "equipment": "Laptop; optionally, your EMF Tildagon badge (2024 or 2026 frontboard)",
-  "age_range": "All ages",
-  "drop_in": false,
-  "family_friendly": false,
-  "content_note": ""
  },
  {
   "id": 157,
@@ -13105,6 +13067,44 @@
     "end_time": "15:00"
    }
   ]
+ },
+ {
+  "id": 273,
+  "type": "workshop",
+  "names": "Bastiaan Slee",
+  "pronouns": "he/him",
+  "title": "Battlesnake workshop",
+  "description": "Snake like on the Nokia 3310! But this time YOU program your own Battlesnake and let it make decisions on it's own to beat each level.\r\n\r\nI participated in a Battlesnake workshop during EMF 2022, and it struck me as a simple and fun way to learn some logical thinking. After the workshop, I continued to build my Battlesnake to achieve more levels. It is kind of addictive (in a good way)! This EMF I will pay forward what I learned: the battle continues!\r\n\r\nIn this workshop, we will follow the instructions that Battlesnake provides on their website; setting up your server and building your very own snake. Doing it together and see if your result matches that of other participants is a fun way to get started with this.\r\n\r\nIf we have time, we'll also build Battlesnake on the EMF badge!\r\n\r\nWe may organise a tournament the next day to give people a chance to try out their Battlesnakes against each other.\r\n\r\nFull guide to build your own Battlesnake that will be followed during the workshop, can be found here: https://battlesnake.bastiaanslee.nl/",
+  "short_description": "",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": true,
+  "slug": "battlesnake-workshop",
+  "link": "https://www.emfcamp.org/schedule/2026/273-battlesnake-workshop",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-17 11:00:00",
+    "end_date": "2026-07-17 13:00:00",
+    "venue": "Arcade Workshop",
+    "latlon": [
+     52.042864,
+     -2.376695
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.042864/-2.376695/m=52.042864,-2.376695",
+    "uses_lottery": true,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "11:00",
+    "end_time": "13:00"
+   }
+  ],
+  "cost": "",
+  "equipment": "Laptop; optionally, your EMF Tildagon badge (2024 or 2026 frontboard)",
+  "age_range": "All ages",
+  "drop_in": false,
+  "family_friendly": false,
+  "content_note": ""
  },
  {
   "id": 391,

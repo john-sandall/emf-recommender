@@ -2097,6 +2097,21 @@
   "num_members": 5
  },
  {
+  "id": 175,
+  "name": "All electric caravan",
+  "url": "https://www.emfcamp.org/villages/2026/175-all-electric-caravan",
+  "external_url": "",
+  "description": "Happy to chat to anyone interested in it",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.3776898220682483,
+    52.0399098727124
+   ]
+  },
+  "num_members": 1
+ },
+ {
   "id": 102,
   "name": "Astro Observability (stargazing things)",
   "url": "https://www.emfcamp.org/villages/2026/102-astro-observability-stargazing-things",
