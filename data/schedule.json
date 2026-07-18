@@ -15577,44 +15577,6 @@
   ]
  },
  {
-  "id": 598,
-  "type": "workshop",
-  "names": "Fi",
-  "pronouns": null,
-  "title": "GLSL Shader Dome",
-  "description": "Small dome behind workshop 3 showing GLSL shaders planetarium style. Come watch the pretty lights or try writing your own! All levels of experience welcome.\r\n\r\nSelf service workshop, there might be nobody there!",
-  "short_description": "See/write pretty shaders projected on a hemisphere ",
-  "video_privacy": "public",
-  "is_fave": false,
-  "official_content": false,
-  "slug": "glsl-shader-dome",
-  "link": "https://www.emfcamp.org/schedule/2026/598-glsl-shader-dome",
-  "occurrences": [
-   {
-    "occurrence_num": 1,
-    "start_date": "2026-07-18 21:30:00",
-    "end_date": "2026-07-19 01:30:00",
-    "venue": "Poorly Located Progesterone",
-    "latlon": [
-     52.041754064221095,
-     -2.3751057246095115
-    ],
-    "map_link": "https://map.emfcamp.org/#18.5/52.041754064221095/-2.3751057246095115/m=52.041754064221095,-2.3751057246095115",
-    "uses_lottery": false,
-    "video_privacy": "public",
-    "recording_lost": false,
-    "start_time": "21:30",
-    "end_time": "01:30"
-   }
-  ],
-  "cost": "",
-  "equipment": "Laptop if you want to try writing your own",
-  "age_range": "all",
-  "drop_in": true,
-  "family_friendly": null,
-  "content_note": null
- },
- {
   "id": 603,
   "type": "meetup",
   "names": "Dolica",
@@ -15645,6 +15607,44 @@
     "end_time": "13:45"
    }
   ]
+ },
+ {
+  "id": 598,
+  "type": "workshop",
+  "names": "Fi",
+  "pronouns": null,
+  "title": "GLSL Shader Dome",
+  "description": "Small dome behind workshop 3 showing GLSL shaders planetarium style. Come watch the pretty lights or try writing your own! All levels of experience welcome.\r\n\r\nSelf service workshop, there might be nobody there! https://shaderdo.me to get started.",
+  "short_description": "See/write pretty shaders projected on a hemisphere ",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "glsl-shader-dome",
+  "link": "https://www.emfcamp.org/schedule/2026/598-glsl-shader-dome",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-18 21:30:00",
+    "end_date": "2026-07-19 01:30:00",
+    "venue": "Poorly Located Progesterone",
+    "latlon": [
+     52.041754064221095,
+     -2.3751057246095115
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.041754064221095/-2.3751057246095115/m=52.041754064221095,-2.3751057246095115",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "21:30",
+    "end_time": "01:30"
+   }
+  ],
+  "cost": "",
+  "equipment": "Laptop if you want to try writing your own",
+  "age_range": "16+",
+  "drop_in": true,
+  "family_friendly": null,
+  "content_note": null
  },
  {
   "id": 577,
@@ -15853,6 +15853,40 @@
   "content_note": null
  },
  {
+  "id": 606,
+  "type": "talk",
+  "names": "Kristin",
+  "pronouns": null,
+  "title": "Autopsy of a Victorian Armchair",
+  "description": "Come and join Kristin at the Brighton Consulate (front lawn) for the continuation of the autopsy of a Victorian armchair. Drop by and ask questions.",
+  "short_description": "Autopsy of a Victorian Armchair ",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "autopsy-of-a-victorian-armchair",
+  "link": "https://www.emfcamp.org/schedule/2026/606-autopsy-of-a-victorian-armchair",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-18 17:00:00",
+    "end_date": "2026-07-18 18:00:00",
+    "venue": "Brighton Consulate",
+    "latlon": [
+     52.04062532230671,
+     -2.375946009297593
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04062532230671/-2.375946009297593/m=52.04062532230671,-2.375946009297593",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "17:00",
+    "end_time": "18:00"
+   }
+  ],
+  "family_friendly": null,
+  "content_note": null
+ },
+ {
   "id": 205,
   "type": "talk",
   "names": "Tim Jacobs (aka mitxela)",
@@ -15885,6 +15919,40 @@
   ],
   "family_friendly": false,
   "content_note": ""
+ },
+ {
+  "id": 607,
+  "type": "talk",
+  "names": "Nicola Adams",
+  "pronouns": null,
+  "title": "Ghost Stories with Nicola ",
+  "description": "Come join us in the Brighton Consulate marquee where Nicola will be sharing a little of the history and hauntings of the Brighton Royal Pavilion, Brighton Museum and Preston Manor. Expect unexplained happenings, spooky experiences and CCTV footage of ghostly activity.",
+  "short_description": "Ghost Stories with Nicola",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "ghost-stories-with-nicola",
+  "link": "https://www.emfcamp.org/schedule/2026/607-ghost-stories-with-nicola",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-19 22:00:00",
+    "end_date": "2026-07-19 22:40:00",
+    "venue": "Brighton Consulate",
+    "latlon": [
+     52.04062532230671,
+     -2.375946009297593
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04062532230671/-2.375946009297593/m=52.04062532230671,-2.375946009297593",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "22:00",
+    "end_time": "22:40"
+   }
+  ],
+  "family_friendly": null,
+  "content_note": null
  },
  {
   "id": 236,
