@@ -15147,6 +15147,40 @@
   ]
  },
  {
+  "id": 599,
+  "type": "talk",
+  "names": "Louie Christie",
+  "pronouns": null,
+  "title": "A Quirky Guide to South London (Newcrossities)",
+  "description": "A talk about Louie's quirky travel guide to South London, with an interactive choose-your-own-adventure style trip across South London to visit its new curiosities.",
+  "short_description": "",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "a-quirky-guide-to-south-london-newcrossities",
+  "link": "https://www.emfcamp.org/schedule/2026/599-a-quirky-guide-to-south-london-newcrossities",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-18 21:25:00",
+    "end_date": "2026-07-18 21:30:00",
+    "venue": "Axov Village",
+    "latlon": [
+     52.041642786252055,
+     -2.375219794150553
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.041642786252055/-2.375219794150553/m=52.041642786252055,-2.375219794150553",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "21:25",
+    "end_time": "21:30"
+   }
+  ],
+  "family_friendly": null,
+  "content_note": null
+ },
+ {
   "id": 574,
   "type": "workshop",
   "names": "Dolica",
@@ -15347,6 +15381,38 @@
     "recording_lost": false,
     "start_time": "17:00",
     "end_time": "17:25"
+   }
+  ]
+ },
+ {
+  "id": 600,
+  "type": "performance",
+  "names": "Tim / mitxela",
+  "pronouns": null,
+  "title": "Flipdots video demo",
+  "description": "Come and see the big flipdot display showing Bad Apple and/or any other video requests.\r\n\r\nAlso, the flipdots are in the lounge running a fluid simulation all weekend - drop in any time to play with them.",
+  "short_description": "Demo of the custom flipdot display",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "flipdots-video-demo",
+  "link": "https://www.emfcamp.org/schedule/2026/600-flipdots-video-demo",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-18 15:00:00",
+    "end_date": "2026-07-18 15:30:00",
+    "venue": "Lounge",
+    "latlon": [
+     52.04190332,
+     -2.37819773
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04190332/-2.37819773/m=52.04190332,-2.37819773",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "15:00",
+    "end_time": "15:30"
    }
   ]
  },
@@ -15617,6 +15683,72 @@
     "end_time": "20:45"
    }
   ]
+ },
+ {
+  "id": 602,
+  "type": "performance",
+  "names": "Jim Purbrick",
+  "pronouns": null,
+  "title": "Remember Glaciers Live From The Pink Lambo",
+  "description": "Memories of glaciers shared by the last generations to remember them echo and fade over glacially slow generate ambient soundscapes.\r\n\r\nListen to super chill ambient electronic music performed live from a pink Lamborghini at the Brighton Consulate as the sun goes down.",
+  "short_description": "Live generative ambient music",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "remember-glaciers-live-from-the-pink-lambo",
+  "link": "https://www.emfcamp.org/schedule/2026/602-remember-glaciers-live-from-the-pink-lambo",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-19 20:00:00",
+    "end_date": "2026-07-19 21:00:00",
+    "venue": "Brighton Consulate",
+    "latlon": [
+     52.04062532230671,
+     -2.375946009297593
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04062532230671/-2.375946009297593/m=52.04062532230671,-2.375946009297593",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "20:00",
+    "end_time": "21:00"
+   }
+  ]
+ },
+ {
+  "id": 601,
+  "type": "talk",
+  "names": "hhat",
+  "pronouns": null,
+  "title": "using something like jira to fix my (undiagnosed & unmedicated) adhd",
+  "description": "I think it's safe to say that your brain knows stuff. and sometimes it forgets stuff. and sometimes it can't be motivated to do stuff. my brain is silly like that sometimes (I wonder why). however, with the power of open source project management and wiki tools, I have managed to project manage myself into a creature that more often than not passes off as human and can actually get stuff done. I call it my \"second brain\".\r\n\r\njust like my normal brain, my second brain in composed of a highly structured left hemisphere (in the form of task tracking, to give me a general sense of direction) and a more creative right hemisphere (in the form of a personal wiki for collecting and organising creative thoughts). the tools I use, Plane and Outline, are designed for team project management. i've repurposed them for self management.\r\n\r\nthis talk covers how I've applied the basic concepts of personal knowledge arrangement to myself, to give my life structure. it covers how I've been able to use these systems to better store, retrieve and connect the stuff I know. it discusses different ways of thinking about computing, and how we can make computers truly personal again. finally, it lays out how we can build \"second brains\" to solve the ultimate knowledge arrangement problem... preserving ourselves.",
+  "short_description": "",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "using-something-like-jira-to-fix-my-undiagnosed-unmedicated",
+  "link": "https://www.emfcamp.org/schedule/2026/601-using-something-like-jira-to-fix-my-undiagnosed-unmedicated",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-18 21:30:00",
+    "end_date": "2026-07-18 22:00:00",
+    "venue": "Axov Village",
+    "latlon": [
+     52.041642786252055,
+     -2.375219794150553
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.041642786252055/-2.375219794150553/m=52.041642786252055,-2.375219794150553",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "21:30",
+    "end_time": "22:00"
+   }
+  ],
+  "family_friendly": null,
+  "content_note": null
  },
  {
   "id": 205,
