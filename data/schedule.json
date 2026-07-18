@@ -15641,7 +15641,7 @@
   ],
   "cost": "",
   "equipment": "Laptop if you want to try writing your own",
-  "age_range": "16+",
+  "age_range": "18+",
   "drop_in": true,
   "family_friendly": null,
   "content_note": null
@@ -16015,6 +16015,38 @@
     "recording_lost": false,
     "start_time": "15:00",
     "end_time": "15:42"
+   }
+  ]
+ },
+ {
+  "id": 611,
+  "type": "meetup",
+  "names": "Siobhan Fitzgerald-Gibson",
+  "pronouns": null,
+  "title": "CrypticSunday crossword meetup",
+  "description": "On our village projector we will watch CrypticSunday, a weekly Twitch stream in which hosts Matt and Rachel (friends of the village) solve two cryptic crosswords. Drop by any time with a chair and a cuppa and an indoor voice. \r\n\r\nNote: this is not a talk or a workshop, just a gentle Sunday afternoon meetup for cryptic crossword fans. Space limited by marquee size. ",
+  "short_description": "A peaceful Sunday watching and discussing the CrypticSunday crossword Twitch stream.",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "crypticsunday-crossword-meetup",
+  "link": "https://www.emfcamp.org/schedule/2026/611-crypticsunday-crossword-meetup",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-19 12:00:00",
+    "end_date": "2026-07-19 14:00:00",
+    "venue": "Brighton Consulate",
+    "latlon": [
+     52.04062532230671,
+     -2.375946009297593
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04062532230671/-2.375946009297593/m=52.04062532230671,-2.375946009297593",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "12:00",
+    "end_time": "14:00"
    }
   ]
  },

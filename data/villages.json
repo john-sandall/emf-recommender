@@ -30,21 +30,6 @@
   "num_members": 2
  },
  {
-  "id": 78,
-  "name": "Village of Certain Doom",
-  "url": "https://www.emfcamp.org/villages/2026/78-village-of-certain-doom",
-  "external_url": "https://www.strangeprojects.co.uk",
-  "description": "A whole bunch of techies who had originally planned to make some cool stuff but completely failed to shall gather together for much merriment.\r\n\r\nWe may offer snacks.",
-  "location": {
-   "type": "Point",
-   "coordinates": [
-    -2.378006143214492,
-    52.03998170142839
-   ]
-  },
-  "num_members": 10
- },
- {
   "id": 172,
   "name": "PolyGen HQ",
   "url": "https://www.emfcamp.org/villages/2026/172-polygen-hq",
@@ -103,6 +88,21 @@
    ]
   },
   "num_members": 31
+ },
+ {
+  "id": 78,
+  "name": "The Camp Dinosaur",
+  "url": "https://www.emfcamp.org/villages/2026/78-the-camp-dinosaur",
+  "external_url": "https://www.strangeprojects.co.uk",
+  "description": "A whole bunch of techies who had originally planned to make some cool stuff but completely failed to shall gather together for much merriment.\r\n\r\nWe may offer snacks.\r\n\r\nWe have a dinosaur flag.  It's nice.",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.378006143214492,
+    52.03998170142839
+   ]
+  },
+  "num_members": 10
  },
  {
   "id": 16,
