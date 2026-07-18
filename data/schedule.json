@@ -8392,6 +8392,44 @@
   ]
  },
  {
+  "id": 138,
+  "type": "workshop",
+  "names": "Celine P",
+  "pronouns": "They/Them, She/Her",
+  "title": "Learn cryptography basics through paints!",
+  "description": "Always wanted to learn how a \"key exchange\" works? Wonder what is the difference between symmetric versus asymmetric encryption? Curious about how cryptography works?\r\n\r\nThis will be an interactive workshop where we will briefly go through key (no pun intended) cryptography-related concepts at a basic level, and the Diffie-Hellman key exchange using visual art including blending colours with paints, and paper. The concepts will be at a very introductory, high level (no maths, etc.).\r\n\r\nPlus, there will be some space themes! \r\nAnd you'll get to take home your very own abstract \"fridge art\" for fun memory-making!\r\n\r\nThis session is mainly geared for younger audiences such as children (e.g., 10-18 years old), but any age is welcome, including grown-ups. I am no cryptography expert, just sharing my passion for computery and cyber things and help share a visual way of remembering Diffie Hellman!\r\nIf you already know cryptography basics or more, then this may not be for you (although you're still welcome to join! Just may or may not be as relevant or exciting).",
+  "short_description": "Learn the basics of cryptography such as key exchanges, by using paint and other art materials.",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": true,
+  "slug": "learn-cryptography-basics-through-paints",
+  "link": "https://www.emfcamp.org/schedule/2026/138-learn-cryptography-basics-through-paints",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-18 11:00:00",
+    "end_date": "2026-07-18 12:00:00",
+    "venue": "Drop-in Workshop",
+    "latlon": [
+     52.0415113,
+     -2.37670327
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.0415113/-2.37670327/m=52.0415113,-2.37670327",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "11:00",
+    "end_time": "12:00"
+   }
+  ],
+  "cost": "",
+  "equipment": "Nothing required from attendees; if people want to bring their own paints, colouring pencils or markers, or pieces of paper, they can feel free!",
+  "age_range": "9+ children, adults",
+  "drop_in": true,
+  "family_friendly": true,
+  "content_note": ""
+ },
+ {
   "id": 85,
   "type": "talk",
   "names": "Bash",
@@ -8456,44 +8494,6 @@
     "end_time": "23:00"
    }
   ]
- },
- {
-  "id": 138,
-  "type": "workshop",
-  "names": "Celine P",
-  "pronouns": "They/Them, She/Her",
-  "title": "Learn cryptography basics through paints!",
-  "description": "Always wanted to learn how a \"key exchange\" works? Wonder what is the difference between symmetric versus asymmetric encryption? Curious about how cryptography works?\r\n\r\nThis will be an interactive workshop where we will briefly go through key (no pun intended) cryptography-related concepts at a basic level, especially the Diffie-Hellman key exchange, using visual art including blending colours with paints, and paper. The concepts will be at a very introductory, high level (no maths, etc.).\r\n\r\nPlus, there will be some space themes! \r\nAnd you'll get to take home your very own abstract (or fridge) art and a little certificate of completion for fun memory-making.\r\n\r\nThis session is mainly geared for younger audiences such as children (e.g., 10-18 years old), but any age is welcome, including grown-ups. \r\nIf you already know cryptography basics or more, then this may not be for you (although you're still welcome to join! Just may or may not be as relevant or exciting).",
-  "short_description": "Learn the basics of cryptography such as key exchanges, by using paint and other art materials.",
-  "video_privacy": "public",
-  "is_fave": false,
-  "official_content": true,
-  "slug": "learn-cryptography-basics-through-paints",
-  "link": "https://www.emfcamp.org/schedule/2026/138-learn-cryptography-basics-through-paints",
-  "occurrences": [
-   {
-    "occurrence_num": 1,
-    "start_date": "2026-07-18 11:00:00",
-    "end_date": "2026-07-18 12:00:00",
-    "venue": "Drop-in Workshop",
-    "latlon": [
-     52.0415113,
-     -2.37670327
-    ],
-    "map_link": "https://map.emfcamp.org/#18.5/52.0415113/-2.37670327/m=52.0415113,-2.37670327",
-    "uses_lottery": false,
-    "video_privacy": "public",
-    "recording_lost": false,
-    "start_time": "11:00",
-    "end_time": "12:00"
-   }
-  ],
-  "cost": "",
-  "equipment": "Nothing required from attendees; if people want to bring their own paints, colouring pencils or markers, or pieces of paper, they can feel free!",
-  "age_range": "9+ children, adults",
-  "drop_in": true,
-  "family_friendly": true,
-  "content_note": ""
  },
  {
   "id": 317,
@@ -14773,6 +14773,38 @@
     "recording_lost": false,
     "start_time": "10:30",
     "end_time": "11:30"
+   }
+  ]
+ },
+ {
+  "id": 570,
+  "type": "meetup",
+  "names": "CrepesCampingClub",
+  "pronouns": null,
+  "title": "FREE tasting of savory vegan sausage crepes from Brittany",
+  "description": "meetup at our village to get served hot and savory vegan, gluten free traditional sausage crepes (buckwheat). recipe from brittany, west of france. ketchup | mustard sauce\r\nBring your trinkets!",
+  "short_description": "meetup at our village to get served hot and savory vegan, gluten free traditional sausage crepes (buckwheat)",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "free-tasting-of-savory-vegan-sausage-crepes-from-brittany",
+  "link": "https://www.emfcamp.org/schedule/2026/570-free-tasting-of-savory-vegan-sausage-crepes-from-brittany",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-18 13:30:00",
+    "end_date": "2026-07-18 15:00:00",
+    "venue": "🥞 CrepesCampingClub",
+    "latlon": [
+     52.04270002668278,
+     -2.3737739491340903
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04270002668278/-2.3737739491340903/m=52.04270002668278,-2.3737739491340903",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "13:30",
+    "end_time": "15:00"
    }
   ]
  },
