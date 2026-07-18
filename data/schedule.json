@@ -14809,6 +14809,108 @@
   ]
  },
  {
+  "id": 571,
+  "type": "workshop",
+  "names": "Frankie Anderson",
+  "pronouns": null,
+  "title": "CyberSpace: surf the web like it's 199x",
+  "description": "Hopefully, if setup goes well with CuTel*, we can get some 90s laptops to dial up and connect like we're back in the 90s. I've got a selection of Windows OSs on my laptops, from 3.1 to XP (hence early 00s too) but happy to talk Mac, later Acorns, Linux - either early distros or modern distros for old hardware, whatever. Psion, Palm and Newton - the latest gadgets of the era? \r\n\r\n*dialup internet deployment still to be tested as of Saturday morning.  ",
+  "short_description": "Dialup internet on some 90s and early 00s laptops, hopefully. Or bring your own. ",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "cyberspace-surf-the-web-like-its-199x",
+  "link": "https://www.emfcamp.org/schedule/2026/571-cyberspace-surf-the-web-like-its-199x",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-19 14:30:00",
+    "end_date": "2026-07-19 17:30:00",
+    "venue": "Threadz 'n' Webz",
+    "latlon": [
+     52.04030229363161,
+     -2.378446191688738
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04030229363161/-2.378446191688738/m=52.04030229363161,-2.378446191688738",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "14:30",
+    "end_time": "17:30"
+   }
+  ],
+  "cost": "",
+  "equipment": "",
+  "age_range": "all",
+  "drop_in": true,
+  "family_friendly": null,
+  "content_note": null
+ },
+ {
+  "id": 572,
+  "type": "music",
+  "names": "Felix Weber",
+  "pronouns": null,
+  "title": "Tildagon MusicJam",
+  "description": "Bring your Tildagon and make some music! Virtual synths, wireless MIDI, Tildagon multiplayer music.",
+  "short_description": "",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "tildagon-musicjam",
+  "link": "https://www.emfcamp.org/schedule/2026/572-tildagon-musicjam",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-18 09:00:00",
+    "end_date": "2026-07-18 23:00:00",
+    "venue": "Leigh Hackspace",
+    "latlon": [
+     52.041337828989725,
+     -2.376190690458543
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.041337828989725/-2.376190690458543/m=52.041337828989725,-2.376190690458543",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "09:00",
+    "end_time": "23:00"
+   }
+  ]
+ },
+ {
+  "id": 573,
+  "type": "music",
+  "names": "Felix Weber",
+  "pronouns": null,
+  "title": "Tildagon MusicJam",
+  "description": "Bring your Tildagon and make some music! Virtual synths, wireless MIDI, Tildagon multiplayer music.",
+  "short_description": "",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "tildagon-musicjam",
+  "link": "https://www.emfcamp.org/schedule/2026/573-tildagon-musicjam",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-19 09:00:00",
+    "end_date": "2026-07-19 23:00:00",
+    "venue": "Leigh Hackspace",
+    "latlon": [
+     52.041337828989725,
+     -2.376190690458543
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.041337828989725/-2.376190690458543/m=52.041337828989725,-2.376190690458543",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "09:00",
+    "end_time": "23:00"
+   }
+  ]
+ },
+ {
   "id": 205,
   "type": "talk",
   "names": "Tim Jacobs (aka mitxela)",
@@ -15727,40 +15829,6 @@
   "content_note": "(Brief) discussions of body image, body weight and diet. "
  },
  {
-  "id": 148,
-  "type": "talk",
-  "names": "Roger Dealtry",
-  "pronouns": "He Him",
-  "title": " \" A Farewell to PAL\" The analogue colour TV system",
-  "description": "This is a talk on the PAL (System I) colour television standard. Something that was once used in every home in the UK, but now with the advent of digital broadcasting has quietly slipped into the pages of history. It deserves one final fanfare and who better to give it some love than the EMF community.\r\nWe're going to marvel at the sheer engineering ingenuity of the PAL system at a fairly technical level, the remarkable way it makes use of aspects of the video signal spectrum, psychovisual phenomena and the prevailing analogue technology to cram a quart of functionality into a pint pot of spectrum. We see the engineering wisdom of considering a system holistically. We'll also look at the factors leading to its development, the way it addressed the shortcomings of earlier systems, and put PAL in its historical context with the existing black and white service, NTSC, SECAM and its eventual use in direct to home satellite broadcasting,",
-  "short_description": "A description of the PAL System I colour TV specification, gone but too fabulous to forget",
-  "video_privacy": "public",
-  "is_fave": false,
-  "official_content": true,
-  "slug": "a-farewell-to-pal-the-analogue-colour-tv-system",
-  "link": "https://www.emfcamp.org/schedule/2026/148-a-farewell-to-pal-the-analogue-colour-tv-system",
-  "occurrences": [
-   {
-    "occurrence_num": 1,
-    "start_date": "2026-07-19 14:00:00",
-    "end_date": "2026-07-19 14:30:00",
-    "venue": "Stage B",
-    "latlon": [
-     52.0419,
-     -2.37664
-    ],
-    "map_link": "https://map.emfcamp.org/#18.5/52.0419/-2.37664/m=52.0419,-2.37664",
-    "uses_lottery": false,
-    "video_privacy": "public",
-    "recording_lost": false,
-    "start_time": "14:00",
-    "end_time": "14:30"
-   }
-  ],
-  "family_friendly": false,
-  "content_note": ""
- },
- {
   "id": 230,
   "type": "talk",
   "names": "Donna Alexandra",
@@ -15826,6 +15894,40 @@
    }
   ],
   "family_friendly": true,
+  "content_note": ""
+ },
+ {
+  "id": 148,
+  "type": "talk",
+  "names": "Roger Dealtry",
+  "pronouns": "He Him",
+  "title": " \" A Farewell to PAL\" The analogue colour TV system",
+  "description": "This is a talk on the PAL (System I) colour television standard. Something that was once used in every home in the UK, but now with the advent of digital broadcasting has quietly slipped into the pages of history. It deserves one final fanfare and who better to give it some love than the EMF community.\r\nWe're going to marvel at the sheer engineering ingenuity of the PAL system at a fairly technical level, the remarkable way it makes use of aspects of the video signal spectrum, psychovisual phenomena and the prevailing analogue technology to cram a quart of functionality into a pint pot of spectrum. We see the engineering wisdom of considering a system holistically. We'll also look at the factors leading to its development, the way it addressed the shortcomings of earlier systems, and put PAL in its historical context with the existing black and white service, NTSC, SECAM and its eventual use in direct to home satellite broadcasting,",
+  "short_description": "A description of the PAL System I colour TV specification, gone but too fabulous to forget",
+  "video_privacy": "none",
+  "is_fave": false,
+  "official_content": true,
+  "slug": "a-farewell-to-pal-the-analogue-colour-tv-system",
+  "link": "https://www.emfcamp.org/schedule/2026/148-a-farewell-to-pal-the-analogue-colour-tv-system",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-19 14:00:00",
+    "end_date": "2026-07-19 14:30:00",
+    "venue": "Stage B",
+    "latlon": [
+     52.0419,
+     -2.37664
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.0419/-2.37664/m=52.0419,-2.37664",
+    "uses_lottery": false,
+    "video_privacy": "none",
+    "recording_lost": false,
+    "start_time": "14:00",
+    "end_time": "14:30"
+   }
+  ],
+  "family_friendly": false,
   "content_note": ""
  },
  {
