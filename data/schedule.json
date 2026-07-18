@@ -15582,7 +15582,7 @@
   "names": "Dolica",
   "pronouns": null,
   "title": "Creative Tech Hangout",
-  "description": "A low-key gathering for those who are interested in or work with creative technology, tech-art, computational arts, creative coding, ~*the intersection of art and technology*~ etc.",
+  "description": "A low-key gathering for those who would like to get into or who work with creative technology, tech-art, computational arts, creative coding, ~*the intersection of art and technology*~ etc etc etc.",
   "short_description": "",
   "video_privacy": "public",
   "is_fave": false,
@@ -15953,6 +15953,102 @@
   ],
   "family_friendly": null,
   "content_note": null
+ },
+ {
+  "id": 608,
+  "type": "meetup",
+  "names": "Jenny Mulholland",
+  "pronouns": null,
+  "title": "Chess",
+  "description": "Just turn up and play! Beginners welcome to come and learn how to play - ask for Jenny. Boards kindly lent by Hammersmith Chess Club https://hammerchess.co.uk",
+  "short_description": "Chess in the bar",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "chess",
+  "link": "https://www.emfcamp.org/schedule/2026/608-chess",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-18 18:00:00",
+    "end_date": "2026-07-18 23:00:00",
+    "venue": "Robot Arms (Bar)",
+    "latlon": [
+     52.0413752,
+     -2.3775637
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.0413752/-2.3775637/m=52.0413752,-2.3775637",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "18:00",
+    "end_time": "23:00"
+   }
+  ]
+ },
+ {
+  "id": 609,
+  "type": "meetup",
+  "names": "nlnet",
+  "pronouns": null,
+  "title": "NLnet: Funding Open Software and Hardware",
+  "description": "Ask NLnet everything you want to know about our Open Source grants and current and future funding opportunities. Learn about projects we support or just come say hi!\r\n\r\nMore information at https://nlnet.nl",
+  "short_description": "Meetup with NLnet about grants, projects we support and current and future funding opportunities.",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "nlnet-funding-open-software-and-hardware",
+  "link": "https://www.emfcamp.org/schedule/2026/609-nlnet-funding-open-software-and-hardware",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-19 15:00:00",
+    "end_date": "2026-07-19 15:42:00",
+    "venue": "Robot Arms (Bar)",
+    "latlon": [
+     52.0413752,
+     -2.3775637
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.0413752/-2.3775637/m=52.0413752,-2.3775637",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "15:00",
+    "end_time": "15:42"
+   }
+  ]
+ },
+ {
+  "id": 610,
+  "type": "meetup",
+  "names": "Ewan, Sue, Joe",
+  "pronouns": null,
+  "title": "Bat walk @ Greenhouse",
+  "description": "Eastnor is home to many species of bats. At sunset, we’ll head out to try and see and hear them. Meet at the Greenhouse, opposite the lounge.",
+  "short_description": "Come see the bats of Eastnor!",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "bat-walk-greenhouse",
+  "link": "https://www.emfcamp.org/schedule/2026/610-bat-walk-greenhouse",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-18 20:45:00",
+    "end_date": "2026-07-18 21:45:00",
+    "venue": "Lounge",
+    "latlon": [
+     52.04190332,
+     -2.37819773
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04190332/-2.37819773/m=52.04190332,-2.37819773",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "20:45",
+    "end_time": "21:45"
+   }
+  ]
  },
  {
   "id": 236,
