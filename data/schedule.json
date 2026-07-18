@@ -13991,40 +13991,6 @@
   "content_note": null
  },
  {
-  "id": 548,
-  "type": "talk",
-  "names": "Andries Lohmeijer",
-  "pronouns": null,
-  "title": "3D Printing to assist antenna construction",
-  "description": "How 3D printing can be used to help in antenna construction; for ham radio, microwave, or anything else that needs an antenna! (everything)\r\n\r\nJust turn up and we'll aim to sort out as much space(!) as we need!\r\n",
-  "short_description": "Just turn up, and find out how 3D printing can be used to help in antenna construction; for ham radio, satellites, or anything else!",
-  "video_privacy": "public",
-  "is_fave": false,
-  "official_content": false,
-  "slug": "3d-printing-to-assist-antenna-construction",
-  "link": "https://www.emfcamp.org/schedule/2026/548-3d-printing-to-assist-antenna-construction",
-  "occurrences": [
-   {
-    "occurrence_num": 1,
-    "start_date": "2026-07-16 19:00:00",
-    "end_date": "2026-07-16 19:30:00",
-    "venue": "AMSAT-UK",
-    "latlon": [
-     52.04074595832975,
-     -2.3760065182676726
-    ],
-    "map_link": "https://map.emfcamp.org/#18.5/52.04074595832975/-2.3760065182676726/m=52.04074595832975,-2.3760065182676726",
-    "uses_lottery": false,
-    "video_privacy": "public",
-    "recording_lost": false,
-    "start_time": "19:00",
-    "end_time": "19:30"
-   }
-  ],
-  "family_friendly": null,
-  "content_note": null
- },
- {
   "id": 566,
   "type": "talk",
   "names": "Kristin Sjovorr",
@@ -14057,38 +14023,6 @@
   ],
   "family_friendly": null,
   "content_note": null
- },
- {
-  "id": 549,
-  "type": "performance",
-  "names": "David Johnson & AMSAT-UK",
-  "pronouns": null,
-  "title": "AMSAT-UK ISS pass #1 of the night",
-  "description": "We'll watch the International Space Station (ISS) go over (if it's visible) but also track it with several large antennas and see if we can talk to other people on earth through the onboard amateur radio repeater",
-  "short_description": "Watch, track, listen, and talk through the ISS (space station) as it goes over EMF!",
-  "video_privacy": "public",
-  "is_fave": false,
-  "official_content": false,
-  "slug": "amsat-uk-iss-pass-1-of-the-night",
-  "link": "https://www.emfcamp.org/schedule/2026/549-amsat-uk-iss-pass-1-of-the-night",
-  "occurrences": [
-   {
-    "occurrence_num": 1,
-    "start_date": "2026-07-16 19:35:00",
-    "end_date": "2026-07-16 19:50:00",
-    "venue": "AMSAT-UK",
-    "latlon": [
-     52.04074595832975,
-     -2.3760065182676726
-    ],
-    "map_link": "https://map.emfcamp.org/#18.5/52.04074595832975/-2.3760065182676726/m=52.04074595832975,-2.3760065182676726",
-    "uses_lottery": false,
-    "video_privacy": "public",
-    "recording_lost": false,
-    "start_time": "19:35",
-    "end_time": "19:50"
-   }
-  ]
  },
  {
   "id": 552,
@@ -14221,38 +14155,6 @@
     "recording_lost": false,
     "start_time": "17:30",
     "end_time": "18:30"
-   }
-  ]
- },
- {
-  "id": 550,
-  "type": "performance",
-  "names": "David Johnson & AMSAT-UK",
-  "pronouns": null,
-  "title": "AMSAT-UK ISS pass #2 of the night - the best one!",
-  "description": "We'll watch the International Space Station (ISS) go over but also track it with several large antennas and see if we can talk to other people on earth through the onboard amateur radio repeater.",
-  "short_description": "Watch, track, listen, and talk through the ISS (space station) as it goes over EMF!",
-  "video_privacy": "public",
-  "is_fave": false,
-  "official_content": false,
-  "slug": "amsat-uk-iss-pass-2-of-the-night-the-best-one",
-  "link": "https://www.emfcamp.org/schedule/2026/550-amsat-uk-iss-pass-2-of-the-night-the-best-one",
-  "occurrences": [
-   {
-    "occurrence_num": 1,
-    "start_date": "2026-07-16 21:10:00",
-    "end_date": "2026-07-16 21:30:00",
-    "venue": "AMSAT-UK",
-    "latlon": [
-     52.04074595832975,
-     -2.3760065182676726
-    ],
-    "map_link": "https://map.emfcamp.org/#18.5/52.04074595832975/-2.3760065182676726/m=52.04074595832975,-2.3760065182676726",
-    "uses_lottery": false,
-    "video_privacy": "public",
-    "recording_lost": false,
-    "start_time": "21:10",
-    "end_time": "21:30"
    }
   ]
  },
@@ -14539,38 +14441,6 @@
   "content_note": ""
  },
  {
-  "id": 551,
-  "type": "performance",
-  "names": "David Johnson & AMSAT-UK",
-  "pronouns": null,
-  "title": "AMSAT-UK ISS pass #3 of the night",
-  "description": "We'll watch the International Space Station (ISS) go over but also track it with several large antennas and see if we can talk to other people on earth through the onboard amateur radio repeater.",
-  "short_description": "Watch, track, listen, and talk through the ISS (space station) as it goes over EMF!",
-  "video_privacy": "public",
-  "is_fave": false,
-  "official_content": false,
-  "slug": "amsat-uk-iss-pass-3-of-the-night",
-  "link": "https://www.emfcamp.org/schedule/2026/551-amsat-uk-iss-pass-3-of-the-night",
-  "occurrences": [
-   {
-    "occurrence_num": 1,
-    "start_date": "2026-07-16 22:50:00",
-    "end_date": "2026-07-16 23:05:00",
-    "venue": "AMSAT-UK",
-    "latlon": [
-     52.04074595832975,
-     -2.3760065182676726
-    ],
-    "map_link": "https://map.emfcamp.org/#18.5/52.04074595832975/-2.3760065182676726/m=52.04074595832975,-2.3760065182676726",
-    "uses_lottery": false,
-    "video_privacy": "public",
-    "recording_lost": false,
-    "start_time": "22:50",
-    "end_time": "23:05"
-   }
-  ]
- },
- {
   "id": 554,
   "type": "talk",
   "names": "Sharon Kinsella",
@@ -14745,6 +14615,38 @@
   "content_note": null
  },
  {
+  "id": 581,
+  "type": "performance",
+  "names": "Hacky Racers",
+  "pronouns": null,
+  "title": "Hacky Racers Race",
+  "description": "Come and watch bonkers DIY karts racing around the DIY track.",
+  "short_description": "Hacky Racers racing on the hour",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "hacky-racers-race",
+  "link": "https://www.emfcamp.org/schedule/2026/581-hacky-racers-race",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-18 16:00:00",
+    "end_date": "2026-07-18 16:15:00",
+    "venue": "Hacky Racers",
+    "latlon": [
+     52.04320202201097,
+     -2.3763662348284527
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04320202201097/-2.3763662348284527/m=52.04320202201097,-2.3763662348284527",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "16:00",
+    "end_time": "16:15"
+   }
+  ]
+ },
+ {
   "id": 569,
   "type": "meetup",
   "names": "Duck Marshall ",
@@ -14809,6 +14711,72 @@
   ]
  },
  {
+  "id": 590,
+  "type": "talk",
+  "names": "Heather Nichols, David Johnson",
+  "pronouns": null,
+  "title": "Beginner's Introduction to Amateur Satellites",
+  "description": "An introduction to the world of Amateur Radio satellites, with live demos on opportunistic satellite passes.\r\n\r\nPlease just drop in, we'll have seating available in the shade!",
+  "short_description": "An introduction to the world of Amateur Radio satellites with live demos on opportunistic satellite passes.",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "beginners-introduction-to-amateur-satellites",
+  "link": "https://www.emfcamp.org/schedule/2026/590-beginners-introduction-to-amateur-satellites",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-18 13:30:00",
+    "end_date": "2026-07-18 14:10:00",
+    "venue": "AMSAT-UK",
+    "latlon": [
+     52.04074595832975,
+     -2.3760065182676726
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04074595832975/-2.3760065182676726/m=52.04074595832975,-2.3760065182676726",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "13:30",
+    "end_time": "14:10"
+   }
+  ],
+  "family_friendly": null,
+  "content_note": null
+ },
+ {
+  "id": 593,
+  "type": "performance",
+  "names": "David Johnson & AMSAT-UK",
+  "pronouns": null,
+  "title": "AMSAT Amateur Radio Cubesat Pass (RS44 w/ Linear Transponder)",
+  "description": "Using the antennas set up at the AMSAT-UK village we'll track the amateur-built cubesat as it crosses our sky over EMF. The cubesat contains a voice repeater that will allow us to talk to other amateur radio station in the UK and nearby Europe by bouncing signals through the satellite.\r\n\r\nAll things going well we'll make a live contact or two! although as with all Amateur Radio... it's an experiment!",
+  "short_description": "Tracking, listening, and possibly talking through an amateur satellite as it passes over EMF.",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "amsat-amateur-radio-cubesat-pass-rs44-w-linear-transponder",
+  "link": "https://www.emfcamp.org/schedule/2026/593-amsat-amateur-radio-cubesat-pass-rs44-w-linear-transponder",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-18 15:35:00",
+    "end_date": "2026-07-18 15:55:00",
+    "venue": "AMSAT-UK",
+    "latlon": [
+     52.04074595832975,
+     -2.3760065182676726
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04074595832975/-2.3760065182676726/m=52.04074595832975,-2.3760065182676726",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "15:35",
+    "end_time": "15:55"
+   }
+  ]
+ },
+ {
   "id": 571,
   "type": "workshop",
   "names": "Frankie Anderson",
@@ -14862,7 +14830,7 @@
   "occurrences": [
    {
     "occurrence_num": 1,
-    "start_date": "2026-07-18 09:00:00",
+    "start_date": "2026-07-18 11:40:00",
     "end_date": "2026-07-18 23:00:00",
     "venue": "Leigh Hackspace",
     "latlon": [
@@ -14873,7 +14841,7 @@
     "uses_lottery": false,
     "video_privacy": "public",
     "recording_lost": false,
-    "start_time": "09:00",
+    "start_time": "11:40",
     "end_time": "23:00"
    }
   ]
@@ -14907,6 +14875,274 @@
     "recording_lost": false,
     "start_time": "09:00",
     "end_time": "23:00"
+   }
+  ]
+ },
+ {
+  "id": 575,
+  "type": "workshop",
+  "names": "Stuart Johnson ",
+  "pronouns": null,
+  "title": "Diabolo Jam",
+  "description": "Come and learn to juggle diabolo. All experience levels welcome. Previously somewhat oversubscribed.\r\n\r\nWe can support up to 7 learners at a time.",
+  "short_description": "",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "diabolo-jam",
+  "link": "https://www.emfcamp.org/schedule/2026/575-diabolo-jam",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-16 11:00:00",
+    "end_date": "2026-07-16 13:00:00",
+    "venue": "Outside the Bar",
+    "latlon": [
+     52.0413622,
+     -2.3780529
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.0413622/-2.3780529/m=52.0413622,-2.3780529",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "11:00",
+    "end_time": "13:00"
+   }
+  ],
+  "cost": "",
+  "equipment": "",
+  "age_range": "all",
+  "drop_in": true,
+  "family_friendly": null,
+  "content_note": null
+ },
+ {
+  "id": 580,
+  "type": "performance",
+  "names": "Hacky Racers",
+  "pronouns": null,
+  "title": "Hacky Racers Race",
+  "description": "Come and watch bonkers DIY karts racing around the DIY track.",
+  "short_description": "Hacky Racers racing on the hour",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "hacky-racers-race",
+  "link": "https://www.emfcamp.org/schedule/2026/580-hacky-racers-race",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-18 15:00:00",
+    "end_date": "2026-07-18 15:15:00",
+    "venue": "Hacky Racers",
+    "latlon": [
+     52.04320202201097,
+     -2.3763662348284527
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04320202201097/-2.3763662348284527/m=52.04320202201097,-2.3763662348284527",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "15:00",
+    "end_time": "15:15"
+   }
+  ]
+ },
+ {
+  "id": 582,
+  "type": "performance",
+  "names": "Hacky Racers",
+  "pronouns": null,
+  "title": "Hacky Racers Race",
+  "description": "Come and watch bonkers DIY karts racing around the DIY track.",
+  "short_description": "Hacky Racers racing on the hour",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "hacky-racers-race",
+  "link": "https://www.emfcamp.org/schedule/2026/582-hacky-racers-race",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-18 17:00:00",
+    "end_date": "2026-07-18 17:15:00",
+    "venue": "Hacky Racers",
+    "latlon": [
+     52.04320202201097,
+     -2.3763662348284527
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04320202201097/-2.3763662348284527/m=52.04320202201097,-2.3763662348284527",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "17:00",
+    "end_time": "17:15"
+   }
+  ]
+ },
+ {
+  "id": 585,
+  "type": "performance",
+  "names": "Hacky Racers",
+  "pronouns": null,
+  "title": "Hacky Racers Race",
+  "description": "Come and watch bonkers DIY karts racing around the DIY track.",
+  "short_description": "Hacky Racers racing on the hour",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "hacky-racers-race",
+  "link": "https://www.emfcamp.org/schedule/2026/585-hacky-racers-race",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-19 14:00:00",
+    "end_date": "2026-07-19 14:15:00",
+    "venue": "Hacky Racers",
+    "latlon": [
+     52.04320202201097,
+     -2.3763662348284527
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04320202201097/-2.3763662348284527/m=52.04320202201097,-2.3763662348284527",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "14:00",
+    "end_time": "14:15"
+   }
+  ]
+ },
+ {
+  "id": 586,
+  "type": "performance",
+  "names": "Hacky Racers",
+  "pronouns": null,
+  "title": "Hacky Racers Race",
+  "description": "Come and watch bonkers DIY karts racing around the DIY track.",
+  "short_description": "Hacky Racers racing on the hour",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "hacky-racers-race",
+  "link": "https://www.emfcamp.org/schedule/2026/586-hacky-racers-race",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-19 15:00:00",
+    "end_date": "2026-07-19 15:15:00",
+    "venue": "Hacky Racers",
+    "latlon": [
+     52.04320202201097,
+     -2.3763662348284527
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04320202201097/-2.3763662348284527/m=52.04320202201097,-2.3763662348284527",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "15:00",
+    "end_time": "15:15"
+   }
+  ]
+ },
+ {
+  "id": 587,
+  "type": "performance",
+  "names": "Hacky Racers",
+  "pronouns": null,
+  "title": "Hacky Racers Race",
+  "description": "Come and watch bonkers DIY karts racing around the DIY track.",
+  "short_description": "Hacky Racers racing on the hour",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "hacky-racers-race",
+  "link": "https://www.emfcamp.org/schedule/2026/587-hacky-racers-race",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-19 16:00:00",
+    "end_date": "2026-07-19 16:15:00",
+    "venue": "Hacky Racers",
+    "latlon": [
+     52.04320202201097,
+     -2.3763662348284527
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04320202201097/-2.3763662348284527/m=52.04320202201097,-2.3763662348284527",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "16:00",
+    "end_time": "16:15"
+   }
+  ]
+ },
+ {
+  "id": 589,
+  "type": "workshop",
+  "names": "Tamsin Harcourt",
+  "pronouns": null,
+  "title": "How to Knit a Mitred Square for Blankets",
+  "description": "Confident knitters, come and find out about stash busting mitred square making. I have odds and ends of sock yarn and lots of double pointed needles.",
+  "short_description": "Learn how to use up yarn to knit a mitred square",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "how-to-knit-a-mitred-square-for-blankets",
+  "link": "https://www.emfcamp.org/schedule/2026/589-how-to-knit-a-mitred-square-for-blankets",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-19 14:00:00",
+    "end_date": "2026-07-19 15:00:00",
+    "venue": "Tekhnē-cal Village",
+    "latlon": [
+     52.04028161496325,
+     -2.378171671045834
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04028161496325/-2.378171671045834/m=52.04028161496325,-2.378171671045834",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "14:00",
+    "end_time": "15:00"
+   }
+  ],
+  "cost": "",
+  "equipment": "None, but you need to know how to knit. Bring yarn scraps if you have them.",
+  "age_range": "all",
+  "drop_in": true,
+  "family_friendly": null,
+  "content_note": null
+ },
+ {
+  "id": 592,
+  "type": "performance",
+  "names": "David Johnson & AMSAT-UK",
+  "pronouns": null,
+  "title": "AMSAT Amateur Radio Cubesat Pass (RS44 w/ Linear Transponder)",
+  "description": "Using the antennas set up at the AMSAT-UK village we'll track the amateur-built cubesat as it crosses our sky over EMF. The cubesat contains a voice repeater that will allow us to talk to other amateur radio station in the UK and nearby Europe by bouncing signals through the satellite.\r\n\r\nAll things going well we'll make a live contact or two! although as with all Amateur Radio... it's an experiment!",
+  "short_description": "Tracking, listening, and possibly talking through an amateur satellite as it passes over EMF.",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "amsat-amateur-radio-cubesat-pass-rs44-w-linear-transponder",
+  "link": "https://www.emfcamp.org/schedule/2026/592-amsat-amateur-radio-cubesat-pass-rs44-w-linear-transponder",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-18 13:42:00",
+    "end_date": "2026-07-18 14:02:00",
+    "venue": "AMSAT-UK",
+    "latlon": [
+     52.04074595832975,
+     -2.3760065182676726
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04074595832975/-2.3760065182676726/m=52.04074595832975,-2.3760065182676726",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "13:42",
+    "end_time": "14:02"
    }
   ]
  },
@@ -14947,6 +15183,274 @@
   "drop_in": true,
   "family_friendly": null,
   "content_note": null
+ },
+ {
+  "id": 576,
+  "type": "workshop",
+  "names": "@timb_machine",
+  "pronouns": null,
+  "title": "EMFCTF intro",
+  "description": "You don't need to come along to play. Simply toodle along to https://www.emfctf.org/ and register to take part. Whilst there are some more technical flags, we've designed it, so there is fun for all your famlly/friends.",
+  "short_description": "A brief intro to EMFCTF for those that want it.",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "emfctf-intro",
+  "link": "https://www.emfcamp.org/schedule/2026/576-emfctf-intro",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-18 16:00:00",
+    "end_date": "2026-07-18 16:30:00",
+    "venue": "EMFCTF",
+    "latlon": [
+     52.04313582680021,
+     -2.374011906049901
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04313582680021/-2.374011906049901/m=52.04313582680021,-2.374011906049901",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "16:00",
+    "end_time": "16:30"
+   }
+  ],
+  "cost": "",
+  "equipment": "Laptop for some challenges, mobile phone will suffice for others.",
+  "age_range": "all",
+  "drop_in": true,
+  "family_friendly": null,
+  "content_note": null
+ },
+ {
+  "id": 578,
+  "type": "performance",
+  "names": "Hacky Racers",
+  "pronouns": null,
+  "title": "Hacky Racers Race",
+  "description": "Come and watch bonkers DIY karts racing around the DIY track.",
+  "short_description": "Hacking Racers racing on the hour",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "hacky-racers-race",
+  "link": "https://www.emfcamp.org/schedule/2026/578-hacky-racers-race",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-18 12:00:00",
+    "end_date": "2026-07-18 12:15:00",
+    "venue": "Hacky Racers",
+    "latlon": [
+     52.04320202201097,
+     -2.3763662348284527
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04320202201097/-2.3763662348284527/m=52.04320202201097,-2.3763662348284527",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "12:00",
+    "end_time": "12:15"
+   }
+  ]
+ },
+ {
+  "id": 583,
+  "type": "performance",
+  "names": "Hacky Racers",
+  "pronouns": null,
+  "title": "Hacky Racers Race",
+  "description": "Come and watch bonkers DIY karts racing around the DIY track.",
+  "short_description": "Hacky Racers racing on the hour",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "hacky-racers-race",
+  "link": "https://www.emfcamp.org/schedule/2026/583-hacky-racers-race",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-19 11:00:00",
+    "end_date": "2026-07-19 11:15:00",
+    "venue": "Hacky Racers",
+    "latlon": [
+     52.04320202201097,
+     -2.3763662348284527
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04320202201097/-2.3763662348284527/m=52.04320202201097,-2.3763662348284527",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "11:00",
+    "end_time": "11:15"
+   }
+  ]
+ },
+ {
+  "id": 584,
+  "type": "performance",
+  "names": "Hacky Racers",
+  "pronouns": null,
+  "title": "Hacky Racers Race",
+  "description": "Come and watch bonkers DIY karts racing around the DIY track.",
+  "short_description": "Hacky Racers racing on the hour",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "hacky-racers-race",
+  "link": "https://www.emfcamp.org/schedule/2026/584-hacky-racers-race",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-19 12:00:00",
+    "end_date": "2026-07-19 12:15:00",
+    "venue": "Hacky Racers",
+    "latlon": [
+     52.04320202201097,
+     -2.3763662348284527
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04320202201097/-2.3763662348284527/m=52.04320202201097,-2.3763662348284527",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "12:00",
+    "end_time": "12:15"
+   }
+  ]
+ },
+ {
+  "id": 588,
+  "type": "performance",
+  "names": "Hacky Racers",
+  "pronouns": null,
+  "title": "Hacky Racers Final Race & Medal Presentation",
+  "description": "Come and watch bonkers DIY karts racing around the DIY track (if any are still holding together), after which we'll be awarding the winners medals. Don't forget to vote for your favourite.",
+  "short_description": "Hacky Racers final race!",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "hacky-racers-final-race-medal-presentation",
+  "link": "https://www.emfcamp.org/schedule/2026/588-hacky-racers-final-race-medal-presentation",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-19 17:00:00",
+    "end_date": "2026-07-19 17:25:00",
+    "venue": "Hacky Racers",
+    "latlon": [
+     52.04320202201097,
+     -2.3763662348284527
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04320202201097/-2.3763662348284527/m=52.04320202201097,-2.3763662348284527",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "17:00",
+    "end_time": "17:25"
+   }
+  ]
+ },
+ {
+  "id": 591,
+  "type": "performance",
+  "names": "David Johnson & AMSAT-UK",
+  "pronouns": null,
+  "title": "AMSAT Amateur Radio Cubesat Pass (RS44 w/ Linear Transponder)",
+  "description": "Using the antennas set up at the AMSAT-UK village we'll track the amateur-built cubesat as it crosses our sky over EMF. The cubesat contains a voice repeater that will allow us to talk to other amateur radio station in the UK and nearby Europe by bouncing signals through the satellite.\r\n\r\nAll things going well we'll make a live contact or two! although as with all Amateur Radio... it's an experiment!",
+  "short_description": "Tracking, listening, and possibly talking through an amateur satellite as it passes over EMF.",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "amsat-amateur-radio-cubesat-pass-rs44-w-linear-transponder",
+  "link": "https://www.emfcamp.org/schedule/2026/591-amsat-amateur-radio-cubesat-pass-rs44-w-linear-transponder",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-18 11:48:00",
+    "end_date": "2026-07-18 12:08:00",
+    "venue": "AMSAT-UK",
+    "latlon": [
+     52.04074595832975,
+     -2.3760065182676726
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04074595832975/-2.3760065182676726/m=52.04074595832975,-2.3760065182676726",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "11:48",
+    "end_time": "12:08"
+   }
+  ]
+ },
+ {
+  "id": 577,
+  "type": "workshop",
+  "names": "@timb_machine",
+  "pronouns": null,
+  "title": "EMFCTF intro",
+  "description": "You don't need to come along to play. Simply toodle along to https://www.emfctf.org/ and register to take part. Whilst there are some more technical flags, we've designed it, so there is fun for all your famlly/friends.",
+  "short_description": "A brief intro to EMFCTF for those that want it.",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "emfctf-intro",
+  "link": "https://www.emfcamp.org/schedule/2026/577-emfctf-intro",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-19 10:00:00",
+    "end_date": "2026-07-19 10:30:00",
+    "venue": "EMFCTF",
+    "latlon": [
+     52.04313582680021,
+     -2.374011906049901
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04313582680021/-2.374011906049901/m=52.04313582680021,-2.374011906049901",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "10:00",
+    "end_time": "10:30"
+   }
+  ],
+  "cost": "",
+  "equipment": "Laptop for some challenges, mobile phone will suffice for others.",
+  "age_range": "all",
+  "drop_in": true,
+  "family_friendly": null,
+  "content_note": null
+ },
+ {
+  "id": 579,
+  "type": "performance",
+  "names": "Hacky Racers",
+  "pronouns": null,
+  "title": "Hacky Racers Race",
+  "description": "Come and watch bonkers DIY karts racing around the DIY track.",
+  "short_description": "Hacky Racers racing on the hour",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "hacky-racers-race",
+  "link": "https://www.emfcamp.org/schedule/2026/579-hacky-racers-race",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-18 14:00:00",
+    "end_date": "2026-07-18 14:15:00",
+    "venue": "Hacky Racers",
+    "latlon": [
+     52.04320202201097,
+     -2.3763662348284527
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04320202201097/-2.3763662348284527/m=52.04320202201097,-2.3763662348284527",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "14:00",
+    "end_time": "14:15"
+   }
+  ]
  },
  {
   "id": 205,

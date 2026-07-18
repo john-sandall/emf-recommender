@@ -90,21 +90,6 @@
   "num_members": 28
  },
  {
-  "id": 8,
-  "name": "EMF CTF",
-  "url": "https://www.emfcamp.org/villages/2026/8-emf-ctf",
-  "external_url": "https://www.emfctf.org/",
-  "description": "Per normal, we will be about.",
-  "location": {
-   "type": "Point",
-   "coordinates": [
-    -2.374011906049901,
-    52.04313582680021
-   ]
-  },
-  "num_members": 1
- },
- {
   "id": 97,
   "name": "Dreamcat & Friends",
   "url": "https://www.emfcamp.org/villages/2026/97-dreamcat-friends",
@@ -903,6 +888,21 @@
   "external_url": "",
   "description": "",
   "location": null,
+  "num_members": 1
+ },
+ {
+  "id": 8,
+  "name": "EMFCTF",
+  "url": "https://www.emfcamp.org/villages/2026/8-emfctf",
+  "external_url": "https://www.emfctf.org/",
+  "description": "Per normal, we will be about. EMFCTF is a combined physical CTF and scavenger hunt. Challenges include IoT, OTSINT and more.",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.374011906049901,
+    52.04313582680021
+   ]
+  },
   "num_members": 1
  },
  {
