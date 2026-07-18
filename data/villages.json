@@ -1251,6 +1251,21 @@
   "num_members": 19
  },
  {
+  "id": 177,
+  "name": "Pete's Fan Club",
+  "url": "https://www.emfcamp.org/villages/2026/177-petes-fan-club",
+  "external_url": "https://facebook.com/PeteThePigeon/",
+  "description": "Pigeon fanciers and home of the loyal followers of Pete the Pigeon.",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.374848423523048,
+    52.043419456576146
+   ]
+  },
+  "num_members": 1
+ },
+ {
   "id": 28,
   "name": "! Glastonledburyshire-on-Severn !",
   "url": "https://www.emfcamp.org/villages/2026/28-glastonledburyshire-on-severn",
