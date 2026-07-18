@@ -12301,38 +12301,6 @@
   "content_note": ""
  },
  {
-  "id": 505,
-  "type": "meetup",
-  "names": "Ash Brockwell",
-  "pronouns": null,
-  "title": "Electropoetic Friends",
-  "description": "TBC",
-  "short_description": "TBC",
-  "video_privacy": "public",
-  "is_fave": false,
-  "official_content": false,
-  "slug": "electropoetic-friends",
-  "link": "https://www.emfcamp.org/schedule/2026/505-electropoetic-friends",
-  "occurrences": [
-   {
-    "occurrence_num": 1,
-    "start_date": "2026-07-19 09:00:00",
-    "end_date": "2026-07-19 10:50:00",
-    "venue": "Bodgeham-on-Wye",
-    "latlon": [
-     52.04122799874966,
-     -2.3756540184625123
-    ],
-    "map_link": "https://map.emfcamp.org/#18.5/52.04122799874966/-2.3756540184625123/m=52.04122799874966,-2.3756540184625123",
-    "uses_lottery": false,
-    "video_privacy": "public",
-    "recording_lost": false,
-    "start_time": "09:00",
-    "end_time": "10:50"
-   }
-  ]
- },
- {
   "id": 506,
   "type": "talk",
   "names": "Martin Hamilton",
@@ -12403,6 +12371,38 @@
   "drop_in": true,
   "family_friendly": false,
   "content_note": "Depending on preference might involve hydrogen peroxide (diluted) to set the deep blue, but not required if attendees are not comfortable using it."
+ },
+ {
+  "id": 505,
+  "type": "meetup",
+  "names": "Ash Brockwell",
+  "pronouns": null,
+  "title": "Electropoetic Friends",
+  "description": "Poets' meet-up and poetry open mic event hosted by queer indie publisher Reconnecting Rainbows Press. Come along and share your own poems, or just listen - you’re welcome to bring your breakfast! Arrive from 09.00 to sign up for a slot and chat with the co-founders of RRP. The performances will start at 09.20. No experience required, and everything is poetry!\r\n",
+  "short_description": "Poets' meet-up and poetry open mic event hosted by queer indie publisher Reconnecting Rainbows Press. ",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "electropoetic-friends",
+  "link": "https://www.emfcamp.org/schedule/2026/505-electropoetic-friends",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-19 09:00:00",
+    "end_date": "2026-07-19 10:50:00",
+    "venue": "Bodgeham-on-Wye",
+    "latlon": [
+     52.04122799874966,
+     -2.3756540184625123
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04122799874966/-2.3756540184625123/m=52.04122799874966,-2.3756540184625123",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "09:00",
+    "end_time": "10:50"
+   }
+  ]
  },
  {
   "id": 507,
@@ -14909,6 +14909,44 @@
     "end_time": "23:00"
    }
   ]
+ },
+ {
+  "id": 574,
+  "type": "workshop",
+  "names": "Dolica",
+  "pronouns": null,
+  "title": "Pocket Tarot Readings",
+  "description": "You are probably carrying a pocket tarot deck with you. I will show you how to use it.",
+  "short_description": "",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "pocket-tarot-readings",
+  "link": "https://www.emfcamp.org/schedule/2026/574-pocket-tarot-readings",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-18 22:00:00",
+    "end_date": "2026-07-18 22:30:00",
+    "venue": "Lounge",
+    "latlon": [
+     52.04190332,
+     -2.37819773
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04190332/-2.37819773/m=52.04190332,-2.37819773",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "22:00",
+    "end_time": "22:30"
+   }
+  ],
+  "cost": "",
+  "equipment": "Whatever you have on you + a question.",
+  "age_range": "all",
+  "drop_in": true,
+  "family_friendly": null,
+  "content_note": null
  },
  {
   "id": 205,
