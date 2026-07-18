@@ -16117,6 +16117,40 @@
   ]
  },
  {
+  "id": 618,
+  "type": "talk",
+  "names": "Robin",
+  "pronouns": null,
+  "title": "CatGPT - Guide to reanimating a dead cat ",
+  "description": "When Robin’s beloved kitty Lentil died it was just a new beginning.\r\nThe true story of a dead cat mixed with analogies synthesisers, projections and RFID.\r\nRobin and L3NT1L have been from Edinburgh to Japan on a quest tor feline rejuvenation.\r\nCome see what happens when taxidermy fails and ingenuity prevails.\r\n😻",
+  "short_description": "CatGPT - Dead cat meets robotics",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "catgpt-guide-to-reanimating-a-dead-cat",
+  "link": "https://www.emfcamp.org/schedule/2026/618-catgpt-guide-to-reanimating-a-dead-cat",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-19 18:00:00",
+    "end_date": "2026-07-19 19:00:00",
+    "venue": "Brighton Consulate",
+    "latlon": [
+     52.04062532230671,
+     -2.375946009297593
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04062532230671/-2.375946009297593/m=52.04062532230671,-2.375946009297593",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "18:00",
+    "end_time": "19:00"
+   }
+  ],
+  "family_friendly": null,
+  "content_note": null
+ },
+ {
   "id": 610,
   "type": "meetup",
   "names": "Ewan, Sue, Joe",
