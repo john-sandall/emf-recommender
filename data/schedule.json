@@ -4362,38 +4362,6 @@
   ]
  },
  {
-  "id": 312,
-  "type": "meetup",
-  "names": "GeekyTim",
-  "pronouns": null,
-  "title": "Neurodiversity Gathering",
-  "description": "A gathering for neurodivergent lifeforms (e.g. Autism, ADHD, LGBTQIA+, dyscalculia, dyslexia, etc), whether diagnosed, awaiting diagnosis, suspects divergence, has offspring who are/suspect are, or is just curious about what it is like being a square peg in a round hole world (or a round peg in a square hole world!).  No judgements made. No assumptions made.  Talk to like-minded people who understand the joys and struggles.",
-  "short_description": "Gathering for anyone interested in Neurodiversity",
-  "video_privacy": "public",
-  "is_fave": false,
-  "official_content": false,
-  "slug": "neurodiversity-gathering",
-  "link": "https://www.emfcamp.org/schedule/2026/312-neurodiversity-gathering",
-  "occurrences": [
-   {
-    "occurrence_num": 1,
-    "start_date": "2026-07-18 14:00:00",
-    "end_date": "2026-07-18 16:00:00",
-    "venue": "Outside the Bar",
-    "latlon": [
-     52.0413622,
-     -2.3780529
-    ],
-    "map_link": "https://map.emfcamp.org/#18.5/52.0413622/-2.3780529/m=52.0413622,-2.3780529",
-    "uses_lottery": false,
-    "video_privacy": "public",
-    "recording_lost": false,
-    "start_time": "14:00",
-    "end_time": "16:00"
-   }
-  ]
- },
- {
   "id": 407,
   "type": "talk",
   "names": "Scorcher",
@@ -4456,6 +4424,38 @@
     "recording_lost": false,
     "start_time": "14:00",
     "end_time": "14:45"
+   }
+  ]
+ },
+ {
+  "id": 312,
+  "type": "meetup",
+  "names": "GeekyTim",
+  "pronouns": null,
+  "title": "Neurodiversity Gathering",
+  "description": "A gathering for neurodivergent lifeforms (e.g. Autism, ADHD, LGBTQIA+, dyscalculia, dyslexia, etc), whether diagnosed, awaiting diagnosis, suspects divergence, has offspring who are/suspect are, or is just curious about what it is like being a square peg in a round hole world (or a round peg in a square hole world!).  No judgements made. No assumptions made.  Talk to like-minded people who understand the joys and struggles.\r\n\r\nLook for the signs in the tent between the bar and food. ",
+  "short_description": "Gathering for anyone interested in Neurodiversity",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "neurodiversity-gathering",
+  "link": "https://www.emfcamp.org/schedule/2026/312-neurodiversity-gathering",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-18 14:00:00",
+    "end_date": "2026-07-18 16:00:00",
+    "venue": "Outside the Bar",
+    "latlon": [
+     52.0413622,
+     -2.3780529
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.0413622/-2.3780529/m=52.0413622,-2.3780529",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "14:00",
+    "end_time": "16:00"
    }
   ]
  },
@@ -13575,7 +13575,7 @@
  {
   "id": 526,
   "type": "performance",
-  "names": "Ben Cartwright",
+  "names": "Simon C",
   "pronouns": "",
   "title": "Planetarium Show",
   "description": "Pot luck choice of “Solar System Deep Dive”, “A Live Tour of the Solar System”, “Sun, Moon and Earth”, “The Infinite Universe”, “The Life of Stars” or “The Sky Tonight”.",
@@ -15181,6 +15181,38 @@
   "content_note": null
  },
  {
+  "id": 604,
+  "type": "performance",
+  "names": "Various Artists",
+  "pronouns": "",
+  "title": "Installation Demos",
+  "description": "A mixed set of interesting installations being demonstrated at the Arts tent.",
+  "short_description": "A mixed set of interesting installations being demonstrated at the Arts tent",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": true,
+  "slug": "installation-demos",
+  "link": "https://www.emfcamp.org/schedule/2026/604-installation-demos",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-18 13:00:00",
+    "end_date": "2026-07-18 15:00:00",
+    "venue": "Arts",
+    "latlon": [
+     52.041029,
+     -2.377984
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.041029/-2.377984/m=52.041029,-2.377984",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "13:00",
+    "end_time": "15:00"
+   }
+  ]
+ },
+ {
   "id": 574,
   "type": "workshop",
   "names": "Dolica",
@@ -15581,6 +15613,38 @@
   "drop_in": true,
   "family_friendly": null,
   "content_note": null
+ },
+ {
+  "id": 603,
+  "type": "meetup",
+  "names": "Dolica",
+  "pronouns": null,
+  "title": "Creative Tech Hangout",
+  "description": "A low-key gathering for those who are interested in or work with creative technology, tech-art, computational arts, creative coding, ~*the intersection of art and technology*~ etc.",
+  "short_description": "",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "creative-tech-hangout",
+  "link": "https://www.emfcamp.org/schedule/2026/603-creative-tech-hangout",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-19 13:00:00",
+    "end_date": "2026-07-19 13:45:00",
+    "venue": "Lounge",
+    "latlon": [
+     52.04190332,
+     -2.37819773
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04190332/-2.37819773/m=52.04190332,-2.37819773",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "13:00",
+    "end_time": "13:45"
+   }
+  ]
  },
  {
   "id": 577,
