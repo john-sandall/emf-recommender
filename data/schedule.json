@@ -15513,38 +15513,6 @@
   ]
  },
  {
-  "id": 597,
-  "type": "performance",
-  "names": "David Johnson & AMSAT-UK",
-  "pronouns": null,
-  "title": "Join AMSAT-UK for a Space Station Pass (with use of the Amateur Radio voice repeater on board)",
-  "description": "As the International Space Station (ISS) passes over us here at EMF we will track it with our antennas, receiving the amateur radio repeater which is on board. We have radio equipment to allow us to also transmit to it and so we should be able to talk to other Amateur Radio ground stations who can see the satellite at the same time.\r\n\r\nAll things going well we'll make a live contact or two across northern Europe! although as with all Amateur Radio... it's an experiment!\r\n\r\nThe station on this pass will likely be visible by eye too!",
-  "short_description": "Tracking the International Space Station, listening on the amateur radio downlink, and possibly bouncing signals through it to other stations in Europe!",
-  "video_privacy": "public",
-  "is_fave": false,
-  "official_content": false,
-  "slug": "join-amsat-uk",
-  "link": "https://www.emfcamp.org/schedule/2026/597-join-amsat-uk",
-  "occurrences": [
-   {
-    "occurrence_num": 1,
-    "start_date": "2026-07-18 21:58:00",
-    "end_date": "2026-07-18 22:18:00",
-    "venue": "AMSAT-UK",
-    "latlon": [
-     52.04074595832975,
-     -2.3760065182676726
-    ],
-    "map_link": "https://map.emfcamp.org/#18.5/52.04074595832975/-2.3760065182676726/m=52.04074595832975,-2.3760065182676726",
-    "uses_lottery": false,
-    "video_privacy": "public",
-    "recording_lost": false,
-    "start_time": "21:58",
-    "end_time": "22:18"
-   }
-  ]
- },
- {
   "id": 591,
   "type": "performance",
   "names": "David Johnson & AMSAT-UK",
@@ -15713,38 +15681,6 @@
     "recording_lost": false,
     "start_time": "14:00",
     "end_time": "14:15"
-   }
-  ]
- },
- {
-  "id": 596,
-  "type": "performance",
-  "names": "David Johnson & AMSAT-UK",
-  "pronouns": null,
-  "title": "Join AMSAT-UK for a Space Station Pass (with use of the Amateur Radio voice repeater on board)",
-  "description": "As the International Space Station (ISS) passes over us here at EMF we will track it with our antennas, receiving the amateur radio repeater which is on board. We have radio equipment to allow us to also transmit to it and so we should be able to talk to other Amateur Radio ground stations who can see the satellite at the same time.\r\n\r\nAll things going well we'll make a live contact or two across northern Europe! although as with all Amateur Radio... it's an experiment!\r\n\r\nThe station on this pass will likely not be visible by eye as the sun will still be too bright.",
-  "short_description": "Tracking the International Space Station, listening on the amateur radio downlink, and possibly bouncing signals through it to other stations in Europe!",
-  "video_privacy": "public",
-  "is_fave": false,
-  "official_content": false,
-  "slug": "join-amsat-uk",
-  "link": "https://www.emfcamp.org/schedule/2026/596-join-amsat-uk",
-  "occurrences": [
-   {
-    "occurrence_num": 1,
-    "start_date": "2026-07-18 20:20:00",
-    "end_date": "2026-07-18 20:45:00",
-    "venue": "AMSAT-UK",
-    "latlon": [
-     52.04074595832975,
-     -2.3760065182676726
-    ],
-    "map_link": "https://map.emfcamp.org/#18.5/52.04074595832975/-2.3760065182676726/m=52.04074595832975,-2.3760065182676726",
-    "uses_lottery": false,
-    "video_privacy": "public",
-    "recording_lost": false,
-    "start_time": "20:20",
-    "end_time": "20:45"
    }
   ]
  },
@@ -16051,6 +15987,72 @@
   ]
  },
  {
+  "id": 612,
+  "type": "talk",
+  "names": "Jason Ratcliffe",
+  "pronouns": null,
+  "title": "Nocturnation: Open-source crowd lighting",
+  "description": "I've been playing around with some LED wristbands from the Coldplay tour that I saved from e-waste, bringing them to life and getting them to respond to music. I've extended the concept further, and now it includes a protocol and an app that lets Tildagons and other ESP-32 devices join in too!\r\n\r\nWe can now control fleets of Tildagons and other ESP-32 devices running the Nocturnation app to respond to the lighting desk via DMX at a stage or dynamically respond to a director ESP-32 device!\r\n\r\nWe will talk about how we went from bringing a single Pixmob wristband to a full suite of open-source tools that enable crowdsourced lighting at scale, and include a demo. The technology is now deployed on Stage D at EMF.\r\n\r\nnocturnation.net",
+  "short_description": "",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "nocturnation-open-source-crowd-lighting",
+  "link": "https://www.emfcamp.org/schedule/2026/612-nocturnation-open-source-crowd-lighting",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-18 21:00:00",
+    "end_date": "2026-07-18 22:00:00",
+    "venue": "Leigh Hackspace",
+    "latlon": [
+     52.041337828989725,
+     -2.376190690458543
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.041337828989725/-2.376190690458543/m=52.041337828989725,-2.376190690458543",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "21:00",
+    "end_time": "22:00"
+   }
+  ],
+  "family_friendly": null,
+  "content_note": null
+ },
+ {
+  "id": 613,
+  "type": "performance",
+  "names": "Protest Props / Project Firewall / Laser Lake",
+  "pronouns": "",
+  "title": "The Big Burn",
+  "description": "Protest Props build props for the social movement. Over the festival they've been making an effigy with your help. Come see it get the send off it deserves, with pyro by `standby, please` and displays by installations Project Firewall and Laser Lake.",
+  "short_description": "Come help us celebrate the last night of the festival with a huge fire party",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": true,
+  "slug": "the-big-burn",
+  "link": "https://www.emfcamp.org/schedule/2026/613-the-big-burn",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-19 22:00:00",
+    "end_date": "2026-07-19 22:20:00",
+    "venue": "By Null Sector",
+    "latlon": [
+     52.043212,
+     -2.377186
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.043212/-2.377186/m=52.043212,-2.377186",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "22:00",
+    "end_time": "22:20"
+   }
+  ]
+ },
+ {
   "id": 610,
   "type": "meetup",
   "names": "Ewan, Sue, Joe",
@@ -16115,6 +16117,38 @@
   ],
   "family_friendly": false,
   "content_note": ""
+ },
+ {
+  "id": 614,
+  "type": "meetup",
+  "names": "Brighton Consulate",
+  "pronouns": null,
+  "title": "JoustMania!",
+  "description": "Come play JoustMania, a physical open-air game for 2 to 10 people where you must eliminate your opponents by knocking their LED controller, while defending your own!",
+  "short_description": "Come play JoustMania, a physical open-air game for 2 to 10 people where you must eliminate your opponents by knocking their LED controller, while defending your own!",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "joustmania",
+  "link": "https://www.emfcamp.org/schedule/2026/614-joustmania",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-18 21:30:00",
+    "end_date": "2026-07-18 22:30:00",
+    "venue": "Outside the Bar",
+    "latlon": [
+     52.0413622,
+     -2.3780529
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.0413622/-2.3780529/m=52.0413622,-2.3780529",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "21:30",
+    "end_time": "22:30"
+   }
+  ]
  },
  {
   "id": 206,
