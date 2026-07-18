@@ -9847,44 +9847,6 @@
   ]
  },
  {
-  "id": 427,
-  "type": "workshop",
-  "names": "Boris Nimcevic",
-  "pronouns": null,
-  "title": "Knitting Blinky Badge",
-  "description": "Learn (or practice) SMD soldering by making a blinky knitting badge that you can wear. Six LEDs are powered by a coin cell. The brooch pin doubles as the power switch, so there's no fiddly button: put it on, it glows.\r\n\r\nCost:\r\n7£ ",
-  "short_description": "",
-  "video_privacy": "public",
-  "is_fave": false,
-  "official_content": false,
-  "slug": "knitting-blinky-badge",
-  "link": "https://www.emfcamp.org/schedule/2026/427-knitting-blinky-badge",
-  "occurrences": [
-   {
-    "occurrence_num": 1,
-    "start_date": "2026-07-18 19:00:00",
-    "end_date": "2026-07-18 19:50:00",
-    "venue": "Workshop 3 (Hardware Hacking Area)",
-    "latlon": [
-     52.04179935,
-     -2.37539965
-    ],
-    "map_link": "https://map.emfcamp.org/#18.5/52.04179935/-2.37539965/m=52.04179935,-2.37539965",
-    "uses_lottery": false,
-    "video_privacy": "public",
-    "recording_lost": false,
-    "start_time": "19:00",
-    "end_time": "19:50"
-   }
-  ],
-  "cost": "£7",
-  "equipment": "",
-  "age_range": "all",
-  "drop_in": null,
-  "family_friendly": null,
-  "content_note": null
- },
- {
   "id": 329,
   "type": "workshop",
   "names": "Foundry Zero",
@@ -9917,6 +9879,44 @@
   ],
   "cost": "",
   "equipment": "Laptop, sense of humour",
+  "age_range": "all",
+  "drop_in": true,
+  "family_friendly": null,
+  "content_note": null
+ },
+ {
+  "id": 427,
+  "type": "workshop",
+  "names": "Boris Nimcevic",
+  "pronouns": null,
+  "title": "Knitting Blinky Badge",
+  "description": "Learn (or practice) SMD soldering by making a blinky knitting badge that you can wear. Six LEDs are powered by a coin cell. The brooch pin doubles as the power switch, so there's no fiddly button: put it on, it glows.\r\n\r\nCost:\r\n7£ ",
+  "short_description": "",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "knitting-blinky-badge",
+  "link": "https://www.emfcamp.org/schedule/2026/427-knitting-blinky-badge",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-18 19:00:00",
+    "end_date": "2026-07-18 19:50:00",
+    "venue": "Workshop 3 (Hardware Hacking Area)",
+    "latlon": [
+     52.04179935,
+     -2.37539965
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04179935/-2.37539965/m=52.04179935,-2.37539965",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "19:00",
+    "end_time": "19:50"
+   }
+  ],
+  "cost": "£7",
+  "equipment": "",
   "age_range": "all",
   "drop_in": true,
   "family_friendly": null,
@@ -10310,7 +10310,7 @@
   "cost": "£7",
   "equipment": "",
   "age_range": "all",
-  "drop_in": null,
+  "drop_in": true,
   "family_friendly": null,
   "content_note": null
  },
