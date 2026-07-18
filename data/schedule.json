@@ -15823,6 +15823,70 @@
   "content_note": null
  },
  {
+  "id": 615,
+  "type": "performance",
+  "names": "David Johnson & AMSAT-UK",
+  "pronouns": null,
+  "title": "Join AMSAT-UK for a Space Station Pass (with use of the Amateur Radio voice repeater on board)",
+  "description": "As the International Space Station (ISS) passes over us here at EMF we will track it with our antennas, receiving the amateur radio repeater which is on board. We have radio equipment to allow us to also transmit to it and so we should be able to talk to other Amateur Radio ground stations who can see the satellite at the same time.\r\n\r\nAll things going well we'll make a live contact or two across northern Europe! although as with all Amateur Radio... it's an experiment!\r\n\r\n(Apologies for deleting the previous event in the schedule, we had an equipment problem, that we've now fixed!)",
+  "short_description": "Tracking the International Space Station, listening on the amateur radio downlink, and possibly bouncing signals through it to other stations in Europe!",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "join-amsat-uk",
+  "link": "https://www.emfcamp.org/schedule/2026/615-join-amsat-uk",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-18 21:55:00",
+    "end_date": "2026-07-18 22:20:00",
+    "venue": "AMSAT-UK",
+    "latlon": [
+     52.04074595832975,
+     -2.3760065182676726
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04074595832975/-2.3760065182676726/m=52.04074595832975,-2.3760065182676726",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "21:55",
+    "end_time": "22:20"
+   }
+  ]
+ },
+ {
+  "id": 616,
+  "type": "performance",
+  "names": "David Johnson & AMSAT-UK",
+  "pronouns": null,
+  "title": "Join AMSAT-UK for a Space Station Pass (with use of the Amateur Radio voice repeater on board)",
+  "description": "As the International Space Station (ISS) passes over us here at EMF we will track it with our antennas, receiving the amateur radio repeater which is on board. We have radio equipment to allow us to also transmit to it and so we should be able to talk to other Amateur Radio ground stations who can see the satellite at the same time.\r\n\r\nAll things going well we'll make a live contact or two across northern Europe! although as with all Amateur Radio... it's an experiment!\r\n\r\n(Apologies for deleting previous events from the schedule, we had an equipment issue, that we've now fixed!)",
+  "short_description": "Tracking the International Space Station, listening on the amateur radio downlink, and possibly bouncing signals through it to other stations in Europe!",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "join-amsat-uk",
+  "link": "https://www.emfcamp.org/schedule/2026/616-join-amsat-uk",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-18 23:35:00",
+    "end_date": "2026-07-18 23:55:00",
+    "venue": "AMSAT-UK",
+    "latlon": [
+     52.04074595832975,
+     -2.3760065182676726
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04074595832975/-2.3760065182676726/m=52.04074595832975,-2.3760065182676726",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "23:35",
+    "end_time": "23:55"
+   }
+  ]
+ },
+ {
   "id": 205,
   "type": "talk",
   "names": "Tim Jacobs (aka mitxela)",
@@ -16085,6 +16149,38 @@
   ]
  },
  {
+  "id": 617,
+  "type": "meetup",
+  "names": "Andrew",
+  "pronouns": null,
+  "title": "Free Yerba Mate Tasting",
+  "description": "Our MakerSpace brewer was given some Yerba extract and asked to create a beverage ... come and taste his creation, we promise it tastes nicer than Club Mate !",
+  "short_description": "Our MakerSpace brewer was given some Yerba extract and asked to create a beverage ... come and taste his creation, we promise it tastes nicer than Club Mate !",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "free-yerba-mate-tasting",
+  "link": "https://www.emfcamp.org/schedule/2026/617-free-yerba-mate-tasting",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-18 22:00:00",
+    "end_date": "2026-07-19 00:00:00",
+    "venue": "SHM  Game Dome - Surrey and Hampshire MakerSpace",
+    "latlon": [
+     52.043515132192766,
+     -2.3753305046948583
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.043515132192766/-2.3753305046948583/m=52.043515132192766,-2.3753305046948583",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "22:00",
+    "end_time": "00:00"
+   }
+  ]
+ },
+ {
   "id": 236,
   "type": "talk",
   "names": "Autumn Tulloch",
@@ -16121,7 +16217,7 @@
  {
   "id": 614,
   "type": "meetup",
-  "names": "Brighton Consulate",
+  "names": "Olly (Brighton Consulate)",
   "pronouns": null,
   "title": "JoustMania!",
   "description": "Come play JoustMania, a physical open-air game for 2 to 10 people where you must eliminate your opponents by knocking their LED controller, while defending your own!",
