@@ -95,7 +95,13 @@
   "url": "https://www.emfcamp.org/villages/2026/8-emf-ctf",
   "external_url": "https://www.emfctf.org/",
   "description": "Per normal, we will be about.",
-  "location": null,
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.374011906049901,
+    52.04313582680021
+   ]
+  },
   "num_members": 1
  },
  {
