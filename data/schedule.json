@@ -7595,7 +7595,7 @@
   "names": "Heidi Blanton",
   "pronouns": null,
   "title": "Genealogy and Family History Enthusiasts Meetup",
-  "description": "Interested in your ancestors, old records, transforming family stories into detailed narratives, or genetic genealogy? Join other EMF campers for an informal gathering to discuss genealogy tools, research strategies, and creative ways to share and visualise family history, or to help break down brick walls. Whether you’re a beginner or an experienced genealogist, come share tips and connect with others passionate about exploring the past.\r\n\r\nNote: I’ve moved this from our village to the bar, where we can hopefully accommodate more people seated.",
+  "description": "Heidi has a table inside the Robot Arms. I'm wearing an olive green T-shirt! Come join me :)\r\n\r\n3262 if you have trouble finding me. \r\n\r\nInterested in your ancestors, old records, transforming family stories into detailed narratives, or genetic genealogy? Join other EMF campers for an informal gathering to discuss genealogy tools, research strategies, and creative ways to share and visualise family history, or to help break down brick walls. Whether you’re a beginner or an experienced genealogist, come share tips and connect with others passionate about exploring the past.\r\n\r\nNote: I’ve moved this from our village to the bar, where we can hopefully accommodate more people seated.",
   "short_description": "Meet other EMF campers who love genealogy and family history to swap research tips, tools, and creative ways to share family stories.",
   "video_privacy": "public",
   "is_fave": false,
@@ -7607,12 +7607,12 @@
     "occurrence_num": 1,
     "start_date": "2026-07-18 15:00:00",
     "end_date": "2026-07-18 16:00:00",
-    "venue": "Robot Arms (Bar)",
+    "venue": "Forge & Craft / HackWimbledon",
     "latlon": [
-     52.0413752,
-     -2.3775637
+     52.04324498273803,
+     -2.374558309851807
     ],
-    "map_link": "https://map.emfcamp.org/#18.5/52.0413752/-2.3775637/m=52.0413752,-2.3775637",
+    "map_link": "https://map.emfcamp.org/#18.5/52.04324498273803/-2.374558309851807/m=52.04324498273803,-2.374558309851807",
     "uses_lottery": false,
     "video_privacy": "public",
     "recording_lost": false,
@@ -9428,12 +9428,12 @@
     "occurrence_num": 1,
     "start_date": "2026-07-18 14:00:00",
     "end_date": "2026-07-18 16:00:00",
-    "venue": "NullSector Night Market",
+    "venue": "NullSector",
     "latlon": [
-     52.0435045,
-     -2.3769458
+     52.04356,
+     -2.37692
     ],
-    "map_link": "https://map.emfcamp.org/#18.5/52.0435045/-2.3769458/m=52.0435045,-2.3769458",
+    "map_link": "https://map.emfcamp.org/#18.5/52.04356/-2.37692/m=52.04356,-2.37692",
     "uses_lottery": false,
     "video_privacy": "none",
     "recording_lost": false,
@@ -9444,12 +9444,12 @@
     "occurrence_num": 2,
     "start_date": "2026-07-19 10:00:00",
     "end_date": "2026-07-19 12:00:00",
-    "venue": "NullSector Night Market",
+    "venue": "NullSector",
     "latlon": [
-     52.0435045,
-     -2.3769458
+     52.04356,
+     -2.37692
     ],
-    "map_link": "https://map.emfcamp.org/#18.5/52.0435045/-2.3769458/m=52.0435045,-2.3769458",
+    "map_link": "https://map.emfcamp.org/#18.5/52.04356/-2.37692/m=52.04356,-2.37692",
     "uses_lottery": false,
     "video_privacy": "none",
     "recording_lost": false,
@@ -15811,6 +15811,44 @@
     "end_time": "22:00"
    }
   ],
+  "family_friendly": null,
+  "content_note": null
+ },
+ {
+  "id": 605,
+  "type": "workshop",
+  "names": "Andrew",
+  "pronouns": null,
+  "title": "Relaxing Model Painting",
+  "description": "Model painting is pretty relaxing so why not try it in a field painting with a beginner! I'll have a few spare models and brushes if you want to chill and paint.",
+  "short_description": "Relax and paint models with a beginner",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "relaxing-model-painting",
+  "link": "https://www.emfcamp.org/schedule/2026/605-relaxing-model-painting",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-19 12:00:00",
+    "end_date": "2026-07-19 13:30:00",
+    "venue": "Nottingham Hackspace",
+    "latlon": [
+     52.04198458781886,
+     -2.3755091779832753
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04198458781886/-2.3755091779832753/m=52.04198458781886,-2.3755091779832753",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "12:00",
+    "end_time": "13:30"
+   }
+  ],
+  "cost": "",
+  "equipment": "Not mandatory but useful if you've got your own brushes",
+  "age_range": "all",
+  "drop_in": true,
   "family_friendly": null,
   "content_note": null
  },
