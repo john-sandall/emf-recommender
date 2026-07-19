@@ -16160,6 +16160,38 @@
   "content_note": null
  },
  {
+  "id": 624,
+  "type": "meetup",
+  "names": "Jenny Mulholland",
+  "pronouns": null,
+  "title": "Chess",
+  "description": "Just turn up and play. Beginners welcome to come and learn - ask for Jenny (or others will probably teach too!). Boards kindly lent by Hammersmith Chess Club https://hammerchess.co.uk",
+  "short_description": "Chess in the lounge",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "chess",
+  "link": "https://www.emfcamp.org/schedule/2026/624-chess",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-19 11:00:00",
+    "end_date": "2026-07-19 18:00:00",
+    "venue": "Lounge",
+    "latlon": [
+     52.04190332,
+     -2.37819773
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04190332/-2.37819773/m=52.04190332,-2.37819773",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "11:00",
+    "end_time": "18:00"
+   }
+  ]
+ },
+ {
   "id": 610,
   "type": "meetup",
   "names": "Ewan, Sue, Joe",
