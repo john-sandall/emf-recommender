@@ -19487,7 +19487,7 @@
    {
     "occurrence_num": 1,
     "start_date": "2026-07-19 22:00:00",
-    "end_date": "2026-07-19 22:30:00",
+    "end_date": "2026-07-19 23:30:00",
     "venue": "Edinburgh Hacklab",
     "latlon": [
      52.042542659739524,
@@ -19499,7 +19499,7 @@
     "video_privacy": "public",
     "recording_lost": false,
     "start_time": "22:00",
-    "end_time": "22:30"
+    "end_time": "23:30"
    }
   ],
   "cost": "",
