@@ -1750,38 +1750,6 @@
   "content_note": null
  },
  {
-  "id": 434,
-  "type": "performance",
-  "names": "You?",
-  "pronouns": null,
-  "title": "CAD Showdown, presented by Hardware Hacking Area",
-  "description": "Show off your awesome CAD skills in this competition. This is the new and upcoming esports category. We will do mCAD and eCAD, open-source tools only:\r\n\r\n1. KiCad\r\n2. FreeCAD\r\n\r\nTo qualify, please solve the sample challenges linked below (coming soon). Stop the time you need and submit it at the registration. As a rule of thumb, you should be able to finish them in less than 10 minutes: because that's how long a round will be.\r\n\r\nTournament format is yet to be decided depending on the number of contestants.\r\n\r\nYou are also welcome to just watch the matches. We will have professional live commentary!",
-  "short_description": "What if CAD were esports?",
-  "video_privacy": "public",
-  "is_fave": false,
-  "official_content": false,
-  "slug": "cad-showdown-presented-by-hardware-hacking-area",
-  "link": "https://www.emfcamp.org/schedule/2026/434-cad-showdown-presented-by-hardware-hacking-area",
-  "occurrences": [
-   {
-    "occurrence_num": 1,
-    "start_date": "2026-07-19 17:00:00",
-    "end_date": "2026-07-19 19:00:00",
-    "venue": "Bodgeham-on-Wye",
-    "latlon": [
-     52.04122799874966,
-     -2.3756540184625123
-    ],
-    "map_link": "https://map.emfcamp.org/#18.5/52.04122799874966/-2.3756540184625123/m=52.04122799874966,-2.3756540184625123",
-    "uses_lottery": false,
-    "video_privacy": "public",
-    "recording_lost": false,
-    "start_time": "17:00",
-    "end_time": "19:00"
-   }
-  ]
- },
- {
   "id": 57,
   "type": "talk",
   "names": "Thomas Fischer",
@@ -16522,6 +16490,38 @@
     "recording_lost": false,
     "start_time": "19:45",
     "end_time": "19:55"
+   }
+  ]
+ },
+ {
+  "id": 434,
+  "type": "performance",
+  "names": "You?",
+  "pronouns": null,
+  "title": "CAD Showdown, presented by Hardware Hacking Area",
+  "description": "Show off your awesome CAD skills in this competition. This is the new and upcoming esports category. We will do mCAD and eCAD, open-source tools only:\r\n\r\n- KiCad\r\n- FreeCAD\r\n\r\nSign up by adding your name in this pad. We have no clue how much people are interested in this, so perhaps by signing up you will have a default win and be the champion of #EMFCamp CAD Showdown!\r\n\r\nIf you want to practice, there are example challenges linked below. Ideally record the time you need to solve them, so we can group with participants that have similar skill in the first round.\r\n\r\nTournament format is yet to be decided depending on the number of contestants.\r\n\r\nYou are also welcome to just watch the matches. We will have professional live commentary!\r\n\r\nMore details and signup here: https://md.ccc.ac/EMF2026-CAD-Showdown",
+  "short_description": "What if CAD were esports?",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "cad-showdown-presented-by-hardware-hacking-area",
+  "link": "https://www.emfcamp.org/schedule/2026/434-cad-showdown-presented-by-hardware-hacking-area",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-19 17:00:00",
+    "end_date": "2026-07-19 19:00:00",
+    "venue": "Bodgeham-on-Wye",
+    "latlon": [
+     52.04122799874966,
+     -2.3756540184625123
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04122799874966/-2.3756540184625123/m=52.04122799874966,-2.3756540184625123",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "17:00",
+    "end_time": "19:00"
    }
   ]
  },
