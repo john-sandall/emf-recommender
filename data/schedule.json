@@ -18851,7 +18851,7 @@
    {
     "occurrence_num": 1,
     "start_date": "2026-07-19 18:00:00",
-    "end_date": "2026-07-19 18:01:00",
+    "end_date": "2026-07-19 18:15:00",
     "venue": "Outside the Bar",
     "latlon": [
      52.0413622,
@@ -18863,7 +18863,7 @@
     "video_privacy": "public",
     "recording_lost": false,
     "start_time": "18:00",
-    "end_time": "18:01"
+    "end_time": "18:15"
    }
   ],
   "cost": "",
@@ -19232,6 +19232,39 @@
   "content_note": null
  },
  {
+  "id": 635,
+  "type": "meetup",
+  "names": "Jenny Mulholland",
+  "pronouns": null,
+  "title": "Chess",
+  "description": "Just turn up and play. Beginners are welcome to come and learn - ask for Jenny. Boards kindly lent by Hammersmith Chess Club https://hammerchess.co.uk",
+  "short_description": "Chess in the bar",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "chess",
+  "link": "https://www.emfcamp.org/schedule/2026/635-chess",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-19 18:00:00",
+    "end_date": "2026-07-19 23:00:00",
+    "venue": "Robot Arms (Bar)",
+    "latlon": [
+     52.0413752,
+     -2.3775637
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.0413752/-2.3775637/m=52.0413752,-2.3775637",
+    "captions_url": null,
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "18:00",
+    "end_time": "23:00"
+   }
+  ]
+ },
+ {
   "id": 136,
   "type": "workshop",
   "names": "Miles Gould",
@@ -19403,6 +19436,39 @@
   "drop_in": false,
   "family_friendly": false,
   "content_note": ""
+ },
+ {
+  "id": 634,
+  "type": "performance",
+  "names": "James",
+  "pronouns": null,
+  "title": "Firing the hybrid rocket",
+  "description": "A test firing of Banshee, a small hybrid rocket motor. \r\nRunning on oxygen, with an acrylic fuel grain, the internal flame is visible. Noisy!",
+  "short_description": "A test firing of a  small hybrid rocket motor",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "firing-the-hybrid-rocket",
+  "link": "https://www.emfcamp.org/schedule/2026/634-firing-the-hybrid-rocket",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-19 21:00:00",
+    "end_date": "2026-07-19 21:10:00",
+    "venue": "Flame 🔥 village",
+    "latlon": [
+     52.0432240846047,
+     -2.377264302771664
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.0432240846047/-2.377264302771664/m=52.0432240846047,-2.377264302771664",
+    "captions_url": null,
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "21:00",
+    "end_time": "21:10"
+   }
+  ]
  },
  {
   "id": 252,
