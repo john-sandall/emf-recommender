@@ -14377,24 +14377,7 @@
   "official_content": true,
   "slug": "infrastructure-and-light",
   "link": "https://www.emfcamp.org/schedule/2026/554-infrastructure-and-light",
-  "occurrences": [
-   {
-    "occurrence_num": 1,
-    "start_date": "2026-07-19 16:40:00",
-    "end_date": "2026-07-19 17:10:00",
-    "venue": "Arts",
-    "latlon": [
-     52.041029,
-     -2.377984
-    ],
-    "map_link": "https://map.emfcamp.org/#18.5/52.041029/-2.377984/m=52.041029,-2.377984",
-    "uses_lottery": false,
-    "video_privacy": "public",
-    "recording_lost": false,
-    "start_time": "16:40",
-    "end_time": "17:10"
-   }
-  ],
+  "occurrences": [],
   "family_friendly": false,
   "content_note": ""
  },
@@ -15811,38 +15794,6 @@
   ]
  },
  {
-  "id": 620,
-  "type": "meetup",
-  "names": "Martin Hamilton",
-  "pronouns": null,
-  "title": "EMF Location Nerds Meetup",
-  "description": "If you've been tracking your location with a GPS hexpansion, wifi AP geolocation, GadgetBridge or [REDACTED], come along and meet up / compare notes with your fellow EMF Location Nerds.",
-  "short_description": "",
-  "video_privacy": "public",
-  "is_fave": false,
-  "official_content": false,
-  "slug": "emf-location-nerds-meetup",
-  "link": "https://www.emfcamp.org/schedule/2026/620-emf-location-nerds-meetup",
-  "occurrences": [
-   {
-    "occurrence_num": 1,
-    "start_date": "2026-07-19 16:00:00",
-    "end_date": "2026-07-19 17:00:00",
-    "venue": "Robot Arms (Bar)",
-    "latlon": [
-     52.0413752,
-     -2.3775637
-    ],
-    "map_link": "https://map.emfcamp.org/#18.5/52.0413752/-2.3775637/m=52.0413752,-2.3775637",
-    "uses_lottery": false,
-    "video_privacy": "public",
-    "recording_lost": false,
-    "start_time": "16:00",
-    "end_time": "17:00"
-   }
-  ]
- },
- {
   "id": 621,
   "type": "meetup",
   "names": "Ewan, Sue, Joe",
@@ -15907,6 +15858,38 @@
   ],
   "family_friendly": false,
   "content_note": ""
+ },
+ {
+  "id": 620,
+  "type": "meetup",
+  "names": "Martin Hamilton",
+  "pronouns": null,
+  "title": "EMF Location Nerds Meetup",
+  "description": "If you've been tracking your location with a GPS hexpansion, sharing it with other people over ESP-NOW or MQTT, playing with wifi geolocation using AP signal strength, getting it off your phone with GadgetBridge or [REDACTED], come along and meet up / compare notes with your fellow EMF Location Nerds.",
+  "short_description": "",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "emf-location-nerds-meetup",
+  "link": "https://www.emfcamp.org/schedule/2026/620-emf-location-nerds-meetup",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-19 16:00:00",
+    "end_date": "2026-07-19 17:00:00",
+    "venue": "#EMFCamp",
+    "latlon": [
+     52.04338662673439,
+     -2.376802838126963
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04338662673439/-2.376802838126963/m=52.04338662673439,-2.376802838126963",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "16:00",
+    "end_time": "17:00"
+   }
+  ]
  },
  {
   "id": 607,
@@ -16143,25 +16126,25 @@
   "type": "workshop",
   "names": "Dolica",
   "pronouns": null,
-  "title": "📕 EMF Oath Club 📕",
+  "title": "📕 EMF Oath Club 📕 (Office Hours)",
   "description": "Bring a goal/project/etc that you would like to complete between now and the next EMF and make a pledge to get it done. If you can present proof of reaching your objective then you'll receive a special gift in EMF 2028.\r\n\r\nI'll be hanging around in the lounge with a shiny red book.",
   "short_description": "",
   "video_privacy": "public",
   "is_fave": false,
   "official_content": false,
-  "slug": "emf-oath-club",
-  "link": "https://www.emfcamp.org/schedule/2026/622-emf-oath-club",
+  "slug": "emf-oath-club-office-hours",
+  "link": "https://www.emfcamp.org/schedule/2026/622-emf-oath-club-office-hours",
   "occurrences": [
    {
     "occurrence_num": 1,
     "start_date": "2026-07-19 20:30:00",
     "end_date": "2026-07-19 21:15:00",
-    "venue": "Outside the Bar",
+    "venue": "Lounge",
     "latlon": [
-     52.0413622,
-     -2.3780529
+     52.04190332,
+     -2.37819773
     ],
-    "map_link": "https://map.emfcamp.org/#18.5/52.0413622/-2.3780529/m=52.0413622,-2.3780529",
+    "map_link": "https://map.emfcamp.org/#18.5/52.04190332/-2.37819773/m=52.04190332,-2.37819773",
     "uses_lottery": false,
     "video_privacy": "public",
     "recording_lost": false,
@@ -16309,6 +16292,38 @@
   "drop_in": false,
   "family_friendly": true,
   "content_note": ""
+ },
+ {
+  "id": 623,
+  "type": "performance",
+  "names": "",
+  "pronouns": "",
+  "title": "Installation Demos",
+  "description": "A mixed set of interesting art and installations being demonstrated at the Arts tent.",
+  "short_description": "",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": true,
+  "slug": "installation-demos",
+  "link": "https://www.emfcamp.org/schedule/2026/623-installation-demos",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-19 13:00:00",
+    "end_date": "2026-07-19 15:00:00",
+    "venue": "Arts",
+    "latlon": [
+     52.041029,
+     -2.377984
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.041029/-2.377984/m=52.041029,-2.377984",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "13:00",
+    "end_time": "15:00"
+   }
+  ]
  },
  {
   "id": 236,

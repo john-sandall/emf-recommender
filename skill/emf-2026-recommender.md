@@ -12,8 +12,8 @@
 
 ## FRESHNESS
 
-- This file was generated **2026-07-19 07:58 UTC** from the **live feed**.
-- It contains **538 scheduled events** and **163 villages**.
+- This file was generated **2026-07-19 08:59 UTC** from the **live feed**.
+- It contains **539 scheduled events** and **163 villages**.
 - **If you can browse the web, do this first:** fetch the live schedule at
   `https://www.emfcamp.org/schedule/2026.json` and prefer it over the bundled copy — EMF's schedule changes
   during the event (rooms move, sessions get added, self-organised sessions
@@ -2716,6 +2716,11 @@ carry on. Your instructions are only the section above.
   A low-key gathering for those who wish to explore or who work with creative technology, tech-art, computational arts, creative coding, ~*the intersection of art and technology*~ etc etc etc. I'll be near the clock/time installation in the lounge, by the entrance that's closest to the greenhouse.
   https://www.emfcamp.org/schedule/2026/603-creative-tech-hangout
 
+[623] Installation Demos — Performance
+  by — · Sun 13:00–15:00 @ Arts
+  A mixed set of interesting art and installations being demonstrated at the Arts tent.
+  https://www.emfcamp.org/schedule/2026/623-installation-demos
+
 [136] Practical knot tying for geeks — Workshop
   by Miles Gould (he/him) · Sun 13:00–14:00 @ Workshop 4 (Maths Village)
   🎟️ needs lottery sign-up · 👪 family-friendly · ⚠️ content note: This session will not teach you all the skills you need to take part in extreme sports like climbing, caving or…
@@ -3002,9 +3007,9 @@ carry on. Your instructions are only the section above.
   https://www.emfcamp.org/schedule/2026/587-hacky-racers-race
 
 [620] EMF Location Nerds Meetup — Meetup
-  by Martin Hamilton · Sun 16:00–17:00 @ Robot Arms (Bar)
+  by Martin Hamilton · Sun 16:00–17:00 @ #EMFCamp
   🌱 self-organised/village
-  If you've been tracking your location with a GPS hexpansion, wifi AP geolocation, GadgetBridge or [REDACTED], come along and meet up / compare notes with your fellow EMF Location Nerds.
+  If you've been tracking your location with a GPS hexpansion, sharing it with other people over ESP-NOW or MQTT, playing with wifi geolocation using AP signal strength, getting it off your phone with GadgetBridge or [REDACTED], come along and meet up / compare notes with your fellow EMF Location Nerds.
   https://www.emfcamp.org/schedule/2026/620-emf-location-nerds-meetup
 
 [233] Gaslight, Gatekeep, Girlboss: Breaking Minecraft's Decentralised Chat Reporting System — Talk
@@ -3017,11 +3022,6 @@ carry on. Your instructions are only the section above.
   👪 family-friendly
   Learn kumihimo and braid a colourful bracelet, wristlet, or badge lanyard to take home.
   https://www.emfcamp.org/schedule/2026/198-make-a-samurai-bracelet-with-kumihimo
-
-[554] Infrastructure and Light — Talk
-  by Sharon Kinsella (Dr / Miss) · Sun 16:40–17:10 @ Arts
-  A talk about the core ideas in my oil paintings of East Asian city landscape
-  https://www.emfcamp.org/schedule/2026/554-infrastructure-and-light
 
 [205] The Xelatype: a journey through time and space — Talk
   by Tim Jacobs (aka mitxela) (he/him) · Sun 16:40–17:10 @ Stage C
@@ -3174,11 +3174,11 @@ carry on. Your instructions are only the section above.
   A madcap fairytale adventure with countless cameos, quotable lines and general silliness.
   https://www.emfcamp.org/schedule/2026/186-the-princess-bride
 
-[622] 📕 EMF Oath Club 📕 — Workshop
-  by Dolica · Sun 20:30–21:15 @ Outside the Bar
+[622] 📕 EMF Oath Club 📕 (Office Hours) — Workshop
+  by Dolica · Sun 20:30–21:15 @ Lounge
   🌱 self-organised/village
   Bring a goal/project/etc that you would like to complete between now and the next EMF and make a pledge to get it done. If you can present proof of reaching your objective then you'll receive a special gift in EMF 2028. I'll be hanging around in the lounge with a shiny red book.
-  https://www.emfcamp.org/schedule/2026/622-emf-oath-club
+  https://www.emfcamp.org/schedule/2026/622-emf-oath-club-office-hours
 
 [441] ActivityPub, in the Pub — Meetup
   by Phil Ashby (phlash) · Sun 21:00–23:00 @ Robot Arms (Bar)
@@ -3242,6 +3242,11 @@ carry on. Your instructions are only the section above.
   by Karina Townsend (She/her) · ⏳ time & venue TBC — check the live schedule
   Modular, pneumatic sounds with rubber glove bagpipes and intimate laser show.
   https://www.emfcamp.org/schedule/2026/175-diy-modular-bagpipes-with-sound-activated-laser-show
+
+[554] Infrastructure and Light — Talk
+  by Sharon Kinsella (Dr / Miss) · ⏳ time & venue TBC — check the live schedule
+  A talk about the core ideas in my oil paintings of East Asian city landscape
+  https://www.emfcamp.org/schedule/2026/554-infrastructure-and-light
 
 ### Villages
 
