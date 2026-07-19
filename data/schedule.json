@@ -5335,8 +5335,8 @@
   "occurrences": [
    {
     "occurrence_num": 1,
-    "start_date": "2026-07-19 19:00:00",
-    "end_date": "2026-07-19 20:00:00",
+    "start_date": "2026-07-19 19:45:00",
+    "end_date": "2026-07-19 20:45:00",
     "venue": "Lasertag",
     "latlon": [
      52.04352193271029,
@@ -5346,8 +5346,8 @@
     "uses_lottery": false,
     "video_privacy": "public",
     "recording_lost": false,
-    "start_time": "19:00",
-    "end_time": "20:00"
+    "start_time": "19:45",
+    "end_time": "20:45"
    }
   ]
  },
@@ -12158,7 +12158,7 @@
   "names": "Marc Andre Lam, Simon Wijckmans, Jovian Hayden, Aarnav Koushik",
   "pronouns": null,
   "title": "Scavenger Hunt: Find the Creatures Attacking the Web (Enter raffle upon completion!)  ",
-  "description": "Go on an educational scavenger hunt for four mythical creatures, each representing a different client-side security attack. Catch all four creatures and enter our raffle, where you could win an R36S Retro Video Game Console handheld console running Linux, perfect for emulating and playing retro games. \r\n\r\nThis scavenger hunt is sequential, with the first card leading to the second, etc. Once you find the final card, you’ll be able to fill out a form and enter the raffle. To get your first clue, scan one of the flyers at the cside village. The hunt will start at 10:00 AM on Saturday end at 4:00 PM on Sunday, at which point we will draw for a winner!",
+  "description": "Go on an educational scavenger hunt for four mythical creatures, each representing a different client-side security attack. Catch all four creatures and enter our raffle, where you could win an R36S Retro Video Game Console handheld console running Linux, perfect for emulating and playing retro games. \r\n\r\nThis scavenger hunt is sequential, with the first card leading to the second, etc. Once you find the final card, you’ll be able to fill out a form and enter the raffle. To get your first clue, scan one of the flyers at the cside village. \r\n\r\nThe hunt will start at 10:00 AM on Saturday end at 4:00 PM on Sunday, at which point we will draw for a winner!\r\n\r\n\r\n",
   "short_description": "Go on an educational scavenger hunt for four mythical creatures, each representing a different client-side security attack. Catch all four creatures and enter our raffle, where you could win an Anbernic RG28XX handheld console, perfect for emulating and playing retro games.   This scavenger hunt is sequential, with the first card leading to the second, etc. Once you find the final card, you’ll be able to fill out a form and enter the raffle. To get your first clue, scan one of the flyers at the cside village. The hunt will end at 4:00 PM, at which point we will draw for a winner!",
   "video_privacy": "public",
   "is_fave": false,
@@ -12169,7 +12169,7 @@
    {
     "occurrence_num": 1,
     "start_date": "2026-07-17 10:00:00",
-    "end_date": "2026-07-19 22:00:00",
+    "end_date": "2026-07-19 16:00:00",
     "venue": "cside security village",
     "latlon": [
      52.043617537174754,
@@ -12180,7 +12180,7 @@
     "video_privacy": "public",
     "recording_lost": false,
     "start_time": "10:00",
-    "end_time": "22:00"
+    "end_time": "16:00"
    }
   ],
   "cost": "",
@@ -15888,6 +15888,38 @@
     "recording_lost": false,
     "start_time": "16:00",
     "end_time": "17:00"
+   }
+  ]
+ },
+ {
+  "id": 626,
+  "type": "meetup",
+  "names": "Schmo-Fu",
+  "pronouns": null,
+  "title": "Walk the EMF and record it‘s hidden world",
+  "description": "Let‘s use our EMF Explorer Badges and find interesting sound. \r\nWe start walking at 20:00\r\nYou should bring:\r\n1. Your EMF Explorer Badges that you soldered in the Hardware Hacking Area during EMF\r\n2. an audio cable to connect it to …\r\n3. … a recording device (audio-recorder, Laptop, mobile phone)\r\n4. headphones to listen while you are recording\r\n\r\nAt 19:45 we will set up our devices and make some first recordings at ZTL village\r\nThe route across the field I not planned. If you found places with interesting sounds, show them them to the group. \r\n",
+  "short_description": "Spontaneous Meetup: Record electric fields on EMF for your own audio projects. ",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "walk-the-emf-and-record-it-s-hidden-world",
+  "link": "https://www.emfcamp.org/schedule/2026/626-walk-the-emf-and-record-it-s-hidden-world",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-19 19:47:00",
+    "end_date": "2026-07-19 20:32:00",
+    "venue": "ZTL",
+    "latlon": [
+     52.043016821432445,
+     -2.373662517151473
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.043016821432445/-2.373662517151473/m=52.043016821432445,-2.373662517151473",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "19:47",
+    "end_time": "20:32"
    }
   ]
  },
