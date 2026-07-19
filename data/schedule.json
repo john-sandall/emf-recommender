@@ -15865,7 +15865,7 @@
   "names": "Martin Hamilton",
   "pronouns": null,
   "title": "EMF Location Nerds Meetup",
-  "description": "If you've been tracking your location with a GPS hexpansion, sharing it with other people over ESP-NOW or MQTT, playing with wifi geolocation using AP signal strength, getting it off your phone with GadgetBridge or [REDACTED], come along and meet up / compare notes with your fellow EMF Location Nerds.",
+  "description": "If you've been tracking your location with a GPS hexpansion, sharing it with other people's Tildagons over ESP-NOW or posting it MQTT. If you've been playing with wifi geolocation using AP signal strength, getting your location of off your phone with GadgetBridge or [REDACTED], then do come along and meet up / compare notes with other EMF Location Nerds!\r\n\r\nAlso, we have a Matrix room: https://matrix.to/#/!rTuMTEFlbuSLEwndcT:matrix.org?via=matrix.org&via=x-hain.de&via=9net.org",
   "short_description": "",
   "video_privacy": "public",
   "is_fave": false,
@@ -15877,12 +15877,12 @@
     "occurrence_num": 1,
     "start_date": "2026-07-19 16:00:00",
     "end_date": "2026-07-19 17:00:00",
-    "venue": "#EMFCamp",
+    "venue": "Robot Arms (Bar)",
     "latlon": [
-     52.04338662673439,
-     -2.376802838126963
+     52.0413752,
+     -2.3775637
     ],
-    "map_link": "https://map.emfcamp.org/#18.5/52.04338662673439/-2.376802838126963/m=52.04338662673439,-2.376802838126963",
+    "map_link": "https://map.emfcamp.org/#18.5/52.0413752/-2.3775637/m=52.0413752,-2.3775637",
     "uses_lottery": false,
     "video_privacy": "public",
     "recording_lost": false,
