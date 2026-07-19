@@ -13535,44 +13535,6 @@
   ]
  },
  {
-  "id": 533,
-  "type": "workshop",
-  "names": "Shadowed One",
-  "pronouns": null,
-  "title": "101 Tablet Weaving beginners class",
-  "description": "Tablet weaving a short band. ",
-  "short_description": "Tablet weaving a short band. ",
-  "video_privacy": "public",
-  "is_fave": false,
-  "official_content": false,
-  "slug": "101-tablet-weaving-beginners-class",
-  "link": "https://www.emfcamp.org/schedule/2026/533-101-tablet-weaving-beginners-class",
-  "occurrences": [
-   {
-    "occurrence_num": 1,
-    "start_date": "2026-07-19 19:00:00",
-    "end_date": "2026-07-19 20:30:00",
-    "venue": "Threadz 'n' Webz",
-    "latlon": [
-     52.04030229363161,
-     -2.378446191688738
-    ],
-    "map_link": "https://map.emfcamp.org/#18.5/52.04030229363161/-2.378446191688738/m=52.04030229363161,-2.378446191688738",
-    "uses_lottery": false,
-    "video_privacy": "public",
-    "recording_lost": false,
-    "start_time": "19:00",
-    "end_time": "20:30"
-   }
-  ],
-  "cost": "",
-  "equipment": "",
-  "age_range": "12+",
-  "drop_in": null,
-  "family_friendly": null,
-  "content_note": null
- },
- {
   "id": 526,
   "type": "performance",
   "names": "Simon C",
@@ -15545,38 +15507,6 @@
   ]
  },
  {
-  "id": 603,
-  "type": "meetup",
-  "names": "Dolica",
-  "pronouns": null,
-  "title": "Creative Tech Hangout",
-  "description": "A low-key gathering for those who would like to get into or who work with creative technology, tech-art, computational arts, creative coding, ~*the intersection of art and technology*~ etc etc etc.",
-  "short_description": "",
-  "video_privacy": "public",
-  "is_fave": false,
-  "official_content": false,
-  "slug": "creative-tech-hangout",
-  "link": "https://www.emfcamp.org/schedule/2026/603-creative-tech-hangout",
-  "occurrences": [
-   {
-    "occurrence_num": 1,
-    "start_date": "2026-07-19 13:00:00",
-    "end_date": "2026-07-19 13:45:00",
-    "venue": "Lounge",
-    "latlon": [
-     52.04190332,
-     -2.37819773
-    ],
-    "map_link": "https://map.emfcamp.org/#18.5/52.04190332/-2.37819773/m=52.04190332,-2.37819773",
-    "uses_lottery": false,
-    "video_privacy": "public",
-    "recording_lost": false,
-    "start_time": "13:00",
-    "end_time": "13:45"
-   }
-  ]
- },
- {
   "id": 598,
   "type": "workshop",
   "names": "Fi",
@@ -15613,6 +15543,38 @@
   "drop_in": true,
   "family_friendly": null,
   "content_note": null
+ },
+ {
+  "id": 603,
+  "type": "meetup",
+  "names": "Dolica",
+  "pronouns": null,
+  "title": "Creative Tech Hangout",
+  "description": "A low-key gathering for those who wish to explore or who work with creative technology, tech-art, computational arts, creative coding, ~*the intersection of art and technology*~ etc etc etc.\r\n\r\nI'll be near the clock/time installation in the lounge, by the entrance that's closest to the greenhouse.",
+  "short_description": "",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "creative-tech-hangout",
+  "link": "https://www.emfcamp.org/schedule/2026/603-creative-tech-hangout",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-19 13:00:00",
+    "end_date": "2026-07-19 13:45:00",
+    "venue": "Lounge",
+    "latlon": [
+     52.04190332,
+     -2.37819773
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04190332/-2.37819773/m=52.04190332,-2.37819773",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "13:00",
+    "end_time": "13:45"
+   }
+  ]
  },
  {
   "id": 577,
@@ -15915,6 +15877,38 @@
     "recording_lost": false,
     "start_time": "16:00",
     "end_time": "17:00"
+   }
+  ]
+ },
+ {
+  "id": 621,
+  "type": "meetup",
+  "names": "Ewan, Sue, Joe",
+  "pronouns": null,
+  "title": "Bat walk @ Greenhouse",
+  "description": "Eastnor is home to many species of bats. At sunset, we’ll head out to try and see and hear them. Meet at the Greenhouse, opposite the lounge.",
+  "short_description": "Come see the bats of Eastnor!",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "bat-walk-greenhouse",
+  "link": "https://www.emfcamp.org/schedule/2026/621-bat-walk-greenhouse",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-19 21:00:00",
+    "end_date": "2026-07-19 22:00:00",
+    "venue": "Lounge",
+    "latlon": [
+     52.04190332,
+     -2.37819773
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04190332/-2.37819773/m=52.04190332,-2.37819773",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "21:00",
+    "end_time": "22:00"
    }
   ]
  },
