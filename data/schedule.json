@@ -362,44 +362,6 @@
   "content_note": ""
  },
  {
-  "id": 18,
-  "type": "workshop",
-  "names": "Thomas Fischer",
-  "pronouns": "",
-  "title": "OBD-II: Own the Bus, Drive It - A Hands-On CAN Bus Workshop",
-  "description": "Ever wanted to sit inside the nerve systems of your car's nervous system and watch it think? \r\n\r\nThis workshop sits you there. \r\nEach participant will use a Raspberry Pi that is acting as a real ECU - engine, brakes, doors, climate control - all connected together into a fully connected CAN bus network built from 20 Pis. \r\nThe network behaves exactly like the insides of a real car. \r\nYou just get to poke at it without voiding any warranties (or getting into trouble with your neighbour for bricking his Porsche :)). \r\n\r\nThe session starts with a 20-minute intro covering CAN bus basics and the tools we will use. Then the real fun begins. You will use SavvyCAN to watch live traffic from the simulated network, identify what each ECU is saying, decode signals and then - once you know what you are looking at - start replaying and manipulating frames to see what happens. \r\n\r\nNo Linux experience needed. \r\nNo Python needed. \r\nNo prior knowledge of cars or electronics assumed. If you can plug in a cable and click a mouse, you can do this workshop. \r\nEverything is provided. Just bring curiosity.",
-  "short_description": "Can-Bus Workshop",
-  "video_privacy": "public",
-  "is_fave": false,
-  "official_content": true,
-  "slug": "obd-ii-own-the-bus-drive-it-a-hands-on-can-bus-workshop",
-  "link": "https://www.emfcamp.org/schedule/2026/18-obd-ii-own-the-bus-drive-it-a-hands-on-can-bus-workshop",
-  "occurrences": [
-   {
-    "occurrence_num": 1,
-    "start_date": "2026-07-19 10:00:00",
-    "end_date": "2026-07-19 12:30:00",
-    "venue": "Workshop 1 (Furry High Commission)",
-    "latlon": [
-     52.04259,
-     -2.37515
-    ],
-    "map_link": "https://map.emfcamp.org/#18.5/52.04259/-2.37515/m=52.04259,-2.37515",
-    "uses_lottery": true,
-    "video_privacy": "public",
-    "recording_lost": false,
-    "start_time": "10:00",
-    "end_time": "12:30"
-   }
-  ],
-  "cost": "free (Optional Arduino kit to take away: €20)",
-  "equipment": "nothing",
-  "age_range": "all",
-  "drop_in": false,
-  "family_friendly": true,
-  "content_note": ""
- },
- {
   "id": 137,
   "type": "workshop",
   "names": "Meurig Freeman",
@@ -16177,6 +16139,44 @@
   "content_note": null
  },
  {
+  "id": 622,
+  "type": "workshop",
+  "names": "Dolica",
+  "pronouns": null,
+  "title": "📕 EMF Oath Club 📕",
+  "description": "Bring a goal/project/etc that you would like to complete between now and the next EMF and make a pledge to get it done. If you can present proof of reaching your objective then you'll receive a special gift in EMF 2028.\r\n\r\nI'll be hanging around in the lounge with a shiny red book.",
+  "short_description": "",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "emf-oath-club",
+  "link": "https://www.emfcamp.org/schedule/2026/622-emf-oath-club",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-19 20:30:00",
+    "end_date": "2026-07-19 21:15:00",
+    "venue": "Outside the Bar",
+    "latlon": [
+     52.0413622,
+     -2.3780529
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.0413622/-2.3780529/m=52.0413622,-2.3780529",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "20:30",
+    "end_time": "21:15"
+   }
+  ],
+  "cost": "",
+  "equipment": "Bring a personal goal that you know you've been putting off.",
+  "age_range": "all",
+  "drop_in": true,
+  "family_friendly": null,
+  "content_note": null
+ },
+ {
   "id": 610,
   "type": "meetup",
   "names": "Ewan, Sue, Joe",
@@ -16271,6 +16271,44 @@
     "end_time": "18:42"
    }
   ]
+ },
+ {
+  "id": 18,
+  "type": "workshop",
+  "names": "Thomas Fischer",
+  "pronouns": "",
+  "title": "OBD-II: Own the Bus, Drive It - A Hands-On CAN Bus Workshop",
+  "description": "Ever wanted to sit inside the nerve systems of your car's nervous system and watch it think? \r\n\r\nThis workshop sits you there. \r\nEach participant will use a Raspberry Pi that is acting as a real ECU - engine, brakes, doors, climate control - all connected together into a fully connected CAN bus network built from 20 Pis. \r\nThe network behaves exactly like the insides of a real car. \r\nYou just get to poke at it without voiding any warranties (or getting into trouble with your neighbour for bricking his Porsche :)). \r\n\r\nThe session starts with a 20-minute intro covering CAN bus basics and the tools we will use. Then the real fun begins. You will use SavvyCAN to watch live traffic from the simulated network, identify what each ECU is saying, decode signals and then - once you know what you are looking at - start replaying and manipulating frames to see what happens. \r\n\r\nNo Linux experience needed. \r\nNo Python needed. \r\nNo prior knowledge of cars or electronics assumed. If you can plug in a cable and click a mouse, you can do this workshop. \r\nEverything is provided. Just bring curiosity.",
+  "short_description": "Can-Bus Workshop",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": true,
+  "slug": "obd-ii-own-the-bus-drive-it-a-hands-on-can-bus-workshop",
+  "link": "https://www.emfcamp.org/schedule/2026/18-obd-ii-own-the-bus-drive-it-a-hands-on-can-bus-workshop",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-19 10:00:00",
+    "end_date": "2026-07-19 12:30:00",
+    "venue": "Workshop 1 (Furry High Commission)",
+    "latlon": [
+     52.04259,
+     -2.37515
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04259/-2.37515/m=52.04259,-2.37515",
+    "uses_lottery": true,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "10:00",
+    "end_time": "12:30"
+   }
+  ],
+  "cost": "free",
+  "equipment": "nothing",
+  "age_range": "all",
+  "drop_in": false,
+  "family_friendly": true,
+  "content_note": ""
  },
  {
   "id": 236,
