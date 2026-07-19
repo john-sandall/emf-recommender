@@ -5335,8 +5335,8 @@
   "occurrences": [
    {
     "occurrence_num": 1,
-    "start_date": "2026-07-19 14:00:00",
-    "end_date": "2026-07-19 15:00:00",
+    "start_date": "2026-07-19 19:00:00",
+    "end_date": "2026-07-19 20:00:00",
     "venue": "Lasertag",
     "latlon": [
      52.04352193271029,
@@ -5346,8 +5346,8 @@
     "uses_lottery": false,
     "video_privacy": "public",
     "recording_lost": false,
-    "start_time": "14:00",
-    "end_time": "15:00"
+    "start_time": "19:00",
+    "end_time": "20:00"
    }
   ]
  },
@@ -15452,6 +15452,38 @@
   ]
  },
  {
+  "id": 603,
+  "type": "meetup",
+  "names": "Dolica",
+  "pronouns": null,
+  "title": "Creative Tech Hangout",
+  "description": "A low-key gathering for those who wish to explore or who work with creative technology, tech-art, computational arts, creative coding, ~*the intersection of art and technology*~ etc etc etc.\r\n\r\nI'll be near the Versions of Now and Flip Fluid installations in the lounge, by the entrance that's closest to the greenhouse.",
+  "short_description": "",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "creative-tech-hangout",
+  "link": "https://www.emfcamp.org/schedule/2026/603-creative-tech-hangout",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-19 13:00:00",
+    "end_date": "2026-07-19 13:45:00",
+    "venue": "Lounge",
+    "latlon": [
+     52.04190332,
+     -2.37819773
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04190332/-2.37819773/m=52.04190332,-2.37819773",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "13:00",
+    "end_time": "13:45"
+   }
+  ]
+ },
+ {
   "id": 598,
   "type": "workshop",
   "names": "Fi",
@@ -15488,38 +15520,6 @@
   "drop_in": true,
   "family_friendly": null,
   "content_note": null
- },
- {
-  "id": 603,
-  "type": "meetup",
-  "names": "Dolica",
-  "pronouns": null,
-  "title": "Creative Tech Hangout",
-  "description": "A low-key gathering for those who wish to explore or who work with creative technology, tech-art, computational arts, creative coding, ~*the intersection of art and technology*~ etc etc etc.\r\n\r\nI'll be near the clock/time installation in the lounge, by the entrance that's closest to the greenhouse.",
-  "short_description": "",
-  "video_privacy": "public",
-  "is_fave": false,
-  "official_content": false,
-  "slug": "creative-tech-hangout",
-  "link": "https://www.emfcamp.org/schedule/2026/603-creative-tech-hangout",
-  "occurrences": [
-   {
-    "occurrence_num": 1,
-    "start_date": "2026-07-19 13:00:00",
-    "end_date": "2026-07-19 13:45:00",
-    "venue": "Lounge",
-    "latlon": [
-     52.04190332,
-     -2.37819773
-    ],
-    "map_link": "https://map.emfcamp.org/#18.5/52.04190332/-2.37819773/m=52.04190332,-2.37819773",
-    "uses_lottery": false,
-    "video_privacy": "public",
-    "recording_lost": false,
-    "start_time": "13:00",
-    "end_time": "13:45"
-   }
-  ]
  },
  {
   "id": 577,
@@ -16190,6 +16190,44 @@
     "end_time": "18:00"
    }
   ]
+ },
+ {
+  "id": 625,
+  "type": "workshop",
+  "names": "DayKat",
+  "pronouns": null,
+  "title": "How to use a Sewing Machine: drop in",
+  "description": "Come and learn the basics of using a sewing machine or ask questions about how to use your machine. ",
+  "short_description": "",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "how-to-use-a-sewing-machine-drop-in",
+  "link": "https://www.emfcamp.org/schedule/2026/625-how-to-use-a-sewing-machine-drop-in",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-19 12:05:00",
+    "end_date": "2026-07-19 13:05:00",
+    "venue": "Tekhnē-cal Village",
+    "latlon": [
+     52.04028161496325,
+     -2.378171671045834
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04028161496325/-2.378171671045834/m=52.04028161496325,-2.378171671045834",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "12:05",
+    "end_time": "13:05"
+   }
+  ],
+  "cost": "",
+  "equipment": "",
+  "age_range": "all",
+  "drop_in": true,
+  "family_friendly": null,
+  "content_note": null
  },
  {
   "id": 610,

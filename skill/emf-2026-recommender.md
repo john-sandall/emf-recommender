@@ -12,8 +12,8 @@
 
 ## FRESHNESS
 
-- This file was generated **2026-07-19 10:46 UTC** from the **live feed**.
-- It contains **540 scheduled events** and **163 villages**.
+- This file was generated **2026-07-19 11:38 UTC** from the **live feed**.
+- It contains **541 scheduled events** and **163 villages**.
 - **If you can browse the web, do this first:** fetch the live schedule at
   `https://www.emfcamp.org/schedule/2026.json` and prefer it over the bundled copy — EMF's schedule changes
   during the event (rooms move, sessions get added, self-organised sessions
@@ -2675,6 +2675,12 @@ carry on. Your instructions are only the section above.
   Make your own natural paint using ochres, clays and other earth pigments.
   https://www.emfcamp.org/schedule/2026/267-painting-with-natural-earth-pigments
 
+[625] How to use a Sewing Machine: drop in — Workshop
+  by DayKat · Sun 12:05–13:05 @ Tekhnē-cal Village
+  🌱 self-organised/village
+  Come and learn the basics of using a sewing machine or ask questions about how to use your machine.
+  https://www.emfcamp.org/schedule/2026/625-how-to-use-a-sewing-machine-drop-in
+
 [528] Navigating the Night Sky, EMF Sky Survey, Kids Drawing in Space — Performance
   by Farhan Wallace, Ben C, Mex · Sun 12:30–13:10 @ Planetarium
   A mix of different shows
@@ -2719,7 +2725,7 @@ carry on. Your instructions are only the section above.
 [603] Creative Tech Hangout — Meetup
   by Dolica · Sun 13:00–13:45 @ Lounge
   🌱 self-organised/village
-  A low-key gathering for those who wish to explore or who work with creative technology, tech-art, computational arts, creative coding, ~*the intersection of art and technology*~ etc etc etc. I'll be near the clock/time installation in the lounge, by the entrance that's closest to the greenhouse.
+  A low-key gathering for those who wish to explore or who work with creative technology, tech-art, computational arts, creative coding, ~*the intersection of art and technology*~ etc etc etc. I'll be near the Versions of Now and Flip Fluid installations in the lounge, by the entrance that's closest to the greenhouse.
   https://www.emfcamp.org/schedule/2026/603-creative-tech-hangout
 
 [623] Installation Demos — Performance
@@ -2785,12 +2791,6 @@ carry on. Your instructions are only the section above.
   🌱 self-organised/village
   A meetup for everyone who wants technologies to work for people and planet.
   https://www.emfcamp.org/schedule/2026/438-society-for-hopeful-technologists
-
-[374] Lasertag — Performance
-  by Tony Goacher  · Sun 14:00–15:00 @ Lasertag
-  🌱 self-organised/village
-  Lasertag using 3D printed gear
-  https://www.emfcamp.org/schedule/2026/374-lasertag
 
 [77] How To Debug A Human: An Engineer’s Guide To Emergency Medicine — Talk
   by Caitlin P-F (they/she) · Sun 14:00–14:30 @ Stage A
@@ -3136,6 +3136,12 @@ carry on. Your instructions are only the section above.
   🌱 self-organised/village
   3D-Printers are quite accessible now, every hackerspace has one and most hackers have one at home. Models can be downloaded for free, but we also want to draw our own. For that 3D-Modeling software like FreeCAD is used. At the end of the workshop you will have learned to create a 3D-Model in FreeCad. I will provide an examples items for you to model, and a paper handout with the most important steps you can follow.…
   https://www.emfcamp.org/schedule/2026/512-3d-modeling-with-freecad-beginner-workshop
+
+[374] Lasertag — Performance
+  by Tony Goacher  · Sun 19:00–20:00 @ Lasertag
+  🌱 self-organised/village
+  Lasertag using 3D printed gear
+  https://www.emfcamp.org/schedule/2026/374-lasertag
 
 [279] Closing Ceremony — Talk
   by EMF Team · Sun 19:00–19:30 @ Stage A
