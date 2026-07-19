@@ -15887,6 +15887,38 @@
   ]
  },
  {
+  "id": 620,
+  "type": "meetup",
+  "names": "Martin Hamilton",
+  "pronouns": null,
+  "title": "EMF Location Nerds Meetup",
+  "description": "If you've been tracking your location with a GPS hexpansion, wifi AP geolocation, GadgetBridge or [REDACTED], come along and meet up / compare notes with your fellow EMF Location Nerds.",
+  "short_description": "",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "emf-location-nerds-meetup",
+  "link": "https://www.emfcamp.org/schedule/2026/620-emf-location-nerds-meetup",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-19 16:00:00",
+    "end_date": "2026-07-19 17:00:00",
+    "venue": "Robot Arms (Bar)",
+    "latlon": [
+     52.0413752,
+     -2.3775637
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.0413752/-2.3775637/m=52.0413752,-2.3775637",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "16:00",
+    "end_time": "17:00"
+   }
+  ]
+ },
+ {
   "id": 205,
   "type": "talk",
   "names": "Tim Jacobs (aka mitxela)",
@@ -16211,6 +16243,38 @@
     "recording_lost": false,
     "start_time": "22:00",
     "end_time": "00:00"
+   }
+  ]
+ },
+ {
+  "id": 619,
+  "type": "meetup",
+  "names": "tbd",
+  "pronouns": null,
+  "title": "Stop Taking Photos and Videos of People Without Consent. Thanks!",
+  "description": "Stop taking photos and videos of people without consent!\r\n\r\nA meetup and a an attempt to raise awareness via the schedule.\r\n\r\nFrom \"How Should I Behave?\" on https://www.emfcamp.org/about/what-to-expect :\r\n\r\n\"Also, it's worth highlighting that if you're taking photos where you can recognise a person, it's expected that you ask them if that's OK, and delete it immediately if they want you to. Do not publish identifiable photos of people without their consent (this includes streaming and video calls).\"\r\n\r\nPlease respect this and stop taking photos and videos of people without consent. Thanks!\r\n\r\nAlso feel free come join us and lets try figure out how to raise awareness of this and create a safer and more respectful space for everyone. \r\n",
+  "short_description": "Stop taking photos and videos of people without consent!  A meetup and a an attempt to raise awareness via the schedule.",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "stop-taking-photos-and-videos-of-people-without-consent",
+  "link": "https://www.emfcamp.org/schedule/2026/619-stop-taking-photos-and-videos-of-people-without-consent",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-19 18:00:00",
+    "end_date": "2026-07-19 18:42:00",
+    "venue": "[tbd]",
+    "latlon": [
+     52.04308793482255,
+     -2.3745277090147283
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04308793482255/-2.3745277090147283/m=52.04308793482255,-2.3745277090147283",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "18:00",
+    "end_time": "18:42"
    }
   ]
  },
