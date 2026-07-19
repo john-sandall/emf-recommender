@@ -5225,45 +5225,6 @@
   "content_note": ""
  },
  {
-  "id": 196,
-  "type": "familyworkshop",
-  "names": "Adam & Ori Cohen-Rose",
-  "pronouns": "he/him & he/him",
-  "title": "Build a light-up, glow-in-the-dark, space outpost! 🌌🚀🧑‍🚀",
-  "description": "Drop in to our workshop and build a light-up space village together – complete with half-cylinder moon habs, little houses with windows and airlocks, and space ships launching from flickering clouds. All built from just paper, cotton wool, conductive tape, LED lights and coin cells!\r\n\r\nThe instructions are easy to follow, and the designs are up to you. You can either take your space living quarters away with you, or we can add them to the Lounge ~~Gallery~~Galaxy – a glowing space outpost shining into the night 🌌✨",
-  "short_description": "Moon habs, houses with windows & airlocks, space ships launching – build & decorate your own 3D paper models that light up with LEDs",
-  "video_privacy": "public",
-  "is_fave": false,
-  "official_content": true,
-  "slug": "build-a-light-up-glow-in-the-dark-space-outpost",
-  "link": "https://www.emfcamp.org/schedule/2026/196-build-a-light-up-glow-in-the-dark-space-outpost",
-  "occurrences": [
-   {
-    "occurrence_num": 1,
-    "start_date": "2026-07-17 11:00:00",
-    "end_date": "2026-07-17 13:00:00",
-    "venue": "Family Workshop",
-    "latlon": [
-     52.04077636,
-     -2.37771729
-    ],
-    "map_link": "https://map.emfcamp.org/#18.5/52.04077636/-2.37771729/m=52.04077636,-2.37771729",
-    "captions_url": null,
-    "uses_lottery": false,
-    "video_privacy": "public",
-    "recording_lost": false,
-    "start_time": "11:00",
-    "end_time": "13:00"
-   }
-  ],
-  "cost": "",
-  "equipment": "Any special colouring pens, pencils or stickers to decorate the paper models",
-  "age_range": "All ages. As long as adults can assist in the making, anyone can design and colour the paper models.",
-  "drop_in": true,
-  "family_friendly": true,
-  "content_note": ""
- },
- {
   "id": 405,
   "type": "workshop",
   "names": "Heidi Blanton",
@@ -11108,19 +11069,19 @@
   "type": "workshop",
   "names": "Sai",
   "pronouns": null,
-  "title": "Sense without sight (time FAKE, see description)",
+  "title": "Sense without sight (Sun. time ACCURATE, see description)",
   "description": "ACTUAL PLACE: Starting at my tent & moving throughout camp. Look for the conlang flag. See: \r\n* https://s.ai/emf#workshop\r\n* https://map.emfcamp.org/#18.5/52.04114905937723/-2.376721780494961/m=52.04114905937723,-2.376721780494961\r\n* https://bsky.app/profile/s.ai/post/3mqronkgu5s2z\r\n\r\nACTUAL TIME: Every day, depending on my stamina. Exact time TBD each morning or the night before, emailed to you, based on my availability and yours. Probably only 1 a day except for people in an exceptional category. Preferably in evening when not really hot & bright.\r\n\r\nUSE THE SIGN-UP FORM: https://s.ai/emf/ws\r\n\r\n\r\nTake a walk with me through camp — blindfolded, with one of my guide canes — and sense the world like I do: using air currents, heat, sound, echolocation, ground texture, wind shadow, and more. It's a unique, permanent sensory upgrade you can still use when sighted.\r\n\r\nDetails of what to expect: https://s.ai/emf#workshop\r\n\r\n## Mandatory:\r\n\r\n* Sign up using the form at https://s.ai/emf/ws\r\n* Be completely sober.\r\n* Have at least 1.5 hours free (preferably 2).\r\n* Fill out feedback form afterwards: https://s.ai/emf/fb\r\n\r\n## Very strongly encouraged:\r\n\r\n* Watch my CCC talk about this: https://s.ai/ccc You'll learn much more if we can focus on what I can't show in the talk.\r\n* Bring a friend or prior participant to act as your assistant, and sign up as one to pass it on to others. The two experiences are very different, and are both valuable — and I can't teach as many people simultaneously without help.\r\n* Pee, drink, and wash your hands beforehand.\r\n* Wear clothing that leaves head and arms uncovered, and thin shoes that let you feel the ground.\r\n* Use a group coordination code on the sign-up form to get scheduled with your friends etc.\r\n\r\n## Special:\r\n\r\nI may run additional bespoke workshops, at different times, if you:\r\n1. have a current or likely future visual impairment that may benefit from cane use, whether or not you've had O&M;\r\n2. have other disabilities that would benefit from doing this 1-on-1 (e.g. Deaf or wheelchair user);\r\n3. work professionally with cane users or in very low visibility environments;\r\n4. are part of EMF staff, volunteers, etc.;\r\n5. can video record the workshop (e.g. stabilised GoPro), or participate on camera; or\r\n6. have some other good reason for me to do an extra session or in a bespoke manner.\r\n\r\nIf any of that applies to you, please indicate it on the sign-up form, and include all times that could work for you — including day 0 (Thursday).\r\n\r\n## Weather\r\n\r\nIf it's raining, or the ground is still muddy from recent rain, the workshop will be cancelled.\r\n\r\nThere's one exception: if you have visual impairment, it's still on no matter what the conditions are. You need to know how to get around no matter what the weather is.",
   "short_description": "Learn to sense the world without sight",
   "video_privacy": "public",
   "is_fave": false,
   "official_content": false,
-  "slug": "sense-without-sight-time-fake-see-description",
-  "link": "https://www.emfcamp.org/schedule/2026/484-sense-without-sight-time-fake-see-description",
+  "slug": "sense-without-sight-sun-time-accurate-see-description",
+  "link": "https://www.emfcamp.org/schedule/2026/484-sense-without-sight-sun-time-accurate-see-description",
   "occurrences": [
    {
     "occurrence_num": 1,
-    "start_date": "2026-07-19 20:00:00",
-    "end_date": "2026-07-19 21:30:00",
+    "start_date": "2026-07-19 20:30:00",
+    "end_date": "2026-07-19 22:30:00",
     "venue": "Sense Without Sight (Sai's tent)",
     "latlon": [
      52.04114905937723,
@@ -11131,8 +11092,8 @@
     "uses_lottery": false,
     "video_privacy": "public",
     "recording_lost": false,
-    "start_time": "20:00",
-    "end_time": "21:30"
+    "start_time": "20:30",
+    "end_time": "22:30"
    }
   ],
   "cost": "",
@@ -19193,45 +19154,6 @@
   "content_note": "Near death experiences, but not actual death"
  },
  {
-  "id": 633,
-  "type": "workshop",
-  "names": "Jacob Lewis",
-  "pronouns": null,
-  "title": "Joustagon - Johann Sebastian Joust on the Tildagon",
-  "description": "Come play Joust on your badge, we'll be running games outside the Edinburgh Hacklab marquee and potentially would move south of Stage B if we run out of space.\r\n\r\nThe game is simple, keep your badge still while bumping other's badges to eliminate them! This is based on Johann Sebastian Joust (http://www.jsjoust.com/).",
-  "short_description": "Come play Johann Sebastian Joust on your badge, a physcially-based multiplayer game.",
-  "video_privacy": "public",
-  "is_fave": false,
-  "official_content": false,
-  "slug": "joustagon-johann-sebastian-joust-on-the-tildagon",
-  "link": "https://www.emfcamp.org/schedule/2026/633-joustagon-johann-sebastian-joust-on-the-tildagon",
-  "occurrences": [
-   {
-    "occurrence_num": 1,
-    "start_date": "2026-07-19 22:00:00",
-    "end_date": "2026-07-19 22:30:00",
-    "venue": "Edinburgh Hacklab",
-    "latlon": [
-     52.042542659739524,
-     -2.374653652174487
-    ],
-    "map_link": "https://map.emfcamp.org/#18.5/52.042542659739524/-2.374653652174487/m=52.042542659739524,-2.374653652174487",
-    "captions_url": null,
-    "uses_lottery": false,
-    "video_privacy": "public",
-    "recording_lost": false,
-    "start_time": "22:00",
-    "end_time": "22:30"
-   }
-  ],
-  "cost": "",
-  "equipment": "A Tildagon badge, with the \"JoustagonV1\" app installed (https://apps.badge.emfcamp.org/apps/20221143)",
-  "age_range": "all",
-  "drop_in": true,
-  "family_friendly": null,
-  "content_note": null
- },
- {
   "id": 635,
   "type": "meetup",
   "names": "Jenny Mulholland",
@@ -19549,6 +19471,45 @@
   "content_note": ""
  },
  {
+  "id": 633,
+  "type": "workshop",
+  "names": "Jacob Lewis",
+  "pronouns": null,
+  "title": "Joustagon - Johann Sebastian Joust on the Tildagon",
+  "description": "Come play Joust on your badge, we'll be running games outside the Edinburgh Hacklab marquee and potentially would move south of Stage B if we run out of space.\r\n\r\nThe game is simple, keep your badge still while bumping other's badges to eliminate them! This is based on Johann Sebastian Joust (http://www.jsjoust.com/).",
+  "short_description": "Come play Johann Sebastian Joust on your badge, a physcially-based multiplayer game.",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": false,
+  "slug": "joustagon-johann-sebastian-joust-on-the-tildagon",
+  "link": "https://www.emfcamp.org/schedule/2026/633-joustagon-johann-sebastian-joust-on-the-tildagon",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-19 22:00:00",
+    "end_date": "2026-07-19 22:30:00",
+    "venue": "Edinburgh Hacklab",
+    "latlon": [
+     52.042542659739524,
+     -2.374653652174487
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.042542659739524/-2.374653652174487/m=52.042542659739524,-2.374653652174487",
+    "captions_url": null,
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "22:00",
+    "end_time": "22:30"
+   }
+  ],
+  "cost": "",
+  "equipment": "A Tildagon badge, with the \"JoustagonV1\" app installed (https://apps.badge.emfcamp.org/apps/20221143). I'd also recommend bringing a lanyard to attach to the badge.",
+  "age_range": "all",
+  "drop_in": true,
+  "family_friendly": null,
+  "content_note": null
+ },
+ {
   "id": 262,
   "type": "workshop",
   "names": "Mark Parnaby",
@@ -19624,6 +19585,45 @@
   "age_range": "12+",
   "drop_in": false,
   "family_friendly": false,
+  "content_note": ""
+ },
+ {
+  "id": 196,
+  "type": "familyworkshop",
+  "names": "Adam & Ori Cohen-Rose",
+  "pronouns": "he/him & he/him",
+  "title": "Build a light-up, glow-in-the-dark, space outpost! 🌌🚀🧑‍🚀",
+  "description": "Drop in to our workshop and build a light-up space village together – complete with half-cylinder moon habs, little houses with windows and airlocks, and space ships launching from flickering clouds. All built from just paper, cotton wool, conductive tape, LED lights and coin cells!\r\n\r\nThe instructions are easy to follow, and the designs are up to you. You can either take your space living quarters away with you, or we can add them to the Lounge ~~Gallery~~Galaxy – a glowing space outpost shining into the night 🌌✨\r\n\r\nDo it yourself at home: https://www.cohen-rose.org/pmwiki/Main/PaperCircuits",
+  "short_description": "Moon habs, houses with windows & airlocks, space ships launching – build & decorate your own 3D paper models that light up with LEDs",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": true,
+  "slug": "build-a-light-up-glow-in-the-dark-space-outpost",
+  "link": "https://www.emfcamp.org/schedule/2026/196-build-a-light-up-glow-in-the-dark-space-outpost",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-17 11:00:00",
+    "end_date": "2026-07-17 13:00:00",
+    "venue": "Family Workshop",
+    "latlon": [
+     52.04077636,
+     -2.37771729
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04077636/-2.37771729/m=52.04077636,-2.37771729",
+    "captions_url": null,
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "11:00",
+    "end_time": "13:00"
+   }
+  ],
+  "cost": "",
+  "equipment": "Any special colouring pens, pencils or stickers to decorate the paper models",
+  "age_range": "All ages. As long as adults can assist in the making, anyone can design and colour the paper models.",
+  "drop_in": true,
+  "family_friendly": true,
   "content_note": ""
  },
  {
