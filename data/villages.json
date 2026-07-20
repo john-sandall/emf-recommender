@@ -594,6 +594,21 @@
   "num_members": 2
  },
  {
+  "id": 44,
+  "name": "London Aerospace",
+  "url": "https://www.emfcamp.org/villages/2026/44-london-aerospace",
+  "external_url": "",
+  "description": "The ever increasingly misnamed and geographically disparate London Aerospace village. Swing by if you'd like to learn more about drone building, drone flying, drone crashing, and drone repairing.",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.376485198301566,
+    52.04027998214849
+   ]
+  },
+  "num_members": 5
+ },
+ {
   "id": 45,
   "name": "Unnamed Village",
   "url": "https://www.emfcamp.org/villages/2026/45-unnamed-village",
@@ -781,21 +796,6 @@
   "description": "A",
   "location": null,
   "num_members": 1
- },
- {
-  "id": 44,
-  "name": "London Aerospace",
-  "url": "https://www.emfcamp.org/villages/2026/44-london-aerospace",
-  "external_url": "",
-  "description": "The ever increasingly misnamed and geographically disparate London Aerospace village. Swing by if you'd like to learn more about drone building, drone flying, drone crashing, and drone repairing.",
-  "location": {
-   "type": "Point",
-   "coordinates": [
-    -2.376049358148265,
-    52.04047510342522
-   ]
-  },
-  "num_members": 5
  },
  {
   "id": 49,
