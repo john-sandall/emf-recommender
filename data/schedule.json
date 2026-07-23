@@ -17713,41 +17713,6 @@
   ]
  },
  {
-  "id": 151,
-  "type": "talk",
-  "names": "Ian Forrester",
-  "pronouns": "He/him",
-  "title": "Have you thought about your digital legacy?",
-  "description": "Death is inevitable, yet our digital infrastructure remains woefully unprepared for it. While traditional \"Letters of Wishes\" provide a static roadmap for executors, they lack the agency to interact with our complex, data-driven lives. This workshop introduces the concept of the Machine-Readable Letter of Wishes: a framework for post-mortem autonomy. By applying a \"If This, Then That\" (IFTTT) logic to digital legacies, we will explore how to automate final wishes across various services, ensuring data is handled with human dignity and precision.\r\n\r\nTraditionally, a Letter of Wishes is a physical document offering non-binding guidance to those named in a will. However, in an era of encrypted accounts, fragmented cloud storage and AI. Paper often falls short. \r\n\r\nThis workshop moves from the philosophical to the practical:\r\n\r\n* Defining the digital legacy: Identifying the specific data points, social accounts, and assets that constitute a modern legacy.\r\n* Pipe mapping: Applying IFTTT methodology to personal wishes (e.g., \"If I am inactive for 12 months, then transfer my photo archive to named person\r\n* Exploring autonomy: Discussing the ethical implications of automated execution and how it can alleviate the \"administrative burden of grief\" for executors.\r\n\r\nIn the workshop people will gain a foundational understanding of how automation can protect digital rights and dignity, starting that important conversation that benefits individuals, their loved ones, and society.",
-  "short_description": "Have you considered your digital legacy? Learn how machine readable wishes could help ",
-  "video_privacy": "public",
-  "is_fave": false,
-  "official_content": true,
-  "slug": "have-you-thought-about-your-digital-legacy",
-  "link": "https://www.emfcamp.org/schedule/2026/151-have-you-thought-about-your-digital-legacy",
-  "occurrences": [
-   {
-    "occurrence_num": 1,
-    "start_date": "2026-07-19 10:00:00",
-    "end_date": "2026-07-19 10:20:00",
-    "venue": "Stage A",
-    "latlon": [
-     52.0395553,
-     -2.3786758
-    ],
-    "map_link": "https://map.emfcamp.org/#18.5/52.0395553/-2.3786758/m=52.0395553,-2.3786758",
-    "captions_url": "https://stages.emf.camp/v/stage-a",
-    "uses_lottery": false,
-    "video_privacy": "public",
-    "recording_lost": false,
-    "start_time": "10:00",
-    "end_time": "10:20"
-   }
-  ],
-  "family_friendly": false,
-  "content_note": "Contains frank conversations about death"
- },
- {
   "id": 229,
   "type": "talk",
   "names": "Dreamcat team",
@@ -19954,6 +19919,41 @@
   "drop_in": false,
   "family_friendly": true,
   "content_note": "Radiophobia may be an issue, but not likely at EMF :-)"
+ },
+ {
+  "id": 151,
+  "type": "talk",
+  "names": "Ian Forrester",
+  "pronouns": "He/him",
+  "title": "Have you thought about your digital legacy?",
+  "description": "Death is inevitable, yet our digital infrastructure remains woefully unprepared for it. While traditional \"Letters of Wishes\" provide a static roadmap for executors, they lack the agency to interact with our complex, data-driven lives. This workshop introduces the concept of the Machine-Readable Letter of Wishes: a framework for post-mortem autonomy. By applying a \"If This, Then That\" (IFTTT) logic to digital legacies, we will explore how to automate final wishes across various services, ensuring data is handled with human dignity and precision.\r\n\r\nTraditionally, a Letter of Wishes is a physical document offering non-binding guidance to those named in a will. However, in an era of encrypted accounts, fragmented cloud storage and AI. Paper often falls short. \r\n\r\nThis workshop moves from the philosophical to the practical:\r\n\r\n* Defining the digital legacy: Identifying the specific data points, social accounts, and assets that constitute a modern legacy.\r\n* Pipe mapping: Applying IFTTT methodology to personal wishes (e.g., \"If I am inactive for 12 months, then transfer my photo archive to named person\r\n* Exploring autonomy: Discussing the ethical implications of automated execution and how it can alleviate the \"administrative burden of grief\" for executors.\r\n\r\nIn the workshop people will gain a foundational understanding of how automation can protect digital rights and dignity, starting that important conversation that benefits individuals, their loved ones, and society.\r\n\r\nSlides here: https://docs.google.com/presentation/d/1kkj5yof0MJ9kgkj0FI8S_Dd5aAgJXF0e7mVf2yMUrT0/edit?usp=sharing",
+  "short_description": "Have you considered your digital legacy? Learn how machine readable wishes could help ",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": true,
+  "slug": "have-you-thought-about-your-digital-legacy",
+  "link": "https://www.emfcamp.org/schedule/2026/151-have-you-thought-about-your-digital-legacy",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-19 10:00:00",
+    "end_date": "2026-07-19 10:20:00",
+    "venue": "Stage A",
+    "latlon": [
+     52.0395553,
+     -2.3786758
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.0395553/-2.3786758/m=52.0395553,-2.3786758",
+    "captions_url": "https://stages.emf.camp/v/stage-a",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "10:00",
+    "end_time": "10:20"
+   }
+  ],
+  "family_friendly": false,
+  "content_note": "Contains frank conversations about death"
  },
  {
   "id": 264,
