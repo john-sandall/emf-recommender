@@ -4588,79 +4588,6 @@
   ]
  },
  {
-  "id": 130,
-  "type": "workshop",
-  "names": "Harald Koenig",
-  "pronouns": "",
-  "title": "Get Hands-On with the Tildagon's Motion Sensor: A MicroPython Workshop",
-  "description": "This workshop will guide you through the process of programming the Tildagon's built-in BMI270 motion sensor from Bosch Sensortec. We will start with a brief look at the sensor's physical design, including a 3D-printed functional model, to understand the technology.\r\n\r\nThen, we’ll dive into MicroPython and you will learn how to:\r\n    1. Access the BMI270 sensor.\r\n    2. Read and interpret its measurement data.\r\n    3. Use the motion data to control the Tildagon's LEDs in real-time.\r\n\r\nThis session is designed to be interactive and hands-on. We'll work through problems, debug code, and explore new ideas for using the Tildagon's sensors. \r\n\r\nNo prior experience is required!",
-  "short_description": "",
-  "video_privacy": "public",
-  "is_fave": false,
-  "official_content": true,
-  "slug": "get-hands-on-with-the-tildagons-motion-sensor",
-  "link": "https://www.emfcamp.org/schedule/2026/130-get-hands-on-with-the-tildagons-motion-sensor",
-  "occurrences": [
-   {
-    "occurrence_num": 1,
-    "start_date": "2026-07-19 15:00:00",
-    "end_date": "2026-07-19 16:30:00",
-    "venue": "Workshop 6 (Bodgeham-on-Wye)",
-    "latlon": [
-     52.04111064,
-     -2.3757523
-    ],
-    "map_link": "https://map.emfcamp.org/#18.5/52.04111064/-2.3757523/m=52.04111064,-2.3757523",
-    "captions_url": null,
-    "uses_lottery": true,
-    "video_privacy": "public",
-    "recording_lost": false,
-    "start_time": "15:00",
-    "end_time": "16:30"
-   },
-   {
-    "occurrence_num": 2,
-    "start_date": "2026-07-17 15:00:00",
-    "end_date": "2026-07-17 16:30:00",
-    "venue": "Workshop 6 (Bodgeham-on-Wye)",
-    "latlon": [
-     52.04111064,
-     -2.3757523
-    ],
-    "map_link": "https://map.emfcamp.org/#18.5/52.04111064/-2.3757523/m=52.04111064,-2.3757523",
-    "captions_url": null,
-    "uses_lottery": true,
-    "video_privacy": "public",
-    "recording_lost": false,
-    "start_time": "15:00",
-    "end_time": "16:30"
-   },
-   {
-    "occurrence_num": 3,
-    "start_date": "2026-07-18 13:00:00",
-    "end_date": "2026-07-18 14:30:00",
-    "venue": "Workshop 6 (Bodgeham-on-Wye)",
-    "latlon": [
-     52.04111064,
-     -2.3757523
-    ],
-    "map_link": "https://map.emfcamp.org/#18.5/52.04111064/-2.3757523/m=52.04111064,-2.3757523",
-    "captions_url": null,
-    "uses_lottery": true,
-    "video_privacy": "public",
-    "recording_lost": false,
-    "start_time": "13:00",
-    "end_time": "14:30"
-   }
-  ],
-  "cost": "",
-  "equipment": "Tildagon (EMF Badge) and laptop (or pure interest in MEMS technology;)",
-  "age_range": "all",
-  "drop_in": false,
-  "family_friendly": false,
-  "content_note": ""
- },
- {
   "id": 49,
   "type": "talk",
   "names": "Andrew Lindsay",
@@ -20323,6 +20250,79 @@
   ],
   "family_friendly": false,
   "content_note": "Contains frank conversations about death"
+ },
+ {
+  "id": 130,
+  "type": "workshop",
+  "names": "Harald Koenig",
+  "pronouns": "",
+  "title": "Get Hands-On with the Tildagon's Motion Sensor: A MicroPython Workshop",
+  "description": "This workshop will guide you through the process of programming the Tildagon's built-in BMI270 motion sensor from Bosch Sensortec. We will start with a brief look at the sensor's physical design, including a 3D-printed functional model, to understand the technology.\r\n\r\nThen, we’ll dive into MicroPython and you will learn how to:\r\n    1. Access the BMI270 sensor.\r\n    2. Read and interpret its measurement data.\r\n    3. Use the motion data to control the Tildagon's LEDs in real-time.\r\n\r\nThis session is designed to be interactive and hands-on. We'll work through problems, debug code, and explore new ideas for using the Tildagon's sensors. \r\n\r\nNo prior experience is required!\r\n\r\nSlides: https://nx54726.your-storageshare.de/s/Zbw2SJt9CffeNqF?dir=/&editing=false&openfile=true\r\n\r\nconsole history (examples) from workshop: https://nx54726.your-storageshare.de/s/GNW2f4S7WYHbHzg?dir=/\r\n\r\n",
+  "short_description": "Slides: https://nx54726.your-storageshare.de/s/Zbw2SJt9CffeNqF?dir=/&editing=false&openfile=true  console history (examples) from workshop: https://nx54726.your-storageshare.de/s/GNW2f4S7WYHbHzg?dir=/",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": true,
+  "slug": "get-hands-on-with-the-tildagons-motion-sensor",
+  "link": "https://www.emfcamp.org/schedule/2026/130-get-hands-on-with-the-tildagons-motion-sensor",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-19 15:00:00",
+    "end_date": "2026-07-19 16:30:00",
+    "venue": "Workshop 6 (Bodgeham-on-Wye)",
+    "latlon": [
+     52.04111064,
+     -2.3757523
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04111064/-2.3757523/m=52.04111064,-2.3757523",
+    "captions_url": null,
+    "uses_lottery": true,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "15:00",
+    "end_time": "16:30"
+   },
+   {
+    "occurrence_num": 2,
+    "start_date": "2026-07-17 15:00:00",
+    "end_date": "2026-07-17 16:30:00",
+    "venue": "Workshop 6 (Bodgeham-on-Wye)",
+    "latlon": [
+     52.04111064,
+     -2.3757523
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04111064/-2.3757523/m=52.04111064,-2.3757523",
+    "captions_url": null,
+    "uses_lottery": true,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "15:00",
+    "end_time": "16:30"
+   },
+   {
+    "occurrence_num": 3,
+    "start_date": "2026-07-18 13:00:00",
+    "end_date": "2026-07-18 14:30:00",
+    "venue": "Workshop 6 (Bodgeham-on-Wye)",
+    "latlon": [
+     52.04111064,
+     -2.3757523
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.04111064/-2.3757523/m=52.04111064,-2.3757523",
+    "captions_url": null,
+    "uses_lottery": true,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "start_time": "13:00",
+    "end_time": "14:30"
+   }
+  ],
+  "cost": "",
+  "equipment": "Tildagon (EMF Badge) and laptop (or pure interest in MEMS technology;)",
+  "age_range": "all",
+  "drop_in": false,
+  "family_friendly": false,
+  "content_note": ""
  },
  {
   "id": 264,
