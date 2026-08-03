@@ -11095,44 +11095,6 @@
   ]
  },
  {
-  "id": 131,
-  "type": "talk",
-  "names": "Harald Koenig",
-  "pronouns": "",
-  "title": "Sensing Our World: From Your Badge to the Future of Robotics",
-  "description": "Micro-Electro-Mechanical Systems (MEMS) are the tiny, unseen sensors that connect our digital and physical worlds. They're in our phones, our cars, and even in the Tildagon badge you're holding. But how do these microscopic marvels actually work?\r\n\r\nIn this talk, Harald Koenig of Bosch Sensortec will demystify MEMS technology. We’ll start with a hands-on example: the BMI270 Inertial Measurement Unit (IMU) right here on the Tildagon. With the help of an enlarged 3D-printed model, we'll explore its mechanical design and see how you can use it to bring your own Tildagon projects to life.\r\n\r\nThen, we’ll transition from this single sensor to the bigger picture. Imagine giving this same sense of awareness to a machine. This is the new frontier in robotics. We'll explore how MEMS sensors are becoming the 'nervous system' for robots, enabling them to:\r\n    • Grasp and Interact with the delicacy of a human hand.\r\n    • Navigate and Position themselves with unmatched precision.\r\n    • Stabilize their platforms on even the most challenging terrains.\r\n\r\nJoin us for an impulse into how MEMS are not just sensing our world, but actively shaping the next wave of intelligent machines.",
-  "short_description": "",
-  "video_privacy": "public",
-  "is_fave": false,
-  "official_content": true,
-  "slug": "sensing-our-world-from-your-badge-to-the-future-of-robotics",
-  "link": "https://www.emfcamp.org/schedule/2026/131-sensing-our-world-from-your-badge-to-the-future-of-robotics",
-  "occurrences": [
-   {
-    "occurrence_num": 1,
-    "start_date": "2026-07-17 13:10:00",
-    "end_date": "2026-07-17 13:40:00",
-    "venue": "Stage C",
-    "latlon": [
-     52.0405,
-     -2.37765
-    ],
-    "map_link": "https://map.emfcamp.org/#18.5/52.0405/-2.37765/m=52.0405,-2.37765",
-    "captions_url": "https://stages.emf.camp/v/stage-c",
-    "uses_lottery": false,
-    "video_privacy": "public",
-    "recording_lost": false,
-    "ccc_url": "https://media.ccc.de/v/emf2026-131-1-sensing-our-world-from-your-badge-to-the-future-of-robotics",
-    "youtube_url": "https://www.youtube.com/watch?v=fCad4PzmJ7A",
-    "preview_image_url": "https://static.media.ccc.de/media/events/emf/2026/13101-a114723d-79a9-5b03-b399-52e9e1a9fd2b_preview.jpg",
-    "start_time": "13:10",
-    "end_time": "13:40"
-   }
-  ],
-  "family_friendly": false,
-  "content_note": ""
- },
- {
   "id": 485,
   "type": "meetup",
   "names": "Laura James ",
@@ -11203,6 +11165,44 @@
   "drop_in": null,
   "family_friendly": null,
   "content_note": null
+ },
+ {
+  "id": 131,
+  "type": "talk",
+  "names": "Harald Koenig",
+  "pronouns": "",
+  "title": "Sensing Our World: From Your Badge to the Future of Robotics",
+  "description": "Micro-Electro-Mechanical Systems (MEMS) are the tiny, unseen sensors that connect our digital and physical worlds. They're in our phones, our cars, and even in the Tildagon badge you're holding. But how do these microscopic marvels actually work?\r\n\r\nIn this talk, Harald Koenig of Bosch Sensortec will demystify MEMS technology. We’ll start with a hands-on example: the BMI270 Inertial Measurement Unit (IMU) right here on the Tildagon. With the help of an enlarged 3D-printed model, we'll explore its mechanical design and see how you can use it to bring your own Tildagon projects to life.\r\n\r\nThen, we’ll transition from this single sensor to the bigger picture. Imagine giving this same sense of awareness to a machine. This is the new frontier in robotics. We'll explore how MEMS sensors are becoming the 'nervous system' for robots, enabling them to:\r\n    • Grasp and Interact with the delicacy of a human hand.\r\n    • Navigate and Position themselves with unmatched precision.\r\n    • Stabilize their platforms on even the most challenging terrains.\r\n\r\nJoin us for an impulse into how MEMS are not just sensing our world, but actively shaping the next wave of intelligent machines.\r\n\r\nSlides: https://nx54726.your-storageshare.de/s/cbnqWDPocgp6gmz?dir=/&editing=false&openfile=true",
+  "short_description": "Slides: https://nx54726.your-storageshare.de/s/cbnqWDPocgp6gmz?dir=/&editing=false&openfile=true",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": true,
+  "slug": "sensing-our-world-from-your-badge-to-the-future-of-robotics",
+  "link": "https://www.emfcamp.org/schedule/2026/131-sensing-our-world-from-your-badge-to-the-future-of-robotics",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-17 13:10:00",
+    "end_date": "2026-07-17 13:40:00",
+    "venue": "Stage C",
+    "latlon": [
+     52.0405,
+     -2.37765
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.0405/-2.37765/m=52.0405,-2.37765",
+    "captions_url": "https://stages.emf.camp/v/stage-c",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "ccc_url": "https://media.ccc.de/v/emf2026-131-1-sensing-our-world-from-your-badge-to-the-future-of-robotics",
+    "youtube_url": "https://www.youtube.com/watch?v=fCad4PzmJ7A",
+    "preview_image_url": "https://static.media.ccc.de/media/events/emf/2026/13101-a114723d-79a9-5b03-b399-52e9e1a9fd2b_preview.jpg",
+    "start_time": "13:10",
+    "end_time": "13:40"
+   }
+  ],
+  "family_friendly": false,
+  "content_note": ""
  },
  {
   "id": 486,
@@ -18273,44 +18273,6 @@
   ]
  },
  {
-  "id": 129,
-  "type": "talk",
-  "names": "Sara Wilford",
-  "pronouns": "she/her",
-  "title": "Middle Rage - Social Media and the War on Democracy",
-  "description": "What happens when the people we think of as “having it all sorted” start being quietly pulled towards extremism online?\r\nThis talk from the SMIDGE project shines a light on an often-overlooked group: the middle aged. This includes some of the most powerful people in the world CEOs, influencers and politicians. For most however, middle-age looks very different: juggling jobs, children, ageing parents, mortgages, and a constant stream of news, advice, and opinions online.\r\nFar from being “sorted,” this stage of life is full of pressures including health worries, financial strain, and caring responsibilities. So, when something appears online that promises a clear explanation, a simple answer, or someone to blame, it can be hard not to pay attention.\r\nThe problem is that the systems shaping what we see are not designed to inform us but are designed to keep us engaged. AI-driven content is becoming more convincing by the day, blurring the line between what is real and what is not. What starts as an innocent search for diet tips or money advice can lead down a path towards more extreme, emotionally charged content. Not suddenly, but step by step.\r\nThis talk explores why the “invisible middle” matters both as a group vulnerable to misinformation, and as one with real influence over how ideas spread. Because if we want to understand radicalisation today, we cannot afford to ignore the middle aged.\r\n\r\n",
-  "short_description": "The middle aged are vulnerable to misinformation online, how do we address this invisible generation?",
-  "video_privacy": "public",
-  "is_fave": false,
-  "official_content": true,
-  "slug": "middle-rage-social-media-and-the-war-on-democracy",
-  "link": "https://www.emfcamp.org/schedule/2026/129-middle-rage-social-media-and-the-war-on-democracy",
-  "occurrences": [
-   {
-    "occurrence_num": 1,
-    "start_date": "2026-07-17 11:40:00",
-    "end_date": "2026-07-17 12:10:00",
-    "venue": "Stage B",
-    "latlon": [
-     52.0419,
-     -2.37664
-    ],
-    "map_link": "https://map.emfcamp.org/#18.5/52.0419/-2.37664/m=52.0419,-2.37664",
-    "captions_url": "https://stages.emf.camp/v/stage-b",
-    "uses_lottery": false,
-    "video_privacy": "public",
-    "recording_lost": false,
-    "ccc_url": "https://media.ccc.de/v/emf2026-129-1-middle-rage-social-media-and-the-war-on-democracy",
-    "youtube_url": "https://www.youtube.com/watch?v=N6WO3wDUeYg",
-    "preview_image_url": "https://static.media.ccc.de/media/events/emf/2026/12901-55add0c3-2730-53d1-9ca3-3b71f8b57cf4_preview.jpg",
-    "start_time": "11:40",
-    "end_time": "12:10"
-   }
-  ],
-  "family_friendly": true,
-  "content_note": ""
- },
- {
   "id": 94,
   "type": "talk",
   "names": "Edye Hoffmann",
@@ -20518,5 +20480,43 @@
   "drop_in": false,
   "family_friendly": false,
   "content_note": "Discussion of economic issues, mention of wildfires and other natural disasters which lead to deaths and destruction in Hawai'i, potential discussion of food insecurity, potential further discussion about any of these topics (or similar ones) depending upon what participants want to talk about in regards to their home islands, etc."
+ },
+ {
+  "id": 129,
+  "type": "talk",
+  "names": "Sara Wilford",
+  "pronouns": "she/her",
+  "title": "Middle Rage - Social Media and the War on Democracy",
+  "description": "What happens when the people we think of as “having it all sorted” start being quietly pulled towards extremism online?\r\nThis talk from the SMIDGE project shines a light on an often-overlooked group: the middle aged. This includes some of the most powerful people in the world CEOs, influencers and politicians. For most however, middle-age looks very different: juggling jobs, children, ageing parents, mortgages, and a constant stream of news, advice, and opinions online.\r\nFar from being “sorted,” this stage of life is full of pressures including health worries, financial strain, and caring responsibilities. So, when something appears online that promises a clear explanation, a simple answer, or someone to blame, it can be hard not to pay attention.\r\nThe problem is that the systems shaping what we see are not designed to inform us but are designed to keep us engaged. AI-driven content is becoming more convincing by the day, blurring the line between what is real and what is not. What starts as an innocent search for diet tips or money advice can lead down a path towards more extreme, emotionally charged content. Not suddenly, but step by step.\r\nThis talk explores why the “invisible middle” matters both as a group vulnerable to misinformation, and as one with real influence over how ideas spread. Because if we want to understand radicalisation today, we cannot afford to ignore the middle aged.\r\n\r\nSlides available here: https://cloud.orga.emfcamp.org/s/agX8GLRo3Krz3B2\r\n\r\n",
+  "short_description": "The middle aged are vulnerable to misinformation online, how do we address this invisible generation?",
+  "video_privacy": "public",
+  "is_fave": false,
+  "official_content": true,
+  "slug": "middle-rage-social-media-and-the-war-on-democracy",
+  "link": "https://www.emfcamp.org/schedule/2026/129-middle-rage-social-media-and-the-war-on-democracy",
+  "occurrences": [
+   {
+    "occurrence_num": 1,
+    "start_date": "2026-07-17 11:40:00",
+    "end_date": "2026-07-17 12:10:00",
+    "venue": "Stage B",
+    "latlon": [
+     52.0419,
+     -2.37664
+    ],
+    "map_link": "https://map.emfcamp.org/#18.5/52.0419/-2.37664/m=52.0419,-2.37664",
+    "captions_url": "https://stages.emf.camp/v/stage-b",
+    "uses_lottery": false,
+    "video_privacy": "public",
+    "recording_lost": false,
+    "ccc_url": "https://media.ccc.de/v/emf2026-129-1-middle-rage-social-media-and-the-war-on-democracy",
+    "youtube_url": "https://www.youtube.com/watch?v=N6WO3wDUeYg",
+    "preview_image_url": "https://static.media.ccc.de/media/events/emf/2026/12901-55add0c3-2730-53d1-9ca3-3b71f8b57cf4_preview.jpg",
+    "start_time": "11:40",
+    "end_time": "12:10"
+   }
+  ],
+  "family_friendly": true,
+  "content_note": ""
  }
 ]
