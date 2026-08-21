@@ -1965,21 +1965,6 @@
   "num_members": 5
  },
  {
-  "id": 33,
-  "name": "Threadz 'n' Webz",
-  "url": "https://www.emfcamp.org/villages/2026/33-threadz-n-webz",
-  "external_url": "",
-  "description": "We are a bunch of misfits, herded together by one fabric crazed lady. Blending webby nerdy things and thready oddball crafts. Step back in time and (cyber) space to 199x dial up era to find PC and landline phone fun. Or perhaps following the strings of fate to find weaving, fabric and craft madness. Extremely LGBTQ+ friendly. May contain ducks, bats, hackers and spiders. With thanks to ECHQ/CuTel for landlines and Tekhnē-cal for even more thready crafts.",
-  "location": {
-   "type": "Point",
-   "coordinates": [
-    -2.378446191688738,
-    52.04030229363161
-   ]
-  },
-  "num_members": 1
- },
- {
   "id": 122,
   "name": "Nationwide village",
   "url": "https://www.emfcamp.org/villages/2026/122-nationwide-village",
@@ -2269,6 +2254,21 @@
    "coordinates": [
     -2.3753400698676046,
     52.041785793621216
+   ]
+  },
+  "num_members": 1
+ },
+ {
+  "id": 33,
+  "name": "Threadz 'n' Webz",
+  "url": "https://www.emfcamp.org/villages/2026/33-threadz-n-webz",
+  "external_url": "http://threadz-n-webz.uk/",
+  "description": "We are a bunch of misfits, herded together by one fabric crazed lady. Blending webby nerdy things and thready oddball crafts. Step back in time and (cyber) space to 199x dial up era to find PC and landline phone fun. Or perhaps following the strings of fate to find weaving, fabric and craft madness. Extremely LGBTQ+ friendly. May contain ducks, bats, hackers and spiders. With thanks to ECHQ/CuTel for landlines and Tekhnē-cal for even more thready crafts.",
+  "location": {
+   "type": "Point",
+   "coordinates": [
+    -2.378446191688738,
+    52.04030229363161
    ]
   },
   "num_members": 1
