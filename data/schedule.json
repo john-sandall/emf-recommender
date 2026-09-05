@@ -2758,6 +2758,8 @@
     "uses_lottery": false,
     "video_privacy": "public",
     "recording_lost": false,
+    "ccc_url": "https://media.ccc.de/v/emf2026-128-1-powerpoint-karaoke-after-dark-edition",
+    "preview_image_url": "https://static.media.ccc.de/media/events/emf/2026/12801-f2561ed2-1244-56b1-8a46-89d49bc9069a_preview.jpg",
     "start_time": "21:30",
     "end_time": "23:00"
    }
@@ -3364,6 +3366,8 @@
     "uses_lottery": false,
     "video_privacy": "review",
     "recording_lost": false,
+    "ccc_url": "https://media.ccc.de/v/emf2026-191-1-emf-variety-night",
+    "preview_image_url": "https://static.media.ccc.de/media/events/emf/2026/19101-e5ad9563-442f-59b3-9de6-b30d3d053572_preview.jpg",
     "start_time": "21:00",
     "end_time": "23:00"
    }
@@ -12641,6 +12645,8 @@
     "uses_lottery": false,
     "video_privacy": "public",
     "recording_lost": false,
+    "ccc_url": "https://media.ccc.de/v/emf2026-242-1-its-the-end-of-rsa-as-we-know-it-and-i-feel-fine",
+    "preview_image_url": "https://static.media.ccc.de/media/events/emf/2026/24201-a3236032-44df-5445-8744-6068cf4af735_preview.jpg",
     "start_time": "20:30",
     "end_time": "21:00"
    }
